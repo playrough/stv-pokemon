@@ -3454,6 +3454,7 @@ $小火马=Ponyta<img index="#0077" class="pokemon-image" src="https://i.postimg
 $烈焰马=Rapidash<img index="#0078" class="pokemon-image" src="https://i.postimg.cc/vBmjddWQ/Rapidash.png"><img index="#0078" class="pokemon-image" src="https://i.postimg.cc/3Rbq8bB2/Rapidash-Galarian-Form.png">
 $呆呆兽=Slowpoke<img index="#0079" class="pokemon-image" src="https://i.postimg.cc/d32S2tFj/Slowpoke.png"><img index="#0079" class="pokemon-image" src="https://i.postimg.cc/QCGyKK2M/Slowpoke-Galarian-Form.png">
 $呆壳兽=Slowbro<img index="#0080" class="pokemon-image" src="https://i.postimg.cc/QMCP23gj/Slowbro.png"><img index="#0080" class="pokemon-image" src="https://i.postimg.cc/nLW5ZPTB/Slowbro-Galarian-Form.png">
+$大葱鸭=Farfetch'd<img index="#0083" class="pokemon-image" src="https://i.postimg.cc/8cjmCKYg/Farfetch_d.png"><img index="#0083" class="pokemon-image" src="https://i.postimg.cc/cH1cp4MH/Farfetch_d-Galarian-Form.png">
 $臭泥=Grimer<img index="#0088" class="pokemon-image" src="https://i.postimg.cc/KvhNP2RR/Grimer.png"><img index="#0088" class="pokemon-image" src="https://i.postimg.cc/X7KgxzCx/Grimer-Alolan-Form.png">
 $臭臭泥=Muk<img index="#0089" class="pokemon-image" src="https://i.postimg.cc/k49JND3T/Muk.png"><img index="#0089" class="pokemon-image" src="https://i.postimg.cc/V6RYK1zm/Muk-Alolan-Form.png">
 $霹雳电球=Voltorb<img index="#0100" class="pokemon-image" src="https://i.postimg.cc/J7xNkkVd/Voltorb.png"><img index="#0100" class="pokemon-image" src="https://i.postimg.cc/kX5xFg7M/Voltorb-Hisuian-Form.png">
