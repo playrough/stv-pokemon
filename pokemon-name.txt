@@ -1,7 +1,6 @@
-
 _______________________________
-
 _____________OTHER_____________
+$白银学院=Silver Academy
 $流星之里=Meteor Village
 $橘子群岛=Orange Archipelago
 $铃兰岛=Lily of the Valley Island
@@ -16,6 +15,7 @@ $幻兽=Mythical Beast
 $神兽=Legendary Beast
 $准神=Pseudo-Legendary
 $创世神=Creator God
+$大地之神=God of the Earth
 
 $精灵联盟=Pokémon League
 $联盟=Pokémon League
@@ -23,6 +23,7 @@ $精灵中心=Pokémon Center
 $饲育屋=Day Care
 $培育屋=Day Care
 
+$弯曲汤匙=Twisted Spoon
 $精灵图鉴=Pokédex
 $能量方块=Pokéblock
 $超进化石=Mega Stone
@@ -33,6 +34,7 @@ $哞哞牛奶=Moomoo Milk
 
 $回击之盾=Counter Shield
 $精灵世界=Thế Giới Pokémon
+$精灵=Pokémon
 
 _____________ABILITIES_____________
 $恶臭=Stench
@@ -3573,6 +3575,7 @@ $沙瓦朗=Hitmonlee<img index="#0106" class="pokemon-image" src="https://i.post
 $艾比郎=Hitmonchan<img index="#0107" class="pokemon-image" src="https://i.postimg.cc/zyW9dBMg/image107.png">
 $穿山甲=Sandshrew<img index="#0027" class="pokemon-image" src="https://i.postimg.cc/mk9W0ssP/Sandshrew.png"><img index="#0027" class="pokemon-image" src="https://i.postimg.cc/3r0hygv3/Sandshrew-Alolan-Form.png">
 $懒人翁=Slakoth<img index="#0287" class="pokemon-image" src="https://i.postimg.cc/MMDDXkLH/image287.png">
+$赤炎咆哮虎=Incineroar<img index="#0727" class="pokemon-image" src="https://i.postimg.cc/gx4Lwvqz/image727.png">
 $原始盖欧卡=Primal Kyogre<img index="#0382" class="pokemon-image" src="https://i.postimg.cc/NjZm4Vjb/Primal-Kyogre.png">
 $原始固拉多=Primal Groudon<img index="#0383" class="pokemon-image" src="https://i.postimg.cc/jSDyyKtL/Primal-Groudon.png">
 
@@ -4517,6 +4520,8 @@ $超极巨流水连击=<span class="type Water">G-Max Rapid Flow</span>
 
 _____________MOVES 2_____________
 $重磅冲击=<span class="type Steel">Heavy Slam</span>
+$DD 金钩臂=<span class="type Dark">Darkest Lariat</span>
+$DD金钩臂=<span class="type Dark">Darkest Lariat</span>
 
 Other
 Ability
