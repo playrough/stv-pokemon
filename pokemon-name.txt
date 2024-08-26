@@ -3576,6 +3576,7 @@ $艾比郎=Hitmonchan<img index="#0107" class="pokemon-image" src="https://i.pos
 $穿山甲=Sandshrew<img index="#0027" class="pokemon-image" src="https://i.postimg.cc/mk9W0ssP/Sandshrew.png"><img index="#0027" class="pokemon-image" src="https://i.postimg.cc/3r0hygv3/Sandshrew-Alolan-Form.png">
 $懒人翁=Slakoth<img index="#0287" class="pokemon-image" src="https://i.postimg.cc/MMDDXkLH/image287.png">
 $赤炎咆哮虎=Incineroar<img index="#0727" class="pokemon-image" src="https://i.postimg.cc/gx4Lwvqz/image727.png">
+$火炎狮=Pyroar<img index="#0668" class="pokemon-image" src="https://i.postimg.cc/rsQvzrcD/Pyroar-Male.png"><img index="#0668" class="pokemon-image" src="https://i.postimg.cc/KjZ6ZNXX/Pyroar-Female.png">
 $原始盖欧卡=Primal Kyogre<img index="#0382" class="pokemon-image" src="https://i.postimg.cc/NjZm4Vjb/Primal-Kyogre.png">
 $原始固拉多=Primal Groudon<img index="#0383" class="pokemon-image" src="https://i.postimg.cc/jSDyyKtL/Primal-Groudon.png">
 
