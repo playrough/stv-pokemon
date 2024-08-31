@@ -3579,6 +3579,8 @@ $赤炎咆哮虎=Incineroar<img index="#0727" class="pokemon-image" src="https:/
 $火炎狮=Pyroar<img index="#0668" class="pokemon-image" src="https://i.postimg.cc/rsQvzrcD/Pyroar-Male.png"><img index="#0668" class="pokemon-image" src="https://i.postimg.cc/KjZ6ZNXX/Pyroar-Female.png">
 $幽灵马=Spectrier<img index="#0897" class="pokemon-image" src="https://i.postimg.cc/q6hM7KB7/image897.png">
 $鸭嘴火龙=Magmar<img index="#0126" class="pokemon-image" src="https://i.postimg.cc/rdVQSwLc/image126.png">
+$鸭嘴焰龙=Magmortar<img index="#0467" class="pokemon-image" src="https://i.postimg.cc/4nRbt1RZ/image467.png">
+$修缮老头=Conkeldurr<img index="#0534" class="pokemon-image" src="https://i.postimg.cc/gXCM69qP/image534.png">
 $原始盖欧卡=Primal Kyogre<img index="#0382" class="pokemon-image" src="https://i.postimg.cc/NjZm4Vjb/Primal-Kyogre.png">
 $原始固拉多=Primal Groudon<img index="#0383" class="pokemon-image" src="https://i.postimg.cc/jSDyyKtL/Primal-Groudon.png">
 
