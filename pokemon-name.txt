@@ -9,6 +9,7 @@ $铃兰大会=Lily of the Valley Conference
 $灵界=Ghost World
 $丰源=Hoenn
 $成都=Johto
+$关东=Kanto
 
 $究极异兽=Ultra Pokémon
 $幻兽=Mythical Pokémon
