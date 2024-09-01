@@ -24,6 +24,7 @@ $精灵中心=Pokémon Center
 $饲育屋=Day Care
 $培育屋=Day Care
 
+$gs 球=GS Ball
 $弯曲汤匙=Twisted Spoon
 $精灵图鉴=Pokédex
 $能量方块=Pokéblock
