@@ -4542,6 +4542,8 @@ $雷电牙=<span class="type Electric">Thunder Fang</span>
 $终级冲击=<span class="type Normal">Giga Impact</span>
 $火焰漩涡=<span class="type Fire">Fire Spin</span>
 $恶魔之吻=<span class="type Normal">Lovely Kiss</span>
+$大字炎爆=<span class="type Fire">Fire Blast</span>
+$神鸟猛攻=<span class="type Flying">Sky Attack</span>
 
 Other
 Ability
