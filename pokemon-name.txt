@@ -3553,6 +3553,7 @@ $厄诡椪=Ogerpon<img index="#1017" class="pokemon-image" src="https://i.postim
 $太乐巴戈斯=Terapagos<img index="#1024" class="pokemon-image" src="https://i.postimg.cc/858HZQtK/Terapagos-Normal-Form.png"><img index="#1024" class="pokemon-image" src="https://i.postimg.cc/bJQRMC5z/Terapagos-Terastal-Form.png"><img index="#1024" class="pokemon-image" src="https://i.postimg.cc/HsB2DVKr/Terapagos-Stellar-Form.png">
 
 _____________POKÉMON 2_________
+$铁甲犀牛=Rhyhorn<img index="#0111" class="pokemon-image" src="https://i.postimg.cc/s1XqkKqy/image111.png">
 $阿伯怪=Arbok<img index="#0024" class="pokemon-image" src="https://i.postimg.cc/ygr93V7f/image24.png">
 $哭哭假面=Yamask<img index="#0562" class="pokemon-image" src="https://i.postimg.cc/tgdZGK9m/Yamask.png"><img index="#0562" class="pokemon-image" src="https://i.postimg.cc/TwRydtw2/Yamask-Galarian-Form.png">
 $皮克西=Clefable<img index="#0036" class="pokemon-image" src="https://i.postimg.cc/XBCZZdHJ/image36.png">
