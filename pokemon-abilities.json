@@ -1,0 +1,658 @@
+{
+    "Adaptability": {
+        "ability": "Adaptability",
+        "description": "Boost for same type moves is x2 instead of x1.5"
+    },
+    "Aftermath": {
+        "ability": "Aftermath",
+        "description": "If the foe hits the Pokémon with a physical move and knocks it out, the foe loses ¼ of its total HP"
+    },
+    "Air Lock": {
+        "ability": "Air Lock",
+        "description": "Negates all weather effects when in battle, but does not prevent the weather itself"
+    },
+    "Analytic": {
+        "ability": "Analytic",
+        "description": "The Pokémon's attack is boosted by 1.3x if it is the last to attack"
+    },
+    "Anger Point": {
+        "ability": "Anger Point",
+        "description": "Increases the attack of the Pokémon to maximum upon taking a Critical Hit"
+    },
+    "Anticipation": {
+        "ability": "Anticipation",
+        "description": "Warns if foe has a OHKO or Super Effective move"
+    },
+    "Arena Trap": {
+        "ability": "Arena Trap",
+        "description": "The foe cannot run nor switch. Flying-Type Pokémon and Pokémon with the Levitate ability are unaffected"
+    },
+    "Bad Dreams": {
+        "ability": "Bad Dreams",
+        "description": "Decreases the HP of sleeping foe by ¼ each turn"
+    },
+    "Battle Armor": {
+        "ability": "Battle Armor",
+        "description": "Blocks Critical Hits"
+    },
+    "Big Pecks": {
+        "ability": "Big Pecks",
+        "description": "Foe cannot lower Defense status"
+    },
+    "Blaze": {
+        "ability": "Blaze",
+        "description": "When HP is below 1/3 of maximum HP, the Pokémon's Fire-Type move power increases to 1.5x"
+    },
+    "Chlorophyll": {
+        "ability": "Chlorophyll",
+        "description": "When there is strong sunlight, the Speed of the Pokémon is increased by 1.5x"
+    },
+    "Clear Body": {
+        "ability": "Clear Body",
+        "description": "Foe cannot lower the Pokémon's stats"
+    },
+    "Cloud Nine": {
+        "ability": "Cloud Nine",
+        "description": "Negates all weather effects as long as the Pokémon is in battle"
+    },
+    "Color Change": {
+        "ability": "Color Change",
+        "description": "Becomes the type of a damaging move that hits it"
+    },
+    "Compoundeyes": {
+        "ability": "Compoundeyes",
+        "description": "Accuracy is raised to 30% in battles and raises encounter with Pokémon holding items by 10%"
+    },
+    "Contrary": {
+        "ability": "Contrary",
+        "description": "Changes to stats are reversed"
+    },
+    "Cursed Body": {
+        "ability": "Cursed Body",
+        "description": "Foe's move that makes contact with Pokémon has a 30% chance to get disabled"
+    },
+    "Cute Charm": {
+        "ability": "Cute Charm",
+        "description": "The foe has 30% chance of being induced with Attract when using a physical attack against this Pokémon and raises Pokémon encounter of opposite gender"
+    },
+    "Damp": {
+        "ability": "Damp",
+        "description": "Prevents the use of the moves Selfdestruct and Explosion on the battle field and negates the effect of Aftermath"
+    },
+    "Defeatist": {
+        "ability": "Defeatist",
+        "description": "When the Pokémon's HP is below 50%, its attack is halved"
+    },
+    "Defiant": {
+        "ability": "Defiant",
+        "description": "When Pokémon's stats are lowered, its Attack doubles"
+    },
+    "Download": {
+        "ability": "Download",
+        "description": "Attack raises by 1.5x if foe's Defense is lower than its Special Defense, or Special Attack raises by 1.5x if foe's Special Defense is less than Defense"
+    },
+    "Drizzle": {
+        "ability": "Drizzle",
+        "description": "Summons rain as long as the Pokémon is on the field. Rainy weather will last for 5 turns after the Pokémon is switched out"
+    },
+    "Drought": {
+        "ability": "Drought",
+        "description": "Summons sunlight as long as the Pokémon is on the field. Sunny weather will last for 5 turns after the Pokémon is switched out"
+    },
+    "Dry Skin": {
+        "ability": "Dry Skin",
+        "description": "HP is restored by Water-Type moves by ¼ of max HP or rain but makes the Pokémon take 1.5x more damage against Fire-Type moves and cause HP to gradually go down in strong sunlight by 1/8 of max HP"
+    },
+    "Early Bird": {
+        "ability": "Early Bird",
+        "description": "Asleep Pokémon awakes twice faster"
+    },
+    "Effect Spore": {
+        "ability": "Effect Spore",
+        "description": "The foe has a 10% chance of being induced with paralysis, poison or sleep when using a physical attack against this Pokémon"
+    },
+    "Filter": {
+        "ability": "Filter",
+        "description": "Damage from Super Effective type moves are reduced to 65% of the original damage"
+    },
+    "Flame Body": {
+        "ability": "Flame Body",
+        "description": "The foe has a 30% chance of being induced with a burn when using a physical attack against this Pokémon. It also halves the steps for egg hatching"
+    },
+    "Flare Boost": {
+        "ability": "Flare Boost",
+        "description": "Special Attack increases by 1.5x when the Pokémon is burned"
+    },
+    "Flash Fire": {
+        "ability": "Flash Fire",
+        "description": "When Pokémon is hit by a Fire-Type move (including Will-O-Wisp and Hidden Power Fire-Type), the power of Fire-Type attacks of the Pokémon will increase by one level and no status problems are applied if the Pokémon is of Fire-Type. It doesn't activate if the Pokémon is frozen and the boost kept if the ability is lost or disabled. Fire moves will also ignore Substitute and activate the ability"
+    },
+    "Flower Gift": {
+        "ability": "Flower Gift",
+        "description": "Raises allies Attack and Special Attack by 1.5x during strong sunlight"
+    },
+    "Forecast": {
+        "ability": "Forecast",
+        "description": "Type and figure changes depending on the weather"
+    },
+    "Forewarn": {
+        "ability": "Forewarn",
+        "description": "Reveals the foe's strongest moves"
+    },
+    "Friend Guard": {
+        "ability": "Friend Guard",
+        "description": "Lowers the damage inflicted by teammates"
+    },
+    "Frisk": {
+        "ability": "Frisk",
+        "description": "Reveals the foe's held item"
+    },
+    "Gluttony": {
+        "ability": "Gluttony",
+        "description": "The held item is eaten earlier when HP goes down (i.e at ½ maximum HP instead of 1/3 maximum HP)"
+    },
+    "Guts": {
+        "ability": "Guts",
+        "description": "Attack raises to 1.5x when induced with a status (sleep, burnt, poisoned or paralysis; if burnt, the Pokémon does not get its Attack halved)"
+    },
+    "Harvest": {
+        "ability": "Harvest",
+        "description": "The held berry can be used again and again in a battle in strong sunlight. When there is no sun, there is an 80% chance of the berry being able to be used again"
+    },
+    "Healer": {
+        "ability": "Healer",
+        "description": "Teammates have a 30% chance of getting their status problem healed"
+    },
+    "Heatproof": {
+        "ability": "Heatproof",
+        "description": "Damage from Fire-Type moves or burn is halved"
+    },
+    "Heavy Metal": {
+        "ability": "Heavy Metal",
+        "description": "Pokémon's weight is doubled"
+    },
+    "Honey Gather": {
+        "ability": "Honey Gather",
+        "description": "The Pokémon has a chance to hold a 'honey' at the end of a battle. The Pokémon must not be holding any item. Chances increases the higher the level"
+    },
+    "Huge Power": {
+        "ability": "Huge Power",
+        "description": "Attack power is doubled in battle. It will return to normal if special ability is taken"
+    },
+    "Hustle": {
+        "ability": "Hustle",
+        "description": "Attack is boosted by 1.5x but accuracy is reduced to 80% and raises higher level Pokémon encounter"
+    },
+    "Hydration": {
+        "ability": "Hydration",
+        "description": "All status problems are healed during rain"
+    },
+    "Hyper Cutter": {
+        "ability": "Hyper Cutter",
+        "description": "Foe cannot lower Attack status"
+    },
+    "Ice Body": {
+        "ability": "Ice Body",
+        "description": "HP is gradually restored when there is a hailstorm (1/16th of maximum HP)"
+    },
+    "Illuminate": {
+        "ability": "Illuminate",
+        "description": "If the Pokémon is leading, chance of encountering a wild Pokémon doubles"
+    },
+    "Illusion": {
+        "ability": "Illusion",
+        "description": "Pokémon gets the name and appearance of the Pokémon in your second slot in your team"
+    },
+    "Immunity": {
+        "ability": "Immunity",
+        "description": "The Pokémon cannot be poisoned"
+    },
+    "Imposter": {
+        "ability": "Imposter",
+        "description": "Pokémon transforms upon entering battle"
+    },
+    "Infiltrator": {
+        "ability": "Infiltrator",
+        "description": "The Pokémon bypasses the effects of Reflect, Lightscreen and Safeguard"
+    },
+    "Inner Focus": {
+        "ability": "Inner Focus",
+        "description": "The Pokémon cannot flinched"
+    },
+    "Insomnia": {
+        "ability": "Insomnia",
+        "description": "The Pokémon cannot be induced with sleep nor use Rest"
+    },
+    "Intimidate": {
+        "ability": "Intimidate",
+        "description": "Upon entering battle, the foe's Attack is lowered to 66% and decreases wild Pokémon encounter by 10%"
+    },
+    "Iron Barbs": {
+        "ability": "Iron Barbs",
+        "description": "Foe receives 1/8 of maximum HP damage if it comes in contact with the Pokémon"
+    },
+    "Iron Fist": {
+        "ability": "Iron Fist",
+        "description": "The power of Punches is increased by 20%"
+    },
+    "Justified": {
+        "ability": "Justified",
+        "description": "The Pokémon's Attack increases by 1.5x if it is hit by a Dark-Type attack"
+    },
+    "Keen Eye": {
+        "ability": "Keen Eye",
+        "description": "Foe cannot lower Accuracy and increases wild Pokémon encounter being of lower level than the Pokémon by 10%, if the Pokémon is on the lead"
+    },
+    "Klutz": {
+        "ability": "Klutz",
+        "description": "This Pokémon cannot use any held items involving battle and the Pokémon cannot use Fling. EXPShare, Soothe Bell, Amulet Coin work as usual. The Pokémon does not receive Speed reduction due to Power Weight/Bracer/Belt/Lens/Band/Anklet and Iron Ball"
+    },
+    "Leaf Guard": {
+        "ability": "Leaf Guard",
+        "description": "All status problems are healed during strong sunlight"
+    },
+    "Levitate": {
+        "ability": "Levitate",
+        "description": "Unaffected by Ground-Type moves"
+    },
+    "Light Metal": {
+        "ability": "Light Metal",
+        "description": "Pokémon's weight is halved"
+    },
+    "Lightning Rod": {
+        "ability": "Lightning Rod",
+        "description": "When Pokémon is hit by an Electric-Type move (including Thunder Wave and Hidden Power Electric-Type), the Special Attack of the Pokémon is raised by one level"
+    },
+    "Limber": {
+        "ability": "Limber",
+        "description": "The Pokemon cannot be inflicted with Paralysis"
+    },
+    "Liquid Ooze": {
+        "ability": "Liquid Ooze",
+        "description": "When the foe tries to absorb HP, it loses HP instead"
+    },
+    "Magic Bounce": {
+        "ability": "Magic Bounce",
+        "description": "Status changing moves against the Pokémon are reflected back to the foe"
+    },
+    "Magic Guard": {
+        "ability": "Magic Guard",
+        "description": "Prevents all damage except from direct attacks"
+    },
+    "Magma Armor": {
+        "ability": "Magma Armor",
+        "description": "The Pokémon cannot be frozen and halves the steps for egg hatching"
+    },
+    "Magnet Pull": {
+        "ability": "Magnet Pull",
+        "description": "Steel-Type Pokémon cannot run nor switch, raises Steel-Type Pokémon encounter to 1.5x"
+    },
+    "Marvel Scale": {
+        "ability": "Marvel Scale",
+        "description": "Defense raises to 1.5x when induced with a status"
+    },
+    "Minus": {
+        "ability": "Minus",
+        "description": "When battling with Plus or Minus, Special Attack is boosted by 1.5x"
+    },
+    "Mold Breaker": {
+        "ability": "Mold Breaker",
+        "description": "Not affected by foe's abilities during battle"
+    },
+    "Moody": {
+        "ability": "Moody",
+        "description": "One of the Pokémon's stats gets raised by 2 levels while another gets lowered by 1 level after each turn"
+    },
+    "Motor Drive": {
+        "ability": "Motor Drive",
+        "description": "When the Pokémon is hit with an Electric-Type move, no damage is done but the Speed of the Pokémon is boosted by 1.5x"
+    },
+    "Moxie": {
+        "ability": "Moxie",
+        "description": "Attack is raised by one level each time the Pokémon faints a foe/foes"
+    },
+    "Multiscale": {
+        "ability": "Multiscale",
+        "description": "When Pokémon's HP is full, damage is halved"
+    },
+    "Multitype": {
+        "ability": "Multitype",
+        "description": "Changes type to match the held plate"
+    },
+    "Mummy": {
+        "ability": "Mummy",
+        "description": "When a foe makes physical contact with Pokémon, the foe gets the Mummy ability until it is switched out"
+    },
+    "Natural Cure": {
+        "ability": "Natural Cure",
+        "description": "Status problems are healed when withdrawn from battle"
+    },
+    "No Guard": {
+        "ability": "No Guard",
+        "description": "The Accuracy of all known moves by the user and the moves that hit the user is raised to 100%"
+    },
+    "Normalize": {
+        "ability": "Normalize",
+        "description": "All the moves known by the user turn to Normal-Type"
+    },
+    "Oblivious": {
+        "ability": "Oblivious",
+        "description": "Cannot be infatuated, nor captivated"
+    },
+    "Overcoat": {
+        "ability": "Overcoat",
+        "description": "Damage from weather conditions is negated"
+    },
+    "Overgrow": {
+        "ability": "Overgrow",
+        "description": "When HP is below 1/3 of the maximum HP, the Pokémon's Grass-Type move power increases to 1.5x"
+    },
+    "Own Tempo": {
+        "ability": "Own Tempo",
+        "description": "Cannot be confused"
+    },
+    "Pick Up": {
+        "ability": "Pick Up",
+        "description": "The Pokémon may find an item after battle"
+    },
+    "Pickpocket": {
+        "ability": "Pickpocket",
+        "description": "Pokémon steals the held item of foe when the latter makes contact with the Pokémon"
+    },
+    "Plus": {
+        "ability": "Plus",
+        "description": "When battling with Plus of Minus, Special Attack of the Pokémon is boosted by 1.5x"
+    },
+    "Poison Heal": {
+        "ability": "Poison Heal",
+        "description": "The HP of the user when poisoned is restored instead of going down by 1/8 maximum HP"
+    },
+    "Poison Point": {
+        "ability": "Poison Point",
+        "description": "The foe has a 30% chance of being induced with poison when using a physical attack against this Pokémon"
+    },
+    "Poison Touch": {
+        "ability": "Poison Touch",
+        "description": "The foe has a 20% chance to get poisoned upon contact with Pokémon"
+    },
+    "Prankster": {
+        "ability": "Prankster",
+        "description": "Moves that don't do damage have their speed priority raised by one level"
+    },
+    "Pressure": {
+        "ability": "Pressure",
+        "description": "Doubles foe's PP usage for target moves (Not applicable for self moves)"
+    },
+    "Pure Power": {
+        "ability": "Pure Power",
+        "description": "Attack power is doubled in battle. It will return to normal if the ability is taken"
+    },
+    "Quick Feet": {
+        "ability": "Quick Feet",
+        "description": "The user's Speed is raised by 1.5x when it is induced with a status condition except paralysis. Rate of encountering a wild Pokémon is also reduced by 50%"
+    },
+    "Rain Dish": {
+        "ability": "Rain Dish",
+        "description": "1/16th HP of its maximum HP is restored every turn that it is raining"
+    },
+    "Rattled": {
+        "ability": "Rattled",
+        "description": "The Speed of the Pokémon raises by one stage when hit by a Dark, Ghost or Bug move"
+    },
+    "Reckless": {
+        "ability": "Reckless",
+        "description": "The power of crash moves (Jump Kick, Hi Jump Kick) is increased by 1.2x but the recoil hit is also increased by the same factor"
+    },
+    "Regenerator": {
+        "ability": "Regenerator",
+        "description": "The Pokémon's HP is restored by 1/3 the max HP upon switching out"
+    },
+    "Rivalry": {
+        "ability": "Rivalry",
+        "description": "Attack doubles when fighting against same gender but halves when fighting against opposite gender"
+    },
+    "Rock Head": {
+        "ability": "Rock Head",
+        "description": "The Pokémon does not receive recoil damage"
+    },
+    "Rough Skin": {
+        "ability": "Rough Skin",
+        "description": "The foe is hurt by 1/16th max HP of damage when using a physical attack against this Pokémon"
+    },
+    "Run Away": {
+        "ability": "Run Away",
+        "description": "Except for trainer battles, the Pokémon can always run from battles"
+    },
+    "Sand Force": {
+        "ability": "Sand Force",
+        "description": "The power of Ground, Rock and Steel-Type attacks are boosted by 1.3x during Sandstorms"
+    },
+    "Sand Rush": {
+        "ability": "Sand Rush",
+        "description": "Pokémon's Speed is increased by 1.5x in Sandstorm"
+    },
+    "Sand Stream": {
+        "ability": "Sand Stream",
+        "description": "Summons sandstorm as long as the Pokémon is on the field. Sandstorm will last for 5 turns after the Pokémon is switched out"
+    },
+    "Sand Veil": {
+        "ability": "Sand Veil",
+        "description": "During a sandstorm, the evasion of the Pokémon is raised by 25%"
+    },
+    "Sap Sipper": {
+        "ability": "Sap Sipper",
+        "description": "Pokémon's Attack is raised by one level each time Pokémon is hit by Grass-Type attack"
+    },
+    "Scrappy": {
+        "ability": "Scrappy",
+        "description": "Ghost-Type Pokémon can be hit by the Pokémon's Normal and Fighting-Type attacks"
+    },
+    "Serene Grace": {
+        "ability": "Serene Grace",
+        "description": "Doubles the change of triggering the secondary effects of attacks (e.g. Ancient Power, Thunder, Flamethrower, Sludge Bomb, etc)"
+    },
+    "Shadow Tag": {
+        "ability": "Shadow Tag",
+        "description": "Prevents the foe from escaping or switching out"
+    },
+    "Shed Skin": {
+        "ability": "Shed Skin",
+        "description": "Every turn, it has a 1/3 chance of healing from a status condition"
+    },
+    "Sheer Force": {
+        "ability": "Sheer Force",
+        "description": "The power of attacks by the Pokémon is boosted by 1.3x, but secondary effects are disabled"
+    },
+    "Shell Armor": {
+        "ability": "Shell Armor",
+        "description": "Blocks Critical Hits to the user"
+    },
+    "Shield Dust": {
+        "ability": "Shield Dust",
+        "description": "Foe's damaging moves do not have additional effects"
+    },
+    "Simple": {
+        "ability": "Simple",
+        "description": "Effectiveness of all stat modifications is doubled"
+    },
+    "Skill Link": {
+        "ability": "Skill Link",
+        "description": "Moves which hit 2-5x a turn is raised to always hit 5x"
+    },
+    "Slow Start": {
+        "ability": "Slow Start",
+        "description": "Attack and Speed of the Pokémon is halved for the first five turns"
+    },
+    "Sniper": {
+        "ability": "Sniper",
+        "description": "The power of Critical Hit moves are tripled instead of doubled"
+    },
+    "Snow Cloak": {
+        "ability": "Snow Cloak",
+        "description": "During a hailstorm, the evasion of the Pokémon is raised by 25%"
+    },
+    "Snow Warning": {
+        "ability": "Snow Warning",
+        "description": "Summons hailstorm as long as the Pokémon is on the field. Hailstorm will last for 5 turns after the Pokémon is switched out"
+    },
+    "Solar Power": {
+        "ability": "Solar Power",
+        "description": "Special Attack of Pokémon increases by 1.5x during strong sunlight but HP gradually goes down"
+    },
+    "Solid Rock": {
+        "ability": "Solid Rock",
+        "description": "The power of Super Effective moves is reduced to 65%"
+    },
+    "Soundproof": {
+        "ability": "Soundproof",
+        "description": "The Pokémon is unaffected by sound moves"
+    },
+    "Speed Boost": {
+        "ability": "Speed Boost",
+        "description": "Speed increases by one level each turn"
+    },
+    "Stall": {
+        "ability": "Stall",
+        "description": "The Pokémon always attacks last (Pokémon with Lagging Tail/Full Incense go after the Pokémon though and it is affected by Trick Room)"
+    },
+    "Static": {
+        "ability": "Static",
+        "description": "The foe has a 30% chance of being induced with paralysis when using a physical attack against this Pokémon. It also raises chances of Electric-Type Pokémon encounter to 150%"
+    },
+    "Steadfast": {
+        "ability": "Steadfast",
+        "description": "Speed raises by one level each time the Pokémon flinches"
+    },
+    "Stench": {
+        "ability": "Stench",
+        "description": "Gives 10% chance to flinch the target through physical contact (does not stack with King's Rock). Wild encounter is also reduced to 50%"
+    },
+    "Sticky Hold": {
+        "ability": "Sticky Hold",
+        "description": "Held item cannot be removed in battle and eases fishing"
+    },
+    "Storm Drain": {
+        "ability": "Storm Drain",
+        "description": "When Pokémon is hit by a Water-Type move (including Hidden Power Water-Type), the Special Attack of the Pokémon is raised by one level"
+    },
+    "Sturdy": {
+        "ability": "Sturdy",
+        "description": "Pokémon will not faint if it is at full HP. The Pokémon is also unaffected by OHKO moves"
+    },
+    "Suction Cups": {
+        "ability": "Suction Cups",
+        "description": "Cannot be switched out from battle except with Baton Pass"
+    },
+    "Super Luck": {
+        "ability": "Super Luck",
+        "description": "Raises the Critical Hit ratio of moves and allows the simultaneous use of Dire Hit and Focus Energy"
+    },
+    "Swarm": {
+        "ability": "Swarm",
+        "description": "When HP is below 1/3, the Pokémon's Bug-Type move power increases to 1.5x. Also more Pokémon sounds can be heard in the background if the Pokémon is on the lead"
+    },
+    "Swift Swim": {
+        "ability": "Swift Swim",
+        "description": "When rainy, the Speed of the Pokémon is increased by 1.5x"
+    },
+    "Synchronize": {
+        "ability": "Synchronize",
+        "description": "When the Pokémon becomes poisoned/paralyzed/frozen/asleep/burnt by the foe, so does the foe unless the foe is immune to the status ailment. Also raises encounter with Pokémon having the same nature"
+    },
+    "Tangled Feet": {
+        "ability": "Tangled Feet",
+        "description": "Evasion is doubled when confused"
+    },
+    "Technician": {
+        "ability": "Technician",
+        "description": "The power of moves equal or below the base power of 60 gets boosted by 1.5x"
+    },
+    "Telepathy": {
+        "ability": "Telepathy",
+        "description": "Pokémon cannot receive damage from teammates"
+    },
+    "Teravolt": {
+        "ability": "Teravolt",
+        "description": "Pokémon can attack regardless of the foe's abilities"
+    },
+    "Thick Fat": {
+        "ability": "Thick Fat",
+        "description": "Fire and Ice-Type moves deal 50% less damage to the Pokémon"
+    },
+    "Tinted Lens": {
+        "ability": "Tinted Lens",
+        "description": "The power of not very effective moves is doubled"
+    },
+    "Torrent": {
+        "ability": "Torrent",
+        "description": "When HP is below 1/3, the Pokémon's Water-Type move power increases to 1.5x"
+    },
+    "Toxic Boost": {
+        "ability": "Toxic Boost",
+        "description": "Attack of Pokémon increases by 1.5x when poisoned"
+    },
+    "Trace": {
+        "ability": "Trace",
+        "description": "Copies the special ability of the foe"
+    },
+    "Truant": {
+        "ability": "Truant",
+        "description": "Attack one turn and loaf around the other"
+    },
+    "Turboblaze": {
+        "ability": "Turboblaze",
+        "description": "Pokémon can attack regardless of the foe's abilities"
+    },
+    "Unaware": {
+        "ability": "Unaware",
+        "description": "Ignores the abilities of the target if they could hinder or prevent the Pokémon's moves"
+    },
+    "Unburden": {
+        "ability": "Unburden",
+        "description": "Speed doubles once held item is consumed"
+    },
+    "Unnerve": {
+        "ability": "Unnerve",
+        "description": "Prevents the foe from using held berries"
+    },
+    "Victory Star": {
+        "ability": "Victory Star",
+        "description": "Pokémon and teammates get their Accuracy increased by 10%"
+    },
+    "Vital Spirit": {
+        "ability": "Vital Spirit",
+        "description": "The Pokémon cannot be induced with sleep and the Pokémon cannot use Rest"
+    },
+    "Volt Absorb": {
+        "ability": "Volt Absorb",
+        "description": "If the Pokémon is hit by an Electric-Type move, it's HP is restored by 25% of its maximum HP"
+    },
+    "Water Absorb": {
+        "ability": "Water Absorb",
+        "description": "If the Pokémon is hit by a Water-Type move, it's HP is restored by 25% of its maximum HP"
+    },
+    "Water Veil": {
+        "ability": "Water Veil",
+        "description": "The Pokémon cannot be burnt"
+    },
+    "Weak Armor": {
+        "ability": "Weak Armor",
+        "description": "Raises the Speed of the Pokémon and lowers its Defense by one level each time it is hit by an attack."
+    },
+    "White Smoke": {
+        "ability": "White Smoke",
+        "description": "Foe's moves that lower stats have no effect"
+    },
+    "Wonder Guard": {
+        "ability": "Wonder Guard",
+        "description": "Receives no damage from non-Super Effective moves"
+    },
+    "Wonder Skin": {
+        "ability": "Wonder Skin",
+        "description": "Pokémon is not affected by move inflicting a burn/poison/sleep/paralysis/freeze"
+    },
+    "Zen Mode": {
+        "ability": "Zen Mode",
+        "description": "Darmanitan changes to Zen Mode when its HP is below 50% and swaps Darmanitan's Base Attack and Base Special Attack Stats"
+    }
+}
