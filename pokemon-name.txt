@@ -11,19 +11,6 @@ $丰源=Hoenn
 $成都=Johto
 $关东=Kanto
 
-$究极异兽=Ultra Pokémon
-$幻兽=Mythical Pokémon
-$神兽=Legendary Pokémon
-$准神=Pseudo-Legendary
-$创世神=Creator God
-$大地之神=God of the Earth
-
-$精灵联盟=Pokémon League
-$联盟=Pokémon League
-$精灵中心=Pokémon Center
-$饲育屋=Day Care
-$培育屋=Day Care
-
 $gs 球=GS Ball
 $弯曲汤匙=Twisted Spoon
 $精灵图鉴=Pokédex
@@ -33,10 +20,7 @@ $不变石=Everstone
 $进化石=Evolution Stone
 $觉醒石=Dawn Stone
 $哞哞牛奶=Moomoo Milk
-
 $回击之盾=Counter Shield
-$精灵世界=Thế Giới Pokémon
-$精灵=Pokémon
 
 _____________ABILITIES_____________
 $恶臭=<span class="pokemon-ability">Stench</span>
