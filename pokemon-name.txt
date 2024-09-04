@@ -39,313 +39,313 @@ $精灵世界=Thế Giới Pokémon
 $精灵=Pokémon
 
 _____________ABILITIES_____________
-$恶臭=Stench
-$降雨=Drizzle
-$加速=Speed Boost
-$战斗盔甲=Battle Armor
-$结实=Sturdy
-$湿气=Damp
-$柔软=Limber
-$沙隐=Sand Veil
-$静电=Static
-$蓄电=Volt Absorb
-$储水=Water Absorb
-$迟钝=Oblivious
-$无关天气=Cloud Nine
-$复眼=Compound Eyes
-$不眠=Insomnia
-$变色=Color Change
-$免疫=Immunity
-$引火=Flash Fire
-$鳞粉=Shield Dust
-$我行我素=Own Tempo
-$吸盘=Suction Cups
-$威吓=Intimidate
-$踩影=Shadow Tag
-$粗糙皮肤=Rough Skin
-$神奇守护=Wonder Guard
-$飘浮=Levitate
-$孢子=Effect Spore
-$同步=Synchronize
-$恒净之躯=Clear Body
-$自然回复=Natural Cure
-$避雷针=Lightning Rod
-$天恩=Serene Grace
-$悠游自如=Swift Swim
-$叶绿素=Chlorophyll
-$发光=Illuminate
-$复制=Trace
-$大力士=Huge Power
-$毒刺=Poison Point
-$精神力=Inner Focus
-$熔岩铠甲=Magma Armor
-$水幕=Water Veil
-$磁力=Magnet Pull
-$隔音=Soundproof
-$雨盘=Rain Dish
-$扬沙=Sand Stream
-$压迫感=Pressure
-$厚脂肪=Thick Fat
-$早起=Early Bird
-$火焰之躯=Flame Body
-$逃跑=Run Away
-$锐利目光=Keen Eye
-$怪力钳=Hyper Cutter
-$捡拾=Pickup
-$懒惰=Truant
-$活力=Hustle
-$迷人之躯=Cute Charm
-$正电=Plus
-$负电=Minus
-$阴晴不定=Forecast
-$黏着=Sticky Hold
-$蜕皮=Shed Skin
-$毅力=Guts
-$神奇鳞片=Marvel Scale
-$污泥浆=Liquid Ooze
-$茂盛=Overgrow
-$猛火=Blaze
-$激流=Torrent
-$虫之预感=Swarm
-$坚硬脑袋=Rock Head
-$日照=Drought
-$沙穴=Arena Trap
-$干劲=Vital Spirit
-$白色烟雾=White Smoke
-$瑜伽之力=Pure Power
-$硬壳盔甲=Shell Armor
-$气闸=Air Lock
-$蹒跚=Tangled Feet
-$电气引擎=Motor Drive
-$斗争心=Rivalry
-$不屈之心=Steadfast
-$雪隐=Snow Cloak
-$贪吃鬼=Gluttony
-$愤怒穴位=Anger Point
-$轻装=Unburden
-$耐热=Heatproof
-$单纯=Simple
-$干燥皮肤=Dry Skin
-$下载=Download
-$铁拳=Iron Fist
-$毒疗=Poison Heal
-$适应力=Adaptability
-$连续攻击=Skill Link
-$湿润之躯=Hydration
-$太阳之力=Solar Power
-$飞毛腿=Quick Feet
-$一般皮肤=Normalize
-$狙击手=Sniper
-$魔法防守=Magic Guard
-$无防守=No Guard
-$慢出=Stall
-$技术高手=Technician
-$叶子防守=Leaf Guard
-$笨拙=Klutz
-$破格=Mold Breaker
-$超幸运=Super Luck
-$引爆=Aftermath
-$危险预知=Anticipation
-$预知梦=Forewarn
-$纯朴=Unaware
-$有色眼镜=Tinted Lens
-$过滤=Filter
-$慢启动=Slow Start
-$胆量=Scrappy
-$引水=Storm Drain
-$冰冻之躯=Ice Body
-$坚硬岩石=Solid Rock
-$降雪=Snow Warning
-$采蜜=Honey Gather
-$察觉=Frisk
-$舍身=Reckless
-$多属性=Multitype
-$花之礼=Flower Gift
-$梦魇=Bad Dreams
-$顺手牵羊=Pickpocket
-$强行=Sheer Force
-$唱反调=Contrary
-$紧张感=Unnerve
-$不服输=Defiant
-$软弱=Defeatist
-$诅咒之躯=Cursed Body
-$治愈之心=Healer
-$友情防守=Friend Guard
-$碎裂铠甲=Weak Armor
-$重金属=Heavy Metal
-$轻金属=Light Metal
-$多重鳞片=Multiscale
-$中毒激升=Toxic Boost
-$受热激升=Flare Boost
-$收获=Harvest
-$心灵感应=Telepathy
-$心情不定=Moody
-$防尘=Overcoat
-$毒手=Poison Touch
-$再生力=Regenerator
-$健壮胸肌=Big Pecks
-$拨沙=Sand Rush
-$奇迹皮肤=Wonder Skin
-$分析=Analytic
-$幻觉=Illusion
-$变身者=Imposter
-$穿透=Infiltrator
-$木乃伊=Mummy
-$自信过度=Moxie
-$正义之心=Justified
-$胆怯=Rattled
-$魔法镜=Magic Bounce
-$食草=Sap Sipper
-$恶作剧之心=Prankster
-$沙之力=Sand Force
-$铁刺=Iron Barbs
-$达摩模式=Zen Mode
-$胜利之星=Victory Star
-$涡轮火焰=Turboblaze
-$兆级电压=Teravolt
-$芳香幕=Aroma Veil
-$花幕=Flower Veil
-$颊囊=Cheek Pouch
-$变幻自如=Protean
-$毛皮大衣=Fur Coat
-$魔术师=Magician
-$防弹=Bulletproof
-$好胜=Competitive
-$强壮之颚=Strong Jaw
-$冰冻皮肤=Refrigerate
-$甜幕=Sweet Veil
-$战斗切换=Stance Change
-$疾风之翼=Gale Wings
-$超级发射器=Mega Launcher
-$草之毛皮=Grass Pelt
-$共生=Symbiosis
-$硬爪=Tough Claws
-$妖精皮肤=Pixilate
-$黏滑=Gooey
-$飞行皮肤=Aerilate
-$亲子爱=Parental Bond
-$暗黑气场=Dark Aura
-$妖精气场=Fairy Aura
-$气场破坏=Aura Break
-$始源之海=Primordial Sea
-$终结之地=Desolate Land
-$德尔塔气流=Delta Stream
-$持久力=Stamina
-$跃跃欲逃=Wimp Out
-$危险回避=Emergency Exit
-$遇水凝固=Water Compaction
-$不仁不义=Merciless
-$界限盾壳=Shields Down
-$監視=Stakeout
-$蹲守=Stakeout
-$水泡=Water Bubble
-$钢能力者=Steelworker
-$怒火冲天=Berserk
-$拨雪=Slush Rush
-$远隔=Long Reach
-$湿润之声=Liquid Voice
-$先行治疗=Triage
-$电气皮肤=Galvanize
-$冲浪之尾=Surge Surfer
-$鱼群=Schooling
-$画皮=Disguise
-$牵绊变身=Battle Bond
-$群聚变形=Power Construct
-$腐蚀=Corrosion
-$绝对睡眠=Comatose
-$女王的威严=Queenly Majesty
-$飞出的内在物=Innards Out
-$舞者=Dancer
-$蓄电池=Battery
-$毛茸茸=Fluffy
-$鲜艳之躯=Dazzling
-$魂心=Soul-Heart
-$卷发=Tangling Hair
-$接球手=Receiver
-$化学之力=Power of Alchemy
-$异兽提升=Beast Boost
-$ＡＲ系统=RKS System
-$电气制造者=Electric Surge
-$精神制造者=Psychic Surge
-$薄雾制造者=Misty Surge
-$青草制造者=Grassy Surge
-$金属防护=Full Metal Body
-$幻影防守=Shadow Shield
-$棱镜装甲=Prism Armor
-$脑核之力=Neuroforce
-$不挠之剑=Intrepid Sword
-$不屈之盾=Dauntless Shield
-$自由者=Libero
-$捡球=Ball Fetch
-$棉絮=Cotton Down
-$螺旋尾鳍=Propeller Tail
-$镜甲=Mirror Armor
-$一口导弹=Gulp Missile
-$坚毅=Stalwart
-$蒸汽机=Steam Engine
-$庞克摇滚=Punk Rock
-$吐沙=Sand Spit
-$冰鳞粉=Ice Scales
-$熟成=Ripen
-$结冻头=Ice Face
-$能量点=Power Spot
-$拟态=Mimicry
-$除障=Screen Cleaner
-$钢之意志=Steely Spirit
-$灭亡之躯=Perish Body
-$游魂=Wandering Spirit
-$一猩一意=Gorilla Tactics
-$化学变化气体=Neutralizing Gas
-$粉彩护幕=Pastel Veil
-$饱了又饿=Hunger Switch
-$速击=Quick Draw
-$无形拳=Unseen Fist
-$怪药=Curious Medicine
-$电晶体=Transistor
-$龙颚=Dragon's Maw
-$苍白嘶鸣=Chilling Neigh
-$漆黑嘶鸣=Grim Neigh
-$人马一体=As One
-$甩不掉的气味=Lingering Aroma
-$掉出种子=Seed Sower
-$热交换=Thermal Exchange
-$愤怒甲壳=Anger Shell
-$洁净之盐=Purifying Salt
-$焦香之躯=Well-Baked Body
-$乘风=Wind Rider
-$看门犬=Guard Dog
-$搬岩=Rocky Payload
-$风力发电=Wind Power
-$全能变身=Zero to Hero
-$发号施令=Commander
-$电力转换=Electromorphosis
-$古代活性=Protosynthesis
-$夸克充能=Quark Drive
-$黄金之躯=Good as Gold
-$灾祸之鼎=Vessel of Ruin
-$灾祸之剑=Sword of Ruin
-$灾祸之简=Tablets of Ruin
-$灾祸之玉=Beads of Ruin
-$绯红脉动=Orichalcum Pulse
-$强子引擎=Hadron Engine
-$跟风=Opportunist
-$反刍=Cud Chew
-$锋锐=Sharpness
-$大将=Supreme Overlord
-$同台共演=Costar
-$毒满地=Toxic Debris
-$尾甲=Armor Tail
-$食土=Earth Eater
-$菌丝之力=Mycelium Might
-$款待=Hospitality
-$心眼=Mind's Eye
-$面影輝映=Embody Aspect
-$毒锁链=Toxic Chain
-$甘露之蜜=Supersweet Syrup
-$太晶变形=Tera Shift
-$太晶甲壳=Tera Shell
-$归零化境=Teraform Zero
-$毒傀儡=Poison Puppeteer
+$恶臭=<span class="pokemon-ability">Stench</span>
+$降雨=<span class="pokemon-ability">Drizzle</span>
+$加速=<span class="pokemon-ability">Speed Boost</span>
+$战斗盔甲=<span class="pokemon-ability">Battle Armor</span>
+$结实=<span class="pokemon-ability">Sturdy</span>
+$湿气=<span class="pokemon-ability">Damp</span>
+$柔软=<span class="pokemon-ability">Limber</span>
+$沙隐=<span class="pokemon-ability">Sand Veil</span>
+$静电=<span class="pokemon-ability">Static</span>
+$蓄电=<span class="pokemon-ability">Volt Absorb</span>
+$储水=<span class="pokemon-ability">Water Absorb</span>
+$迟钝=<span class="pokemon-ability">Oblivious</span>
+$无关天气=<span class="pokemon-ability">Cloud Nine</span>
+$复眼=<span class="pokemon-ability">Compound Eyes</span>
+$不眠=<span class="pokemon-ability">Insomnia</span>
+$变色=<span class="pokemon-ability">Color Change</span>
+$免疫=<span class="pokemon-ability">Immunity</span>
+$引火=<span class="pokemon-ability">Flash Fire</span>
+$鳞粉=<span class="pokemon-ability">Shield Dust</span>
+$我行我素=<span class="pokemon-ability">Own Tempo</span>
+$吸盘=<span class="pokemon-ability">Suction Cups</span>
+$威吓=<span class="pokemon-ability">Intimidate</span>
+$踩影=<span class="pokemon-ability">Shadow Tag</span>
+$粗糙皮肤=<span class="pokemon-ability">Rough Skin</span>
+$神奇守护=<span class="pokemon-ability">Wonder Guard</span>
+$飘浮=<span class="pokemon-ability">Levitate</span>
+$孢子=<span class="pokemon-ability">Effect Spore</span>
+$同步=<span class="pokemon-ability">Synchronize</span>
+$恒净之躯=<span class="pokemon-ability">Clear Body</span>
+$自然回复=<span class="pokemon-ability">Natural Cure</span>
+$避雷针=<span class="pokemon-ability">Lightning Rod</span>
+$天恩=<span class="pokemon-ability">Serene Grace</span>
+$悠游自如=<span class="pokemon-ability">Swift Swim</span>
+$叶绿素=<span class="pokemon-ability">Chlorophyll</span>
+$发光=<span class="pokemon-ability">Illuminate</span>
+$复制=<span class="pokemon-ability">Trace</span>
+$大力士=<span class="pokemon-ability">Huge Power</span>
+$毒刺=<span class="pokemon-ability">Poison Point</span>
+$精神力=<span class="pokemon-ability">Inner Focus</span>
+$熔岩铠甲=<span class="pokemon-ability">Magma Armor</span>
+$水幕=<span class="pokemon-ability">Water Veil</span>
+$磁力=<span class="pokemon-ability">Magnet Pull</span>
+$隔音=<span class="pokemon-ability">Soundproof</span>
+$雨盘=<span class="pokemon-ability">Rain Dish</span>
+$扬沙=<span class="pokemon-ability">Sand Stream</span>
+$压迫感=<span class="pokemon-ability">Pressure</span>
+$厚脂肪=<span class="pokemon-ability">Thick Fat</span>
+$早起=<span class="pokemon-ability">Early Bird</span>
+$火焰之躯=<span class="pokemon-ability">Flame Body</span>
+$逃跑=<span class="pokemon-ability">Run Away</span>
+$锐利目光=<span class="pokemon-ability">Keen Eye</span>
+$怪力钳=<span class="pokemon-ability">Hyper Cutter</span>
+$捡拾=<span class="pokemon-ability">Pickup</span>
+$懒惰=<span class="pokemon-ability">Truant</span>
+$活力=<span class="pokemon-ability">Hustle</span>
+$迷人之躯=<span class="pokemon-ability">Cute Charm</span>
+$正电=<span class="pokemon-ability">Plus</span>
+$负电=<span class="pokemon-ability">Minus</span>
+$阴晴不定=<span class="pokemon-ability">Forecast</span>
+$黏着=<span class="pokemon-ability">Sticky Hold</span>
+$蜕皮=<span class="pokemon-ability">Shed Skin</span>
+$毅力=<span class="pokemon-ability">Guts</span>
+$神奇鳞片=<span class="pokemon-ability">Marvel Scale</span>
+$污泥浆=<span class="pokemon-ability">Liquid Ooze</span>
+$茂盛=<span class="pokemon-ability">Overgrow</span>
+$猛火=<span class="pokemon-ability">Blaze</span>
+$激流=<span class="pokemon-ability">Torrent</span>
+$虫之预感=<span class="pokemon-ability">Swarm</span>
+$坚硬脑袋=<span class="pokemon-ability">Rock Head</span>
+$日照=<span class="pokemon-ability">Drought</span>
+$沙穴=<span class="pokemon-ability">Arena Trap</span>
+$干劲=<span class="pokemon-ability">Vital Spirit</span>
+$白色烟雾=<span class="pokemon-ability">White Smoke</span>
+$瑜伽之力=<span class="pokemon-ability">Pure Power</span>
+$硬壳盔甲=<span class="pokemon-ability">Shell Armor</span>
+$气闸=<span class="pokemon-ability">Air Lock</span>
+$蹒跚=<span class="pokemon-ability">Tangled Feet</span>
+$电气引擎=<span class="pokemon-ability">Motor Drive</span>
+$斗争心=<span class="pokemon-ability">Rivalry</span>
+$不屈之心=<span class="pokemon-ability">Steadfast</span>
+$雪隐=<span class="pokemon-ability">Snow Cloak</span>
+$贪吃鬼=<span class="pokemon-ability">Gluttony</span>
+$愤怒穴位=<span class="pokemon-ability">Anger Point</span>
+$轻装=<span class="pokemon-ability">Unburden</span>
+$耐热=<span class="pokemon-ability">Heatproof</span>
+$单纯=<span class="pokemon-ability">Simple</span>
+$干燥皮肤=<span class="pokemon-ability">Dry Skin</span>
+$下载=<span class="pokemon-ability">Download</span>
+$铁拳=<span class="pokemon-ability">Iron Fist</span>
+$毒疗=<span class="pokemon-ability">Poison Heal</span>
+$适应力=<span class="pokemon-ability">Adaptpokemon-ability</span>
+$连续攻击=<span class="pokemon-ability">Skill Link</span>
+$湿润之躯=<span class="pokemon-ability">Hydration</span>
+$太阳之力=<span class="pokemon-ability">Solar Power</span>
+$飞毛腿=<span class="pokemon-ability">Quick Feet</span>
+$一般皮肤=<span class="pokemon-ability">Normalize</span>
+$狙击手=<span class="pokemon-ability">Sniper</span>
+$魔法防守=<span class="pokemon-ability">Magic Guard</span>
+$无防守=<span class="pokemon-ability">No Guard</span>
+$慢出=<span class="pokemon-ability">Stall</span>
+$技术高手=<span class="pokemon-ability">Technician</span>
+$叶子防守=<span class="pokemon-ability">Leaf Guard</span>
+$笨拙=<span class="pokemon-ability">Klutz</span>
+$破格=<span class="pokemon-ability">Mold Breaker</span>
+$超幸运=<span class="pokemon-ability">Super Luck</span>
+$引爆=<span class="pokemon-ability">Aftermath</span>
+$危险预知=<span class="pokemon-ability">Anticipation</span>
+$预知梦=<span class="pokemon-ability">Forewarn</span>
+$纯朴=<span class="pokemon-ability">Unaware</span>
+$有色眼镜=<span class="pokemon-ability">Tinted Lens</span>
+$过滤=<span class="pokemon-ability">Filter</span>
+$慢启动=<span class="pokemon-ability">Slow Start</span>
+$胆量=<span class="pokemon-ability">Scrappy</span>
+$引水=<span class="pokemon-ability">Storm Drain</span>
+$冰冻之躯=<span class="pokemon-ability">Ice Body</span>
+$坚硬岩石=<span class="pokemon-ability">Solid Rock</span>
+$降雪=<span class="pokemon-ability">Snow Warning</span>
+$采蜜=<span class="pokemon-ability">Honey Gather</span>
+$察觉=<span class="pokemon-ability">Frisk</span>
+$舍身=<span class="pokemon-ability">Reckless</span>
+$多属性=<span class="pokemon-ability">Multitype</span>
+$花之礼=<span class="pokemon-ability">Flower Gift</span>
+$梦魇=<span class="pokemon-ability">Bad Dreams</span>
+$顺手牵羊=<span class="pokemon-ability">Pickpocket</span>
+$强行=<span class="pokemon-ability">Sheer Force</span>
+$唱反调=<span class="pokemon-ability">Contrary</span>
+$紧张感=<span class="pokemon-ability">Unnerve</span>
+$不服输=<span class="pokemon-ability">Defiant</span>
+$软弱=<span class="pokemon-ability">Defeatist</span>
+$诅咒之躯=<span class="pokemon-ability">Cursed Body</span>
+$治愈之心=<span class="pokemon-ability">Healer</span>
+$友情防守=<span class="pokemon-ability">Friend Guard</span>
+$碎裂铠甲=<span class="pokemon-ability">Weak Armor</span>
+$重金属=<span class="pokemon-ability">Heavy Metal</span>
+$轻金属=<span class="pokemon-ability">Light Metal</span>
+$多重鳞片=<span class="pokemon-ability">Multiscale</span>
+$中毒激升=<span class="pokemon-ability">Toxic Boost</span>
+$受热激升=<span class="pokemon-ability">Flare Boost</span>
+$收获=<span class="pokemon-ability">Harvest</span>
+$心灵感应=<span class="pokemon-ability">Telepathy</span>
+$心情不定=<span class="pokemon-ability">Moody</span>
+$防尘=<span class="pokemon-ability">Overcoat</span>
+$毒手=<span class="pokemon-ability">Poison Touch</span>
+$再生力=<span class="pokemon-ability">Regenerator</span>
+$健壮胸肌=<span class="pokemon-ability">Big Pecks</span>
+$拨沙=<span class="pokemon-ability">Sand Rush</span>
+$奇迹皮肤=<span class="pokemon-ability">Wonder Skin</span>
+$分析=<span class="pokemon-ability">Analytic</span>
+$幻觉=<span class="pokemon-ability">Illusion</span>
+$变身者=<span class="pokemon-ability">Imposter</span>
+$穿透=<span class="pokemon-ability">Infiltrator</span>
+$木乃伊=<span class="pokemon-ability">Mummy</span>
+$自信过度=<span class="pokemon-ability">Moxie</span>
+$正义之心=<span class="pokemon-ability">Justified</span>
+$胆怯=<span class="pokemon-ability">Rattled</span>
+$魔法镜=<span class="pokemon-ability">Magic Bounce</span>
+$食草=<span class="pokemon-ability">Sap Sipper</span>
+$恶作剧之心=<span class="pokemon-ability">Prankster</span>
+$沙之力=<span class="pokemon-ability">Sand Force</span>
+$铁刺=<span class="pokemon-ability">Iron Barbs</span>
+$达摩模式=<span class="pokemon-ability">Zen Mode</span>
+$胜利之星=<span class="pokemon-ability">Victory Star</span>
+$涡轮火焰=<span class="pokemon-ability">Turboblaze</span>
+$兆级电压=<span class="pokemon-ability">Teravolt</span>
+$芳香幕=<span class="pokemon-ability">Aroma Veil</span>
+$花幕=<span class="pokemon-ability">Flower Veil</span>
+$颊囊=<span class="pokemon-ability">Cheek Pouch</span>
+$变幻自如=<span class="pokemon-ability">Protean</span>
+$毛皮大衣=<span class="pokemon-ability">Fur Coat</span>
+$魔术师=<span class="pokemon-ability">Magician</span>
+$防弹=<span class="pokemon-ability">Bulletproof</span>
+$好胜=<span class="pokemon-ability">Competitive</span>
+$强壮之颚=<span class="pokemon-ability">Strong Jaw</span>
+$冰冻皮肤=<span class="pokemon-ability">Refrigerate</span>
+$甜幕=<span class="pokemon-ability">Sweet Veil</span>
+$战斗切换=<span class="pokemon-ability">Stance Change</span>
+$疾风之翼=<span class="pokemon-ability">Gale Wings</span>
+$超级发射器=<span class="pokemon-ability">Mega Launcher</span>
+$草之毛皮=<span class="pokemon-ability">Grass Pelt</span>
+$共生=<span class="pokemon-ability">Symbiosis</span>
+$硬爪=<span class="pokemon-ability">Tough Claws</span>
+$妖精皮肤=<span class="pokemon-ability">Pixilate</span>
+$黏滑=<span class="pokemon-ability">Gooey</span>
+$飞行皮肤=<span class="pokemon-ability">Aerilate</span>
+$亲子爱=<span class="pokemon-ability">Parental Bond</span>
+$暗黑气场=<span class="pokemon-ability">Dark Aura</span>
+$妖精气场=<span class="pokemon-ability">Fairy Aura</span>
+$气场破坏=<span class="pokemon-ability">Aura Break</span>
+$始源之海=<span class="pokemon-ability">Primordial Sea</span>
+$终结之地=<span class="pokemon-ability">Desolate Land</span>
+$德尔塔气流=<span class="pokemon-ability">Delta Stream</span>
+$持久力=<span class="pokemon-ability">Stamina</span>
+$跃跃欲逃=<span class="pokemon-ability">Wimp Out</span>
+$危险回避=<span class="pokemon-ability">Emergency Exit</span>
+$遇水凝固=<span class="pokemon-ability">Water Compaction</span>
+$不仁不义=<span class="pokemon-ability">Merciless</span>
+$界限盾壳=<span class="pokemon-ability">Shields Down</span>
+$監視=<span class="pokemon-ability">Stakeout</span>
+$蹲守=<span class="pokemon-ability">Stakeout</span>
+$水泡=<span class="pokemon-ability">Water Bubble</span>
+$钢能力者=<span class="pokemon-ability">Steelworker</span>
+$怒火冲天=<span class="pokemon-ability">Berserk</span>
+$拨雪=<span class="pokemon-ability">Slush Rush</span>
+$远隔=<span class="pokemon-ability">Long Reach</span>
+$湿润之声=<span class="pokemon-ability">Liquid Voice</span>
+$先行治疗=<span class="pokemon-ability">Triage</span>
+$电气皮肤=<span class="pokemon-ability">Galvanize</span>
+$冲浪之尾=<span class="pokemon-ability">Surge Surfer</span>
+$鱼群=<span class="pokemon-ability">Schooling</span>
+$画皮=<span class="pokemon-ability">Disguise</span>
+$牵绊变身=<span class="pokemon-ability">Battle Bond</span>
+$群聚变形=<span class="pokemon-ability">Power Construct</span>
+$腐蚀=<span class="pokemon-ability">Corrosion</span>
+$绝对睡眠=<span class="pokemon-ability">Comatose</span>
+$女王的威严=<span class="pokemon-ability">Queenly Majesty</span>
+$飞出的内在物=<span class="pokemon-ability">Innards Out</span>
+$舞者=<span class="pokemon-ability">Dancer</span>
+$蓄电池=<span class="pokemon-ability">Battery</span>
+$毛茸茸=<span class="pokemon-ability">Fluffy</span>
+$鲜艳之躯=<span class="pokemon-ability">Dazzling</span>
+$魂心=<span class="pokemon-ability">Soul-Heart</span>
+$卷发=<span class="pokemon-ability">Tangling Hair</span>
+$接球手=<span class="pokemon-ability">Receiver</span>
+$化学之力=<span class="pokemon-ability">Power of Alchemy</span>
+$异兽提升=<span class="pokemon-ability">Beast Boost</span>
+$ＡＲ系统=<span class="pokemon-ability">RKS System</span>
+$电气制造者=<span class="pokemon-ability">Electric Surge</span>
+$精神制造者=<span class="pokemon-ability">Psychic Surge</span>
+$薄雾制造者=<span class="pokemon-ability">Misty Surge</span>
+$青草制造者=<span class="pokemon-ability">Grassy Surge</span>
+$金属防护=<span class="pokemon-ability">Full Metal Body</span>
+$幻影防守=<span class="pokemon-ability">Shadow Shield</span>
+$棱镜装甲=<span class="pokemon-ability">Prism Armor</span>
+$脑核之力=<span class="pokemon-ability">Neuroforce</span>
+$不挠之剑=<span class="pokemon-ability">Intrepid Sword</span>
+$不屈之盾=<span class="pokemon-ability">Dauntless Shield</span>
+$自由者=<span class="pokemon-ability">Libero</span>
+$捡球=<span class="pokemon-ability">Ball Fetch</span>
+$棉絮=<span class="pokemon-ability">Cotton Down</span>
+$螺旋尾鳍=<span class="pokemon-ability">Propeller Tail</span>
+$镜甲=<span class="pokemon-ability">Mirror Armor</span>
+$一口导弹=<span class="pokemon-ability">Gulp Missile</span>
+$坚毅=<span class="pokemon-ability">Stalwart</span>
+$蒸汽机=<span class="pokemon-ability">Steam Engine</span>
+$庞克摇滚=<span class="pokemon-ability">Punk Rock</span>
+$吐沙=<span class="pokemon-ability">Sand Spit</span>
+$冰鳞粉=<span class="pokemon-ability">Ice Scales</span>
+$熟成=<span class="pokemon-ability">Ripen</span>
+$结冻头=<span class="pokemon-ability">Ice Face</span>
+$能量点=<span class="pokemon-ability">Power Spot</span>
+$拟态=<span class="pokemon-ability">Mimicry</span>
+$除障=<span class="pokemon-ability">Screen Cleaner</span>
+$钢之意志=<span class="pokemon-ability">Steely Spirit</span>
+$灭亡之躯=<span class="pokemon-ability">Perish Body</span>
+$游魂=<span class="pokemon-ability">Wandering Spirit</span>
+$一猩一意=<span class="pokemon-ability">Gorilla Tactics</span>
+$化学变化气体=<span class="pokemon-ability">Neutralizing Gas</span>
+$粉彩护幕=<span class="pokemon-ability">Pastel Veil</span>
+$饱了又饿=<span class="pokemon-ability">Hunger Switch</span>
+$速击=<span class="pokemon-ability">Quick Draw</span>
+$无形拳=<span class="pokemon-ability">Unseen Fist</span>
+$怪药=<span class="pokemon-ability">Curious Medicine</span>
+$电晶体=<span class="pokemon-ability">Transistor</span>
+$龙颚=<span class="pokemon-ability">Dragon's Maw</span>
+$苍白嘶鸣=<span class="pokemon-ability">Chilling Neigh</span>
+$漆黑嘶鸣=<span class="pokemon-ability">Grim Neigh</span>
+$人马一体=<span class="pokemon-ability">As One</span>
+$甩不掉的气味=<span class="pokemon-ability">Lingering Aroma</span>
+$掉出种子=<span class="pokemon-ability">Seed Sower</span>
+$热交换=<span class="pokemon-ability">Thermal Exchange</span>
+$愤怒甲壳=<span class="pokemon-ability">Anger Shell</span>
+$洁净之盐=<span class="pokemon-ability">Purifying Salt</span>
+$焦香之躯=<span class="pokemon-ability">Well-Baked Body</span>
+$乘风=<span class="pokemon-ability">Wind Rider</span>
+$看门犬=<span class="pokemon-ability">Guard Dog</span>
+$搬岩=<span class="pokemon-ability">Rocky Payload</span>
+$风力发电=<span class="pokemon-ability">Wind Power</span>
+$全能变身=<span class="pokemon-ability">Zero to Hero</span>
+$发号施令=<span class="pokemon-ability">Commander</span>
+$电力转换=<span class="pokemon-ability">Electromorphosis</span>
+$古代活性=<span class="pokemon-ability">Protosynthesis</span>
+$夸克充能=<span class="pokemon-ability">Quark Drive</span>
+$黄金之躯=<span class="pokemon-ability">Good as Gold</span>
+$灾祸之鼎=<span class="pokemon-ability">Vessel of Ruin</span>
+$灾祸之剑=<span class="pokemon-ability">Sword of Ruin</span>
+$灾祸之简=<span class="pokemon-ability">Tablets of Ruin</span>
+$灾祸之玉=<span class="pokemon-ability">Beads of Ruin</span>
+$绯红脉动=<span class="pokemon-ability">Orichalcum Pulse</span>
+$强子引擎=<span class="pokemon-ability">Hadron Engine</span>
+$跟风=<span class="pokemon-ability">Opportunist</span>
+$反刍=<span class="pokemon-ability">Cud Chew</span>
+$锋锐=<span class="pokemon-ability">Sharpness</span>
+$大将=<span class="pokemon-ability">Supreme Overlord</span>
+$同台共演=<span class="pokemon-ability">Costar</span>
+$毒满地=<span class="pokemon-ability">Toxic Debris</span>
+$尾甲=<span class="pokemon-ability">Armor Tail</span>
+$食土=<span class="pokemon-ability">Earth Eater</span>
+$菌丝之力=<span class="pokemon-ability">Mycelium Might</span>
+$款待=<span class="pokemon-ability">Hospitality</span>
+$心眼=<span class="pokemon-ability">Mind's Eye</span>
+$面影輝映=<span class="pokemon-ability">Embody Aspect</span>
+$毒锁链=<span class="pokemon-ability">Toxic Chain</span>
+$甘露之蜜=<span class="pokemon-ability">Supersweet Syrup</span>
+$太晶变形=<span class="pokemon-ability">Tera Shift</span>
+$太晶甲壳=<span class="pokemon-ability">Tera Shell</span>
+$归零化境=<span class="pokemon-ability">Teraform Zero</span>
+$毒傀儡=<span class="pokemon-ability">Poison Puppeteer</span>
 
 _____________ITEMS_____________
 $伤药=Potion
