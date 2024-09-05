@@ -113,7 +113,7 @@ $干燥皮肤=<span class="pokemon-ability">Dry Skin</span>
 $下载=<span class="pokemon-ability">Download</span>
 $铁拳=<span class="pokemon-ability">Iron Fist</span>
 $毒疗=<span class="pokemon-ability">Poison Heal</span>
-$适应力=<span class="pokemon-ability">Adaptpokemon-ability</span>
+$适应力=<span class="pokemon-ability">Adaptability</span>
 $连续攻击=<span class="pokemon-ability">Skill Link</span>
 $湿润之躯=<span class="pokemon-ability">Hydration</span>
 $太阳之力=<span class="pokemon-ability">Solar Power</span>
