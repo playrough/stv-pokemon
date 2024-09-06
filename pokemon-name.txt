@@ -4535,3 +4535,4 @@ $火焰漩涡=<span class="pokemon-move fire">Fire Spin</span>
 $恶魔之吻=<span class="pokemon-move normal">Lovely Kiss</span>
 $大字炎爆=<span class="pokemon-move fire">Fire Blast</span>
 $神鸟猛攻=<span class="pokemon-move flying">Sky Attack</span>
+$保护=<span class="pokemon-move normal">Protect</span>
