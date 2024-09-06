@@ -3570,6 +3570,7 @@ $幽灵马=Spectrier<img index="#0897" class="pokemon-image" src="https://i.post
 $鸭嘴火龙=Magmar<img index="#0126" class="pokemon-image" src="https://i.postimg.cc/rdVQSwLc/image126.png">
 $鸭嘴焰龙=Magmortar<img index="#0467" class="pokemon-image" src="https://i.postimg.cc/4nRbt1RZ/image467.png">
 $修缮老头=Conkeldurr<img index="#0534" class="pokemon-image" src="https://i.postimg.cc/gXCM69qP/image534.png">
+$吸盘魔偶=Mr. Mime<img index="#0122" class="pokemon-image" src="https://i.postimg.cc/g2X2mfHH/Mr-Mime.png"><img index="#0122" class="pokemon-image" src="https://i.postimg.cc/9fyXqZS4/Mr-Mime-Galarian-Form.png">
 $原始盖欧卡=Primal Kyogre<img index="#0382" class="pokemon-image" src="https://i.postimg.cc/NjZm4Vjb/Primal-Kyogre.png">
 $原始固拉多=Primal Groudon<img index="#0383" class="pokemon-image" src="https://i.postimg.cc/jSDyyKtL/Primal-Groudon.png">
 
