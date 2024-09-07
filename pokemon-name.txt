@@ -3537,6 +3537,8 @@ $厄诡椪=Ogerpon<img index="#1017" class="pokemon-image" src="https://i.postim
 $太乐巴戈斯=Terapagos<img index="#1024" class="pokemon-image" src="https://i.postimg.cc/858HZQtK/Terapagos-Normal-Form.png"><img index="#1024" class="pokemon-image" src="https://i.postimg.cc/bJQRMC5z/Terapagos-Terastal-Form.png"><img index="#1024" class="pokemon-image" src="https://i.postimg.cc/HsB2DVKr/Terapagos-Stellar-Form.png">
 
 _____________POKÉMON 2_________
+$拉鲁拉斯=Ralts<img index="#0280" class="pokemon-image" src="https://i.postimg.cc/HjdvmzNj/image280.png">
+$好运蛋=Happiny<img index="#0440" class="pokemon-image" src="https://i.postimg.cc/SJ7MhLwQ/image440.png">
 $超铁暴龙=Rhyperior<img index="#0464" class="pokemon-image" src="https://i.postimg.cc/BL9SbkKr/image464.png">
 $首席天鹅=Swanna<img index="#0581" class="pokemon-image" src="https://i.postimg.cc/hJFbr8Q9/image581.png">
 $修缮老头=Conkeldurr<img index="#0534" class="pokemon-image" src="https://i.postimg.cc/gXCM69qP/image534.png">
