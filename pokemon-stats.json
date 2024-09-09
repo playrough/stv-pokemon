@@ -12224,7 +12224,7 @@
 	},
 	"Hoopa": {
 		"number": "#0720",
-		"name": "Hoopa",
+		"name": "Hoopa Confined",
 		"type": ["Psychic", "Ghost"],
 		"abilities": {
 			"ability1": "Magician",
