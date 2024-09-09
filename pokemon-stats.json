@@ -14876,7 +14876,7 @@
 	},
 	"Indeedee": {
 		"number": "#0876",
-		"name": "Indeedee",
+		"name": "Indeedee (Male)",
 		"type": ["Psychic", "Normal"],
 		"abilities": {
 			"ability1": "Inner Focus",
@@ -20211,6 +20211,23 @@
 		"spDefense": 50,
 		"speed": 130,
 		"total": 470
+	},
+	"Indeedee Female": {
+		"number": "#0876",
+		"name": "Indeedee (Female)",
+		"type": ["Psychic", "Normal"],
+		"abilities": {
+			"ability1": "Own Tempo",
+			"ability2": "Synchronize",
+			"hidden": "Psychic Surge"
+		},
+		"hp": 70,
+		"attack": 55,
+		"defense": 65,
+		"spAttack": 95,
+		"spDefense": 105,
+		"speed": 85,
+		"total": 475
 	},
 	"Morpeko Hangry Mode": {
 		"number": "0877",
