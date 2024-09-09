@@ -18240,7 +18240,7 @@
 		"speed": 110,
 		"total": 700
 	},
-	"Rattata-Alolan-Form": {
+	"Rattata Alolan Form": {
 		"number": "0019",
 		"name": "Alolan Rattata",
 		"type": ["Dark", "Normal"],
@@ -18257,7 +18257,7 @@
 		"speed": 72,
 		"total": 253
 	},
-	"Raticate-Alolan-Form": {
+	"Raticate Alolan Form": {
 		"number": "0020",
 		"name": "Alolan Raticate",
 		"type": ["Dark", "Normal"],
@@ -18274,7 +18274,7 @@
 		"speed": 77,
 		"total": 413
 	},
-	"Raichu-Alolan-Form": {
+	"Raichu Alolan Form": {
 		"number": "0026",
 		"name": "Alolan Raichu",
 		"type": ["Electric", "Psychic"],
@@ -18291,7 +18291,7 @@
 		"speed": 110,
 		"total": 485
 	},
-	"Sandshrew-Alolan-Form": {
+	"Sandshrew Alolan Form": {
 		"number": "0027",
 		"name": "Alolan Sandshrew",
 		"type": ["Ice", "Steel"],
@@ -18308,7 +18308,7 @@
 		"speed": 40,
 		"total": 300
 	},
-	"Sandslash-Alolan-Form": {
+	"Sandslash Alolan Form": {
 		"number": "0028",
 		"name": "Alolan Sandslash",
 		"type": ["Ice", "Steel"],
@@ -18325,7 +18325,7 @@
 		"speed": 65,
 		"total": 450
 	},
-	"Vulpix-Alolan-Form": {
+	"Vulpix Alolan Form": {
 		"number": "0037",
 		"name": "Alolan Vulpix",
 		"type": ["Ice"],
@@ -18342,7 +18342,7 @@
 		"speed": 65,
 		"total": 299
 	},
-	"Ninetales-Alolan-Form": {
+	"Ninetales Alolan Form": {
 		"number": "0038",
 		"name": "Alolan Ninetales",
 		"type": ["Ice", "Fairy"],
@@ -18359,7 +18359,7 @@
 		"speed": 109,
 		"total": 505
 	},
-	"Diglett-Alolan-Form": {
+	"Diglett Alolan Form": {
 		"number": "0050",
 		"name": "Alolan Diglett",
 		"type": ["Ground", "Steel"],
@@ -18376,7 +18376,7 @@
 		"speed": 90,
 		"total": 265
 	},
-	"Dugtrio-Alolan-Form": {
+	"Dugtrio Alolan Form": {
 		"number": "0051",
 		"name": "Alolan Dugtrio",
 		"type": ["Ground", "Steel"],
@@ -18393,7 +18393,7 @@
 		"speed": 110,
 		"total": 425
 	},
-	"Meowth-Alolan-Form": {
+	"Meowth Alolan Form": {
 		"number": "0052",
 		"name": "Alolan Meowth",
 		"type": ["Dark"],
@@ -18410,7 +18410,7 @@
 		"speed": 90,
 		"total": 290
 	},
-	"Meowth-Galarian-Form": {
+	"Meowth Galarian Form": {
 		"number": "0052",
 		"name": "Galarian Meowth",
 		"type": ["Steel"],
@@ -18427,7 +18427,7 @@
 		"speed": 40,
 		"total": 290
 	},
-	"Persian-Alolan-Form": {
+	"Persian Alolan Form": {
 		"number": "0053",
 		"name": "Alolan Persian",
 		"type": ["Dark"],
@@ -18444,7 +18444,7 @@
 		"speed": 115,
 		"total": 440
 	},
-	"Growlithe-Hisuian-Form": {
+	"Growlithe Hisuian Form": {
 		"number": "0058",
 		"name": "Hisuian Growlithe",
 		"type": ["Fire", "Rock"],
@@ -18461,7 +18461,7 @@
 		"speed": 55,
 		"total": 350
 	},
-	"Arcanine-Hisuian-Form": {
+	"Arcanine Hisuian Form": {
 		"number": "0059",
 		"name": "Hisuian Arcanine",
 		"type": ["Fire", "Rock"],
@@ -18478,7 +18478,7 @@
 		"speed": 90,
 		"total": 555
 	},
-	"Geodude-Alolan-Form": {
+	"Geodude Alolan Form": {
 		"number": "0074",
 		"name": "Alolan Geodude",
 		"type": ["Rock", "Electric"],
@@ -18495,7 +18495,7 @@
 		"speed": 20,
 		"total": 300
 	},
-	"Graveler-Alolan-Form": {
+	"Graveler Alolan Form": {
 		"number": "0075",
 		"name": "Alolan Graveler",
 		"type": ["Rock", "Electric"],
@@ -18512,7 +18512,7 @@
 		"speed": 35,
 		"total": 390
 	},
-	"Golem-Alolan-Form": {
+	"Golem Alolan Form": {
 		"number": "0076",
 		"name": "Alolan Golem",
 		"type": ["Rock", "Electric"],
@@ -18529,7 +18529,7 @@
 		"speed": 45,
 		"total": 495
 	},
-	"Ponyta-Galarian-Form": {
+	"Ponyta Galarian Form": {
 		"number": "0077",
 		"name": "Galarian Ponyta",
 		"type": ["Psychic"],
@@ -18546,7 +18546,7 @@
 		"speed": 90,
 		"total": 410
 	},
-	"Rapidash-Galarian-Form": {
+	"Rapidash Galarian Form": {
 		"number": "0078",
 		"name": "Galarian Rapidash",
 		"type": ["Psychic", "Fairy"],
@@ -18563,7 +18563,7 @@
 		"speed": 105,
 		"total": 500
 	},
-	"Slowpoke-Galarian-Form": {
+	"Slowpoke Galarian Form": {
 		"number": "0079",
 		"name": "Galarian Slowpoke",
 		"type": ["Psychic"],
@@ -18580,7 +18580,7 @@
 		"speed": 15,
 		"total": 315
 	},
-	"Slowbro-Galarian-Form": {
+	"Slowbro Galarian Form": {
 		"number": "0080",
 		"name": "Galarian Slowbro",
 		"type": ["Poison", "Psychic"],
@@ -18597,7 +18597,7 @@
 		"speed": 30,
 		"total": 490
 	},
-	"Farfetch_d-Galarian-Form": {
+	"Farfetch_d Galarian Form": {
 		"number": "0083",
 		"name": "Galarian Farfetch'd",
 		"type": ["Fighting"],
@@ -18614,7 +18614,7 @@
 		"speed": 55,
 		"total": 377
 	},
-	"Grimer-Alolan-Form": {
+	"Grimer Alolan Form": {
 		"number": "0088",
 		"name": "Alolan Grimer",
 		"type": ["Poison", "Dark"],
@@ -18631,7 +18631,7 @@
 		"speed": 25,
 		"total": 325
 	},
-	"Muk-Alolan-Form": {
+	"Muk Alolan Form": {
 		"number": "0089",
 		"name": "Alolan Muk",
 		"type": ["Poison", "Dark"],
@@ -18648,7 +18648,7 @@
 		"speed": 50,
 		"total": 500
 	},
-	"Voltorb-Hisuian-Form": {
+	"Voltorb Hisuian Form": {
 		"number": "0100",
 		"name": "Hisuian Voltorb",
 		"type": ["Electric", "Grass"],
@@ -18665,7 +18665,7 @@
 		"speed": 100,
 		"total": 330
 	},
-	"Electrode-Hisuian-Form": {
+	"Electrode Hisuian Form": {
 		"number": "0101",
 		"name": "Hisuian Electrode",
 		"type": ["Electric", "Grass"],
@@ -18682,7 +18682,7 @@
 		"speed": 150,
 		"total": 490
 	},
-	"Exeggutor-Alolan-Form": {
+	"Exeggutor Alolan Form": {
 		"number": "0103",
 		"name": "Alolan Exeggutor",
 		"type": ["Grass", "Dragon"],
@@ -18699,7 +18699,7 @@
 		"speed": 45,
 		"total": 530
 	},
-	"Marowak-Alolan-Form": {
+	"Marowak Alolan Form": {
 		"number": "0105",
 		"name": "Alolan Marowak",
 		"type": ["Fire", "Ghost"],
@@ -18716,7 +18716,7 @@
 		"speed": 45,
 		"total": 425
 	},
-	"Weezing-Galarian-Form": {
+	"Weezing Galarian Form": {
 		"number": "0110",
 		"name": "Galarian Weezing",
 		"type": ["Poison", "Fairy"],
@@ -18733,7 +18733,7 @@
 		"speed": 60,
 		"total": 490
 	},
-	"Mr-Mime-Galarian-Form": {
+	"Mr Mime Galarian Form": {
 		"number": "0122",
 		"name": "Galarian Mr. Mime",
 		"type": ["Ice", "Psychic"],
@@ -18750,7 +18750,7 @@
 		"speed": 100,
 		"total": 460
 	},
-	"Tauros-Paldean-Form-Combat-Breed": {
+	"Tauros Paldean Form Combat Breed": {
 		"number": "0128",
 		"name": "Combat Breed Paldean Tauros",
 		"type": ["Fighting"],
@@ -18767,7 +18767,7 @@
 		"speed": 100,
 		"total": 490
 	},
-	"Tauros-Paldean-Form-Blaze-Breed": {
+	"Tauros Paldean Form Blaze Breed": {
 		"number": "0128",
 		"name": "Blaze Breed Paldean Tauros",
 		"type": ["Fighting", "Fire"],
@@ -18784,7 +18784,7 @@
 		"speed": 100,
 		"total": 490
 	},
-	"Tauros-Paldean-Form-Aqua-Breed": {
+	"Tauros Paldean Form Aqua Breed": {
 		"number": "0128",
 		"name": "Aqua Breed Paldean Tauros",
 		"type": ["Fighting", "Water"],
@@ -18801,7 +18801,7 @@
 		"speed": 100,
 		"total": 490
 	},
-	"Articuno-Galarian-Form": {
+	"Articuno Galarian Form": {
 		"number": "0144",
 		"name": "Galarian Articuno",
 		"type": ["Psychic", "Flying"],
@@ -18818,7 +18818,7 @@
 		"speed": 95,
 		"total": 580
 	},
-	"Zapdos-Galarian-Form": {
+	"Zapdos Galarian Form": {
 		"number": "0145",
 		"name": "Galarian Zapdos",
 		"type": ["Fighting", "Flying"],
@@ -18835,7 +18835,7 @@
 		"speed": 100,
 		"total": 580
 	},
-	"Moltres-Galarian-Form": {
+	"Moltres Galarian Form": {
 		"number": "0146",
 		"name": "Galarian Moltres",
 		"type": ["Dark", "Flying"],
@@ -18852,7 +18852,7 @@
 		"speed": 90,
 		"total": 580
 	},
-	"Typhlosion-Hisuian-Form": {
+	"Typhlosion Hisuian Form": {
 		"number": "0157",
 		"name": "Hisuian Typhlosion",
 		"type": ["Fire", "Ghost"],
@@ -18869,7 +18869,7 @@
 		"speed": 95,
 		"total": 534
 	},
-	"Wooper-Paldean-Form": {
+	"Wooper Paldean Form": {
 		"number": "0194",
 		"name": "Paldean Wooper",
 		"type": ["Poison", "Ground"],
@@ -18886,7 +18886,7 @@
 		"speed": 15,
 		"total": 210
 	},
-	"Slowking-Galarian-Form": {
+	"Slowking Galarian Form": {
 		"number": "0199",
 		"name": "Galarian Slowking",
 		"type": ["Poison", "Psychic"],
@@ -18903,7 +18903,7 @@
 		"speed": 30,
 		"total": 490
 	},
-	"Qwilfish-Hisuian-Form": {
+	"Qwilfish Hisuian Form": {
 		"number": "0211",
 		"name": "Hisuian Qwilfish",
 		"type": ["Dark", "Poison"],
@@ -18920,7 +18920,7 @@
 		"speed": 85,
 		"total": 440
 	},
-	"Sneasel-Hisuian-Form": {
+	"Sneasel Hisuian Form": {
 		"number": "0215",
 		"name": "Hisuian Sneasel",
 		"type": ["Fighting", "Poison"],
@@ -18937,7 +18937,7 @@
 		"speed": 115,
 		"total": 430
 	},
-	"Corsola-Galarian-Form": {
+	"Corsola Galarian Form": {
 		"number": "0222",
 		"name": "Galarian Corsola",
 		"type": ["Ghost"],
@@ -18954,7 +18954,7 @@
 		"speed": 30,
 		"total": 410
 	},
-	"Zigzagoon-Galarian-Form": {
+	"Zigzagoon Galarian Form": {
 		"number": "0263",
 		"name": "Galarian Zigzagoon",
 		"type": ["Dark", "Normal"],
@@ -18971,7 +18971,7 @@
 		"speed": 60,
 		"total": 240
 	},
-	"Linoone-Galarian-Form": {
+	"Linoone Galarian Form": {
 		"number": "0264",
 		"name": "Galarian Linoone",
 		"type": ["Dark", "Normal"],
@@ -18988,7 +18988,7 @@
 		"speed": 100,
 		"total": 420
 	},
-	"Castform-Sunny-Form": {
+	"Castform Sunny Form": {
 		"number": "0351",
 		"name": "Castform Sunny Form",
 		"type": ["Fire"],
@@ -19005,7 +19005,7 @@
 		"speed": 70,
 		"total": 420
 	},
-	"Castform-Rainy-Form": {
+	"Castform Rainy Form": {
 		"number": "0351",
 		"name": "Castform Rainy Form",
 		"type": ["Water"],
@@ -19022,7 +19022,7 @@
 		"speed": 70,
 		"total": 420
 	},
-	"Castform-Snowy-Form": {
+	"Castform Snowy Form": {
 		"number": "0351",
 		"name": "Castform Snowy Form",
 		"type": ["Ice"],
@@ -19192,7 +19192,7 @@
 		"speed": 36,
 		"total": 424
 	},
-	"Cherrim-Sunshine-Form": {
+	"Cherrim Sunshine Form": {
 		"number": "0421",
 		"name": "Cherrim Sunshine Form",
 		"type": ["Grass"],
@@ -19209,7 +19209,7 @@
 		"speed": 85,
 		"total": 450
 	},
-	"Shellos-East-Sea": {
+	"Shellos East Sea": {
 		"number": "0422",
 		"name": "Shellos East Sea",
 		"type": ["Water"],
@@ -19226,7 +19226,7 @@
 		"speed": 34,
 		"total": 325
 	},
-	"Gastrodon-East-Sea": {
+	"Gastrodon East Sea": {
 		"number": "0423",
 		"name": "Gastrodon East Sea",
 		"type": ["Water", "Ground"],
@@ -19243,7 +19243,7 @@
 		"speed": 39,
 		"total": 475
 	},
-	"Rotom-Heat-Rotom": {
+	"Rotom Heat Rotom": {
 		"number": "0479",
 		"name": "Heat Rotom",
 		"type": ["Electric", "Fire"],
@@ -19260,7 +19260,7 @@
 		"speed": 86,
 		"total": 520
 	},
-	"Rotom-Wash-Rotom": {
+	"Rotom Wash Rotom": {
 		"number": "0479",
 		"name": "Wash Rotom",
 		"type": ["Electric", "Water"],
@@ -19277,7 +19277,7 @@
 		"speed": 86,
 		"total": 520
 	},
-	"Rotom-Frost-Rotom": {
+	"Rotom Frost Rotom": {
 		"number": "0479",
 		"name": "Frost Rotom",
 		"type": ["Electric", "Ice"],
@@ -19294,7 +19294,7 @@
 		"speed": 86,
 		"total": 520
 	},
-	"Rotom-Fan-Rotom": {
+	"Rotom Fan Rotom": {
 		"number": "0479",
 		"name": "Fan Rotom",
 		"type": ["Electric", "Flying"],
@@ -19311,7 +19311,7 @@
 		"speed": 86,
 		"total": 520
 	},
-	"Rotom-Mow-Rotom": {
+	"Rotom Mow Rotom": {
 		"number": "0479",
 		"name": "Mow Rotom",
 		"type": ["Electric", "Grass"],
@@ -19396,7 +19396,7 @@
 		"speed": 127,
 		"total": 600
 	},
-	"Samurott-Hisuian-Form": {
+	"Samurott Hisuian Form": {
 		"number": "0503",
 		"name": "Hisuian Samurott",
 		"type": ["Water", "Dark"],
@@ -19413,7 +19413,7 @@
 		"speed": 85,
 		"total": 528
 	},
-	"Lilligant-Hisuian-Form": {
+	"Lilligant Hisuian Form": {
 		"number": "0549",
 		"name": "Hisuian Lilligant",
 		"type": ["Grass", "Fighting"],
@@ -19430,7 +19430,7 @@
 		"speed": 105,
 		"total": 480
 	},
-	"Basculin-Blue-Striped-Form": {
+	"Basculin Blue Striped Form": {
 		"number": "0550",
 		"name": "Basculin Blue Striped Form",
 		"type": ["Water"],
@@ -19447,7 +19447,7 @@
 		"speed": 98,
 		"total": 460
 	},
-	"Basculin-White-Striped-Form": {
+	"Basculin White Striped Form": {
 		"number": "0550",
 		"name": "Basculin White Striped Form",
 		"type": ["Water"],
@@ -19464,7 +19464,7 @@
 		"speed": 98,
 		"total": 460
 	},
-	"Darumaka-Galarian-Form": {
+	"Darumaka Galarian Form": {
 		"number": "0554",
 		"name": "Galarian Darumaka",
 		"type": ["Ice"],
@@ -19498,7 +19498,7 @@
 		"speed": 55,
 		"total": 540
 	},
-	"Darmanitan-Galarian-Form": {
+	"Darmanitan Galarian Form": {
 		"number": "0555",
 		"name": "Galarian Darmanitan",
 		"type": ["Ice"],
@@ -19515,7 +19515,7 @@
 		"speed": 95,
 		"total": 480
 	},
-	"Darmanitan-Zen-Mode-Galarian-Form": {
+	"Darmanitan Zen Mode Galarian Form": {
 		"number": "0555",
 		"name": "Galarian Darmanitan Zen Mode",
 		"type": ["Ice", "Fire"],
@@ -19532,7 +19532,7 @@
 		"speed": 135,
 		"total": 540
 	},
-	"Yamask-Galarian-Form": {
+	"Yamask Galarian Form": {
 		"number": "0562",
 		"name": "Galarian Yamask",
 		"type": ["Ground", "Ghost"],
@@ -19549,7 +19549,7 @@
 		"speed": 30,
 		"total": 303
 	},
-	"Zorua-Hisuian-Form": {
+	"Zorua Hisuian Form": {
 		"number": "0570",
 		"name": "Hisuian Zorua",
 		"type": ["Normal", "Ghost"],
@@ -19566,7 +19566,7 @@
 		"speed": 70,
 		"total": 330
 	},
-	"Zoroark-Hisuian-Form": {
+	"Zoroark Hisuian Form": {
 		"number": "0571",
 		"name": "Hisuian Zoroark",
 		"type": ["Normal", "Ghost"],
@@ -19685,7 +19685,7 @@
 		"speed": 95,
 		"total": 475
 	},
-	"Stunfisk-Galarian-Form": {
+	"Stunfisk Galarian Form": {
 		"number": "0618",
 		"name": "Galarian Stunfisk",
 		"type": ["Ground", "Steel"],
@@ -19702,7 +19702,7 @@
 		"speed": 32,
 		"total": 471
 	},
-	"Braviary-Hisuian-Form": {
+	"Braviary Hisuian Form": {
 		"number": "0628",
 		"name": "Hisuian Braviary",
 		"type": ["Psychic", "Flying"],
@@ -19719,7 +19719,7 @@
 		"speed": 65,
 		"total": 510
 	},
-	"Tornadus-Therian-Forme": {
+	"Tornadus Therian Forme": {
 		"number": "0641",
 		"name": "Tornadus Therian Forme",
 		"type": ["Flying"],
@@ -19736,7 +19736,7 @@
 		"speed": 121,
 		"total": 580
 	},
-	"Thundurus-Therian-Forme": {
+	"Thundurus Therian Forme": {
 		"number": "0642",
 		"name": "Thundurus Therian Forme",
 		"type": ["Electric", "Flying"],
@@ -19753,7 +19753,7 @@
 		"speed": 101,
 		"total": 580
 	},
-	"Landorus-Therian-Forme": {
+	"Landorus Therian Forme": {
 		"number": "0645",
 		"name": "Landorus Therian Forme",
 		"type": ["Ground", "Flying"],
@@ -19770,7 +19770,7 @@
 		"speed": 91,
 		"total": 600
 	},
-	"Kyurem-White-Kyurem": {
+	"Kyurem White Kyurem": {
 		"number": "0646",
 		"name": "White Kyurem",
 		"type": ["Dragon", "Ice"],
@@ -19787,7 +19787,7 @@
 		"speed": 95,
 		"total": 700
 	},
-	"Kyurem-Black-Kyurem": {
+	"Kyurem Black Kyurem": {
 		"number": "0646",
 		"name": "Black Kyurem",
 		"type": ["Dragon", "Ice"],
@@ -19821,7 +19821,7 @@
 		"speed": 108,
 		"total": 580
 	},
-	"Meloetta-Pirouette-Forme": {
+	"Meloetta Pirouette Forme": {
 		"number": "0648",
 		"name": "Meloetta Pirouette Forme",
 		"type": ["Normal", "Fighting"],
@@ -19838,7 +19838,7 @@
 		"speed": 128,
 		"total": 600
 	},
-	"Aegislash-Blade-Forme": {
+	"Aegislash Blade Forme": {
 		"number": "0681",
 		"name": "Aegislash Blade Forme",
 		"type": ["Steel", "Ghost"],
@@ -19855,7 +19855,7 @@
 		"speed": 60,
 		"total": 500
 	},
-	"Sliggoo-Hisuian-Form": {
+	"Sliggoo Hisuian Form": {
 		"number": "0705",
 		"name": "Hisuian Sliggoo",
 		"type": ["Steel", "Dragon"],
@@ -19872,7 +19872,7 @@
 		"speed": 40,
 		"total": 452
 	},
-	"Goodra-Hisuian-Form": {
+	"Goodra Hisuian Form": {
 		"number": "0706",
 		"name": "Hisuian Goodra",
 		"type": ["Steel", "Dragon"],
@@ -19889,7 +19889,7 @@
 		"speed": 60,
 		"total": 600
 	},
-	"Avalugg-Hisuian-Form": {
+	"Avalugg Hisuian Form": {
 		"number": "0713",
 		"name": "Hisuian Avalugg",
 		"type": ["Ice", "Rock"],
@@ -19906,7 +19906,7 @@
 		"speed": 38,
 		"total": 514
 	},
-	"Zygarde-10-Forme": {
+	"Zygarde 10 Forme": {
 		"number": "0718",
 		"name": "Zygarde 10% Forme",
 		"type": ["Dragon", "Ground"],
@@ -19923,7 +19923,7 @@
 		"speed": 115,
 		"total": 486
 	},
-	"Zygarde-Complete-Forme": {
+	"Zygarde Complete Forme": {
 		"number": "0718",
 		"name": "Zygarde Complete Forme",
 		"type": ["Dragon", "Ground"],
@@ -19940,7 +19940,7 @@
 		"speed": 85,
 		"total": 708
 	},
-	"Hoopa-Hoopa-Unbound": {
+	"Hoopa Hoopa Unbound": {
 		"number": "0720",
 		"name": "Hoopa Unbound",
 		"type": ["Psychic", "Dark"],
@@ -19957,7 +19957,7 @@
 		"speed": 80,
 		"total": 680
 	},
-	"Decidueye-Hisuian-Form": {
+	"Decidueye Hisuian Form": {
 		"number": "0724",
 		"name": "Hisuian Decidueye",
 		"type": ["Grass", "Fighting"],
@@ -19974,7 +19974,7 @@
 		"speed": 60,
 		"total": 530
 	},
-	"Oricorio-Pom-Pom-Style": {
+	"Oricorio Pom Pom Style": {
 		"number": "0741",
 		"name": "Oricorio Pom Pom Style",
 		"type": ["Electric", "Flying"],
@@ -20025,7 +20025,7 @@
 		"speed": 93,
 		"total": 476
 	},
-	"Lycanroc-Midnight-Form": {
+	"Lycanroc Midnight Form": {
 		"number": "0745",
 		"name": "Lycanroc Midnight Form",
 		"type": ["Rock"],
@@ -20059,7 +20059,7 @@
 		"speed": 110,
 		"total": 487
 	},
-	"Wishiwashi-School-Form": {
+	"Wishiwashi School Form": {
 		"number": "0746",
 		"name": "Wishiwashi School Form",
 		"type": ["Water"],
@@ -20076,7 +20076,7 @@
 		"speed": 30,
 		"total": 620
 	},
-	"Minior-Red-Core": {
+	"Minior Red Core": {
 		"number": "0774",
 		"name": "Minior Core Form",
 		"type": ["Rock", "Flying"],
@@ -20093,7 +20093,7 @@
 		"speed": 120,
 		"total": 500
 	},
-	"Necrozma-Dusk-Mane": {
+	"Necrozma Dusk Mane": {
 		"number": "0800",
 		"name": "Dusk Mane Necrozma",
 		"type": ["Psychic", "Steel"],
@@ -20110,7 +20110,7 @@
 		"speed": 77,
 		"total": 680
 	},
-	"Necrozma-Dawn-Wings": {
+	"Necrozma Dawn Wings": {
 		"number": "0800",
 		"name": "Dawn Wings Necrozma",
 		"type": ["Psychic", "Ghost"],
@@ -20127,7 +20127,7 @@
 		"speed": 77,
 		"total": 680
 	},
-	"Necrozma-Ultra": {
+	"Necrozma Ultra": {
 		"number": "0800",
 		"name": "Ultra Necrozma",
 		"type": ["Psychic", "Dragon"],
@@ -20144,7 +20144,7 @@
 		"speed": 129,
 		"total": 754
 	},
-	"Toxtricity-Low-Key-Form": {
+	"Toxtricity Low Key Form": {
 		"number": "0849",
 		"name": "Toxtricity Low Key Form",
 		"type": ["Electric", "Poison"],
@@ -20161,7 +20161,7 @@
 		"speed": 75,
 		"total": 502
 	},
-	"Eiscue-Noice-Face": {
+	"Eiscue Noice Face": {
 		"number": "0875",
 		"name": "Eiscue Noice Face",
 		"type": ["Ice"],
@@ -20178,7 +20178,7 @@
 		"speed": 130,
 		"total": 470
 	},
-	"Morpeko-Hangry-Mode": {
+	"Morpeko Hangry Mode": {
 		"number": "0877",
 		"name": "Morpeko Hangry Mode",
 		"type": ["Electric", "Dark"],
@@ -20195,7 +20195,7 @@
 		"speed": 97,
 		"total": 436
 	},
-	"Zacian-Crowned-Sword": {
+	"Zacian Crowned Sword": {
 		"number": "0888",
 		"name": "Zacian Crowned Sword",
 		"type": ["Fairy", "Steel"],
@@ -20212,7 +20212,7 @@
 		"speed": 148,
 		"total": 700
 	},
-	"Zamazenta-Crowned-Shield": {
+	"Zamazenta Crowned Shield": {
 		"number": "0889",
 		"name": "Zamazenta Crowned Shield",
 		"type": ["Fighting", "Steel"],
@@ -20229,7 +20229,7 @@
 		"speed": 128,
 		"total": 700
 	},
-	"Urshifu-Rapid-Strike-Style": {
+	"Urshifu Rapid Strike Style": {
 		"number": "0892",
 		"name": "Urshifu Rapid Strike Style",
 		"type": ["Fighting", "Water"],
@@ -20246,7 +20246,7 @@
 		"speed": 97,
 		"total": 550
 	},
-	"Calyrex-Ice-Rider": {
+	"Calyrex Ice Rider": {
 		"number": "0898",
 		"name": "Calyrex Ice Rider",
 		"type": ["Psychic", "Ice"],
@@ -20263,7 +20263,7 @@
 		"speed": 50,
 		"total": 680
 	},
-	"Calyrex-Shadow-Rider": {
+	"Calyrex Shadow Rider": {
 		"number": "0898",
 		"name": "Calyrex Shadow Rider",
 		"type": ["Psychic", "Ghost"],
@@ -20280,7 +20280,7 @@
 		"speed": 150,
 		"total": 680
 	},
-	"Ursaluna-Bloodmoon": {
+	"Ursaluna Bloodmoon": {
 		"number": "0901",
 		"name": "Ursaluna Bloodmoon",
 		"type": ["Ground", "Normal"],
@@ -20297,7 +20297,7 @@
 		"speed": 52,
 		"total": 555
 	},
-	"Enamorus-Therian-Forme": {
+	"Enamorus Therian Forme": {
 		"number": "0905",
 		"name": "Enamorus Therian Forme",
 		"type": ["Fairy", "Flying"],
@@ -20314,7 +20314,7 @@
 		"speed": 46,
 		"total": 580
 	},
-	"Maushold-Family-of-Three": {
+	"Maushold Family of Three": {
 		"number": "0925",
 		"name": "Maushold Family of Three",
 		"type": ["Normal"],
@@ -20331,7 +20331,7 @@
 		"speed": 111,
 		"total": 470
 	},
-	"Palafin-Hero-Form": {
+	"Palafin Hero Form": {
 		"number": "0964",
 		"name": "Palafin Hero Form",
 		"type": ["Water"],
@@ -20348,7 +20348,7 @@
 		"speed": 100,
 		"total": 650
 	},
-	"Tatsugiri-Droopy-Form": {
+	"Tatsugiri Droopy Form": {
 		"number": "0978",
 		"name": "Tatsugiri Droopy Form",
 		"type": ["Dragon", "Water"],
@@ -20365,7 +20365,7 @@
 		"speed": 82,
 		"total": 475
 	},
-	"Tatsugiri-Stretchy-Form": {
+	"Tatsugiri Stretchy Form": {
 		"number": "0978",
 		"name": "Tatsugiri Stretchy Form",
 		"type": ["Dragon", "Water"],
@@ -20382,7 +20382,7 @@
 		"speed": 82,
 		"total": 475
 	},
-	"Dudunsparce-Three-Segment-Form": {
+	"Dudunsparce Three Segment Form": {
 		"number": "0982",
 		"name": "Dudunsparce Three-Segment Form",
 		"type": ["Normal"],
@@ -20399,7 +20399,7 @@
 		"speed": 55,
 		"total": 520
 	},
-	"Gimmighoul-Roaming-Form": {
+	"Gimmighoul Roaming Form": {
 		"number": "0999",
 		"name": "Gimmighoul Roaming Form",
 		"type": ["Ghost"],
@@ -20416,7 +20416,7 @@
 		"speed": 80,
 		"total": 300
 	},
-	"Ogerpon-Wellspring-Mask": {
+	"Ogerpon Wellspring Mask": {
 		"number": "1017",
 		"name": "Ogerpon Wellspring Mask",
 		"type": ["Grass", "Water"],
@@ -20433,7 +20433,7 @@
 		"speed": 110,
 		"total": 550
 	},
-	"Ogerpon-Hearthflame-Mask": {
+	"Ogerpon Hearthflame Mask": {
 		"number": "1017",
 		"name": "Ogerpon Hearthflame Mask",
 		"type": ["Grass", "Fire"],
@@ -20450,7 +20450,7 @@
 		"speed": 110,
 		"total": 550
 	},
-	"Ogerpon-Cornerstone-Mask": {
+	"Ogerpon Cornerstone Mask": {
 		"number": "1017",
 		"name": "Ogerpon Cornerstone Mask",
 		"type": ["Grass", "Rock"],
@@ -20467,7 +20467,7 @@
 		"speed": 110,
 		"total": 550
 	},
-	"Terapagos-Terastal-Form": {
+	"Terapagos Terastal Form": {
 		"number": "1024",
 		"name": "Terapagos Terastal Form",
 		"type": ["Normal"],
@@ -20484,7 +20484,7 @@
 		"speed": 85,
 		"total": 600
 	},
-	"Terapagos-Stellar-Form": {
+	"Terapagos Stellar Form": {
 		"number": "1024",
 		"name": "Terapagos Stellar Form",
 		"type": ["Normal"],
