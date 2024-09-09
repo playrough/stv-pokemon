@@ -12156,7 +12156,7 @@
 	},
 	"Xerneas": {
 		"number": "#0716",
-		"name": "Xerneas",
+		"name": "Xerneas Active Mode",
 		"type": ["Fairy"],
 		"abilities": {
 			"ability1": "Fairy Aura",
@@ -19908,7 +19908,7 @@
 	},
 	"Xerneas Neutral Mode": {
 		"number": "#0716",
-		"name": "Xerneas",
+		"name": "Xerneas Neutral Mode",
 		"type": ["Fairy"],
 		"abilities": {
 			"ability1": "Fairy Aura",
