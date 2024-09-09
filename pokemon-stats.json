@@ -15556,7 +15556,7 @@
 	},
 	"Oinkologne": {
 		"number": "#0916",
-		"name": "Oinkologne",
+		"name": "Oinkologne (Male)",
 		"type": ["Normal"],
 		"abilities": {
 			"ability1": "Lingering Aroma",
@@ -20381,6 +20381,23 @@
 		"spDefense": 100,
 		"speed": 46,
 		"total": 580
+	},
+	"Oinkologne Female": {
+		"number": "#0916",
+		"name": "Oinkologne (Female)",
+		"type": ["Normal"],
+		"abilities": {
+			"ability1": "Aroma Veil",
+			"ability2": "Gluttony",
+			"hidden": "Thick Fat"
+		},
+		"hp": 115,
+		"attack": 90,
+		"defense": 70,
+		"spAttack": 59,
+		"spDefense": 90,
+		"speed": 65,
+		"total": 489
 	},
 	"Maushold Family of Three": {
 		"number": "0925",
