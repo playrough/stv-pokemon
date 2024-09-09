@@ -9929,7 +9929,7 @@
 	},
 	"Deerling": {
 		"number": "#0585",
-		"name": "Deerling",
+		"name": "Deerling Spring Form",
 		"type": ["Normal", "Grass"],
 		"abilities": {
 			"ability1": "Chlorophyll",
