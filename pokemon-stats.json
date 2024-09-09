@@ -9946,7 +9946,7 @@
 	},
 	"Sawsbuck": {
 		"number": "#0586",
-		"name": "Sawsbuck",
+		"name": "Sawsbuck Spring Form",
 		"type": ["Normal", "Grass"],
 		"abilities": {
 			"ability1": "Chlorophyll",
