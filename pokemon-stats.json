@@ -14859,7 +14859,7 @@
 	},
 	"Eiscue": {
 		"number": "#0875",
-		"name": "Eiscue",
+		"name": "Eiscue Ice Face",
 		"type": ["Ice"],
 		"abilities": {
 			"ability1": "Ice Face",
@@ -14893,7 +14893,7 @@
 	},
 	"Morpeko": {
 		"number": "#0877",
-		"name": "Morpeko",
+		"name": "Morpeko Full Belly Mode",
 		"type": ["Electric", "Dark"],
 		"abilities": {
 			"ability1": "Hunger Switch",
@@ -15080,7 +15080,7 @@
 	},
 	"Zacian": {
 		"number": "#0888",
-		"name": "Zacian",
+		"name": "Zacian Hero of Many Battles",
 		"type": ["Fairy"],
 		"abilities": {
 			"ability1": "Intrepid Sword",
@@ -15097,7 +15097,7 @@
 	},
 	"Zamazenta": {
 		"number": "#0889",
-		"name": "Zamazenta",
+		"name": "Zamazenta Hero of Many Battles",
 		"type": ["Fighting"],
 		"abilities": {
 			"ability1": "Dauntless Shield",
@@ -15148,7 +15148,7 @@
 	},
 	"Urshifu": {
 		"number": "#0892",
-		"name": "Urshifu",
+		"name": "Urshifu Single Strike Style",
 		"type": ["Fighting", "Dark"],
 		"abilities": {
 			"ability1": "Unseen Fist",
@@ -15369,7 +15369,7 @@
 	},
 	"Enamorus": {
 		"number": "#0905",
-		"name": "Enamorus",
+		"name": "Enamorus Incarnate Forme",
 		"type": ["Fairy", "Flying"],
 		"abilities": {
 			"ability1": "Cute Charm",
@@ -15709,7 +15709,7 @@
 	},
 	"Maushold": {
 		"number": "#0925",
-		"name": "Maushold",
+		"name": "Maushold Family of Four",
 		"type": ["Normal"],
 		"abilities": {
 			"ability1": "Friend Guard",
@@ -16372,7 +16372,7 @@
 	},
 	"Palafin": {
 		"number": "#0964",
-		"name": "Palafin",
+		"name": "Palafin Zero Form",
 		"type": ["Water"],
 		"abilities": {
 			"ability1": "Zero to Hero",
@@ -16610,7 +16610,7 @@
 	},
 	"Tatsugiri": {
 		"number": "#0978",
-		"name": "Tatsugiri",
+		"name": "Tatsugiri Curly Form",
 		"type": ["Dragon", "Water"],
 		"abilities": {
 			"ability1": "Commander",
@@ -16678,7 +16678,7 @@
 	},
 	"Dudunsparce": {
 		"number": "#0982",
-		"name": "Dudunsparce",
+		"name": "Dudunsparce Two-Segment Form",
 		"type": ["Normal"],
 		"abilities": {
 			"ability1": "Serene Grace",
@@ -16967,7 +16967,7 @@
 	},
 	"Gimmighoul": {
 		"number": "#0999",
-		"name": "Gimmighoul",
+		"name": "Gimmighoul Chest Form",
 		"type": ["Ghost"],
 		"abilities": {
 			"ability1": "Rattled",
@@ -17273,7 +17273,7 @@
 	},
 	"Ogerpon": {
 		"number": "#1017",
-		"name": "Ogerpon",
+		"name": "Ogerpon Teal Mask",
 		"type": ["Grass"],
 		"abilities": {
 			"ability1": "Defiant",
