@@ -18239,5 +18239,2266 @@
 		"spDefense": 110,
 		"speed": 110,
 		"total": 700
+	},
+	"Rattata-Alolan-Form": {
+		"number": "0019",
+		"name": "Alolan Rattata",
+		"type": ["Dark", "Normal"],
+		"abilities": {
+			"ability1": "Gluttony",
+			"ability2": "Hustle",
+			"hidden": "Thick Fat"
+		},
+		"hp": 30,
+		"attack": 56,
+		"defense": 35,
+		"spAttack": 25,
+		"spDefense": 35,
+		"speed": 72,
+		"total": 253
+	},
+	"Raticate-Alolan-Form": {
+		"number": "0020",
+		"name": "Alolan Raticate",
+		"type": ["Dark", "Normal"],
+		"abilities": {
+			"ability1": "Gluttony",
+			"ability2": "Hustle",
+			"hidden": "Thick Fat"
+		},
+		"hp": 75,
+		"attack": 71,
+		"defense": 70,
+		"spAttack": 40,
+		"spDefense": 80,
+		"speed": 77,
+		"total": 413
+	},
+	"Raichu-Alolan-Form": {
+		"number": "0026",
+		"name": "Alolan Raichu",
+		"type": ["Electric", "Psychic"],
+		"abilities": {
+			"ability1": "Surge Surfer",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 60,
+		"attack": 85,
+		"defense": 50,
+		"spAttack": 95,
+		"spDefense": 85,
+		"speed": 110,
+		"total": 485
+	},
+	"Sandshrew-Alolan-Form": {
+		"number": "0027",
+		"name": "Alolan Sandshrew",
+		"type": ["Ice", "Steel"],
+		"abilities": {
+			"ability1": "Snow Cloak",
+			"ability2": null,
+			"hidden": "Slush Rush"
+		},
+		"hp": 50,
+		"attack": 75,
+		"defense": 90,
+		"spAttack": 10,
+		"spDefense": 35,
+		"speed": 40,
+		"total": 300
+	},
+	"Sandslash-Alolan-Form": {
+		"number": "0028",
+		"name": "Alolan Sandslash",
+		"type": ["Ice", "Steel"],
+		"abilities": {
+			"ability1": "Snow Cloak",
+			"ability2": null,
+			"hidden": "Slush Rush"
+		},
+		"hp": 75,
+		"attack": 100,
+		"defense": 120,
+		"spAttack": 25,
+		"spDefense": 65,
+		"speed": 65,
+		"total": 450
+	},
+	"Vulpix-Alolan-Form": {
+		"number": "0037",
+		"name": "Alolan Vulpix",
+		"type": ["Ice"],
+		"abilities": {
+			"ability1": "Snow Cloak",
+			"ability2": null,
+			"hidden": "Snow Warning"
+		},
+		"hp": 38,
+		"attack": 41,
+		"defense": 40,
+		"spAttack": 50,
+		"spDefense": 65,
+		"speed": 65,
+		"total": 299
+	},
+	"Ninetales-Alolan-Form": {
+		"number": "0038",
+		"name": "Alolan Ninetales",
+		"type": ["Ice", "Fairy"],
+		"abilities": {
+			"ability1": "Snow Cloak",
+			"ability2": null,
+			"hidden": "Snow Warning"
+		},
+		"hp": 73,
+		"attack": 67,
+		"defense": 75,
+		"spAttack": 81,
+		"spDefense": 100,
+		"speed": 109,
+		"total": 505
+	},
+	"Diglett-Alolan-Form": {
+		"number": "0050",
+		"name": "Alolan Diglett",
+		"type": ["Ground", "Steel"],
+		"abilities": {
+			"ability1": "Sand Veil",
+			"ability2": "Tangling Hair",
+			"hidden": "Sand Force"
+		},
+		"hp": 10,
+		"attack": 55,
+		"defense": 30,
+		"spAttack": 35,
+		"spDefense": 45,
+		"speed": 90,
+		"total": 265
+	},
+	"Dugtrio-Alolan-Form": {
+		"number": "0051",
+		"name": "Alolan Dugtrio",
+		"type": ["Ground", "Steel"],
+		"abilities": {
+			"ability1": "Sand Veil",
+			"ability2": "Tangling Hair",
+			"hidden": "Sand Force"
+		},
+		"hp": 35,
+		"attack": 100,
+		"defense": 60,
+		"spAttack": 50,
+		"spDefense": 70,
+		"speed": 110,
+		"total": 425
+	},
+	"Meowth-Alolan-Form": {
+		"number": "0052",
+		"name": "Alolan Meowth",
+		"type": ["Dark"],
+		"abilities": {
+			"ability1": "Pickup",
+			"ability2": "Technician",
+			"hidden": "Rattled"
+		},
+		"hp": 40,
+		"attack": 35,
+		"defense": 35,
+		"spAttack": 50,
+		"spDefense": 40,
+		"speed": 90,
+		"total": 290
+	},
+	"Meowth-Galarian-Form": {
+		"number": "0052",
+		"name": "Galarian Meowth",
+		"type": ["Steel"],
+		"abilities": {
+			"ability1": "Pickup",
+			"ability2": "Tough Claws",
+			"hidden": "Unnerve"
+		},
+		"hp": 50,
+		"attack": 65,
+		"defense": 55,
+		"spAttack": 40,
+		"spDefense": 40,
+		"speed": 40,
+		"total": 290
+	},
+	"Persian-Alolan-Form": {
+		"number": "0053",
+		"name": "Alolan Persian",
+		"type": ["Dark"],
+		"abilities": {
+			"ability1": "Fur Coat",
+			"ability2": "Technician",
+			"hidden": "Rattled"
+		},
+		"hp": 65,
+		"attack": 60,
+		"defense": 60,
+		"spAttack": 75,
+		"spDefense": 65,
+		"speed": 115,
+		"total": 440
+	},
+	"Growlithe-Hisuian-Form": {
+		"number": "0058",
+		"name": "Hisuian Growlithe",
+		"type": ["Fire", "Rock"],
+		"abilities": {
+			"ability1": "Intimidate",
+			"ability2": "Flash Fire",
+			"hidden": "Rock Head"
+		},
+		"hp": 60,
+		"attack": 75,
+		"defense": 45,
+		"spAttack": 65,
+		"spDefense": 50,
+		"speed": 55,
+		"total": 350
+	},
+	"Arcanine-Hisuian-Form": {
+		"number": "0059",
+		"name": "Hisuian Arcanine",
+		"type": ["Fire", "Rock"],
+		"abilities": {
+			"ability1": "Intimidate",
+			"ability2": "Flash Fire",
+			"hidden": "Rock Head"
+		},
+		"hp": 95,
+		"attack": 115,
+		"defense": 80,
+		"spAttack": 95,
+		"spDefense": 80,
+		"speed": 90,
+		"total": 555
+	},
+	"Geodude-Alolan-Form": {
+		"number": "0074",
+		"name": "Alolan Geodude",
+		"type": ["Rock", "Electric"],
+		"abilities": {
+			"ability1": "Magnet Pull",
+			"ability2": "Sturdy",
+			"hidden": "Galvanize"
+		},
+		"hp": 40,
+		"attack": 80,
+		"defense": 100,
+		"spAttack": 30,
+		"spDefense": 30,
+		"speed": 20,
+		"total": 300
+	},
+	"Graveler-Alolan-Form": {
+		"number": "0075",
+		"name": "Alolan Graveler",
+		"type": ["Rock", "Electric"],
+		"abilities": {
+			"ability1": "Magnet Pull",
+			"ability2": "Sturdy",
+			"hidden": "Galvanize"
+		},
+		"hp": 55,
+		"attack": 95,
+		"defense": 115,
+		"spAttack": 45,
+		"spDefense": 45,
+		"speed": 35,
+		"total": 390
+	},
+	"Golem-Alolan-Form": {
+		"number": "0076",
+		"name": "Alolan Golem",
+		"type": ["Rock", "Electric"],
+		"abilities": {
+			"ability1": "Magnet Pull",
+			"ability2": "Sturdy",
+			"hidden": "Galvanize"
+		},
+		"hp": 80,
+		"attack": 120,
+		"defense": 130,
+		"spAttack": 55,
+		"spDefense": 65,
+		"speed": 45,
+		"total": 495
+	},
+	"Ponyta-Galarian-Form": {
+		"number": "0077",
+		"name": "Galarian Ponyta",
+		"type": ["Psychic"],
+		"abilities": {
+			"ability1": "Run Away",
+			"ability2": "Pastel Veil",
+			"hidden": "Anticipation"
+		},
+		"hp": 50,
+		"attack": 85,
+		"defense": 55,
+		"spAttack": 65,
+		"spDefense": 65,
+		"speed": 90,
+		"total": 410
+	},
+	"Rapidash-Galarian-Form": {
+		"number": "0078",
+		"name": "Galarian Rapidash",
+		"type": ["Psychic", "Fairy"],
+		"abilities": {
+			"ability1": "Run Away",
+			"ability2": "Pastel Veil",
+			"hidden": "Anticipation"
+		},
+		"hp": 65,
+		"attack": 100,
+		"defense": 70,
+		"spAttack": 80,
+		"spDefense": 80,
+		"speed": 105,
+		"total": 500
+	},
+	"Slowpoke-Galarian-Form": {
+		"number": "0079",
+		"name": "Galarian Slowpoke",
+		"type": ["Psychic"],
+		"abilities": {
+			"ability1": "Gluttony",
+			"ability2": "Own Tempo",
+			"hidden": "Regenerator"
+		},
+		"hp": 90,
+		"attack": 65,
+		"defense": 65,
+		"spAttack": 40,
+		"spDefense": 40,
+		"speed": 15,
+		"total": 315
+	},
+	"Slowbro-Galarian-Form": {
+		"number": "0080",
+		"name": "Galarian Slowbro",
+		"type": ["Poison", "Psychic"],
+		"abilities": {
+			"ability1": "Quick Draw",
+			"ability2": "Own Tempo",
+			"hidden": "Regenerator"
+		},
+		"hp": 95,
+		"attack": 100,
+		"defense": 95,
+		"spAttack": 100,
+		"spDefense": 70,
+		"speed": 30,
+		"total": 490
+	},
+	"Farfetch_d-Galarian-Form": {
+		"number": "0083",
+		"name": "Galarian Farfetch'd",
+		"type": ["Fighting"],
+		"abilities": {
+			"ability1": "Steadfast",
+			"ability2": null,
+			"hidden": "Scrappy"
+		},
+		"hp": 52,
+		"attack": 95,
+		"defense": 55,
+		"spAttack": 58,
+		"spDefense": 62,
+		"speed": 55,
+		"total": 377
+	},
+	"Grimer-Alolan-Form": {
+		"number": "0088",
+		"name": "Alolan Grimer",
+		"type": ["Poison", "Dark"],
+		"abilities": {
+			"ability1": "Poison Touch",
+			"ability2": "Gluttony",
+			"hidden": "Power of Alchemy"
+		},
+		"hp": 80,
+		"attack": 80,
+		"defense": 50,
+		"spAttack": 40,
+		"spDefense": 50,
+		"speed": 25,
+		"total": 325
+	},
+	"Muk-Alolan-Form": {
+		"number": "0089",
+		"name": "Alolan Muk",
+		"type": ["Poison", "Dark"],
+		"abilities": {
+			"ability1": "Poison Touch",
+			"ability2": "Gluttony",
+			"hidden": "Power of Alchemy"
+		},
+		"hp": 105,
+		"attack": 105,
+		"defense": 75,
+		"spAttack": 65,
+		"spDefense": 100,
+		"speed": 50,
+		"total": 500
+	},
+	"Voltorb-Hisuian-Form": {
+		"number": "0100",
+		"name": "Hisuian Voltorb",
+		"type": ["Electric", "Grass"],
+		"abilities": {
+			"ability1": "Soundproof",
+			"ability2": "Static",
+			"hidden": "Aftermath"
+		},
+		"hp": 40,
+		"attack": 30,
+		"defense": 50,
+		"spAttack": 55,
+		"spDefense": 55,
+		"speed": 100,
+		"total": 330
+	},
+	"Electrode-Hisuian-Form": {
+		"number": "0101",
+		"name": "Hisuian Electrode",
+		"type": ["Electric", "Grass"],
+		"abilities": {
+			"ability1": "Soundproof",
+			"ability2": "Static",
+			"hidden": "Aftermath"
+		},
+		"hp": 60,
+		"attack": 50,
+		"defense": 70,
+		"spAttack": 80,
+		"spDefense": 80,
+		"speed": 150,
+		"total": 490
+	},
+	"Exeggutor-Alolan-Form": {
+		"number": "0103",
+		"name": "Alolan Exeggutor",
+		"type": ["Grass", "Dragon"],
+		"abilities": {
+			"ability1": "Frisk",
+			"ability2": null,
+			"hidden": "Harvest"
+		},
+		"hp": 95,
+		"attack": 105,
+		"defense": 85,
+		"spAttack": 125,
+		"spDefense": 75,
+		"speed": 45,
+		"total": 530
+	},
+	"Marowak-Alolan-Form": {
+		"number": "0105",
+		"name": "Alolan Marowak",
+		"type": ["Fire", "Ghost"],
+		"abilities": {
+			"ability1": "Cursed Body",
+			"ability2": "Lightning Rod",
+			"hidden": "Rock Head"
+		},
+		"hp": 60,
+		"attack": 80,
+		"defense": 110,
+		"spAttack": 50,
+		"spDefense": 80,
+		"speed": 45,
+		"total": 425
+	},
+	"Weezing-Galarian-Form": {
+		"number": "0110",
+		"name": "Galarian Weezing",
+		"type": ["Poison", "Fairy"],
+		"abilities": {
+			"ability1": "Levitate",
+			"ability2": "Neutralizing Gas",
+			"hidden": "Misty Surge"
+		},
+		"hp": 65,
+		"attack": 90,
+		"defense": 120,
+		"spAttack": 85,
+		"spDefense": 70,
+		"speed": 60,
+		"total": 490
+	},
+	"Mr-Mime-Galarian-Form": {
+		"number": "0122",
+		"name": "Galarian Mr. Mime",
+		"type": ["Ice", "Psychic"],
+		"abilities": {
+			"ability1": "Vital Spirit",
+			"ability2": "Screen Cleaner",
+			"hidden": "Ice Body"
+		},
+		"hp": 50,
+		"attack": 65,
+		"defense": 65,
+		"spAttack": 90,
+		"spDefense": 90,
+		"speed": 100,
+		"total": 460
+	},
+	"Tauros-Paldean-Form-Combat-Breed": {
+		"number": "0128",
+		"name": "Combat Breed Paldean Tauros",
+		"type": ["Fighting"],
+		"abilities": {
+			"ability1": "Intimidate",
+			"ability2": "Anger Point",
+			"hidden": "Cud Chew"
+		},
+		"hp": 75,
+		"attack": 110,
+		"defense": 105,
+		"spAttack": 30,
+		"spDefense": 70,
+		"speed": 100,
+		"total": 490
+	},
+	"Tauros-Paldean-Form-Blaze-Breed": {
+		"number": "0128",
+		"name": "Blaze Breed Paldean Tauros",
+		"type": ["Fighting", "Fire"],
+		"abilities": {
+			"ability1": "Intimidate",
+			"ability2": "Anger Point",
+			"hidden": "Cud Chew"
+		},
+		"hp": 75,
+		"attack": 110,
+		"defense": 105,
+		"spAttack": 30,
+		"spDefense": 70,
+		"speed": 100,
+		"total": 490
+	},
+	"Tauros-Paldean-Form-Aqua-Breed": {
+		"number": "0128",
+		"name": "Aqua Breed Paldean Tauros",
+		"type": ["Fighting", "Water"],
+		"abilities": {
+			"ability1": "Intimidate",
+			"ability2": "Anger Point",
+			"hidden": "Cud Chew"
+		},
+		"hp": 75,
+		"attack": 110,
+		"defense": 105,
+		"spAttack": 30,
+		"spDefense": 70,
+		"speed": 100,
+		"total": 490
+	},
+	"Articuno-Galarian-Form": {
+		"number": "0144",
+		"name": "Galarian Articuno",
+		"type": ["Psychic", "Flying"],
+		"abilities": {
+			"ability1": "Competitive",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 90,
+		"attack": 85,
+		"defense": 85,
+		"spAttack": 125,
+		"spDefense": 100,
+		"speed": 95,
+		"total": 580
+	},
+	"Zapdos-Galarian-Form": {
+		"number": "0145",
+		"name": "Galarian Zapdos",
+		"type": ["Fighting", "Flying"],
+		"abilities": {
+			"ability1": "Defiant",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 90,
+		"attack": 125,
+		"defense": 90,
+		"spAttack": 85,
+		"spDefense": 90,
+		"speed": 100,
+		"total": 580
+	},
+	"Moltres-Galarian-Form": {
+		"number": "0146",
+		"name": "Galarian Moltres",
+		"type": ["Dark", "Flying"],
+		"abilities": {
+			"ability1": "Berserk",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 90,
+		"attack": 85,
+		"defense": 90,
+		"spAttack": 100,
+		"spDefense": 125,
+		"speed": 90,
+		"total": 580
+	},
+	"Typhlosion-Hisuian-Form": {
+		"number": "0157",
+		"name": "Hisuian Typhlosion",
+		"type": ["Fire", "Ghost"],
+		"abilities": {
+			"ability1": "Blaze",
+			"ability2": null,
+			"hidden": "Frisk"
+		},
+		"hp": 73,
+		"attack": 84,
+		"defense": 78,
+		"spAttack": 119,
+		"spDefense": 85,
+		"speed": 95,
+		"total": 534
+	},
+	"Wooper-Paldean-Form": {
+		"number": "0194",
+		"name": "Paldean Wooper",
+		"type": ["Poison", "Ground"],
+		"abilities": {
+			"ability1": "Poison Point",
+			"ability2": "Water Absorb",
+			"hidden": "Unaware"
+		},
+		"hp": 55,
+		"attack": 45,
+		"defense": 45,
+		"spAttack": 25,
+		"spDefense": 25,
+		"speed": 15,
+		"total": 210
+	},
+	"Slowking-Galarian-Form": {
+		"number": "0199",
+		"name": "Galarian Slowking",
+		"type": ["Poison", "Psychic"],
+		"abilities": {
+			"ability1": "Curious Medicine",
+			"ability2": "Own Tempo",
+			"hidden": "Regenerator"
+		},
+		"hp": 95,
+		"attack": 65,
+		"defense": 80,
+		"spAttack": 110,
+		"spDefense": 110,
+		"speed": 30,
+		"total": 490
+	},
+	"Qwilfish-Hisuian-Form": {
+		"number": "0211",
+		"name": "Hisuian Qwilfish",
+		"type": ["Dark", "Poison"],
+		"abilities": {
+			"ability1": "Poison Point",
+			"ability2": "Swift Swim",
+			"hidden": "Intimidate"
+		},
+		"hp": 65,
+		"attack": 95,
+		"defense": 85,
+		"spAttack": 55,
+		"spDefense": 55,
+		"speed": 85,
+		"total": 440
+	},
+	"Sneasel-Hisuian-Form": {
+		"number": "0215",
+		"name": "Hisuian Sneasel",
+		"type": ["Fighting", "Poison"],
+		"abilities": {
+			"ability1": "Inner Focus",
+			"ability2": "Keen Eye",
+			"hidden": "Pickpocket"
+		},
+		"hp": 55,
+		"attack": 95,
+		"defense": 55,
+		"spAttack": 35,
+		"spDefense": 75,
+		"speed": 115,
+		"total": 430
+	},
+	"Corsola-Galarian-Form": {
+		"number": "0222",
+		"name": "Galarian Corsola",
+		"type": ["Ghost"],
+		"abilities": {
+			"ability1": "Weak Armor",
+			"ability2": null,
+			"hidden": "Cursed Body"
+		},
+		"hp": 60,
+		"attack": 55,
+		"defense": 100,
+		"spAttack": 65,
+		"spDefense": 100,
+		"speed": 30,
+		"total": 410
+	},
+	"Zigzagoon-Galarian-Form": {
+		"number": "0263",
+		"name": "Galarian Zigzagoon",
+		"type": ["Dark", "Normal"],
+		"abilities": {
+			"ability1": "Pickup",
+			"ability2": "Gluttony",
+			"hidden": "Quick Feet"
+		},
+		"hp": 38,
+		"attack": 30,
+		"defense": 41,
+		"spAttack": 30,
+		"spDefense": 41,
+		"speed": 60,
+		"total": 240
+	},
+	"Linoone-Galarian-Form": {
+		"number": "0264",
+		"name": "Galarian Linoone",
+		"type": ["Dark", "Normal"],
+		"abilities": {
+			"ability1": "Pickup",
+			"ability2": "Gluttony",
+			"hidden": "Quick Feet"
+		},
+		"hp": 78,
+		"attack": 70,
+		"defense": 61,
+		"spAttack": 50,
+		"spDefense": 61,
+		"speed": 100,
+		"total": 420
+	},
+	"Castform-Sunny-Form": {
+		"number": "0351",
+		"name": "Castform Sunny Form",
+		"type": ["Fire"],
+		"abilities": {
+			"ability1": "Forecast",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 70,
+		"attack": 70,
+		"defense": 70,
+		"spAttack": 70,
+		"spDefense": 70,
+		"speed": 70,
+		"total": 420
+	},
+	"Castform-Rainy-Form": {
+		"number": "0351",
+		"name": "Castform Rainy Form",
+		"type": ["Water"],
+		"abilities": {
+			"ability1": "Forecast",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 70,
+		"attack": 70,
+		"defense": 70,
+		"spAttack": 70,
+		"spDefense": 70,
+		"speed": 70,
+		"total": 420
+	},
+	"Castform-Snowy-Form": {
+		"number": "0351",
+		"name": "Castform Snowy Form",
+		"type": ["Ice"],
+		"abilities": {
+			"ability1": "Forecast",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 70,
+		"attack": 70,
+		"defense": 70,
+		"spAttack": 70,
+		"spDefense": 70,
+		"speed": 70,
+		"total": 420
+	},
+	"Primal Kyogre": {
+		"number": "0382",
+		"name": "Primal Kyogre",
+		"type": ["Water"],
+		"abilities": {
+			"ability1": "Primordial Sea",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 100,
+		"attack": 150,
+		"defense": 90,
+		"spAttack": 180,
+		"spDefense": 160,
+		"speed": 90,
+		"total": 770
+	},
+	"Primal Groudon": {
+		"number": "0383",
+		"name": "Primal Groudon",
+		"type": ["Ground", "Fire"],
+		"abilities": {
+			"ability1": "Desolate Land",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 100,
+		"attack": 180,
+		"defense": 160,
+		"spAttack": 150,
+		"spDefense": 90,
+		"speed": 90,
+		"total": 770
+	},
+	"Deoxys Attack Forme": {
+		"number": "0386",
+		"name": "Deoxys Attack Forme",
+		"type": ["Psychic"],
+		"abilities": {
+			"ability1": "Pressure",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 50,
+		"attack": 180,
+		"defense": 20,
+		"spAttack": 180,
+		"spDefense": 20,
+		"speed": 150,
+		"total": 600
+	},
+	"Deoxys Defense Forme": {
+		"number": "0386",
+		"name": "Deoxys Defense Forme",
+		"type": ["Psychic"],
+		"abilities": {
+			"ability1": "Pressure",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 50,
+		"attack": 70,
+		"defense": 160,
+		"spAttack": 70,
+		"spDefense": 160,
+		"speed": 90,
+		"total": 600
+	},
+	"Deoxys Speed Forme": {
+		"number": "0386",
+		"name": "Deoxys Speed Forme",
+		"type": ["Psychic"],
+		"abilities": {
+			"ability1": "Pressure",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 50,
+		"attack": 95,
+		"defense": 90,
+		"spAttack": 95,
+		"spDefense": 90,
+		"speed": 180,
+		"total": 600
+	},
+	"Burmy Sandy Cloak": {
+		"number": "0412",
+		"name": "Burmy Sandy Cloak",
+		"type": ["Bug"],
+		"abilities": {
+			"ability1": "Shed Skin",
+			"ability2": null,
+			"hidden": "Overcoat"
+		},
+		"hp": 40,
+		"attack": 29,
+		"defense": 45,
+		"spAttack": 29,
+		"spDefense": 45,
+		"speed": 36,
+		"total": 224
+	},
+	"Burmy Trash Cloak": {
+		"number": "0412",
+		"name": "Burmy Trash Cloak",
+		"type": ["Bug"],
+		"abilities": {
+			"ability1": "Shed Skin",
+			"ability2": null,
+			"hidden": "Overcoat"
+		},
+		"hp": 40,
+		"attack": 29,
+		"defense": 45,
+		"spAttack": 29,
+		"spDefense": 45,
+		"speed": 36,
+		"total": 224
+	},
+	"Wormadam Sandy Cloak": {
+		"number": "0413",
+		"name": "Wormadam Sandy Cloak",
+		"type": ["Bug", "Ground"],
+		"abilities": {
+			"ability1": "Anticipation",
+			"ability2": null,
+			"hidden": "Overcoat"
+		},
+		"hp": 60,
+		"attack": 79,
+		"defense": 105,
+		"spAttack": 59,
+		"spDefense": 85,
+		"speed": 36,
+		"total": 424
+	},
+	"Wormadam Trash Cloak": {
+		"number": "0413",
+		"name": "Wormadam Trash Cloak",
+		"type": ["Bug", "Steel"],
+		"abilities": {
+			"ability1": "Anticipation",
+			"ability2": null,
+			"hidden": "Overcoat"
+		},
+		"hp": 60,
+		"attack": 69,
+		"defense": 95,
+		"spAttack": 69,
+		"spDefense": 95,
+		"speed": 36,
+		"total": 424
+	},
+	"Cherrim-Sunshine-Form": {
+		"number": "0421",
+		"name": "Cherrim Sunshine Form",
+		"type": ["Grass"],
+		"abilities": {
+			"ability1": "Flower Gift",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 70,
+		"attack": 60,
+		"defense": 70,
+		"spAttack": 87,
+		"spDefense": 78,
+		"speed": 85,
+		"total": 450
+	},
+	"Shellos-East-Sea": {
+		"number": "0422",
+		"name": "Shellos East Sea",
+		"type": ["Water"],
+		"abilities": {
+			"ability1": "Sticky Hold",
+			"ability2": "Storm Drain",
+			"hidden": "Sand Force"
+		},
+		"hp": 76,
+		"attack": 48,
+		"defense": 48,
+		"spAttack": 57,
+		"spDefense": 62,
+		"speed": 34,
+		"total": 325
+	},
+	"Gastrodon-East-Sea": {
+		"number": "0423",
+		"name": "Gastrodon East Sea",
+		"type": ["Water", "Ground"],
+		"abilities": {
+			"ability1": "Sticky Hold",
+			"ability2": "Storm Drain",
+			"hidden": "Sand Force"
+		},
+		"hp": 111,
+		"attack": 83,
+		"defense": 68,
+		"spAttack": 92,
+		"spDefense": 82,
+		"speed": 39,
+		"total": 475
+	},
+	"Rotom-Heat-Rotom": {
+		"number": "0479",
+		"name": "Heat Rotom",
+		"type": ["Electric", "Fire"],
+		"abilities": {
+			"ability1": "Levitate",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 50,
+		"attack": 65,
+		"defense": 107,
+		"spAttack": 105,
+		"spDefense": 107,
+		"speed": 86,
+		"total": 520
+	},
+	"Rotom-Wash-Rotom": {
+		"number": "0479",
+		"name": "Wash Rotom",
+		"type": ["Electric", "Water"],
+		"abilities": {
+			"ability1": "Levitate",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 50,
+		"attack": 65,
+		"defense": 107,
+		"spAttack": 105,
+		"spDefense": 107,
+		"speed": 86,
+		"total": 520
+	},
+	"Rotom-Frost-Rotom": {
+		"number": "0479",
+		"name": "Frost Rotom",
+		"type": ["Electric", "Ice"],
+		"abilities": {
+			"ability1": "Levitate",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 50,
+		"attack": 65,
+		"defense": 107,
+		"spAttack": 105,
+		"spDefense": 107,
+		"speed": 86,
+		"total": 520
+	},
+	"Rotom-Fan-Rotom": {
+		"number": "0479",
+		"name": "Fan Rotom",
+		"type": ["Electric", "Flying"],
+		"abilities": {
+			"ability1": "Levitate",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 50,
+		"attack": 65,
+		"defense": 107,
+		"spAttack": 105,
+		"spDefense": 107,
+		"speed": 86,
+		"total": 520
+	},
+	"Rotom-Mow-Rotom": {
+		"number": "0479",
+		"name": "Mow Rotom",
+		"type": ["Electric", "Grass"],
+		"abilities": {
+			"ability1": "Levitate",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 50,
+		"attack": 65,
+		"defense": 107,
+		"spAttack": 105,
+		"spDefense": 107,
+		"speed": 86,
+		"total": 520
+	},
+	"Dialga Origin Forme": {
+		"number": "0483",
+		"name": "Dialga Origin Forme",
+		"type": ["Steel", "Dragon"],
+		"abilities": {
+			"ability1": "Pressure",
+			"ability2": null,
+			"hidden": "Telepathy"
+		},
+		"hp": 100,
+		"attack": 100,
+		"defense": 120,
+		"spAttack": 150,
+		"spDefense": 120,
+		"speed": 90,
+		"total": 680
+	},
+	"Palkia Origin Forme": {
+		"number": "0484",
+		"name": "Palkia Origin Forme",
+		"type": ["Water", "Dragon"],
+		"abilities": {
+			"ability1": "Pressure",
+			"ability2": null,
+			"hidden": "Telepathy"
+		},
+		"hp": 90,
+		"attack": 100,
+		"defense": 100,
+		"spAttack": 150,
+		"spDefense": 120,
+		"speed": 120,
+		"total": 680
+	},
+	"Giratina Origin Forme": {
+		"number": "0487",
+		"name": "Giratina Origin Forme",
+		"type": ["Ghost", "Dragon"],
+		"abilities": {
+			"ability1": "Levitate",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 150,
+		"attack": 120,
+		"defense": 100,
+		"spAttack": 120,
+		"spDefense": 100,
+		"speed": 90,
+		"total": 680
+	},
+	"Shaymin Sky Forme": {
+		"number": "0492",
+		"name": "Shaymin Sky Forme",
+		"type": ["Grass", "Flying"],
+		"abilities": {
+			"ability1": "Serene Grace",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 100,
+		"attack": 103,
+		"defense": 75,
+		"spAttack": 120,
+		"spDefense": 75,
+		"speed": 127,
+		"total": 600
+	},
+	"Samurott-Hisuian-Form": {
+		"number": "0503",
+		"name": "Hisuian Samurott",
+		"type": ["Water", "Dark"],
+		"abilities": {
+			"ability1": "Torrent",
+			"ability2": null,
+			"hidden": "Sharpness"
+		},
+		"hp": 90,
+		"attack": 108,
+		"defense": 80,
+		"spAttack": 100,
+		"spDefense": 65,
+		"speed": 85,
+		"total": 528
+	},
+	"Lilligant-Hisuian-Form": {
+		"number": "0549",
+		"name": "Hisuian Lilligant",
+		"type": ["Grass", "Fighting"],
+		"abilities": {
+			"ability1": "Chlorophyll",
+			"ability2": "Hustle",
+			"hidden": "Leaf Guard"
+		},
+		"hp": 70,
+		"attack": 105,
+		"defense": 75,
+		"spAttack": 50,
+		"spDefense": 75,
+		"speed": 105,
+		"total": 480
+	},
+	"Basculin-Blue-Striped-Form": {
+		"number": "0550",
+		"name": "Basculin Blue Striped Form",
+		"type": ["Water"],
+		"abilities": {
+			"ability1": "Rock Head",
+			"ability2": "Adaptability",
+			"hidden": "Mold Breaker"
+		},
+		"hp": 70,
+		"attack": 92,
+		"defense": 65,
+		"spAttack": 80,
+		"spDefense": 55,
+		"speed": 98,
+		"total": 460
+	},
+	"Basculin-White-Striped-Form": {
+		"number": "0550",
+		"name": "Basculin White Striped Form",
+		"type": ["Water"],
+		"abilities": {
+			"ability1": "Rattled",
+			"ability2": "Adaptability",
+			"hidden": "Mold Breaker"
+		},
+		"hp": 70,
+		"attack": 92,
+		"defense": 65,
+		"spAttack": 80,
+		"spDefense": 55,
+		"speed": 98,
+		"total": 460
+	},
+	"Darumaka-Galarian-Form": {
+		"number": "0554",
+		"name": "Galarian Darumaka",
+		"type": ["Ice"],
+		"abilities": {
+			"ability1": "Hustle",
+			"ability2": null,
+			"hidden": "Inner Focus"
+		},
+		"hp": 70,
+		"attack": 90,
+		"defense": 45,
+		"spAttack": 15,
+		"spDefense": 45,
+		"speed": 50,
+		"total": 315
+	},
+	"Darmanitan Zen Mode": {
+		"number": "0555",
+		"name": "Darmanitan Zen Mode",
+		"type": ["Fire", "Psychic"],
+		"abilities": {
+			"ability1": "Sheer Force",
+			"ability2": null,
+			"hidden": "Zen Mode"
+		},
+		"hp": 105,
+		"attack": 30,
+		"defense": 105,
+		"spAttack": 140,
+		"spDefense": 105,
+		"speed": 55,
+		"total": 540
+	},
+	"Darmanitan-Galarian-Form": {
+		"number": "0555",
+		"name": "Galarian Darmanitan",
+		"type": ["Ice"],
+		"abilities": {
+			"ability1": "Gorilla Tactics",
+			"ability2": null,
+			"hidden": "Zen Mode"
+		},
+		"hp": 105,
+		"attack": 140,
+		"defense": 55,
+		"spAttack": 30,
+		"spDefense": 55,
+		"speed": 95,
+		"total": 480
+	},
+	"Darmanitan-Zen-Mode-Galarian-Form": {
+		"number": "0555",
+		"name": "Galarian Darmanitan Zen Mode",
+		"type": ["Ice", "Fire"],
+		"abilities": {
+			"ability1": "Gorilla Tactics",
+			"ability2": null,
+			"hidden": "Zen Mode"
+		},
+		"hp": 105,
+		"attack": 160,
+		"defense": 55,
+		"spAttack": 30,
+		"spDefense": 55,
+		"speed": 135,
+		"total": 540
+	},
+	"Yamask-Galarian-Form": {
+		"number": "0562",
+		"name": "Galarian Yamask",
+		"type": ["Ground", "Ghost"],
+		"abilities": {
+			"ability1": "Wandering Spirit",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 38,
+		"attack": 55,
+		"defense": 85,
+		"spAttack": 30,
+		"spDefense": 65,
+		"speed": 30,
+		"total": 303
+	},
+	"Zorua-Hisuian-Form": {
+		"number": "0570",
+		"name": "Hisuian Zorua",
+		"type": ["Normal", "Ghost"],
+		"abilities": {
+			"ability1": "Illusion",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 35,
+		"attack": 60,
+		"defense": 40,
+		"spAttack": 85,
+		"spDefense": 40,
+		"speed": 70,
+		"total": 330
+	},
+	"Zoroark-Hisuian-Form": {
+		"number": "0571",
+		"name": "Hisuian Zoroark",
+		"type": ["Normal", "Ghost"],
+		"abilities": {
+			"ability1": "Illusion",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 55,
+		"attack": 100,
+		"defense": 60,
+		"spAttack": 125,
+		"spDefense": 60,
+		"speed": 110,
+		"total": 510
+	},
+	"Deerling Summer Form": {
+		"number": "0585",
+		"name": "Deerling Summer Form",
+		"type": ["Normal", "Grass"],
+		"abilities": {
+			"ability1": "Chlorophyll",
+			"ability2": "Sap Sipper",
+			"hidden": "Serene Grace"
+		},
+		"hp": 60,
+		"attack": 60,
+		"defense": 50,
+		"spAttack": 40,
+		"spDefense": 50,
+		"speed": 75,
+		"total": 335
+	},
+	"Deerling Autumn Form": {
+		"number": "0585",
+		"name": "Deerling Autumn Form",
+		"type": ["Normal", "Grass"],
+		"abilities": {
+			"ability1": "Chlorophyll",
+			"ability2": "Sap Sipper",
+			"hidden": "Serene Grace"
+		},
+		"hp": 60,
+		"attack": 60,
+		"defense": 50,
+		"spAttack": 40,
+		"spDefense": 50,
+		"speed": 75,
+		"total": 335
+	},
+	"Deerling Winter Form": {
+		"number": "0585",
+		"name": "Deerling Winter Form",
+		"type": ["Normal", "Grass"],
+		"abilities": {
+			"ability1": "Chlorophyll",
+			"ability2": "Sap Sipper",
+			"hidden": "Serene Grace"
+		},
+		"hp": 60,
+		"attack": 60,
+		"defense": 50,
+		"spAttack": 40,
+		"spDefense": 50,
+		"speed": 75,
+		"total": 335
+	},
+	"Sawsbuck Summer Form": {
+		"number": "0586",
+		"name": "Sawsbuck Summer Form",
+		"type": ["Normal", "Grass"],
+		"abilities": {
+			"ability1": "Chlorophyll",
+			"ability2": "Sap Sipper",
+			"hidden": "Serene Grace"
+		},
+		"hp": 80,
+		"attack": 100,
+		"defense": 70,
+		"spAttack": 60,
+		"spDefense": 70,
+		"speed": 95,
+		"total": 475
+	},
+	"Sawsbuck Autumn Form": {
+		"number": "0586",
+		"name": "Sawsbuck Autumn Form",
+		"type": ["Normal", "Grass"],
+		"abilities": {
+			"ability1": "Chlorophyll",
+			"ability2": "Sap Sipper",
+			"hidden": "Serene Grace"
+		},
+		"hp": 80,
+		"attack": 100,
+		"defense": 70,
+		"spAttack": 60,
+		"spDefense": 70,
+		"speed": 95,
+		"total": 475
+	},
+	"Sawsbuck Winter Form": {
+		"number": "0586",
+		"name": "Sawsbuck Winter Form",
+		"type": ["Normal", "Grass"],
+		"abilities": {
+			"ability1": "Chlorophyll",
+			"ability2": "Sap Sipper",
+			"hidden": "Serene Grace"
+		},
+		"hp": 80,
+		"attack": 100,
+		"defense": 70,
+		"spAttack": 60,
+		"spDefense": 70,
+		"speed": 95,
+		"total": 475
+	},
+	"Stunfisk-Galarian-Form": {
+		"number": "0618",
+		"name": "Galarian Stunfisk",
+		"type": ["Ground", "Steel"],
+		"abilities": {
+			"ability1": "Mimicry",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 109,
+		"attack": 81,
+		"defense": 99,
+		"spAttack": 66,
+		"spDefense": 84,
+		"speed": 32,
+		"total": 471
+	},
+	"Braviary-Hisuian-Form": {
+		"number": "0628",
+		"name": "Hisuian Braviary",
+		"type": ["Psychic", "Flying"],
+		"abilities": {
+			"ability1": "Keen Eye",
+			"ability2": "Sheer Force",
+			"hidden": "Tinted Lens"
+		},
+		"hp": 110,
+		"attack": 83,
+		"defense": 70,
+		"spAttack": 112,
+		"spDefense": 70,
+		"speed": 65,
+		"total": 510
+	},
+	"Tornadus-Therian-Forme": {
+		"number": "0641",
+		"name": "Tornadus Therian Forme",
+		"type": ["Flying"],
+		"abilities": {
+			"ability1": "Regenerator",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 79,
+		"attack": 100,
+		"defense": 80,
+		"spAttack": 110,
+		"spDefense": 90,
+		"speed": 121,
+		"total": 580
+	},
+	"Thundurus-Therian-Forme": {
+		"number": "0642",
+		"name": "Thundurus Therian Forme",
+		"type": ["Electric", "Flying"],
+		"abilities": {
+			"ability1": "Volt Absorb",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 79,
+		"attack": 105,
+		"defense": 70,
+		"spAttack": 145,
+		"spDefense": 80,
+		"speed": 101,
+		"total": 580
+	},
+	"Landorus-Therian-Forme": {
+		"number": "0645",
+		"name": "Landorus Therian Forme",
+		"type": ["Ground", "Flying"],
+		"abilities": {
+			"ability1": "Intimidate",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 89,
+		"attack": 145,
+		"defense": 90,
+		"spAttack": 105,
+		"spDefense": 80,
+		"speed": 91,
+		"total": 600
+	},
+	"Kyurem-White-Kyurem": {
+		"number": "0646",
+		"name": "White Kyurem",
+		"type": ["Dragon", "Ice"],
+		"abilities": {
+			"ability1": "Turboblaze",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 125,
+		"attack": 120,
+		"defense": 90,
+		"spAttack": 170,
+		"spDefense": 100,
+		"speed": 95,
+		"total": 700
+	},
+	"Kyurem-Black-Kyurem": {
+		"number": "0646",
+		"name": "Black Kyurem",
+		"type": ["Dragon", "Ice"],
+		"abilities": {
+			"ability1": "Teravolt",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 125,
+		"attack": 170,
+		"defense": 100,
+		"spAttack": 120,
+		"spDefense": 90,
+		"speed": 95,
+		"total": 700
+	},
+	"Keldeo Resolute Form": {
+		"number": "0647",
+		"name": "Keldeo Resolute Form",
+		"type": ["Water", "Fighting"],
+		"abilities": {
+			"ability1": "Justified",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 91,
+		"attack": 72,
+		"defense": 90,
+		"spAttack": 129,
+		"spDefense": 90,
+		"speed": 108,
+		"total": 580
+	},
+	"Meloetta-Pirouette-Forme": {
+		"number": "0648",
+		"name": "Meloetta Pirouette Forme",
+		"type": ["Normal", "Fighting"],
+		"abilities": {
+			"ability1": "Serene Grace",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 100,
+		"attack": 128,
+		"defense": 90,
+		"spAttack": 77,
+		"spDefense": 77,
+		"speed": 128,
+		"total": 600
+	},
+	"Aegislash-Blade-Forme": {
+		"number": "0681",
+		"name": "Aegislash Blade Forme",
+		"type": ["Steel", "Ghost"],
+		"abilities": {
+			"ability1": "Stance Change",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 60,
+		"attack": 140,
+		"defense": 50,
+		"spAttack": 140,
+		"spDefense": 50,
+		"speed": 60,
+		"total": 500
+	},
+	"Sliggoo-Hisuian-Form": {
+		"number": "0705",
+		"name": "Hisuian Sliggoo",
+		"type": ["Steel", "Dragon"],
+		"abilities": {
+			"ability1": "Sap Sipper",
+			"ability2": "Shell Armor",
+			"hidden": "Gooey"
+		},
+		"hp": 58,
+		"attack": 75,
+		"defense": 83,
+		"spAttack": 83,
+		"spDefense": 113,
+		"speed": 40,
+		"total": 452
+	},
+	"Goodra-Hisuian-Form": {
+		"number": "0706",
+		"name": "Hisuian Goodra",
+		"type": ["Steel", "Dragon"],
+		"abilities": {
+			"ability1": "Sap Sipper",
+			"ability2": "Shell Armor",
+			"hidden": "Gooey"
+		},
+		"hp": 80,
+		"attack": 100,
+		"defense": 100,
+		"spAttack": 110,
+		"spDefense": 150,
+		"speed": 60,
+		"total": 600
+	},
+	"Avalugg-Hisuian-Form": {
+		"number": "0713",
+		"name": "Hisuian Avalugg",
+		"type": ["Ice", "Rock"],
+		"abilities": {
+			"ability1": "Strong Jaw",
+			"ability2": "Ice Body",
+			"hidden": "Sturdy"
+		},
+		"hp": 95,
+		"attack": 127,
+		"defense": 184,
+		"spAttack": 34,
+		"spDefense": 36,
+		"speed": 38,
+		"total": 514
+	},
+	"Zygarde-10-Forme": {
+		"number": "0718",
+		"name": "Zygarde 10% Forme",
+		"type": ["Dragon", "Ground"],
+		"abilities": {
+			"ability1": "Aura Break",
+			"ability2": "Power Construct",
+			"hidden": null
+		},
+		"hp": 54,
+		"attack": 100,
+		"defense": 71,
+		"spAttack": 61,
+		"spDefense": 85,
+		"speed": 115,
+		"total": 486
+	},
+	"Zygarde-Complete-Forme": {
+		"number": "0718",
+		"name": "Zygarde Complete Forme",
+		"type": ["Dragon", "Ground"],
+		"abilities": {
+			"ability1": "Power Construct",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 216,
+		"attack": 100,
+		"defense": 121,
+		"spAttack": 91,
+		"spDefense": 95,
+		"speed": 85,
+		"total": 708
+	},
+	"Hoopa-Hoopa-Unbound": {
+		"number": "0720",
+		"name": "Hoopa Unbound",
+		"type": ["Psychic", "Dark"],
+		"abilities": {
+			"ability1": "Magician",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 80,
+		"attack": 160,
+		"defense": 60,
+		"spAttack": 170,
+		"spDefense": 130,
+		"speed": 80,
+		"total": 680
+	},
+	"Decidueye-Hisuian-Form": {
+		"number": "0724",
+		"name": "Hisuian Decidueye",
+		"type": ["Grass", "Fighting"],
+		"abilities": {
+			"ability1": "Overgrow",
+			"ability2": null,
+			"hidden": "Scrappy"
+		},
+		"hp": 88,
+		"attack": 112,
+		"defense": 80,
+		"spAttack": 95,
+		"spDefense": 95,
+		"speed": 60,
+		"total": 530
+	},
+	"Oricorio-Pom-Pom-Style": {
+		"number": "0741",
+		"name": "Oricorio Pom Pom Style",
+		"type": ["Electric", "Flying"],
+		"abilities": {
+			"ability1": "Dancer",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 75,
+		"attack": 70,
+		"defense": 70,
+		"spAttack": 98,
+		"spDefense": 70,
+		"speed": 93,
+		"total": 476
+	},
+	"Oricorio Pa'u Style": {
+		"number": "0741",
+		"name": "Oricorio Pa'u Style",
+		"type": ["Psychic", "Flying"],
+		"abilities": {
+			"ability1": "Dancer",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 75,
+		"attack": 70,
+		"defense": 70,
+		"spAttack": 98,
+		"spDefense": 70,
+		"speed": 93,
+		"total": 476
+	},
+	"Oricorio Sensu Style": {
+		"number": "0741",
+		"name": "Oricorio Sensu Style",
+		"type": ["Ghost", "Flying"],
+		"abilities": {
+			"ability1": "Dancer",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 75,
+		"attack": 70,
+		"defense": 70,
+		"spAttack": 98,
+		"spDefense": 70,
+		"speed": 93,
+		"total": 476
+	},
+	"Lycanroc-Midnight-Form": {
+		"number": "0745",
+		"name": "Lycanroc Midnight Form",
+		"type": ["Rock"],
+		"abilities": {
+			"ability1": "Keen Eye",
+			"ability2": "Vital Spirit",
+			"hidden": "No Guard"
+		},
+		"hp": 85,
+		"attack": 115,
+		"defense": 75,
+		"spAttack": 55,
+		"spDefense": 75,
+		"speed": 82,
+		"total": 487
+	},
+	"Lycanroc Dusk Form": {
+		"number": "0745",
+		"name": "Lycanroc Dusk Form",
+		"type": ["Rock"],
+		"abilities": {
+			"ability1": "Tough Claws",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 75,
+		"attack": 117,
+		"defense": 65,
+		"spAttack": 55,
+		"spDefense": 65,
+		"speed": 110,
+		"total": 487
+	},
+	"Wishiwashi-School-Form": {
+		"number": "0746",
+		"name": "Wishiwashi School Form",
+		"type": ["Water"],
+		"abilities": {
+			"ability1": "Schooling",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 45,
+		"attack": 140,
+		"defense": 130,
+		"spAttack": 140,
+		"spDefense": 135,
+		"speed": 30,
+		"total": 620
+	},
+	"Minior-Red-Core": {
+		"number": "0774",
+		"name": "Minior Core Form",
+		"type": ["Rock", "Flying"],
+		"abilities": {
+			"ability1": "Shields Down",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 60,
+		"attack": 100,
+		"defense": 60,
+		"spAttack": 100,
+		"spDefense": 60,
+		"speed": 120,
+		"total": 500
+	},
+	"Necrozma-Dusk-Mane": {
+		"number": "0800",
+		"name": "Dusk Mane Necrozma",
+		"type": ["Psychic", "Steel"],
+		"abilities": {
+			"ability1": "Prism Armor",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 97,
+		"attack": 157,
+		"defense": 127,
+		"spAttack": 113,
+		"spDefense": 109,
+		"speed": 77,
+		"total": 680
+	},
+	"Necrozma-Dawn-Wings": {
+		"number": "0800",
+		"name": "Dawn Wings Necrozma",
+		"type": ["Psychic", "Ghost"],
+		"abilities": {
+			"ability1": "Prism Armor",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 97,
+		"attack": 113,
+		"defense": 109,
+		"spAttack": 157,
+		"spDefense": 127,
+		"speed": 77,
+		"total": 680
+	},
+	"Necrozma-Ultra": {
+		"number": "0800",
+		"name": "Ultra Necrozma",
+		"type": ["Psychic", "Dragon"],
+		"abilities": {
+			"ability1": "Neuroforce",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 97,
+		"attack": 167,
+		"defense": 97,
+		"spAttack": 167,
+		"spDefense": 97,
+		"speed": 129,
+		"total": 754
+	},
+	"Toxtricity-Low-Key-Form": {
+		"number": "0849",
+		"name": "Toxtricity Low Key Form",
+		"type": ["Electric", "Poison"],
+		"abilities": {
+			"ability1": "Punk Rock",
+			"ability2": "Minus",
+			"hidden": "Technician"
+		},
+		"hp": 75,
+		"attack": 98,
+		"defense": 70,
+		"spAttack": 114,
+		"spDefense": 70,
+		"speed": 75,
+		"total": 502
+	},
+	"Eiscue-Noice-Face": {
+		"number": "0875",
+		"name": "Eiscue Noice Face",
+		"type": ["Ice"],
+		"abilities": {
+			"ability1": "Ice Face",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 75,
+		"attack": 80,
+		"defense": 70,
+		"spAttack": 65,
+		"spDefense": 50,
+		"speed": 130,
+		"total": 470
+	},
+	"Morpeko-Hangry-Mode": {
+		"number": "0877",
+		"name": "Morpeko Hangry Mode",
+		"type": ["Electric", "Dark"],
+		"abilities": {
+			"ability1": "Hunger Switch",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 58,
+		"attack": 95,
+		"defense": 58,
+		"spAttack": 70,
+		"spDefense": 58,
+		"speed": 97,
+		"total": 436
+	},
+	"Zacian-Crowned-Sword": {
+		"number": "0888",
+		"name": "Zacian Crowned Sword",
+		"type": ["Fairy", "Steel"],
+		"abilities": {
+			"ability1": "Intrepid Sword",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 92,
+		"attack": 150,
+		"defense": 115,
+		"spAttack": 80,
+		"spDefense": 115,
+		"speed": 148,
+		"total": 700
+	},
+	"Zamazenta-Crowned-Shield": {
+		"number": "0889",
+		"name": "Zamazenta Crowned Shield",
+		"type": ["Fighting", "Steel"],
+		"abilities": {
+			"ability1": "Dauntless Shield",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 92,
+		"attack": 120,
+		"defense": 140,
+		"spAttack": 80,
+		"spDefense": 140,
+		"speed": 128,
+		"total": 700
+	},
+	"Urshifu-Rapid-Strike-Style": {
+		"number": "0892",
+		"name": "Urshifu Rapid Strike Style",
+		"type": ["Fighting", "Water"],
+		"abilities": {
+			"ability1": "Unseen Fist",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 100,
+		"attack": 130,
+		"defense": 100,
+		"spAttack": 63,
+		"spDefense": 60,
+		"speed": 97,
+		"total": 550
+	},
+	"Calyrex-Ice-Rider": {
+		"number": "0898",
+		"name": "Calyrex Ice Rider",
+		"type": ["Psychic", "Ice"],
+		"abilities": {
+			"ability1": "As One",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 100,
+		"attack": 165,
+		"defense": 150,
+		"spAttack": 85,
+		"spDefense": 130,
+		"speed": 50,
+		"total": 680
+	},
+	"Calyrex-Shadow-Rider": {
+		"number": "0898",
+		"name": "Calyrex Shadow Rider",
+		"type": ["Psychic", "Ghost"],
+		"abilities": {
+			"ability1": "As One",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 100,
+		"attack": 85,
+		"defense": 80,
+		"spAttack": 165,
+		"spDefense": 100,
+		"speed": 150,
+		"total": 680
+	},
+	"Ursaluna-Bloodmoon": {
+		"number": "0901",
+		"name": "Ursaluna Bloodmoon",
+		"type": ["Ground", "Normal"],
+		"abilities": {
+			"ability1": "Mind's Eye",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 113,
+		"attack": 70,
+		"defense": 120,
+		"spAttack": 135,
+		"spDefense": 65,
+		"speed": 52,
+		"total": 555
+	},
+	"Enamorus-Therian-Forme": {
+		"number": "0905",
+		"name": "Enamorus Therian Forme",
+		"type": ["Fairy", "Flying"],
+		"abilities": {
+			"ability1": "Overcoat",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 74,
+		"attack": 115,
+		"defense": 110,
+		"spAttack": 135,
+		"spDefense": 100,
+		"speed": 46,
+		"total": 580
+	},
+	"Maushold-Family-of-Three": {
+		"number": "0925",
+		"name": "Maushold Family of Three",
+		"type": ["Normal"],
+		"abilities": {
+			"ability1": "Friend Guard",
+			"ability2": "Cheek Pouch",
+			"hidden": "Technician"
+		},
+		"hp": 74,
+		"attack": 75,
+		"defense": 70,
+		"spAttack": 65,
+		"spDefense": 75,
+		"speed": 111,
+		"total": 470
+	},
+	"Palafin-Hero-Form": {
+		"number": "0964",
+		"name": "Palafin Hero Form",
+		"type": ["Water"],
+		"abilities": {
+			"ability1": "Zero to Hero",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 100,
+		"attack": 160,
+		"defense": 97,
+		"spAttack": 106,
+		"spDefense": 87,
+		"speed": 100,
+		"total": 650
+	},
+	"Tatsugiri-Droopy-Form": {
+		"number": "0978",
+		"name": "Tatsugiri Droopy Form",
+		"type": ["Dragon", "Water"],
+		"abilities": {
+			"ability1": null,
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 68,
+		"attack": 50,
+		"defense": 60,
+		"spAttack": 120,
+		"spDefense": 95,
+		"speed": 82,
+		"total": 475
+	},
+	"Tatsugiri-Stretchy-Form": {
+		"number": "0978",
+		"name": "Tatsugiri Stretchy Form",
+		"type": ["Dragon", "Water"],
+		"abilities": {
+			"ability1": null,
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 68,
+		"attack": 50,
+		"defense": 60,
+		"spAttack": 120,
+		"spDefense": 95,
+		"speed": 82,
+		"total": 475
+	},
+	"Dudunsparce-Three-Segment-Form": {
+		"number": "0982",
+		"name": "Dudunsparce Three-Segment Form",
+		"type": ["Normal"],
+		"abilities": {
+			"ability1": "Serene Grace",
+			"ability2": "Run Away",
+			"hidden": "Rattled"
+		},
+		"hp": 125,
+		"attack": 100,
+		"defense": 80,
+		"spAttack": 85,
+		"spDefense": 75,
+		"speed": 55,
+		"total": 520
+	},
+	"Gimmighoul-Roaming-Form": {
+		"number": "0999",
+		"name": "Gimmighoul Roaming Form",
+		"type": ["Ghost"],
+		"abilities": {
+			"ability1": "Run Away",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 45,
+		"attack": 30,
+		"defense": 25,
+		"spAttack": 75,
+		"spDefense": 45,
+		"speed": 80,
+		"total": 300
+	},
+	"Ogerpon-Wellspring-Mask": {
+		"number": "1017",
+		"name": "Ogerpon Wellspring Mask",
+		"type": ["Grass", "Water"],
+		"abilities": {
+			"ability1": "Water Absorb",
+			"ability2": null,
+			"hidden": "Embody Aspect"
+		},
+		"hp": 80,
+		"attack": 120,
+		"defense": 84,
+		"spAttack": 60,
+		"spDefense": 96,
+		"speed": 110,
+		"total": 550
+	},
+	"Ogerpon-Hearthflame-Mask": {
+		"number": "1017",
+		"name": "Ogerpon Hearthflame Mask",
+		"type": ["Grass", "Fire"],
+		"abilities": {
+			"ability1": "Mold Breaker",
+			"ability2": null,
+			"hidden": "Embody Aspect"
+		},
+		"hp": 80,
+		"attack": 120,
+		"defense": 84,
+		"spAttack": 60,
+		"spDefense": 96,
+		"speed": 110,
+		"total": 550
+	},
+	"Ogerpon-Cornerstone-Mask": {
+		"number": "1017",
+		"name": "Ogerpon Cornerstone Mask",
+		"type": ["Grass", "Rock"],
+		"abilities": {
+			"ability1": "Sturdy",
+			"ability2": null,
+			"hidden": "Embody Aspect"
+		},
+		"hp": 80,
+		"attack": 120,
+		"defense": 84,
+		"spAttack": 60,
+		"spDefense": 96,
+		"speed": 110,
+		"total": 550
+	},
+	"Terapagos-Terastal-Form": {
+		"number": "1024",
+		"name": "Terapagos Terastal Form",
+		"type": ["Normal"],
+		"abilities": {
+			"ability1": "Tera Shell",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 95,
+		"attack": 95,
+		"defense": 110,
+		"spAttack": 105,
+		"spDefense": 110,
+		"speed": 85,
+		"total": 600
+	},
+	"Terapagos-Stellar-Form": {
+		"number": "1024",
+		"name": "Terapagos Stellar Form",
+		"type": ["Normal"],
+		"abilities": {
+			"ability1": "Teraform Zero",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 160,
+		"attack": 105,
+		"defense": 110,
+		"spAttack": 130,
+		"spDefense": 110,
+		"speed": 85,
+		"total": 700
 	}
 }
