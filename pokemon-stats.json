@@ -11510,7 +11510,7 @@
 	},
 	"Meowstic": {
 		"number": "#0678",
-		"name": "Meowstic",
+		"name": "Meowstic (Male)",
 		"type": ["Psychic"],
 		"abilities": {
 			"ability1": "Keen Eye",
@@ -19837,6 +19837,23 @@
 		"spDefense": 77,
 		"speed": 128,
 		"total": 600
+	},
+	"Meowstic Female": {
+		"number": "#0678",
+		"name": "Meowstic (Female)",
+		"type": ["Psychic"],
+		"abilities": {
+			"ability1": "Keen Eye",
+			"ability2": "Infiltrator",
+			"hidden": "Competitive"
+		},
+		"hp": 74,
+		"attack": 48,
+		"defense": 76,
+		"spAttack": 83,
+		"spDefense": 81,
+		"speed": 104,
+		"total": 466
 	},
 	"Aegislash Blade Forme": {
 		"number": "0681",
