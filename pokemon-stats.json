@@ -13142,7 +13142,7 @@
 	},
 	"Minior": {
 		"number": "#0774",
-		"name": "Minior",
+		"name": "Minior Meteor Form",
 		"type": ["Rock", "Flying"],
 		"abilities": {
 			"ability1": "Shields Down",
