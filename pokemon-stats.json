@@ -15318,7 +15318,7 @@
 	},
 	"Basculegion": {
 		"number": "#0902",
-		"name": "Basculegion",
+		"name": "Basculegion (Male)",
 		"type": ["Water", "Ghost"],
 		"abilities": {
 			"ability1": "Swift Swim",
@@ -20347,6 +20347,23 @@
 		"spDefense": 65,
 		"speed": 52,
 		"total": 555
+	},
+	"Basculegion Female": {
+		"number": "#0902",
+		"name": "Basculegion (Female)",
+		"type": ["Water", "Ghost"],
+		"abilities": {
+			"ability1": "Swift Swim",
+			"ability2": "Adaptability",
+			"hidden": "Mold Breaker"
+		},
+		"hp": 120,
+		"attack": 92,
+		"defense": 65,
+		"spAttack": 100,
+		"spDefense": 75,
+		"speed": 78,
+		"total": 530
 	},
 	"Enamorus Therian Forme": {
 		"number": "0905",
