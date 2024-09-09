@@ -10881,7 +10881,7 @@
 	},
 	"Tornadus": {
 		"number": "#0641",
-		"name": "Tornadus",
+		"name": "Tornadus Incarnate Forme",
 		"type": ["Flying"],
 		"abilities": {
 			"ability1": "Prankster",
@@ -10898,7 +10898,7 @@
 	},
 	"Thundurus": {
 		"number": "#0642",
-		"name": "Thundurus",
+		"name": "Thundurus Incarnate Forme",
 		"type": ["Electric", "Flying"],
 		"abilities": {
 			"ability1": "Prankster",
