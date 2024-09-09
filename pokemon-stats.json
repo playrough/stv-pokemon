@@ -19906,6 +19906,23 @@
 		"speed": 38,
 		"total": 514
 	},
+	"Xerneas Neutral Mode": {
+		"number": "#0716",
+		"name": "Xerneas",
+		"type": ["Fairy"],
+		"abilities": {
+			"ability1": "Fairy Aura",
+			"ability2": null,
+			"hidden": null
+		},
+		"hp": 126,
+		"attack": 131,
+		"defense": 95,
+		"spAttack": 131,
+		"spDefense": 98,
+		"speed": 99,
+		"total": 680
+	},
 	"Zygarde 10 Forme": {
 		"number": "0718",
 		"name": "Zygarde 10% Forme",
