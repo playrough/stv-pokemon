@@ -23,313 +23,313 @@ $哞哞牛奶=Moomoo Milk
 $回击之盾=Counter Shield
 
 _____________ABILITIES_____________
-$恶臭=<span class="pokemon-ability">Stench</span>
-$降雨=<span class="pokemon-ability">Drizzle</span>
-$加速=<span class="pokemon-ability">Speed Boost</span>
-$战斗盔甲=<span class="pokemon-ability">Battle Armor</span>
-$结实=<span class="pokemon-ability">Sturdy</span>
-$湿气=<span class="pokemon-ability">Damp</span>
-$柔软=<span class="pokemon-ability">Limber</span>
-$沙隐=<span class="pokemon-ability">Sand Veil</span>
-$静电=<span class="pokemon-ability">Static</span>
-$蓄电=<span class="pokemon-ability">Volt Absorb</span>
-$储水=<span class="pokemon-ability">Water Absorb</span>
-$迟钝=<span class="pokemon-ability">Oblivious</span>
-$无关天气=<span class="pokemon-ability">Cloud Nine</span>
-$复眼=<span class="pokemon-ability">Compound Eyes</span>
+$下载=<span class="pokemon-ability">Download</span>
 $不眠=<span class="pokemon-ability">Insomnia</span>
-$变色=<span class="pokemon-ability">Color Change</span>
+$乘风=<span class="pokemon-ability">Wind Rider</span>
+$储水=<span class="pokemon-ability">Water Absorb</span>
 $免疫=<span class="pokemon-ability">Immunity</span>
-$引火=<span class="pokemon-ability">Flash Fire</span>
-$鳞粉=<span class="pokemon-ability">Shield Dust</span>
-$我行我素=<span class="pokemon-ability">Own Tempo</span>
-$吸盘=<span class="pokemon-ability">Suction Cups</span>
-$威吓=<span class="pokemon-ability">Intimidate</span>
-$踩影=<span class="pokemon-ability">Shadow Tag</span>
-$粗糙皮肤=<span class="pokemon-ability">Rough Skin</span>
-$神奇守护=<span class="pokemon-ability">Wonder Guard</span>
-$飘浮=<span class="pokemon-ability">Levitate</span>
-$孢子=<span class="pokemon-ability">Effect Spore</span>
-$同步=<span class="pokemon-ability">Synchronize</span>
-$恒净之躯=<span class="pokemon-ability">Clear Body</span>
-$自然回复=<span class="pokemon-ability">Natural Cure</span>
-$避雷针=<span class="pokemon-ability">Lightning Rod</span>
-$天恩=<span class="pokemon-ability">Serene Grace</span>
-$悠游自如=<span class="pokemon-ability">Swift Swim</span>
-$叶绿素=<span class="pokemon-ability">Chlorophyll</span>
+$共生=<span class="pokemon-ability">Symbiosis</span>
+$分析=<span class="pokemon-ability">Analytic</span>
+$加速=<span class="pokemon-ability">Speed Boost</span>
+$单纯=<span class="pokemon-ability">Simple</span>
+$卷发=<span class="pokemon-ability">Tangling Hair</span>
+$反刍=<span class="pokemon-ability">Cud Chew</span>
 $发光=<span class="pokemon-ability">Illuminate</span>
+$变色=<span class="pokemon-ability">Color Change</span>
+$同步=<span class="pokemon-ability">Synchronize</span>
+$吐沙=<span class="pokemon-ability">Sand Spit</span>
+$吸盘=<span class="pokemon-ability">Suction Cups</span>
+$坚毅=<span class="pokemon-ability">Stalwart</span>
 $复制=<span class="pokemon-ability">Trace</span>
-$大力士=<span class="pokemon-ability">Huge Power</span>
+$复眼=<span class="pokemon-ability">Compound Eyes</span>
+$大将=<span class="pokemon-ability">Supreme Overlord</span>
+$天恩=<span class="pokemon-ability">Serene Grace</span>
+$好胜=<span class="pokemon-ability">Competitive</span>
+$威吓=<span class="pokemon-ability">Intimidate</span>
+$孢子=<span class="pokemon-ability">Effect Spore</span>
+$察觉=<span class="pokemon-ability">Frisk</span>
+$尾甲=<span class="pokemon-ability">Armor Tail</span>
+$干劲=<span class="pokemon-ability">Vital Spirit</span>
+$幻觉=<span class="pokemon-ability">Illusion</span>
+$引水=<span class="pokemon-ability">Storm Drain</span>
+$引火=<span class="pokemon-ability">Flash Fire</span>
+$引爆=<span class="pokemon-ability">Aftermath</span>
+$强行=<span class="pokemon-ability">Sheer Force</span>
+$心眼=<span class="pokemon-ability">Mind's Eye</span>
+$怪药=<span class="pokemon-ability">Curious Medicine</span>
+$恶臭=<span class="pokemon-ability">Stench</span>
+$慢出=<span class="pokemon-ability">Stall</span>
+$懒惰=<span class="pokemon-ability">Truant</span>
+$扬沙=<span class="pokemon-ability">Sand Stream</span>
+$拟态=<span class="pokemon-ability">Mimicry</span>
+$拨沙=<span class="pokemon-ability">Sand Rush</span>
+$拨雪=<span class="pokemon-ability">Slush Rush</span>
+$捡拾=<span class="pokemon-ability">Pickup</span>
+$捡球=<span class="pokemon-ability">Ball Fetch</span>
+$搬岩=<span class="pokemon-ability">Rocky Payload</span>
+$收获=<span class="pokemon-ability">Harvest</span>
+$日照=<span class="pokemon-ability">Drought</span>
+$早起=<span class="pokemon-ability">Early Bird</span>
+$柔软=<span class="pokemon-ability">Limber</span>
+$梦魇=<span class="pokemon-ability">Bad Dreams</span>
+$棉絮=<span class="pokemon-ability">Cotton Down</span>
+$款待=<span class="pokemon-ability">Hospitality</span>
+$正电=<span class="pokemon-ability">Plus</span>
+$毅力=<span class="pokemon-ability">Guts</span>
 $毒刺=<span class="pokemon-ability">Poison Point</span>
-$精神力=<span class="pokemon-ability">Inner Focus</span>
-$熔岩铠甲=<span class="pokemon-ability">Magma Armor</span>
+$毒手=<span class="pokemon-ability">Poison Touch</span>
+$毒疗=<span class="pokemon-ability">Poison Heal</span>
+$气闸=<span class="pokemon-ability">Air Lock</span>
 $水幕=<span class="pokemon-ability">Water Veil</span>
+$水泡=<span class="pokemon-ability">Water Bubble</span>
+$沙穴=<span class="pokemon-ability">Arena Trap</span>
+$沙隐=<span class="pokemon-ability">Sand Veil</span>
+$活力=<span class="pokemon-ability">Hustle</span>
+$游魂=<span class="pokemon-ability">Wandering Spirit</span>
+$湿气=<span class="pokemon-ability">Damp</span>
+$激流=<span class="pokemon-ability">Torrent</span>
+$熟成=<span class="pokemon-ability">Ripen</span>
+$猛火=<span class="pokemon-ability">Blaze</span>
+$甜幕=<span class="pokemon-ability">Sweet Veil</span>
+$画皮=<span class="pokemon-ability">Disguise</span>
+$監視=<span class="pokemon-ability">Stakeout</span>
+$破格=<span class="pokemon-ability">Mold Breaker</span>
+$硬爪=<span class="pokemon-ability">Tough Claws</span>
 $磁力=<span class="pokemon-ability">Magnet Pull</span>
+$穿透=<span class="pokemon-ability">Infiltrator</span>
+$笨拙=<span class="pokemon-ability">Klutz</span>
+$纯朴=<span class="pokemon-ability">Unaware</span>
+$结实=<span class="pokemon-ability">Sturdy</span>
+$耐热=<span class="pokemon-ability">Heatproof</span>
+$胆怯=<span class="pokemon-ability">Rattled</span>
+$胆量=<span class="pokemon-ability">Scrappy</span>
+$腐蚀=<span class="pokemon-ability">Corrosion</span>
+$舍身=<span class="pokemon-ability">Reckless</span>
+$舞者=<span class="pokemon-ability">Dancer</span>
+$花幕=<span class="pokemon-ability">Flower Veil</span>
+$茂盛=<span class="pokemon-ability">Overgrow</span>
+$蓄电=<span class="pokemon-ability">Volt Absorb</span>
+$蜕皮=<span class="pokemon-ability">Shed Skin</span>
+$负电=<span class="pokemon-ability">Minus</span>
+$跟风=<span class="pokemon-ability">Opportunist</span>
+$踩影=<span class="pokemon-ability">Shadow Tag</span>
+$蹒跚=<span class="pokemon-ability">Tangled Feet</span>
+$蹲守=<span class="pokemon-ability">Stakeout</span>
+$软弱=<span class="pokemon-ability">Defeatist</span>
+$轻装=<span class="pokemon-ability">Unburden</span>
+$过滤=<span class="pokemon-ability">Filter</span>
+$远隔=<span class="pokemon-ability">Long Reach</span>
+$迟钝=<span class="pokemon-ability">Oblivious</span>
+$逃跑=<span class="pokemon-ability">Run Away</span>
+$速击=<span class="pokemon-ability">Quick Draw</span>
+$采蜜=<span class="pokemon-ability">Honey Gather</span>
+$铁刺=<span class="pokemon-ability">Iron Barbs</span>
+$铁拳=<span class="pokemon-ability">Iron Fist</span>
+$锋锐=<span class="pokemon-ability">Sharpness</span>
+$镜甲=<span class="pokemon-ability">Mirror Armor</span>
+$防尘=<span class="pokemon-ability">Overcoat</span>
+$防弹=<span class="pokemon-ability">Bulletproof</span>
+$降雨=<span class="pokemon-ability">Drizzle</span>
+$降雪=<span class="pokemon-ability">Snow Warning</span>
+$除障=<span class="pokemon-ability">Screen Cleaner</span>
 $隔音=<span class="pokemon-ability">Soundproof</span>
 $雨盘=<span class="pokemon-ability">Rain Dish</span>
-$扬沙=<span class="pokemon-ability">Sand Stream</span>
+$雪隐=<span class="pokemon-ability">Snow Cloak</span>
+$静电=<span class="pokemon-ability">Static</span>
+$颊囊=<span class="pokemon-ability">Cheek Pouch</span>
+$飘浮=<span class="pokemon-ability">Levitate</span>
+$食土=<span class="pokemon-ability">Earth Eater</span>
+$食草=<span class="pokemon-ability">Sap Sipper</span>
+$魂心=<span class="pokemon-ability">Soul-Heart</span>
+$鱼群=<span class="pokemon-ability">Schooling</span>
+$鳞粉=<span class="pokemon-ability">Shield Dust</span>
+$黏滑=<span class="pokemon-ability">Gooey</span>
+$黏着=<span class="pokemon-ability">Sticky Hold</span>
+$龙颚=<span class="pokemon-ability">Dragon's Maw</span>
+$不服输=<span class="pokemon-ability">Defiant</span>
+$亲子爱=<span class="pokemon-ability">Parental Bond</span>
+$再生力=<span class="pokemon-ability">Regenerator</span>
+$冰鳞粉=<span class="pokemon-ability">Ice Scales</span>
 $压迫感=<span class="pokemon-ability">Pressure</span>
 $厚脂肪=<span class="pokemon-ability">Thick Fat</span>
-$早起=<span class="pokemon-ability">Early Bird</span>
-$火焰之躯=<span class="pokemon-ability">Flame Body</span>
-$逃跑=<span class="pokemon-ability">Run Away</span>
-$锐利目光=<span class="pokemon-ability">Keen Eye</span>
-$怪力钳=<span class="pokemon-ability">Hyper Cutter</span>
-$捡拾=<span class="pokemon-ability">Pickup</span>
-$懒惰=<span class="pokemon-ability">Truant</span>
-$活力=<span class="pokemon-ability">Hustle</span>
-$迷人之躯=<span class="pokemon-ability">Cute Charm</span>
-$正电=<span class="pokemon-ability">Plus</span>
-$负电=<span class="pokemon-ability">Minus</span>
-$阴晴不定=<span class="pokemon-ability">Forecast</span>
-$黏着=<span class="pokemon-ability">Sticky Hold</span>
-$蜕皮=<span class="pokemon-ability">Shed Skin</span>
-$毅力=<span class="pokemon-ability">Guts</span>
-$神奇鳞片=<span class="pokemon-ability">Marvel Scale</span>
-$污泥浆=<span class="pokemon-ability">Liquid Ooze</span>
-$茂盛=<span class="pokemon-ability">Overgrow</span>
-$猛火=<span class="pokemon-ability">Blaze</span>
-$激流=<span class="pokemon-ability">Torrent</span>
-$虫之预感=<span class="pokemon-ability">Swarm</span>
-$坚硬脑袋=<span class="pokemon-ability">Rock Head</span>
-$日照=<span class="pokemon-ability">Drought</span>
-$沙穴=<span class="pokemon-ability">Arena Trap</span>
-$干劲=<span class="pokemon-ability">Vital Spirit</span>
-$白色烟雾=<span class="pokemon-ability">White Smoke</span>
-$瑜伽之力=<span class="pokemon-ability">Pure Power</span>
-$硬壳盔甲=<span class="pokemon-ability">Shell Armor</span>
-$气闸=<span class="pokemon-ability">Air Lock</span>
-$蹒跚=<span class="pokemon-ability">Tangled Feet</span>
-$电气引擎=<span class="pokemon-ability">Motor Drive</span>
-$斗争心=<span class="pokemon-ability">Rivalry</span>
-$不屈之心=<span class="pokemon-ability">Steadfast</span>
-$雪隐=<span class="pokemon-ability">Snow Cloak</span>
-$贪吃鬼=<span class="pokemon-ability">Gluttony</span>
-$愤怒穴位=<span class="pokemon-ability">Anger Point</span>
-$轻装=<span class="pokemon-ability">Unburden</span>
-$耐热=<span class="pokemon-ability">Heatproof</span>
-$单纯=<span class="pokemon-ability">Simple</span>
-$干燥皮肤=<span class="pokemon-ability">Dry Skin</span>
-$下载=<span class="pokemon-ability">Download</span>
-$铁拳=<span class="pokemon-ability">Iron Fist</span>
-$毒疗=<span class="pokemon-ability">Poison Heal</span>
-$适应力=<span class="pokemon-ability">Adaptability</span>
-$连续攻击=<span class="pokemon-ability">Skill Link</span>
-$湿润之躯=<span class="pokemon-ability">Hydration</span>
-$太阳之力=<span class="pokemon-ability">Solar Power</span>
-$飞毛腿=<span class="pokemon-ability">Quick Feet</span>
-$一般皮肤=<span class="pokemon-ability">Normalize</span>
-$狙击手=<span class="pokemon-ability">Sniper</span>
-$魔法防守=<span class="pokemon-ability">Magic Guard</span>
-$无防守=<span class="pokemon-ability">No Guard</span>
-$慢出=<span class="pokemon-ability">Stall</span>
-$技术高手=<span class="pokemon-ability">Technician</span>
-$叶子防守=<span class="pokemon-ability">Leaf Guard</span>
-$笨拙=<span class="pokemon-ability">Klutz</span>
-$破格=<span class="pokemon-ability">Mold Breaker</span>
-$超幸运=<span class="pokemon-ability">Super Luck</span>
-$引爆=<span class="pokemon-ability">Aftermath</span>
-$危险预知=<span class="pokemon-ability">Anticipation</span>
-$预知梦=<span class="pokemon-ability">Forewarn</span>
-$纯朴=<span class="pokemon-ability">Unaware</span>
-$有色眼镜=<span class="pokemon-ability">Tinted Lens</span>
-$过滤=<span class="pokemon-ability">Filter</span>
-$慢启动=<span class="pokemon-ability">Slow Start</span>
-$胆量=<span class="pokemon-ability">Scrappy</span>
-$引水=<span class="pokemon-ability">Storm Drain</span>
-$冰冻之躯=<span class="pokemon-ability">Ice Body</span>
-$坚硬岩石=<span class="pokemon-ability">Solid Rock</span>
-$降雪=<span class="pokemon-ability">Snow Warning</span>
-$采蜜=<span class="pokemon-ability">Honey Gather</span>
-$察觉=<span class="pokemon-ability">Frisk</span>
-$舍身=<span class="pokemon-ability">Reckless</span>
-$多属性=<span class="pokemon-ability">Multitype</span>
-$花之礼=<span class="pokemon-ability">Flower Gift</span>
-$梦魇=<span class="pokemon-ability">Bad Dreams</span>
-$顺手牵羊=<span class="pokemon-ability">Pickpocket</span>
-$强行=<span class="pokemon-ability">Sheer Force</span>
-$唱反调=<span class="pokemon-ability">Contrary</span>
-$紧张感=<span class="pokemon-ability">Unnerve</span>
-$不服输=<span class="pokemon-ability">Defiant</span>
-$软弱=<span class="pokemon-ability">Defeatist</span>
-$诅咒之躯=<span class="pokemon-ability">Cursed Body</span>
-$治愈之心=<span class="pokemon-ability">Healer</span>
-$友情防守=<span class="pokemon-ability">Friend Guard</span>
-$碎裂铠甲=<span class="pokemon-ability">Weak Armor</span>
-$重金属=<span class="pokemon-ability">Heavy Metal</span>
-$轻金属=<span class="pokemon-ability">Light Metal</span>
-$多重鳞片=<span class="pokemon-ability">Multiscale</span>
-$中毒激升=<span class="pokemon-ability">Toxic Boost</span>
-$受热激升=<span class="pokemon-ability">Flare Boost</span>
-$收获=<span class="pokemon-ability">Harvest</span>
-$心灵感应=<span class="pokemon-ability">Telepathy</span>
-$心情不定=<span class="pokemon-ability">Moody</span>
-$防尘=<span class="pokemon-ability">Overcoat</span>
-$毒手=<span class="pokemon-ability">Poison Touch</span>
-$再生力=<span class="pokemon-ability">Regenerator</span>
-$健壮胸肌=<span class="pokemon-ability">Big Pecks</span>
-$拨沙=<span class="pokemon-ability">Sand Rush</span>
-$奇迹皮肤=<span class="pokemon-ability">Wonder Skin</span>
-$分析=<span class="pokemon-ability">Analytic</span>
-$幻觉=<span class="pokemon-ability">Illusion</span>
 $变身者=<span class="pokemon-ability">Imposter</span>
-$穿透=<span class="pokemon-ability">Infiltrator</span>
-$木乃伊=<span class="pokemon-ability">Mummy</span>
-$自信过度=<span class="pokemon-ability">Moxie</span>
-$正义之心=<span class="pokemon-ability">Justified</span>
-$胆怯=<span class="pokemon-ability">Rattled</span>
-$魔法镜=<span class="pokemon-ability">Magic Bounce</span>
-$食草=<span class="pokemon-ability">Sap Sipper</span>
-$恶作剧之心=<span class="pokemon-ability">Prankster</span>
-$沙之力=<span class="pokemon-ability">Sand Force</span>
-$铁刺=<span class="pokemon-ability">Iron Barbs</span>
-$达摩模式=<span class="pokemon-ability">Zen Mode</span>
-$胜利之星=<span class="pokemon-ability">Victory Star</span>
-$涡轮火焰=<span class="pokemon-ability">Turboblaze</span>
-$兆级电压=<span class="pokemon-ability">Teravolt</span>
-$芳香幕=<span class="pokemon-ability">Aroma Veil</span>
-$花幕=<span class="pokemon-ability">Flower Veil</span>
-$颊囊=<span class="pokemon-ability">Cheek Pouch</span>
-$变幻自如=<span class="pokemon-ability">Protean</span>
-$毛皮大衣=<span class="pokemon-ability">Fur Coat</span>
-$魔术师=<span class="pokemon-ability">Magician</span>
-$防弹=<span class="pokemon-ability">Bulletproof</span>
-$好胜=<span class="pokemon-ability">Competitive</span>
-$强壮之颚=<span class="pokemon-ability">Strong Jaw</span>
-$冰冻皮肤=<span class="pokemon-ability">Refrigerate</span>
-$甜幕=<span class="pokemon-ability">Sweet Veil</span>
-$战斗切换=<span class="pokemon-ability">Stance Change</span>
-$疾风之翼=<span class="pokemon-ability">Gale Wings</span>
-$超级发射器=<span class="pokemon-ability">Mega Launcher</span>
-$草之毛皮=<span class="pokemon-ability">Grass Pelt</span>
-$共生=<span class="pokemon-ability">Symbiosis</span>
-$硬爪=<span class="pokemon-ability">Tough Claws</span>
-$妖精皮肤=<span class="pokemon-ability">Pixilate</span>
-$黏滑=<span class="pokemon-ability">Gooey</span>
-$飞行皮肤=<span class="pokemon-ability">Aerilate</span>
-$亲子爱=<span class="pokemon-ability">Parental Bond</span>
-$暗黑气场=<span class="pokemon-ability">Dark Aura</span>
-$妖精气场=<span class="pokemon-ability">Fairy Aura</span>
-$气场破坏=<span class="pokemon-ability">Aura Break</span>
-$始源之海=<span class="pokemon-ability">Primordial Sea</span>
-$终结之地=<span class="pokemon-ability">Desolate Land</span>
-$德尔塔气流=<span class="pokemon-ability">Delta Stream</span>
+$叶绿素=<span class="pokemon-ability">Chlorophyll</span>
+$唱反调=<span class="pokemon-ability">Contrary</span>
+$多属性=<span class="pokemon-ability">Multitype</span>
+$大力士=<span class="pokemon-ability">Huge Power</span>
+$怪力钳=<span class="pokemon-ability">Hyper Cutter</span>
+$慢启动=<span class="pokemon-ability">Slow Start</span>
 $持久力=<span class="pokemon-ability">Stamina</span>
-$跃跃欲逃=<span class="pokemon-ability">Wimp Out</span>
-$危险回避=<span class="pokemon-ability">Emergency Exit</span>
-$遇水凝固=<span class="pokemon-ability">Water Compaction</span>
-$不仁不义=<span class="pokemon-ability">Merciless</span>
-$界限盾壳=<span class="pokemon-ability">Shields Down</span>
-$監視=<span class="pokemon-ability">Stakeout</span>
-$蹲守=<span class="pokemon-ability">Stakeout</span>
-$水泡=<span class="pokemon-ability">Water Bubble</span>
-$钢能力者=<span class="pokemon-ability">Steelworker</span>
-$怒火冲天=<span class="pokemon-ability">Berserk</span>
-$拨雪=<span class="pokemon-ability">Slush Rush</span>
-$远隔=<span class="pokemon-ability">Long Reach</span>
-$湿润之声=<span class="pokemon-ability">Liquid Voice</span>
-$先行治疗=<span class="pokemon-ability">Triage</span>
-$电气皮肤=<span class="pokemon-ability">Galvanize</span>
-$冲浪之尾=<span class="pokemon-ability">Surge Surfer</span>
-$鱼群=<span class="pokemon-ability">Schooling</span>
-$画皮=<span class="pokemon-ability">Disguise</span>
-$牵绊变身=<span class="pokemon-ability">Battle Bond</span>
-$群聚变形=<span class="pokemon-ability">Power Construct</span>
-$腐蚀=<span class="pokemon-ability">Corrosion</span>
-$绝对睡眠=<span class="pokemon-ability">Comatose</span>
-$女王的威严=<span class="pokemon-ability">Queenly Majesty</span>
-$飞出的内在物=<span class="pokemon-ability">Innards Out</span>
-$舞者=<span class="pokemon-ability">Dancer</span>
-$蓄电池=<span class="pokemon-ability">Battery</span>
-$毛茸茸=<span class="pokemon-ability">Fluffy</span>
-$鲜艳之躯=<span class="pokemon-ability">Dazzling</span>
-$魂心=<span class="pokemon-ability">Soul-Heart</span>
-$卷发=<span class="pokemon-ability">Tangling Hair</span>
 $接球手=<span class="pokemon-ability">Receiver</span>
+$斗争心=<span class="pokemon-ability">Rivalry</span>
+$无形拳=<span class="pokemon-ability">Unseen Fist</span>
+$无防守=<span class="pokemon-ability">No Guard</span>
+$木乃伊=<span class="pokemon-ability">Mummy</span>
+$毒傀儡=<span class="pokemon-ability">Poison Puppeteer</span>
+$毒满地=<span class="pokemon-ability">Toxic Debris</span>
+$毒锁链=<span class="pokemon-ability">Toxic Chain</span>
+$毛茸茸=<span class="pokemon-ability">Fluffy</span>
+$污泥浆=<span class="pokemon-ability">Liquid Ooze</span>
+$沙之力=<span class="pokemon-ability">Sand Force</span>
+$热交换=<span class="pokemon-ability">Thermal Exchange</span>
+$狙击手=<span class="pokemon-ability">Sniper</span>
+$电晶体=<span class="pokemon-ability">Transistor</span>
+$看门犬=<span class="pokemon-ability">Guard Dog</span>
+$精神力=<span class="pokemon-ability">Inner Focus</span>
+$紧张感=<span class="pokemon-ability">Unnerve</span>
+$结冻头=<span class="pokemon-ability">Ice Face</span>
+$能量点=<span class="pokemon-ability">Power Spot</span>
+$自由者=<span class="pokemon-ability">Libero</span>
+$花之礼=<span class="pokemon-ability">Flower Gift</span>
+$芳香幕=<span class="pokemon-ability">Aroma Veil</span>
+$蒸汽机=<span class="pokemon-ability">Steam Engine</span>
+$蓄电池=<span class="pokemon-ability">Battery</span>
+$贪吃鬼=<span class="pokemon-ability">Gluttony</span>
+$超幸运=<span class="pokemon-ability">Super Luck</span>
+$轻金属=<span class="pokemon-ability">Light Metal</span>
+$适应力=<span class="pokemon-ability">Adaptability</span>
+$避雷针=<span class="pokemon-ability">Lightning Rod</span>
+$重金属=<span class="pokemon-ability">Heavy Metal</span>
+$预知梦=<span class="pokemon-ability">Forewarn</span>
+$飞毛腿=<span class="pokemon-ability">Quick Feet</span>
+$魔术师=<span class="pokemon-ability">Magician</span>
+$魔法镜=<span class="pokemon-ability">Magic Bounce</span>
+$一口导弹=<span class="pokemon-ability">Gulp Missile</span>
+$一猩一意=<span class="pokemon-ability">Gorilla Tactics</span>
+$一般皮肤=<span class="pokemon-ability">Normalize</span>
+$不仁不义=<span class="pokemon-ability">Merciless</span>
+$不屈之心=<span class="pokemon-ability">Steadfast</span>
+$不屈之盾=<span class="pokemon-ability">Dauntless Shield</span>
+$不挠之剑=<span class="pokemon-ability">Intrepid Sword</span>
+$中毒激升=<span class="pokemon-ability">Toxic Boost</span>
+$人马一体=<span class="pokemon-ability">As One</span>
+$健壮胸肌=<span class="pokemon-ability">Big Pecks</span>
+$兆级电压=<span class="pokemon-ability">Teravolt</span>
+$先行治疗=<span class="pokemon-ability">Triage</span>
+$全能变身=<span class="pokemon-ability">Zero to Hero</span>
+$冰冻之躯=<span class="pokemon-ability">Ice Body</span>
+$冰冻皮肤=<span class="pokemon-ability">Refrigerate</span>
+$冲浪之尾=<span class="pokemon-ability">Surge Surfer</span>
 $化学之力=<span class="pokemon-ability">Power of Alchemy</span>
+$危险回避=<span class="pokemon-ability">Emergency Exit</span>
+$危险预知=<span class="pokemon-ability">Anticipation</span>
+$友情防守=<span class="pokemon-ability">Friend Guard</span>
+$发号施令=<span class="pokemon-ability">Commander</span>
+$受热激升=<span class="pokemon-ability">Flare Boost</span>
+$变幻自如=<span class="pokemon-ability">Protean</span>
+$古代活性=<span class="pokemon-ability">Protosynthesis</span>
+$叶子防守=<span class="pokemon-ability">Leaf Guard</span>
+$同台共演=<span class="pokemon-ability">Costar</span>
+$坚硬岩石=<span class="pokemon-ability">Solid Rock</span>
+$坚硬脑袋=<span class="pokemon-ability">Rock Head</span>
+$多重鳞片=<span class="pokemon-ability">Multiscale</span>
+$太晶变形=<span class="pokemon-ability">Tera Shift</span>
+$太晶甲壳=<span class="pokemon-ability">Tera Shell</span>
+$太阳之力=<span class="pokemon-ability">Solar Power</span>
+$夸克充能=<span class="pokemon-ability">Quark Drive</span>
+$奇迹皮肤=<span class="pokemon-ability">Wonder Skin</span>
+$妖精气场=<span class="pokemon-ability">Fairy Aura</span>
+$妖精皮肤=<span class="pokemon-ability">Pixilate</span>
+$始源之海=<span class="pokemon-ability">Primordial Sea</span>
+$干燥皮肤=<span class="pokemon-ability">Dry Skin</span>
+$幻影防守=<span class="pokemon-ability">Shadow Shield</span>
+$庞克摇滚=<span class="pokemon-ability">Punk Rock</span>
 $异兽提升=<span class="pokemon-ability">Beast Boost</span>
+$强壮之颚=<span class="pokemon-ability">Strong Jaw</span>
+$强子引擎=<span class="pokemon-ability">Hadron Engine</span>
+$归零化境=<span class="pokemon-ability">Teraform Zero</span>
+$心情不定=<span class="pokemon-ability">Moody</span>
+$心灵感应=<span class="pokemon-ability">Telepathy</span>
+$怒火冲天=<span class="pokemon-ability">Berserk</span>
+$恒净之躯=<span class="pokemon-ability">Clear Body</span>
+$悠游自如=<span class="pokemon-ability">Swift Swim</span>
+$愤怒甲壳=<span class="pokemon-ability">Anger Shell</span>
+$愤怒穴位=<span class="pokemon-ability">Anger Point</span>
+$我行我素=<span class="pokemon-ability">Own Tempo</span>
+$战斗切换=<span class="pokemon-ability">Stance Change</span>
+$战斗盔甲=<span class="pokemon-ability">Battle Armor</span>
+$技术高手=<span class="pokemon-ability">Technician</span>
+$掉出种子=<span class="pokemon-ability">Seed Sower</span>
+$无关天气=<span class="pokemon-ability">Cloud Nine</span>
+$暗黑气场=<span class="pokemon-ability">Dark Aura</span>
+$有色眼镜=<span class="pokemon-ability">Tinted Lens</span>
+$棱镜装甲=<span class="pokemon-ability">Prism Armor</span>
+$正义之心=<span class="pokemon-ability">Justified</span>
+$毛皮大衣=<span class="pokemon-ability">Fur Coat</span>
+$气场破坏=<span class="pokemon-ability">Aura Break</span>
+$治愈之心=<span class="pokemon-ability">Healer</span>
+$洁净之盐=<span class="pokemon-ability">Purifying Salt</span>
+$涡轮火焰=<span class="pokemon-ability">Turboblaze</span>
+$湿润之声=<span class="pokemon-ability">Liquid Voice</span>
+$湿润之躯=<span class="pokemon-ability">Hydration</span>
+$漆黑嘶鸣=<span class="pokemon-ability">Grim Neigh</span>
+$火焰之躯=<span class="pokemon-ability">Flame Body</span>
+$灭亡之躯=<span class="pokemon-ability">Perish Body</span>
+$灾祸之剑=<span class="pokemon-ability">Sword of Ruin</span>
+$灾祸之玉=<span class="pokemon-ability">Beads of Ruin</span>
+$灾祸之简=<span class="pokemon-ability">Tablets of Ruin</span>
+$灾祸之鼎=<span class="pokemon-ability">Vessel of Ruin</span>
+$焦香之躯=<span class="pokemon-ability">Well-Baked Body</span>
+$熔岩铠甲=<span class="pokemon-ability">Magma Armor</span>
+$牵绊变身=<span class="pokemon-ability">Battle Bond</span>
+$瑜伽之力=<span class="pokemon-ability">Pure Power</span>
+$甘露之蜜=<span class="pokemon-ability">Supersweet Syrup</span>
+$电力转换=<span class="pokemon-ability">Electromorphosis</span>
+$电气引擎=<span class="pokemon-ability">Motor Drive</span>
+$电气皮肤=<span class="pokemon-ability">Galvanize</span>
+$界限盾壳=<span class="pokemon-ability">Shields Down</span>
+$疾风之翼=<span class="pokemon-ability">Gale Wings</span>
+$白色烟雾=<span class="pokemon-ability">White Smoke</span>
+$硬壳盔甲=<span class="pokemon-ability">Shell Armor</span>
+$碎裂铠甲=<span class="pokemon-ability">Weak Armor</span>
+$神奇守护=<span class="pokemon-ability">Wonder Guard</span>
+$神奇鳞片=<span class="pokemon-ability">Marvel Scale</span>
+$粉彩护幕=<span class="pokemon-ability">Pastel Veil</span>
+$粗糙皮肤=<span class="pokemon-ability">Rough Skin</span>
+$终结之地=<span class="pokemon-ability">Desolate Land</span>
+$绝对睡眠=<span class="pokemon-ability">Comatose</span>
+$绯红脉动=<span class="pokemon-ability">Orichalcum Pulse</span>
+$群聚变形=<span class="pokemon-ability">Power Construct</span>
+$胜利之星=<span class="pokemon-ability">Victory Star</span>
+$脑核之力=<span class="pokemon-ability">Neuroforce</span>
+$自信过度=<span class="pokemon-ability">Moxie</span>
+$自然回复=<span class="pokemon-ability">Natural Cure</span>
+$苍白嘶鸣=<span class="pokemon-ability">Chilling Neigh</span>
+$草之毛皮=<span class="pokemon-ability">Grass Pelt</span>
+$菌丝之力=<span class="pokemon-ability">Mycelium Might</span>
+$虫之预感=<span class="pokemon-ability">Swarm</span>
+$螺旋尾鳍=<span class="pokemon-ability">Propeller Tail</span>
+$诅咒之躯=<span class="pokemon-ability">Cursed Body</span>
+$跃跃欲逃=<span class="pokemon-ability">Wimp Out</span>
+$达摩模式=<span class="pokemon-ability">Zen Mode</span>
+$连续攻击=<span class="pokemon-ability">Skill Link</span>
+$迷人之躯=<span class="pokemon-ability">Cute Charm</span>
+$遇水凝固=<span class="pokemon-ability">Water Compaction</span>
+$金属防护=<span class="pokemon-ability">Full Metal Body</span>
+$钢之意志=<span class="pokemon-ability">Steely Spirit</span>
+$钢能力者=<span class="pokemon-ability">Steelworker</span>
+$锐利目光=<span class="pokemon-ability">Keen Eye</span>
+$阴晴不定=<span class="pokemon-ability">Forecast</span>
+$面影輝映=<span class="pokemon-ability">Embody Aspect</span>
+$顺手牵羊=<span class="pokemon-ability">Pickpocket</span>
+$风力发电=<span class="pokemon-ability">Wind Power</span>
+$飞行皮肤=<span class="pokemon-ability">Aerilate</span>
+$饱了又饿=<span class="pokemon-ability">Hunger Switch</span>
+$魔法防守=<span class="pokemon-ability">Magic Guard</span>
+$鲜艳之躯=<span class="pokemon-ability">Dazzling</span>
+$黄金之躯=<span class="pokemon-ability">Good as Gold</span>
 $ＡＲ系统=<span class="pokemon-ability">RKS System</span>
+$女王的威严=<span class="pokemon-ability">Queenly Majesty</span>
+$德尔塔气流=<span class="pokemon-ability">Delta Stream</span>
+$恶作剧之心=<span class="pokemon-ability">Prankster</span>
 $电气制造者=<span class="pokemon-ability">Electric Surge</span>
 $精神制造者=<span class="pokemon-ability">Psychic Surge</span>
 $薄雾制造者=<span class="pokemon-ability">Misty Surge</span>
+$超级发射器=<span class="pokemon-ability">Mega Launcher</span>
 $青草制造者=<span class="pokemon-ability">Grassy Surge</span>
-$金属防护=<span class="pokemon-ability">Full Metal Body</span>
-$幻影防守=<span class="pokemon-ability">Shadow Shield</span>
-$棱镜装甲=<span class="pokemon-ability">Prism Armor</span>
-$脑核之力=<span class="pokemon-ability">Neuroforce</span>
-$不挠之剑=<span class="pokemon-ability">Intrepid Sword</span>
-$不屈之盾=<span class="pokemon-ability">Dauntless Shield</span>
-$自由者=<span class="pokemon-ability">Libero</span>
-$捡球=<span class="pokemon-ability">Ball Fetch</span>
-$棉絮=<span class="pokemon-ability">Cotton Down</span>
-$螺旋尾鳍=<span class="pokemon-ability">Propeller Tail</span>
-$镜甲=<span class="pokemon-ability">Mirror Armor</span>
-$一口导弹=<span class="pokemon-ability">Gulp Missile</span>
-$坚毅=<span class="pokemon-ability">Stalwart</span>
-$蒸汽机=<span class="pokemon-ability">Steam Engine</span>
-$庞克摇滚=<span class="pokemon-ability">Punk Rock</span>
-$吐沙=<span class="pokemon-ability">Sand Spit</span>
-$冰鳞粉=<span class="pokemon-ability">Ice Scales</span>
-$熟成=<span class="pokemon-ability">Ripen</span>
-$结冻头=<span class="pokemon-ability">Ice Face</span>
-$能量点=<span class="pokemon-ability">Power Spot</span>
-$拟态=<span class="pokemon-ability">Mimicry</span>
-$除障=<span class="pokemon-ability">Screen Cleaner</span>
-$钢之意志=<span class="pokemon-ability">Steely Spirit</span>
-$灭亡之躯=<span class="pokemon-ability">Perish Body</span>
-$游魂=<span class="pokemon-ability">Wandering Spirit</span>
-$一猩一意=<span class="pokemon-ability">Gorilla Tactics</span>
 $化学变化气体=<span class="pokemon-ability">Neutralizing Gas</span>
-$粉彩护幕=<span class="pokemon-ability">Pastel Veil</span>
-$饱了又饿=<span class="pokemon-ability">Hunger Switch</span>
-$速击=<span class="pokemon-ability">Quick Draw</span>
-$无形拳=<span class="pokemon-ability">Unseen Fist</span>
-$怪药=<span class="pokemon-ability">Curious Medicine</span>
-$电晶体=<span class="pokemon-ability">Transistor</span>
-$龙颚=<span class="pokemon-ability">Dragon's Maw</span>
-$苍白嘶鸣=<span class="pokemon-ability">Chilling Neigh</span>
-$漆黑嘶鸣=<span class="pokemon-ability">Grim Neigh</span>
-$人马一体=<span class="pokemon-ability">As One</span>
 $甩不掉的气味=<span class="pokemon-ability">Lingering Aroma</span>
-$掉出种子=<span class="pokemon-ability">Seed Sower</span>
-$热交换=<span class="pokemon-ability">Thermal Exchange</span>
-$愤怒甲壳=<span class="pokemon-ability">Anger Shell</span>
-$洁净之盐=<span class="pokemon-ability">Purifying Salt</span>
-$焦香之躯=<span class="pokemon-ability">Well-Baked Body</span>
-$乘风=<span class="pokemon-ability">Wind Rider</span>
-$看门犬=<span class="pokemon-ability">Guard Dog</span>
-$搬岩=<span class="pokemon-ability">Rocky Payload</span>
-$风力发电=<span class="pokemon-ability">Wind Power</span>
-$全能变身=<span class="pokemon-ability">Zero to Hero</span>
-$发号施令=<span class="pokemon-ability">Commander</span>
-$电力转换=<span class="pokemon-ability">Electromorphosis</span>
-$古代活性=<span class="pokemon-ability">Protosynthesis</span>
-$夸克充能=<span class="pokemon-ability">Quark Drive</span>
-$黄金之躯=<span class="pokemon-ability">Good as Gold</span>
-$灾祸之鼎=<span class="pokemon-ability">Vessel of Ruin</span>
-$灾祸之剑=<span class="pokemon-ability">Sword of Ruin</span>
-$灾祸之简=<span class="pokemon-ability">Tablets of Ruin</span>
-$灾祸之玉=<span class="pokemon-ability">Beads of Ruin</span>
-$绯红脉动=<span class="pokemon-ability">Orichalcum Pulse</span>
-$强子引擎=<span class="pokemon-ability">Hadron Engine</span>
-$跟风=<span class="pokemon-ability">Opportunist</span>
-$反刍=<span class="pokemon-ability">Cud Chew</span>
-$锋锐=<span class="pokemon-ability">Sharpness</span>
-$大将=<span class="pokemon-ability">Supreme Overlord</span>
-$同台共演=<span class="pokemon-ability">Costar</span>
-$毒满地=<span class="pokemon-ability">Toxic Debris</span>
-$尾甲=<span class="pokemon-ability">Armor Tail</span>
-$食土=<span class="pokemon-ability">Earth Eater</span>
-$菌丝之力=<span class="pokemon-ability">Mycelium Might</span>
-$款待=<span class="pokemon-ability">Hospitality</span>
-$心眼=<span class="pokemon-ability">Mind's Eye</span>
-$面影輝映=<span class="pokemon-ability">Embody Aspect</span>
-$毒锁链=<span class="pokemon-ability">Toxic Chain</span>
-$甘露之蜜=<span class="pokemon-ability">Supersweet Syrup</span>
-$太晶变形=<span class="pokemon-ability">Tera Shift</span>
-$太晶甲壳=<span class="pokemon-ability">Tera Shell</span>
-$归零化境=<span class="pokemon-ability">Teraform Zero</span>
-$毒傀儡=<span class="pokemon-ability">Poison Puppeteer</span>
+$飞出的内在物=<span class="pokemon-ability">Innards Out</span>
 
 _____________ITEMS_____________
 $伤药=Potion
@@ -2109,44 +2109,44 @@ $究极球=Beast Ball<img class="pokemon-ball" src="https://www.serebii.net/item
 $奇异球=Strange Ball<img class="pokemon-ball" src="https://www.serebii.net/itemdex/sprites/sv/strangeball.png">
 
 _____________TYPES_____________
-$冰属性=thuộc tính băng<img class="pokemon-type" src="https://i.postimg.cc/m28srhSx/Ice.png">
-$恶属性=thuộc tính bóng tối<img class="pokemon-type" src="https://i.postimg.cc/tTtcmmS0/Dark.png">
-$毒属性=thuộc tính độc<img class="pokemon-type" src="https://i.postimg.cc/MpH8fxsn/Poison.png">
-$水属性=thuộc tính nước<img class="pokemon-type" src="https://i.postimg.cc/CKfTJ7pY/Water.png">
-$火属性=thuộc tính lửa<img class="pokemon-type" src="https://i.postimg.cc/pLSMD77q/Fire.png">
-$电属性=thuộc tính điện<img class="pokemon-type" src="https://i.postimg.cc/NMqhnXQX/Electric.png">
-$草属性=thuộc tính cỏ<img class="pokemon-type" src="https://i.postimg.cc/v8vRPDk1/Grass.png">
-$虫属性=thuộc tính trùng<img class="pokemon-type" src="https://i.postimg.cc/Dy2hF1Ld/Bug.png">
-$钢属性=thuộc tính thép<img class="pokemon-type" src="https://i.postimg.cc/8Cv9LCLz/Steel.png">
-$龙属性=thuộc tính rồng<img class="pokemon-type" src="https://i.postimg.cc/4d6CR33S/Dragon.png">
-$一般属性=thuộc tính thường<img class="pokemon-type" src="https://i.postimg.cc/3xdPJ1Rp/Normal.png">
-$地面属性=thuộc tính đất<img class="pokemon-type" src="https://i.postimg.cc/L5Drh0Lk/Ground.png">
-$妖精属性=thuộc tính tiên<img class="pokemon-type" src="https://i.postimg.cc/jSmBWfw1/Fairy.png">
-$岩石属性=thuộc tính đá<img class="pokemon-type" src="https://i.postimg.cc/CLv3gXFS/Rock.png">
-$幽灵属性=thuộc tính ma<img class="pokemon-type" src="https://i.postimg.cc/wMgCqdyT/Ghost.png">
-$格斗属性=thuộc tính cách đấu<img class="pokemon-type" src="https://i.postimg.cc/yNwBz5yk/Fighting.png">
-$超能属性=thuộc tính siêu năng<img class="pokemon-type" src="https://i.postimg.cc/fLhFChvj/Psychic.png">
-$飞行属性=thuộc tính bay<img class="pokemon-type" src="https://i.postimg.cc/L64cG2Fx/Flying.png">
+$冰属性=thuộc tính băng<img class="pokemon-type ice-type" src="https://i.postimg.cc/m28srhSx/Ice.png">
+$恶属性=thuộc tính bóng tối<img class="pokemon-type dark-type" src="https://i.postimg.cc/tTtcmmS0/Dark.png">
+$毒属性=thuộc tính độc<img class="pokemon-type poison-type" src="https://i.postimg.cc/MpH8fxsn/Poison.png">
+$水属性=thuộc tính nước<img class="pokemon-type water-type" src="https://i.postimg.cc/CKfTJ7pY/Water.png">
+$火属性=thuộc tính lửa<img class="pokemon-type fire-type" src="https://i.postimg.cc/pLSMD77q/Fire.png">
+$电属性=thuộc tính điện<img class="pokemon-type electric-type" src="https://i.postimg.cc/NMqhnXQX/Electric.png">
+$草属性=thuộc tính cỏ<img class="pokemon-type grass-type" src="https://i.postimg.cc/v8vRPDk1/Grass.png">
+$虫属性=thuộc tính trùng<img class="pokemon-type bug-type" src="https://i.postimg.cc/Dy2hF1Ld/Bug.png">
+$钢属性=thuộc tính thép<img class="pokemon-type steel-type" src="https://i.postimg.cc/8Cv9LCLz/Steel.png">
+$龙属性=thuộc tính rồng<img class="pokemon-type dragon-type" src="https://i.postimg.cc/4d6CR33S/Dragon.png">
+$一般属性=thuộc tính thường<img class="pokemon-type normal-type" src="https://i.postimg.cc/3xdPJ1Rp/Normal.png">
+$地面属性=thuộc tính đất<img class="pokemon-type ground-type" src="https://i.postimg.cc/L5Drh0Lk/Ground.png">
+$妖精属性=thuộc tính tiên<img class="pokemon-type fairy-type" src="https://i.postimg.cc/jSmBWfw1/Fairy.png">
+$岩石属性=thuộc tính đá<img class="pokemon-type rock-type" src="https://i.postimg.cc/CLv3gXFS/Rock.png">
+$幽灵属性=thuộc tính ma<img class="pokemon-type ghost-type" src="https://i.postimg.cc/wMgCqdyT/Ghost.png">
+$格斗属性=thuộc tính cách đấu<img class="pokemon-type fighting-type" src="https://i.postimg.cc/yNwBz5yk/Fighting.png">
+$超能属性=thuộc tính siêu năng<img class="pokemon-type psychic-type" src="https://i.postimg.cc/fLhFChvj/Psychic.png">
+$飞行属性=thuộc tính bay<img class="pokemon-type flying-type" src="https://i.postimg.cc/L64cG2Fx/Flying.png">
 
-$冰系=hệ băng<img class="pokemon-type" src="https://i.postimg.cc/m28srhSx/Ice.png">
-$恶系=hệ bóng tối<img class="pokemon-type" src="https://i.postimg.cc/tTtcmmS0/Dark.png">
-$毒系=hệ độc<img class="pokemon-type" src="https://i.postimg.cc/MpH8fxsn/Poison.png">
-$水系=hệ nước<img class="pokemon-type" src="https://i.postimg.cc/CKfTJ7pY/Water.png">
-$火系=hệ lửa<img class="pokemon-type" src="https://i.postimg.cc/pLSMD77q/Fire.png">
-$电系=hệ điện<img class="pokemon-type" src="https://i.postimg.cc/NMqhnXQX/Electric.png">
-$草系=hệ cỏ<img class="pokemon-type" src="https://i.postimg.cc/v8vRPDk1/Grass.png">
-$虫系=hệ trùng<img class="pokemon-type" src="https://i.postimg.cc/Dy2hF1Ld/Bug.png">
-$钢系=hệ thép<img class="pokemon-type" src="https://i.postimg.cc/8Cv9LCLz/Steel.png">
-$龙系=hệ rồng<img class="pokemon-type" src="https://i.postimg.cc/4d6CR33S/Dragon.png">
-$一般系=hệ thường<img class="pokemon-type" src="https://i.postimg.cc/3xdPJ1Rp/Normal.png">
-$地面系=hệ đất<img class="pokemon-type" src="https://i.postimg.cc/L5Drh0Lk/Ground.png">
-$妖精系=hệ tiên<img class="pokemon-type" src="https://i.postimg.cc/jSmBWfw1/Fairy.png">
-$岩石系=hệ đá<img class="pokemon-type" src="https://i.postimg.cc/CLv3gXFS/Rock.png">
-$幽灵系=hệ ma<img class="pokemon-type" src="https://i.postimg.cc/wMgCqdyT/Ghost.png">
-$格斗系=hệ cách đấu<img class="pokemon-type" src="https://i.postimg.cc/yNwBz5yk/Fighting.png">
-$超能系=hệ siêu năng<img class="pokemon-type" src="https://i.postimg.cc/fLhFChvj/Psychic.png">
-$飞行系=hệ bay<img class="pokemon-type" src="https://i.postimg.cc/L64cG2Fx/Flying.png">
-$超能力系=hệ siêu năng<img class="pokemon-type" src="https://i.postimg.cc/fLhFChvj/Psychic.png">
+$冰系=hệ băng<img class="pokemon-type ice-type" src="https://i.postimg.cc/m28srhSx/Ice.png">
+$恶系=hệ bóng tối<img class="pokemon-type dark-type" src="https://i.postimg.cc/tTtcmmS0/Dark.png">
+$毒系=hệ độc<img class="pokemon-type poison-type" src="https://i.postimg.cc/MpH8fxsn/Poison.png">
+$水系=hệ nước<img class="pokemon-type water-type" src="https://i.postimg.cc/CKfTJ7pY/Water.png">
+$火系=hệ lửa<img class="pokemon-type fire-type" src="https://i.postimg.cc/pLSMD77q/Fire.png">
+$电系=hệ điện<img class="pokemon-type electric-type" src="https://i.postimg.cc/NMqhnXQX/Electric.png">
+$草系=hệ cỏ<img class="pokemon-type grass-type" src="https://i.postimg.cc/v8vRPDk1/Grass.png">
+$虫系=hệ trùng<img class="pokemon-type bug-type" src="https://i.postimg.cc/Dy2hF1Ld/Bug.png">
+$钢系=hệ thép<img class="pokemon-type steel-type" src="https://i.postimg.cc/8Cv9LCLz/Steel.png">
+$龙系=hệ rồng<img class="pokemon-type dragon-type" src="https://i.postimg.cc/4d6CR33S/Dragon.png">
+$一般系=hệ thường<img class="pokemon-type normal-type" src="https://i.postimg.cc/3xdPJ1Rp/Normal.png">
+$地面系=hệ đất<img class="pokemon-type ground-type" src="https://i.postimg.cc/L5Drh0Lk/Ground.png">
+$妖精系=hệ tiên<img class="pokemon-type fairy-type" src="https://i.postimg.cc/jSmBWfw1/Fairy.png">
+$岩石系=hệ đá<img class="pokemon-type rock-type" src="https://i.postimg.cc/CLv3gXFS/Rock.png">
+$幽灵系=hệ ma<img class="pokemon-type ghost-type" src="https://i.postimg.cc/wMgCqdyT/Ghost.png">
+$格斗系=hệ cách đấu<img class="pokemon-type fighting-type" src="https://i.postimg.cc/yNwBz5yk/Fighting.png">
+$超能系=hệ siêu năng<img class="pokemon-type psychic-type" src="https://i.postimg.cc/fLhFChvj/Psychic.png">
+$飞行系=hệ bay<img class="pokemon-type flying-type" src="https://i.postimg.cc/L64cG2Fx/Flying.png">
+$超能力系=hệ siêu năng<img class="pokemon-type psychic-type" src="https://i.postimg.cc/fLhFChvj/Psychic.png">
 
 _____________MEGA_____________
 $超级妙蛙花=Mega Venusaur<img index="#0003" class="pokemon-image" src="https://i.postimg.cc/rm5gwPC6/Mega-Venusaur.png">
@@ -3537,46 +3537,45 @@ $厄诡椪=Ogerpon<img index="#1017" class="pokemon-image" src="https://i.postim
 $太乐巴戈斯=Terapagos<img index="#1024" class="pokemon-image" src="https://i.postimg.cc/858HZQtK/Terapagos-Normal-Form.png"><img index="#1024" class="pokemon-image" src="https://i.postimg.cc/bJQRMC5z/Terapagos-Terastal-Form.png"><img index="#1024" class="pokemon-image" src="https://i.postimg.cc/HsB2DVKr/Terapagos-Stellar-Form.png">
 
 _____________POKÉMON 2_________
-$拉鲁拉斯=Ralts<img index="#0280" class="pokemon-image" src="https://i.postimg.cc/HjdvmzNj/image280.png">
-$好运蛋=Happiny<img index="#0440" class="pokemon-image" src="https://i.postimg.cc/SJ7MhLwQ/image440.png">
-$超铁暴龙=Rhyperior<img index="#0464" class="pokemon-image" src="https://i.postimg.cc/BL9SbkKr/image464.png">
-$首席天鹅=Swanna<img index="#0581" class="pokemon-image" src="https://i.postimg.cc/hJFbr8Q9/image581.png">
-$修缮老头=Conkeldurr<img index="#0534" class="pokemon-image" src="https://i.postimg.cc/gXCM69qP/image534.png">
-$铁甲犀牛=Rhyhorn<img index="#0111" class="pokemon-image" src="https://i.postimg.cc/s1XqkKqy/image111.png">
-$阿伯怪=Arbok<img index="#0024" class="pokemon-image" src="https://i.postimg.cc/ygr93V7f/image24.png">
-$哭哭假面=Yamask<img index="#0562" class="pokemon-image" src="https://i.postimg.cc/tgdZGK9m/Yamask.png"><img index="#0562" class="pokemon-image" src="https://i.postimg.cc/TwRydtw2/Yamask-Galarian-Form.png">
-$皮克西=Clefable<img index="#0036" class="pokemon-image" src="https://i.postimg.cc/XBCZZdHJ/image36.png">
-$月伊布=Umbreon<img index="#0197" class="pokemon-image" src="https://i.postimg.cc/B85tGJ88/image197.png">
-$纽拉=Sneasel<img index="#0215" class="pokemon-image" src="https://i.postimg.cc/2jhJRTWL/Sneasel.png"><img index="#0215" class="pokemon-image" src="https://i.postimg.cc/pXB6yTq2/Sneasel-Hisuian-Form.png">
-$勇吉拉=Kadabra<img index="#0064" class="pokemon-image" src="https://i.postimg.cc/JHL8qX7t/image64.png">
-$班吉拉斯=Tyranitar<img index="#0248" class="pokemon-image" src="https://i.postimg.cc/y3mLmgW1/image248.png">
-$班吉拉=Tyranitar<img index="#0248" class="pokemon-image" src="https://i.postimg.cc/y3mLmgW1/image248.png">
-$火爆兽=Typhlosion<img index="#0157" class="pokemon-image" src="https://i.postimg.cc/7ZdMLr8H/Typhlosion.png"><img index="#0157" class="pokemon-image" src="https://i.postimg.cc/VNt9rZmj/Typhlosion-Hisuian-Form.png">
-$水军=Suicune<img index="#0245" class="pokemon-image" src="https://i.postimg.cc/ft02bgN0/image245.png">
-$比雕=Pidgeot<img index="#0018" class="pokemon-image" src="https://i.postimg.cc/8jfdWrJL/image18.png">
-$素利普=Drowzee<img index="#0096" class="pokemon-image" src="https://i.postimg.cc/mzw4mDPw/image96.png">
-$玛丽露=Marill<img index="#0183" class="pokemon-image" src="https://i.postimg.cc/bsvnHSZm/image183.png">
-$迷龙=Dratini<img index="#0147" class="pokemon-image" src="https://i.postimg.cc/Z9QpCbbw/image147.png">
-$独角兽=Weedle<img index="#0013" class="pokemon-image" src="https://i.postimg.cc/xk338Dk7/image13.png">
-$火爆猴=Primeape<img index="#0057" class="pokemon-image" src="https://i.postimg.cc/G9GhyL3H/image57.png">
 $大甲=Pinsir<img index="#0127" class="pokemon-image" src="https://i.postimg.cc/R3gGGxMt/image127.png">
-$漂浮泡泡=Castform<img index="#0351" class="pokemon-image" src="https://i.postimg.cc/ZKjJmfS5/Castform-Normal.png"><img index="#0351" class="pokemon-image" src="https://i.postimg.cc/gJ9WsQvN/Castform-Sunny-Form.png"><img index="#0351" class="pokemon-image" src="https://i.postimg.cc/6pmw2yTs/Castform-Rainy-Form.png"><img index="#0351" class="pokemon-image" src="https://i.postimg.cc/25LY4rB1/Castform-Snowy-Form.png">
-$死神棺=Cofagrigus<img index="#0563" class="pokemon-image" src="https://i.postimg.cc/N96NTJN9/image563.png">
-$死神板=Runerigus<img index="#0867" class="pokemon-image" src="https://i.postimg.cc/F1DjkXr5/image867.png">
+$比雕=Pidgeot<img index="#0018" class="pokemon-image" src="https://i.postimg.cc/8jfdWrJL/image18.png">
+$水军=Suicune<img index="#0245" class="pokemon-image" src="https://i.postimg.cc/ft02bgN0/image245.png">
+$纽拉=Sneasel<img index="#0215" class="pokemon-image" src="https://i.postimg.cc/2jhJRTWL/Sneasel.png"><img index="#0215" class="pokemon-image" src="https://i.postimg.cc/pXB6yTq2/Sneasel-Hisuian-Form.png">
 $袋龙=Kangaskhan<img index="#0115" class="pokemon-image" src="https://i.postimg.cc/CRjQG2BC/image115.png">
-$沙瓦朗=Hitmonlee<img index="#0106" class="pokemon-image" src="https://i.postimg.cc/fJ1GjXHs/image106.png">
-$艾比郎=Hitmonchan<img index="#0107" class="pokemon-image" src="https://i.postimg.cc/zyW9dBMg/image107.png">
-$穿山甲=Sandshrew<img index="#0027" class="pokemon-image" src="https://i.postimg.cc/mk9W0ssP/Sandshrew.png"><img index="#0027" class="pokemon-image" src="https://i.postimg.cc/3r0hygv3/Sandshrew-Alolan-Form.png">
-$懒人翁=Slakoth<img index="#0287" class="pokemon-image" src="https://i.postimg.cc/MMDDXkLH/image287.png">
-$赤炎咆哮虎=Incineroar<img index="#0727" class="pokemon-image" src="https://i.postimg.cc/gx4Lwvqz/image727.png">
-$火炎狮=Pyroar<img index="#0668" class="pokemon-image" src="https://i.postimg.cc/rsQvzrcD/Pyroar-Male.png"><img index="#0668" class="pokemon-image" src="https://i.postimg.cc/KjZ6ZNXX/Pyroar-Female.png">
+$迷龙=Dratini<img index="#0147" class="pokemon-image" src="https://i.postimg.cc/Z9QpCbbw/image147.png">
+$勇吉拉=Kadabra<img index="#0064" class="pokemon-image" src="https://i.postimg.cc/JHL8qX7t/image64.png">
+$好运蛋=Happiny<img index="#0440" class="pokemon-image" src="https://i.postimg.cc/SJ7MhLwQ/image440.png">
 $幽灵马=Spectrier<img index="#0897" class="pokemon-image" src="https://i.postimg.cc/q6hM7KB7/image897.png">
-$鸭嘴火龙=Magmar<img index="#0126" class="pokemon-image" src="https://i.postimg.cc/rdVQSwLc/image126.png">
-$鸭嘴焰龙=Magmortar<img index="#0467" class="pokemon-image" src="https://i.postimg.cc/4nRbt1RZ/image467.png">
+$懒人翁=Slakoth<img index="#0287" class="pokemon-image" src="https://i.postimg.cc/MMDDXkLH/image287.png">
+$月伊布=Umbreon<img index="#0197" class="pokemon-image" src="https://i.postimg.cc/B85tGJ88/image197.png">
+$死神板=Runerigus<img index="#0867" class="pokemon-image" src="https://i.postimg.cc/F1DjkXr5/image867.png">
+$死神棺=Cofagrigus<img index="#0563" class="pokemon-image" src="https://i.postimg.cc/N96NTJN9/image563.png">
+$沙瓦朗=Hitmonlee<img index="#0106" class="pokemon-image" src="https://i.postimg.cc/fJ1GjXHs/image106.png">
+$火炎狮=Pyroar<img index="#0668" class="pokemon-image" src="https://i.postimg.cc/rsQvzrcD/Pyroar-Male.png"><img index="#0668" class="pokemon-image" src="https://i.postimg.cc/KjZ6ZNXX/Pyroar-Female.png">
+$火爆兽=Typhlosion<img index="#0157" class="pokemon-image" src="https://i.postimg.cc/7ZdMLr8H/Typhlosion.png"><img index="#0157" class="pokemon-image" src="https://i.postimg.cc/VNt9rZmj/Typhlosion-Hisuian-Form.png">
+$火爆猴=Primeape<img index="#0057" class="pokemon-image" src="https://i.postimg.cc/G9GhyL3H/image57.png">
+$独角兽=Weedle<img index="#0013" class="pokemon-image" src="https://i.postimg.cc/xk338Dk7/image13.png">
+$玛丽露=Marill<img index="#0183" class="pokemon-image" src="https://i.postimg.cc/bsvnHSZm/image183.png">
+$班吉拉=Tyranitar<img index="#0248" class="pokemon-image" src="https://i.postimg.cc/y3mLmgW1/image248.png">
+$皮克西=Clefable<img index="#0036" class="pokemon-image" src="https://i.postimg.cc/XBCZZdHJ/image36.png">
+$穿山甲=Sandshrew<img index="#0027" class="pokemon-image" src="https://i.postimg.cc/mk9W0ssP/Sandshrew.png"><img index="#0027" class="pokemon-image" src="https://i.postimg.cc/3r0hygv3/Sandshrew-Alolan-Form.png">
+$素利普=Drowzee<img index="#0096" class="pokemon-image" src="https://i.postimg.cc/mzw4mDPw/image96.png">
+$艾比郎=Hitmonchan<img index="#0107" class="pokemon-image" src="https://i.postimg.cc/zyW9dBMg/image107.png">
+$阿伯怪=Arbok<img index="#0024" class="pokemon-image" src="https://i.postimg.cc/ygr93V7f/image24.png">
 $修缮老头=Conkeldurr<img index="#0534" class="pokemon-image" src="https://i.postimg.cc/gXCM69qP/image534.png">
 $吸盘魔偶=Mr. Mime<img index="#0122" class="pokemon-image" src="https://i.postimg.cc/g2X2mfHH/Mr-Mime.png"><img index="#0122" class="pokemon-image" src="https://i.postimg.cc/9fyXqZS4/Mr-Mime-Galarian-Form.png">
-$原始盖欧卡=Primal Kyogre<img index="#0382" class="pokemon-image" src="https://i.postimg.cc/NjZm4Vjb/Primal-Kyogre.png">
+$哭哭假面=Yamask<img index="#0562" class="pokemon-image" src="https://i.postimg.cc/tgdZGK9m/Yamask.png"><img index="#0562" class="pokemon-image" src="https://i.postimg.cc/TwRydtw2/Yamask-Galarian-Form.png">
+$拉鲁拉斯=Ralts<img index="#0280" class="pokemon-image" src="https://i.postimg.cc/HjdvmzNj/image280.png">
+$漂浮泡泡=Castform<img index="#0351" class="pokemon-image" src="https://i.postimg.cc/ZKjJmfS5/Castform-Normal.png"><img index="#0351" class="pokemon-image" src="https://i.postimg.cc/gJ9WsQvN/Castform-Sunny-Form.png"><img index="#0351" class="pokemon-image" src="https://i.postimg.cc/6pmw2yTs/Castform-Rainy-Form.png"><img index="#0351" class="pokemon-image" src="https://i.postimg.cc/25LY4rB1/Castform-Snowy-Form.png">
+$班吉拉斯=Tyranitar<img index="#0248" class="pokemon-image" src="https://i.postimg.cc/y3mLmgW1/image248.png">
+$超铁暴龙=Rhyperior<img index="#0464" class="pokemon-image" src="https://i.postimg.cc/BL9SbkKr/image464.png">
+$铁甲犀牛=Rhyhorn<img index="#0111" class="pokemon-image" src="https://i.postimg.cc/s1XqkKqy/image111.png">
+$首席天鹅=Swanna<img index="#0581" class="pokemon-image" src="https://i.postimg.cc/hJFbr8Q9/image581.png">
+$鸭嘴火龙=Magmar<img index="#0126" class="pokemon-image" src="https://i.postimg.cc/rdVQSwLc/image126.png">
+$鸭嘴焰龙=Magmortar<img index="#0467" class="pokemon-image" src="https://i.postimg.cc/4nRbt1RZ/image467.png">
 $原始固拉多=Primal Groudon<img index="#0383" class="pokemon-image" src="https://i.postimg.cc/jSDyyKtL/Primal-Groudon.png">
+$原始盖欧卡=Primal Kyogre<img index="#0382" class="pokemon-image" src="https://i.postimg.cc/NjZm4Vjb/Primal-Kyogre.png">
+$赤炎咆哮虎=Incineroar<img index="#0727" class="pokemon-image" src="https://i.postimg.cc/gx4Lwvqz/image727.png">
 
 _____________SHINY_____________
 $闪光喷火龙=Shiny Charizard<img index="#0006" class="pokemon-image" src="https://i.postimg.cc/zf0hCCGy/delpmav-730ef73a-1ee2-42f2-9875-3ef30a41a4c2.png">
@@ -3584,961 +3583,958 @@ $闪光铁哑铃=Shiny Beldum<img index="#0374" class="pokemon-image" src="https
 $闪光金属怪=Shiny Metang<img index="#0375" class="pokemon-image" src="https://i.postimg.cc/ykrGX734/shiny-metang.png">
 $闪光巨金怪=Shiny Metagross<img index="#0376" class="pokemon-image" src="https://i.postimg.cc/mtrqHPDy/shiny-metagross.png">
 
-_____________MOVES_____________
-$拍击=<span class="pokemon-move normal">Pound</span>
-$空手劈=<span class="pokemon-move fighting">Karate Chop</span>
-$连环巴掌=<span class="pokemon-move normal">Double Slap</span>
-$连续拳=<span class="pokemon-move normal">Comet Punch</span>
-$百万吨重拳=<span class="pokemon-move normal">Mega Punch</span>
-$聚宝功=<span class="pokemon-move normal">Pay Day</span>
-$火焰拳=<span class="pokemon-move fire">Fire Punch</span>
-$冰冻拳=<span class="pokemon-move ice">Ice Punch</span>
-$雷电拳=<span class="pokemon-move electric">Thunder Punch</span>
+_____________MOVES_______________
+$啄=<span class="pokemon-move flying">Peck</span>
 $抓=<span class="pokemon-move normal">Scratch</span>
-$夹住=<span class="pokemon-move normal">Vise Grip</span>
-$断头钳=<span class="pokemon-move normal">Guillotine</span>
-$旋风刀=<span class="pokemon-move normal">Razor Wind</span>
-$剑舞=<span class="pokemon-move normal">Swords Dance</span>
-$居合斩=<span class="pokemon-move normal">Cut</span>
-$起风=<span class="pokemon-move flying">Gust</span>
-$翅膀攻击=<span class="pokemon-move flying">Wing Attack</span>
-$吹飞=<span class="pokemon-move normal">Whirlwind</span>
-$飞翔=<span class="pokemon-move flying">Fly</span>
-$绑紧=<span class="pokemon-move normal">Bind</span>
-$摔打=<span class="pokemon-move normal">Slam</span>
-$藤鞭=<span class="pokemon-move grass">Vine Whip</span>
-$踩踏=<span class="pokemon-move normal">Stomp</span>
-$二连踢=<span class="pokemon-move fighting">Double Kick</span>
-$百万吨重踢=<span class="pokemon-move normal">Mega Kick</span>
-$飞踢=<span class="pokemon-move fighting">Jump Kick</span>
-$回旋踢=<span class="pokemon-move fighting">Rolling Kick</span>
-$泼沙=<span class="pokemon-move ground">Sand Attack</span>
-$头锤=<span class="pokemon-move normal">Headbutt</span>
-$角撞=<span class="pokemon-move normal">Horn Attack</span>
+$上菜=<span class="pokemon-move dragon">Order Up</span>
 $乱击=<span class="pokemon-move normal">Fury Attack</span>
-$角钻=<span class="pokemon-move normal">Horn Drill</span>
-$撞击=<span class="pokemon-move normal">Tackle</span>
-$泰山压顶=<span class="pokemon-move normal">Body Slam</span>
-$紧束=<span class="pokemon-move normal">Wrap</span>
-$猛撞=<span class="pokemon-move normal">Take Down</span>
-$大闹一番=<span class="pokemon-move normal">Thrash</span>
-$舍身冲撞=<span class="pokemon-move normal">Double-Edge</span>
-$摇尾巴=<span class="pokemon-move normal">Tail Whip</span>
-$毒针=<span class="pokemon-move poison">Poison Sting</span>
+$乱抓=<span class="pokemon-move normal">Fury Swipes</span>
+$仆刀=<span class="pokemon-move dark">Kowtow Cleave</span>
+$仿效=<span class="pokemon-move normal">Copycat</span>
+$佯攻=<span class="pokemon-move normal">Feint</span>
+$借助=<span class="pokemon-move normal">Assist</span>
+$假哭=<span class="pokemon-move dark">Fake Tears</span>
+$健美=<span class="pokemon-move fighting">Bulk Up</span>
+$偷懒=<span class="pokemon-move normal">Slack Off</span>
+$充电=<span class="pokemon-move electric">Charge</span>
+$光墙=<span class="pokemon-move psychic">Light Screen</span>
+$写生=<span class="pokemon-move normal">Sketch</span>
+$冥想=<span class="pokemon-move psychic">Calm Mind</span>
+$冰息=<span class="pokemon-move ice">Frost Breath</span>
+$冰旋=<span class="pokemon-move ice">Ice Spinner</span>
+$冰球=<span class="pokemon-move ice">Ice Ball</span>
+$冰砾=<span class="pokemon-move ice">Ice Shard</span>
+$冰锤=<span class="pokemon-move ice">Ice Hammer</span>
+$冰锥=<span class="pokemon-move ice">Icicle Spear</span>
+$冰雹=<span class="pokemon-move ice">Hail</span>
+$冲岩=<span class="pokemon-move rock">Accelerock</span>
+$冲浪=<span class="pokemon-move water">Surf</span>
+$净化=<span class="pokemon-move poison">Purify</span>
+$击落=<span class="pokemon-move rock">Smack Down</span>
+$剑舞=<span class="pokemon-move normal">Swords Dance</span>
+$剧毒=<span class="pokemon-move poison">Toxic</span>
+$劈开=<span class="pokemon-move normal">Slash</span>
+$劈瓦=<span class="pokemon-move fighting">Brick Break</span>
+$双翼=<span class="pokemon-move flying">Dual Wingbeat</span>
 $双针=<span class="pokemon-move bug">Twineedle</span>
-$飞弹针=<span class="pokemon-move bug">Pin Missile</span>
-$瞪眼=<span class="pokemon-move normal">Leer</span>
-$咬住=<span class="pokemon-move dark">Bite</span>
+$发劲=<span class="pokemon-move fighting">Force Palm</span>
+$变圆=<span class="pokemon-move normal">Defense Curl</span>
+$变小=<span class="pokemon-move normal">Minimize</span>
+$变硬=<span class="pokemon-move normal">Harden</span>
+$变身=<span class="pokemon-move normal">Transform</span>
 $叫声=<span class="pokemon-move normal">Growl</span>
+$叶刃=<span class="pokemon-move grass">Leaf Blade</span>
+$号令=<span class="pokemon-move psychic">Instruct</span>
+$同命=<span class="pokemon-move ghost">Destiny Bond</span>
+$吐丝=<span class="pokemon-move bug">String Shot</span>
+$吞下=<span class="pokemon-move normal">Swallow</span>
+$吵闹=<span class="pokemon-move normal">Uproar</span>
+$吸取=<span class="pokemon-move grass">Absorb</span>
+$吸血=<span class="pokemon-move bug">Leech Life</span>
+$吹捧=<span class="pokemon-move dark">Flatter</span>
+$吹飞=<span class="pokemon-move normal">Whirlwind</span>
 $吼叫=<span class="pokemon-move normal">Roar</span>
+$咬住=<span class="pokemon-move dark">Bite</span>
+$咬碎=<span class="pokemon-move dark">Crunch</span>
+$哈欠=<span class="pokemon-move normal">Yawn</span>
 $唱歌=<span class="pokemon-move normal">Sing</span>
-$超音波=<span class="pokemon-move normal">Supersonic</span>
-$音爆=<span class="pokemon-move normal">Sonic Boom</span>
-$定身法=<span class="pokemon-move normal">Disable</span>
-$溶解液=<span class="pokemon-move poison">Acid</span>
-$火花=<span class="pokemon-move fire">Ember</span>
-$喷射火焰=<span class="pokemon-move fire">Flamethrower</span>
-$白雾=<span class="pokemon-move ice">Mist</span>
+$啄钻=<span class="pokemon-move flying">Drill Peck</span>
+$啄食=<span class="pokemon-move flying">Pluck</span>
+$喷出=<span class="pokemon-move normal">Spit Up</span>
+$喷水=<span class="pokemon-move water">Water Spout</span>
+$喷火=<span class="pokemon-move fire">Eruption</span>
+$喷烟=<span class="pokemon-move fire">Lava Plume</span>
+$嚣张=<span class="pokemon-move dark">Power Trip</span>
+$回声=<span class="pokemon-move normal">Echoed Voice</span>
+$围攻=<span class="pokemon-move dark">Beat Up</span>
+$圆瞳=<span class="pokemon-move fairy">Baby-Doll Eyes</span>
+$圣剑=<span class="pokemon-move fighting">Sacred Sword</span>
+$地裂=<span class="pokemon-move ground">Fissure</span>
+$地震=<span class="pokemon-move ground">Earthquake</span>
+$复仇=<span class="pokemon-move dark">Comeuppance</span>
+$头锤=<span class="pokemon-move normal">Headbutt</span>
+$夹住=<span class="pokemon-move normal">Vise Grip</span>
+$妒火=<span class="pokemon-move fire">Burning Jealousy</span>
+$嬉闹=<span class="pokemon-move fairy">Play Rough</span>
+$守住=<span class="pokemon-move normal">Protect</span>
+$密语=<span class="pokemon-move normal">Confide</span>
+$封印=<span class="pokemon-move psychic">Imprison</span>
+$小偷=<span class="pokemon-move dark">Thief</span>
+$屏障=<span class="pokemon-move psychic">Barrier</span>
+$岩崩=<span class="pokemon-move rock">Rock Slide</span>
+$岩斧=<span class="pokemon-move rock">Stone Axe</span>
+$巨声=<span class="pokemon-move normal">Hyper Voice</span>
+$巴投=<span class="pokemon-move fighting">Circle Throw</span>
+$帮助=<span class="pokemon-move normal">Helping Hand</span>
+$庆祝=<span class="pokemon-move normal">Celebrate</span>
+$延后=<span class="pokemon-move dark">Quash</span>
+$弹跳=<span class="pokemon-move flying">Bounce</span>
+$忍耐=<span class="pokemon-move normal">Bide</span>
+$念力=<span class="pokemon-move psychic">Confusion</span>
+$怒牛=<span class="pokemon-move normal">Raging Bull</span>
+$怨念=<span class="pokemon-move ghost">Grudge</span>
+$怨恨=<span class="pokemon-move ghost">Spite</span>
+$恶梦=<span class="pokemon-move ghost">Nightmare</span>
+$惊吓=<span class="pokemon-move ghost">Astonish</span>
+$惩罚=<span class="pokemon-move dark">Punishment</span>
+$愤怒=<span class="pokemon-move normal">Rage</span>
+$戏法=<span class="pokemon-move psychic">Trick</span>
+$战吼=<span class="pokemon-move normal">Noble Roar</span>
+$扎根=<span class="pokemon-move grass">Ingrain</span>
+$扑击=<span class="pokemon-move fighting">Body Press</span>
+$打嗝=<span class="pokemon-move poison">Belch</span>
+$打雷=<span class="pokemon-move electric">Thunder</span>
+$打鼾=<span class="pokemon-move normal">Snore</span>
+$扫墓=<span class="pokemon-move ghost">Last Respects</span>
+$扮演=<span class="pokemon-move psychic">Role Play</span>
+$抓狂=<span class="pokemon-move normal">Flail</span>
+$投掷=<span class="pokemon-move dark">Fling</span>
+$投球=<span class="pokemon-move normal">Barrage</span>
+$抢夺=<span class="pokemon-move dark">Snatch</span>
+$报仇=<span class="pokemon-move normal">Retaliate</span>
+$报复=<span class="pokemon-move fighting">Revenge</span>
+$报恩=<span class="pokemon-move normal">Return</span>
+$拍击=<span class="pokemon-move normal">Pound</span>
+$拍落=<span class="pokemon-move dark">Knock Off</span>
+$拦堵=<span class="pokemon-move dark">Obstruct</span>
+$指导=<span class="pokemon-move fighting">Coaching</span>
+$挑衅=<span class="pokemon-move dark">Taunt</span>
+$挖洞=<span class="pokemon-move ground">Dig</span>
+$挠痒=<span class="pokemon-move normal">Tickle</span>
+$挡路=<span class="pokemon-move normal">Block</span>
+$挣扎=<span class="pokemon-move normal">Struggle</span>
+$挥指=<span class="pokemon-move normal">Metronome</span>
+$挺住=<span class="pokemon-move normal">Endure</span>
+$捏碎=<span class="pokemon-move normal">Crush Grip</span>
+$换场=<span class="pokemon-move normal">Court Change</span>
+$换挡=<span class="pokemon-move steel">Shift Gear</span>
+$掉包=<span class="pokemon-move dark">Switcheroo</span>
+$接棒=<span class="pokemon-move normal">Baton Pass</span>
+$掷泥=<span class="pokemon-move ground">Mud-Slap</span>
+$掷锚=<span class="pokemon-move steel">Anchor Shot</span>
+$描绘=<span class="pokemon-move normal">Doodle</span>
+$搏命=<span class="pokemon-move fighting">Final Gambit</span>
+$摔打=<span class="pokemon-move normal">Slam</span>
+$撒娇=<span class="pokemon-move fairy">Charm</span>
+$撒菱=<span class="pokemon-move ground">Spikes</span>
+$撞击=<span class="pokemon-move normal">Tackle</span>
+$攀岩=<span class="pokemon-move normal">Rock Climb</span>
+$攀瀑=<span class="pokemon-move water">Waterfall</span>
+$放电=<span class="pokemon-move electric">Discharge</span>
+$断尾=<span class="pokemon-move normal">Shed Tail</span>
+$星碎=<span class="pokemon-move ghost">Astral Barrage</span>
+$晨光=<span class="pokemon-move normal">Morning Sun</span>
+$暴风=<span class="pokemon-move flying">Hurricane</span>
+$替身=<span class="pokemon-move normal">Substitute</span>
+$月光=<span class="pokemon-move fairy">Moonlight</span>
+$木槌=<span class="pokemon-move grass">Wood Hammer</span>
+$木角=<span class="pokemon-move grass">Horn Leech</span>
+$杂技=<span class="pokemon-move flying">Acrobatics</span>
+$查封=<span class="pokemon-move dark">Embargo</span>
+$树叶=<span class="pokemon-move grass">Leafage</span>
+$梦话=<span class="pokemon-move normal">Sleep Talk</span>
+$模仿=<span class="pokemon-move normal">Mimic</span>
+$欺诈=<span class="pokemon-move dark">Foul Play</span>
+$毒丝=<span class="pokemon-move poison">Toxic Thread</span>
+$毒击=<span class="pokemon-move poison">Poison Jab</span>
+$毒尾=<span class="pokemon-move poison">Poison Tail</span>
+$毒粉=<span class="pokemon-move poison">Poison Powder</span>
+$毒菱=<span class="pokemon-move poison">Toxic Spikes</span>
+$毒针=<span class="pokemon-move poison">Poison Sting</span>
 $水枪=<span class="pokemon-move water">Water Gun</span>
 $水炮=<span class="pokemon-move water">Hydro Pump</span>
-$冲浪=<span class="pokemon-move water">Surf</span>
-$冰冻光束=<span class="pokemon-move ice">Ice Beam</span>
-$暴风雪=<span class="pokemon-move ice">Blizzard</span>
-$幻象光线=<span class="pokemon-move psychic">Psybeam</span>
-$泡沫光线=<span class="pokemon-move water">Bubble Beam</span>
-$极光束=<span class="pokemon-move ice">Aurora Beam</span>
-$破坏光线=<span class="pokemon-move normal">Hyper Beam</span>
-$啄=<span class="pokemon-move flying">Peck</span>
-$啄钻=<span class="pokemon-move flying">Drill Peck</span>
-$地狱翻滚=<span class="pokemon-move fighting">Submission</span>
-$踢倒=<span class="pokemon-move fighting">Low Kick</span>
-$双倍奉还=<span class="pokemon-move fighting">Counter</span>
-$地球上投=<span class="pokemon-move fighting">Seismic Toss</span>
-$怪力*=<span class="pokemon-move normal">Strength</span>
-$吸取=<span class="pokemon-move grass">Absorb</span>
-$超级吸取=<span class="pokemon-move grass">Mega Drain</span>
-$寄生种子=<span class="pokemon-move grass">Leech Seed</span>
-$生长=<span class="pokemon-move normal">Growth</span>
-$飞叶快刀=<span class="pokemon-move grass">Razor Leaf</span>
-$日光束=<span class="pokemon-move grass">Solar Beam</span>
-$毒粉=<span class="pokemon-move poison">Poison Powder</span>
-$麻痺粉=<span class="pokemon-move grass">Stun Spore</span>
-$催眠粉=<span class="pokemon-move grass">Sleep Powder</span>
-$花瓣舞=<span class="pokemon-move grass">Petal Dance</span>
-$吐丝=<span class="pokemon-move bug">String Shot</span>
-$龙之怒=<span class="pokemon-move dragon">Dragon Rage</span>
-$火焰旋涡=<span class="pokemon-move fire">Fire Spin</span>
-$电击=<span class="pokemon-move electric">Thunder Shock</span>
-$十万伏特=<span class="pokemon-move electric">Thunderbolt</span>
-$电磁波=<span class="pokemon-move electric">Thunder Wave</span>
-$打雷=<span class="pokemon-move electric">Thunder</span>
-$落石=<span class="pokemon-move rock">Rock Throw</span>
-$地震=<span class="pokemon-move ground">Earthquake</span>
-$地裂=<span class="pokemon-move ground">Fissure</span>
-$挖洞=<span class="pokemon-move ground">Dig</span>
-$剧毒=<span class="pokemon-move poison">Toxic</span>
-$念力=<span class="pokemon-move psychic">Confusion</span>
-$精神强念=<span class="pokemon-move psychic">Psychic</span>
-$催眠术=<span class="pokemon-move psychic">Hypnosis</span>
-$瑜伽姿势=<span class="pokemon-move psychic">Meditate</span>
-$高速移动=<span class="pokemon-move psychic">Agility</span>
-$电光一闪=<span class="pokemon-move normal">Quick Attack</span>
-$愤怒=<span class="pokemon-move normal">Rage</span>
-$瞬间移动=<span class="pokemon-move psychic">Teleport</span>
-$黑夜魔影=<span class="pokemon-move ghost">Night Shade</span>
-$模仿=<span class="pokemon-move normal">Mimic</span>
-$刺耳声=<span class="pokemon-move normal">Screech</span>
-$影子分身=<span class="pokemon-move normal">Double Team</span>
-$自我再生=<span class="pokemon-move normal">Recover</span>
-$变硬=<span class="pokemon-move normal">Harden</span>
-$变小=<span class="pokemon-move normal">Minimize</span>
-$烟幕=<span class="pokemon-move normal">Smokescreen</span>
-$奇异之光=<span class="pokemon-move ghost">Confuse Ray</span>
-$缩入壳中=<span class="pokemon-move water">Withdraw</span>
-$变圆=<span class="pokemon-move normal">Defense Curl</span>
-$屏障=<span class="pokemon-move psychic">Barrier</span>
-$光墙=<span class="pokemon-move psychic">Light Screen</span>
-$黑雾=<span class="pokemon-move ice">Haze</span>
-$反射壁=<span class="pokemon-move psychic">Reflect</span>
-$聚气=<span class="pokemon-move normal">Focus Energy</span>
-$忍耐=<span class="pokemon-move normal">Bide</span>
-$挥指=<span class="pokemon-move normal">Metronome</span>
-$鹦鹉学舌=<span class="pokemon-move flying">Mirror Move</span>
-$自爆=<span class="pokemon-move normal">Self-Destruct</span>
-$炸蛋=<span class="pokemon-move normal">Egg Bomb</span>
-$舌舔=<span class="pokemon-move ghost">Lick</span>
-$浊雾=<span class="pokemon-move poison">Smog</span>
-$污泥攻击=<span class="pokemon-move poison">Sludge</span>
-$骨棒=<span class="pokemon-move ground">Bone Club</span>
-$大字爆炎=<span class="pokemon-move fire">Fire Blast</span>
-$攀瀑=<span class="pokemon-move water">Waterfall</span>
-$贝壳夹击=<span class="pokemon-move water">Clamp</span>
-$高速星星=<span class="pokemon-move normal">Swift</span>
-$火箭头锤=<span class="pokemon-move normal">Skull Bash</span>
-$尖刺加农炮=<span class="pokemon-move normal">Spike Cannon</span>
-$缠绕=<span class="pokemon-move normal">Constrict</span>
-$瞬间失忆=<span class="pokemon-move psychic">Amnesia</span>
-$折弯汤匙=<span class="pokemon-move psychic">Kinesis</span>
-$生蛋=<span class="pokemon-move normal">Soft-Boiled</span>
-$飞膝踢=<span class="pokemon-move fighting">High Jump Kick</span>
-$大蛇瞪眼=<span class="pokemon-move normal">Glare</span>
-$食梦=<span class="pokemon-move psychic">Dream Eater</span>
-$毒瓦斯=<span class="pokemon-move poison">Poison Gas</span>
-$投球=<span class="pokemon-move normal">Barrage</span>
-$吸血=<span class="pokemon-move bug">Leech Life</span>
-$惡魔之吻=<span class="pokemon-move normal">Lovely Kiss</span>
-$神鸟猛击=<span class="pokemon-move flying">Sky Attack</span>
-$变身=<span class="pokemon-move normal">Transform</span>
-$泡沫=<span class="pokemon-move water">Bubble</span>
-$迷昏拳=<span class="pokemon-move normal">Dizzy Punch</span>
-$蘑菇孢子=<span class="pokemon-move grass">Spore</span>
-$闪光=<span class="pokemon-move normal">Flash</span>
-$精神波=<span class="pokemon-move psychic">Psywave</span>
-$跃起=<span class="pokemon-move normal">Splash</span>
-$溶化=<span class="pokemon-move poison">Acid Armor</span>
-$蟹钳锤=<span class="pokemon-move water">Crabhammer</span>
-$大爆炸=<span class="pokemon-move normal">Explosion</span>
-$乱抓=<span class="pokemon-move normal">Fury Swipes</span>
-$骨头回力镖=<span class="pokemon-move ground">Bonemerang</span>
-$睡觉=<span class="pokemon-move psychic">Rest</span>
-$岩崩=<span class="pokemon-move rock">Rock Slide</span>
-$必杀门牙=<span class="pokemon-move normal">Hyper Fang</span>
-$棱角化=<span class="pokemon-move normal">Sharpen</span>
-$纹理=<span class="pokemon-move normal">Conversion</span>
-$三重攻击=<span class="pokemon-move normal">Tri Attack</span>
-$愤怒门牙=<span class="pokemon-move normal">Super Fang</span>
-$劈开=<span class="pokemon-move normal">Slash</span>
-$替身=<span class="pokemon-move normal">Substitute</span>
-$挣扎=<span class="pokemon-move normal">Struggle</span>
-$写生=<span class="pokemon-move normal">Sketch</span>
-$三连踢=<span class="pokemon-move fighting">Triple Kick</span>
-$小偷=<span class="pokemon-move dark">Thief</span>
-$蛛网=<span class="pokemon-move bug">Spider Web</span>
-$心之眼=<span class="pokemon-move normal">Mind Reader</span>
-$恶梦=<span class="pokemon-move ghost">Nightmare</span>
-$火焰轮=<span class="pokemon-move fire">Flame Wheel</span>
-$打鼾=<span class="pokemon-move normal">Snore</span>
-$诅咒=<span class="pokemon-move ghost">Curse</span>
-$抓狂=<span class="pokemon-move normal">Flail</span>
-$纹理２=<span class="pokemon-move normal">Conversion 2</span>
-$气旋攻击=<span class="pokemon-move flying">Aeroblast</span>
-$棉孢子=<span class="pokemon-move grass">Cotton Spore</span>
-$起死回生=<span class="pokemon-move fighting">Reversal</span>
-$怨恨=<span class="pokemon-move ghost">Spite</span>
-$细雪=<span class="pokemon-move ice">Powder Snow</span>
-$守住=<span class="pokemon-move normal">Protect</span>
-$音速拳=<span class="pokemon-move fighting">Mach Punch</span>
-$鬼面=<span class="pokemon-move normal">Scary Face</span>
-$出奇一击=<span class="pokemon-move dark">Feint Attack</span>
-$天使之吻=<span class="pokemon-move fairy">Sweet Kiss</span>
-$腹鼓=<span class="pokemon-move normal">Belly Drum</span>
-$污泥炸弹=<span class="pokemon-move poison">Sludge Bomb</span>
-$掷泥=<span class="pokemon-move ground">Mud-Slap</span>
-$章鱼桶炮=<span class="pokemon-move water">Octazooka</span>
-$撒菱=<span class="pokemon-move ground">Spikes</span>
-$电磁炮=<span class="pokemon-move electric">Zap Cannon</span>
-$识破=<span class="pokemon-move normal">Foresight</span>
-$同命=<span class="pokemon-move ghost">Destiny Bond</span>
-$灭亡之歌=<span class="pokemon-move normal">Perish Song</span>
-$冰冻之风=<span class="pokemon-move ice">Icy Wind</span>
-$看穿=<span class="pokemon-move fighting">Detect</span>
-$骨棒乱打=<span class="pokemon-move ground">Bone Rush</span>
-$锁定=<span class="pokemon-move normal">Lock-On</span>
-$逆鳞=<span class="pokemon-move dragon">Outrage</span>
-$沙暴=<span class="pokemon-move rock">Sandstorm</span>
-$终极吸取=<span class="pokemon-move grass">Giga Drain</span>
-$挺住=<span class="pokemon-move normal">Endure</span>
-$撒娇=<span class="pokemon-move fairy">Charm</span>
-$滚动=<span class="pokemon-move rock">Rollout</span>
-$点到为止=<span class="pokemon-move normal">False Swipe</span>
-$虚张声势=<span class="pokemon-move normal">Swagger</span>
-$喝牛奶=<span class="pokemon-move normal">Milk Drink</span>
-$电光=<span class="pokemon-move electric">Spark</span>
-$连斩=<span class="pokemon-move bug">Fury Cutter</span>
-$钢翼=<span class="pokemon-move steel">Steel Wing</span>
-$黑色目光=<span class="pokemon-move normal">Mean Look</span>
-$迷人=<span class="pokemon-move normal">Attract</span>
-$梦话=<span class="pokemon-move normal">Sleep Talk</span>
-$治愈铃声=<span class="pokemon-move normal">Heal Bell</span>
-$报恩=<span class="pokemon-move normal">Return</span>
-$礼物=<span class="pokemon-move normal">Present</span>
-$迁怒=<span class="pokemon-move normal">Frustration</span>
-$神秘守护=<span class="pokemon-move normal">Safeguard</span>
-$分担痛楚=<span class="pokemon-move normal">Pain Split</span>
-$神圣之火=<span class="pokemon-move fire">Sacred Fire</span>
-$震级=<span class="pokemon-move ground">Magnitude</span>
-$爆裂拳=<span class="pokemon-move fighting">Dynamic Punch</span>
-$超级角击=<span class="pokemon-move bug">Megahorn</span>
-$龙息=<span class="pokemon-move dragon">Dragon Breath</span>
-$接棒=<span class="pokemon-move normal">Baton Pass</span>
-$再来一次=<span class="pokemon-move normal">Encore</span>
-$追打=<span class="pokemon-move dark">Pursuit</span>
-$高速旋转=<span class="pokemon-move normal">Rapid Spin</span>
-$甜甜香气=<span class="pokemon-move normal">Sweet Scent</span>
-$铁尾=<span class="pokemon-move steel">Iron Tail</span>
-$金属爪=<span class="pokemon-move steel">Metal Claw</span>
-$借力摔=<span class="pokemon-move fighting">Vital Throw</span>
-$晨光=<span class="pokemon-move normal">Morning Sun</span>
-$光合作用=<span class="pokemon-move grass">Synthesis</span>
-$月光=<span class="pokemon-move fairy">Moonlight</span>
-$觉醒力量=<span class="pokemon-move normal">Hidden Power</span>
-$十字劈=<span class="pokemon-move fighting">Cross Chop</span>
-$龙卷风=<span class="pokemon-move dragon">Twister</span>
 $求雨=<span class="pokemon-move water">Rain Dance</span>
-$大晴天=<span class="pokemon-move fire">Sunny Day</span>
-$咬碎=<span class="pokemon-move dark">Crunch</span>
-$镜面反射=<span class="pokemon-move psychic">Mirror Coat</span>
-$自我暗示=<span class="pokemon-move normal">Psych Up</span>
-$神速=<span class="pokemon-move normal">Extreme Speed</span>
-$原始之力=<span class="pokemon-move rock">Ancient Power</span>
-$暗影球=<span class="pokemon-move ghost">Shadow Ball</span>
-$预知未来=<span class="pokemon-move psychic">Future Sight</span>
-$碎岩=<span class="pokemon-move fighting">Rock Smash</span>
-$潮旋=<span class="pokemon-move water">Whirlpool</span>
-$围攻=<span class="pokemon-move dark">Beat Up</span>
-$击掌奇袭=<span class="pokemon-move normal">Fake Out</span>
-$吵闹=<span class="pokemon-move normal">Uproar</span>
-$蓄力=<span class="pokemon-move normal">Stockpile</span>
-$喷出=<span class="pokemon-move normal">Spit Up</span>
-$吞下=<span class="pokemon-move normal">Swallow</span>
-$热风=<span class="pokemon-move fire">Heat Wave</span>
-$冰雹=<span class="pokemon-move ice">Hail</span>
-$无理取闹=<span class="pokemon-move dark">Torment</span>
-$吹捧=<span class="pokemon-move dark">Flatter</span>
-$鬼火=<span class="pokemon-move fire">Will-O-Wisp</span>
-$临别礼物=<span class="pokemon-move dark">Memento</span>
-$硬撑=<span class="pokemon-move normal">Facade</span>
-$真气拳=<span class="pokemon-move fighting">Focus Punch</span>
-$清醒=<span class="pokemon-move normal">Smelling Salts</span>
-$看我嘛=<span class="pokemon-move normal">Follow Me</span>
-$自然之力=<span class="pokemon-move normal">Nature Power</span>
-$充电=<span class="pokemon-move electric">Charge</span>
-$挑衅=<span class="pokemon-move dark">Taunt</span>
-$帮助=<span class="pokemon-move normal">Helping Hand</span>
-$戏法=<span class="pokemon-move psychic">Trick</span>
-$扮演=<span class="pokemon-move psychic">Role Play</span>
-$祈愿=<span class="pokemon-move normal">Wish</span>
-$借助=<span class="pokemon-move normal">Assist</span>
-$扎根=<span class="pokemon-move grass">Ingrain</span>
-$蛮力=<span class="pokemon-move fighting">Superpower</span>
-$魔法反射=<span class="pokemon-move psychic">Magic Coat</span>
-$回收利用=<span class="pokemon-move normal">Recycle</span>
-$报复=<span class="pokemon-move fighting">Revenge</span>
-$劈瓦=<span class="pokemon-move fighting">Brick Break</span>
-$哈欠=<span class="pokemon-move normal">Yawn</span>
-$拍落=<span class="pokemon-move dark">Knock Off</span>
-$蛮干=<span class="pokemon-move normal">Endeavor</span>
-$喷火=<span class="pokemon-move fire">Eruption</span>
-$特性互换=<span class="pokemon-move psychic">Skill Swap</span>
-$封印=<span class="pokemon-move psychic">Imprison</span>
-$焕然一新=<span class="pokemon-move normal">Refresh</span>
-$怨念=<span class="pokemon-move ghost">Grudge</span>
-$抢夺=<span class="pokemon-move dark">Snatch</span>
-$秘密之力=<span class="pokemon-move normal">Secret Power</span>
-$潜水=<span class="pokemon-move water">Dive</span>
-$猛推=<span class="pokemon-move fighting">Arm Thrust</span>
-$保护色=<span class="pokemon-move normal">Camouflage</span>
-$萤火=<span class="pokemon-move bug">Tail Glow</span>
-$洁净光芒=<span class="pokemon-move psychic">Luster Purge</span>
-$薄雾球=<span class="pokemon-move psychic">Mist Ball</span>
-$羽毛舞=<span class="pokemon-move flying">Feather Dance</span>
-$摇晃舞=<span class="pokemon-move normal">Teeter Dance</span>
-$火焰踢=<span class="pokemon-move fire">Blaze Kick</span>
-$玩泥巴=<span class="pokemon-move ground">Mud Sport</span>
-$冰球=<span class="pokemon-move ice">Ice Ball</span>
-$尖刺臂=<span class="pokemon-move grass">Needle Arm</span>
-$偷懒=<span class="pokemon-move normal">Slack Off</span>
-$巨声=<span class="pokemon-move normal">Hyper Voice</span>
-$剧毒牙=<span class="pokemon-move poison">Poison Fang</span>
-$撕裂爪=<span class="pokemon-move normal">Crush Claw</span>
-$爆炸烈焰=<span class="pokemon-move fire">Blast Burn</span>
-$加农水炮=<span class="pokemon-move water">Hydro Cannon</span>
-$彗星拳=<span class="pokemon-move steel">Meteor Mash</span>
-$惊吓=<span class="pokemon-move ghost">Astonish</span>
-$气象球=<span class="pokemon-move normal">Weather Ball</span>
-$芳香治疗=<span class="pokemon-move grass">Aromatherapy</span>
-$假哭=<span class="pokemon-move dark">Fake Tears</span>
-$空气利刃=<span class="pokemon-move flying">Air Cutter</span>
-$过热=<span class="pokemon-move fire">Overheat</span>
-$气味侦测=<span class="pokemon-move normal">Odor Sleuth</span>
-$岩石封锁=<span class="pokemon-move rock">Rock Tomb</span>
-$银色旋风=<span class="pokemon-move bug">Silver Wind</span>
-$金属音=<span class="pokemon-move steel">Metal Sound</span>
-$草笛=<span class="pokemon-move grass">Grass Whistle</span>
-$挠痒=<span class="pokemon-move normal">Tickle</span>
-$宇宙力量=<span class="pokemon-move psychic">Cosmic Power</span>
-$喷水=<span class="pokemon-move water">Water Spout</span>
-$信号光束=<span class="pokemon-move bug">Signal Beam</span>
-$暗影拳=<span class="pokemon-move ghost">Shadow Punch</span>
-$神通力=<span class="pokemon-move psychic">Extrasensory</span>
-$冲天拳=<span class="pokemon-move fighting">Sky Uppercut</span>
-$流沙地狱=<span class="pokemon-move ground">Sand Tomb</span>
-$绝对零度=<span class="pokemon-move ice">Sheer Cold</span>
+$沙暴=<span class="pokemon-move rock">Sandstorm</span>
+$泄愤=<span class="pokemon-move dark">Lash Out</span>
+$泡沫=<span class="pokemon-move water">Bubble</span>
+$泼沙=<span class="pokemon-move ground">Sand Attack</span>
 $浊流=<span class="pokemon-move water">Muddy Water</span>
-$种子机关枪=<span class="pokemon-move grass">Bullet Seed</span>
-$燕返=<span class="pokemon-move flying">Aerial Ace</span>
-$冰锥=<span class="pokemon-move ice">Icicle Spear</span>
-$铁壁=<span class="pokemon-move steel">Iron Defense</span>
-$挡路=<span class="pokemon-move normal">Block</span>
-$长嚎=<span class="pokemon-move normal">Howl</span>
-$龙爪=<span class="pokemon-move dragon">Dragon Claw</span>
-$疯狂植物=<span class="pokemon-move grass">Frenzy Plant</span>
-$健美=<span class="pokemon-move fighting">Bulk Up</span>
-$弹跳=<span class="pokemon-move flying">Bounce</span>
-$泥巴射击=<span class="pokemon-move ground">Mud Shot</span>
-$毒尾=<span class="pokemon-move poison">Poison Tail</span>
-$渴望=<span class="pokemon-move normal">Covet</span>
-$伏特攻击=<span class="pokemon-move electric">Volt Tackle</span>
-$魔法叶=<span class="pokemon-move grass">Magical Leaf</span>
-$玩水=<span class="pokemon-move water">Water Sport</span>
-$冥想=<span class="pokemon-move psychic">Calm Mind</span>
-$叶刃=<span class="pokemon-move grass">Leaf Blade</span>
-$龙之舞=<span class="pokemon-move dragon">Dragon Dance</span>
-$岩石爆击=<span class="pokemon-move rock">Rock Blast</span>
-$电击波=<span class="pokemon-move electric">Shock Wave</span>
-$水之波动=<span class="pokemon-move water">Water Pulse</span>
-$破灭之愿=<span class="pokemon-move steel">Doom Desire</span>
-$精神突进=<span class="pokemon-move psychic">Psycho Boost</span>
-$羽栖=<span class="pokemon-move flying">Roost</span>
-$重力=<span class="pokemon-move psychic">Gravity</span>
-$奇迹之眼=<span class="pokemon-move psychic">Miracle Eye</span>
-$唤醒巴掌=<span class="pokemon-move fighting">Wake-Up Slap</span>
-$臂锤=<span class="pokemon-move fighting">Hammer Arm</span>
-$陀螺球=<span class="pokemon-move steel">Gyro Ball</span>
-$治愈之愿=<span class="pokemon-move psychic">Healing Wish</span>
-$盐水=<span class="pokemon-move water">Brine</span>
-$自然之恩=<span class="pokemon-move normal">Natural Gift</span>
-$佯攻=<span class="pokemon-move normal">Feint</span>
-$啄食=<span class="pokemon-move flying">Pluck</span>
-$顺风=<span class="pokemon-move flying">Tailwind</span>
-$点穴=<span class="pokemon-move normal">Acupressure</span>
-$金属爆炸=<span class="pokemon-move steel">Metal Burst</span>
-$急速折返=<span class="pokemon-move bug">U-turn</span>
-$近身战=<span class="pokemon-move fighting">Close Combat</span>
-$以牙还牙=<span class="pokemon-move dark">Payback</span>
-$恶意追击=<span class="pokemon-move dark">Assurance</span>
-$查封=<span class="pokemon-move dark">Embargo</span>
-$投掷=<span class="pokemon-move dark">Fling</span>
-$精神转移=<span class="pokemon-move psychic">Psycho Shift</span>
-$王牌=<span class="pokemon-move normal">Trump Card</span>
-$回复封锁=<span class="pokemon-move psychic">Heal Block</span>
-$绞紧=<span class="pokemon-move normal">Wring Out</span>
-$力量戏法=<span class="pokemon-move psychic">Power Trick</span>
-$胃液=<span class="pokemon-move poison">Gastro Acid</span>
-$幸运咒语=<span class="pokemon-move normal">Lucky Chant</span>
-$抢先一步=<span class="pokemon-move normal">Me First</span>
-$仿效=<span class="pokemon-move normal">Copycat</span>
-$力量互换=<span class="pokemon-move psychic">Power Swap</span>
-$防守互换=<span class="pokemon-move psychic">Guard Swap</span>
-$惩罚=<span class="pokemon-move dark">Punishment</span>
-$珍藏=<span class="pokemon-move normal">Last Resort</span>
-$烦恼种子=<span class="pokemon-move grass">Worry Seed</span>
-$突袭=<span class="pokemon-move dark">Sucker Punch</span>
-$毒菱=<span class="pokemon-move poison">Toxic Spikes</span>
-$心灵互换=<span class="pokemon-move psychic">Heart Swap</span>
-$水流环=<span class="pokemon-move water">Aqua Ring</span>
-$电磁飘浮=<span class="pokemon-move electric">Magnet Rise</span>
-$闪焰冲锋=<span class="pokemon-move fire">Flare Blitz</span>
-$发劲=<span class="pokemon-move fighting">Force Palm</span>
-$波导弹=<span class="pokemon-move fighting">Aura Sphere</span>
-$岩石打磨=<span class="pokemon-move rock">Rock Polish</span>
-$毒击=<span class="pokemon-move poison">Poison Jab</span>
-$恶之波动=<span class="pokemon-move dark">Dark Pulse</span>
-$暗袭要害=<span class="pokemon-move dark">Night Slash</span>
-$水流尾=<span class="pokemon-move water">Aqua Tail</span>
-$种子炸弹=<span class="pokemon-move grass">Seed Bomb</span>
-$空气斩=<span class="pokemon-move flying">Air Slash</span>
-$十字剪=<span class="pokemon-move bug">X-Scissor</span>
-$虫鸣=<span class="pokemon-move bug">Bug Buzz</span>
-$龙之波动=<span class="pokemon-move dragon">Dragon Pulse</span>
-$龙之俯冲=<span class="pokemon-move dragon">Dragon Rush</span>
-$力量寶石=<span class="pokemon-move rock">Power Gem</span>
-$吸取拳=<span class="pokemon-move fighting">Drain Punch</span>
-$真空波=<span class="pokemon-move fighting">Vacuum Wave</span>
-$真气弹=<span class="pokemon-move fighting">Focus Blast</span>
-$能量球=<span class="pokemon-move grass">Energy Ball</span>
-$勇鸟猛攻=<span class="pokemon-move flying">Brave Bird</span>
-$大地之力=<span class="pokemon-move ground">Earth Power</span>
-$掉包=<span class="pokemon-move dark">Switcheroo</span>
-$终极冲击=<span class="pokemon-move normal">Giga Impact</span>
-$诡计=<span class="pokemon-move dark">Nasty Plot</span>
-$子弹拳=<span class="pokemon-move steel">Bullet Punch</span>
-$雪崩=<span class="pokemon-move ice">Avalanche</span>
-$冰砾=<span class="pokemon-move ice">Ice Shard</span>
-$暗影爪=<span class="pokemon-move ghost">Shadow Claw</span>
-$雷電牙=<span class="pokemon-move electric">Thunder Fang</span>
-$冰冻牙=<span class="pokemon-move ice">Ice Fang</span>
-$火焰牙=<span class="pokemon-move fire">Fire Fang</span>
-$影子偷袭=<span class="pokemon-move ghost">Shadow Sneak</span>
-$泥巴炸弹=<span class="pokemon-move ground">Mud Bomb</span>
-$精神利刃=<span class="pokemon-move psychic">Psycho Cut</span>
-$意念头锤=<span class="pokemon-move psychic">Zen Headbutt</span>
-$镜光射击=<span class="pokemon-move steel">Mirror Shot</span>
-$加农光炮=<span class="pokemon-move steel">Flash Cannon</span>
-$攀岩=<span class="pokemon-move normal">Rock Climb</span>
-$清除浓雾=<span class="pokemon-move flying">Defog</span>
-$戏法空间=<span class="pokemon-move psychic">Trick Room</span>
-$流星群=<span class="pokemon-move dragon">Draco Meteor</span>
-$放电=<span class="pokemon-move electric">Discharge</span>
-$喷烟=<span class="pokemon-move fire">Lava Plume</span>
-$飞叶风暴=<span class="pokemon-move grass">Leaf Storm</span>
-$强力鞭打=<span class="pokemon-move grass">Power Whip</span>
-$岩石炮=<span class="pokemon-move rock">Rock Wrecker</span>
-$十字毒刃=<span class="pokemon-move poison">Cross Poison</span>
-$垃圾射击=<span class="pokemon-move poison">Gunk Shot</span>
-$铁头=<span class="pokemon-move steel">Iron Head</span>
-$磁铁炸弹=<span class="pokemon-move steel">Magnet Bomb</span>
-$尖石攻击=<span class="pokemon-move rock">Stone Edge</span>
-$诱惑=<span class="pokemon-move normal">Captivate</span>
-$隐形岩=<span class="pokemon-move rock">Stealth Rock</span>
-$打草结=<span class="pokemon-move grass">Grass Knot</span>
-$喋喋不休=<span class="pokemon-move flying">Chatter</span>
-$制裁光砾=<span class="pokemon-move normal">Judgment</span>
-$虫咬=<span class="pokemon-move bug">Bug Bite</span>
-$充电光束=<span class="pokemon-move electric">Charge Beam</span>
-$木槌=<span class="pokemon-move grass">Wood Hammer</span>
-$水流喷射=<span class="pokemon-move water">Aqua Jet</span>
-$攻击指令=<span class="pokemon-move bug">Attack Order</span>
-$防御指令=<span class="pokemon-move bug">Defend Order</span>
-$回复指令=<span class="pokemon-move bug">Heal Order</span>
-$双刃头锤=<span class="pokemon-move rock">Head Smash</span>
-$二连击=<span class="pokemon-move normal">Double Hit</span>
-$时光咆哮=<span class="pokemon-move dragon">Roar of Time</span>
-$亚空裂斩=<span class="pokemon-move dragon">Spacial Rend</span>
-$新月舞=<span class="pokemon-move psychic">Lunar Dance</span>
-$捏碎=<span class="pokemon-move normal">Crush Grip</span>
-$熔岩风暴=<span class="pokemon-move fire">Magma Storm</span>
-$暗黑洞=<span class="pokemon-move dark">Dark Void</span>
-$种子闪光=<span class="pokemon-move grass">Seed Flare</span>
-$奇异之风=<span class="pokemon-move ghost">Ominous Wind</span>
-$暗影潜袭=<span class="pokemon-move ghost">Shadow Force</span>
-$磨爪=<span class="pokemon-move dark">Hone Claws</span>
-$广域防守=<span class="pokemon-move rock">Wide Guard</span>
-$防守平分=<span class="pokemon-move psychic">Guard Split</span>
-$力量平分=<span class="pokemon-move psychic">Power Split</span>
-$奇妙空间=<span class="pokemon-move psychic">Wonder Room</span>
-$精神冲击=<span class="pokemon-move psychic">Psyshock</span>
-$毒液冲击=<span class="pokemon-move poison">Venoshock</span>
-$身体轻量化=<span class="pokemon-move steel">Autotomize</span>
-$愤怒粉=<span class="pokemon-move bug">Rage Powder</span>
-$意念移物=<span class="pokemon-move psychic">Telekinesis</span>
-$魔法空间=<span class="pokemon-move psychic">Magic Room</span>
-$击落=<span class="pokemon-move rock">Smack Down</span>
-$山岚摔=<span class="pokemon-move fighting">Storm Throw</span>
-$烈焰溅射=<span class="pokemon-move fire">Flame Burst</span>
-$污泥波=<span class="pokemon-move poison">Sludge Wave</span>
-$蝶舞=<span class="pokemon-move bug">Quiver Dance</span>
-$重磅冲撞=<span class="pokemon-move steel">Heavy Slam</span>
-$同步干扰=<span class="pokemon-move psychic">Synchronoise</span>
-$电球=<span class="pokemon-move electric">Electro Ball</span>
+$浊雾=<span class="pokemon-move poison">Smog</span>
 $浸水=<span class="pokemon-move water">Soak</span>
-$蓄能焰袭=<span class="pokemon-move fire">Flame Charge</span>
-$盘蜷=<span class="pokemon-move poison">Coil</span>
-$下盘踢=<span class="pokemon-move fighting">Low Sweep</span>
-$酸液炸弹=<span class="pokemon-move poison">Acid Spray</span>
-$欺诈=<span class="pokemon-move dark">Foul Play</span>
-$单纯光束=<span class="pokemon-move normal">Simple Beam</span>
-$找伙伴=<span class="pokemon-move normal">Entrainment</span>
-$您先请=<span class="pokemon-move normal">After You</span>
-$轮唱=<span class="pokemon-move normal">Round</span>
-$回声=<span class="pokemon-move normal">Echoed Voice</span>
-$逐步击破=<span class="pokemon-move normal">Chip Away</span>
-$清除之烟=<span class="pokemon-move poison">Clear Smog</span>
-$辅助力量=<span class="pokemon-move psychic">Stored Power</span>
-$快速防守=<span class="pokemon-move fighting">Quick Guard</span>
-$交换场地=<span class="pokemon-move psychic">Ally Switch</span>
-$热水=<span class="pokemon-move water">Scald</span>
-$破壳=<span class="pokemon-move normal">Shell Smash</span>
-$治愈波动=<span class="pokemon-move psychic">Heal Pulse</span>
-$祸不单行=<span class="pokemon-move ghost">Hex</span>
-$自由落体=<span class="pokemon-move flying">Sky Drop</span>
-$换挡=<span class="pokemon-move steel">Shift Gear</span>
-$巴投=<span class="pokemon-move fighting">Circle Throw</span>
-$烧尽=<span class="pokemon-move fire">Incinerate</span>
-$延后=<span class="pokemon-move dark">Quash</span>
-$杂技=<span class="pokemon-move flying">Acrobatics</span>
-$镜面属性=<span class="pokemon-move normal">Reflect pokemon-move</span>
-$报仇=<span class="pokemon-move normal">Retaliate</span>
-$搏命=<span class="pokemon-move fighting">Final Gambit</span>
-$传递礼物=<span class="pokemon-move normal">Bestow</span>
+$清醒=<span class="pokemon-move normal">Smelling Salts</span>
+$渴望=<span class="pokemon-move normal">Covet</span>
+$溶化=<span class="pokemon-move poison">Acid Armor</span>
+$滚动=<span class="pokemon-move rock">Rollout</span>
+$潜水=<span class="pokemon-move water">Dive</span>
+$潮旋=<span class="pokemon-move water">Whirlpool</span>
+$火花=<span class="pokemon-move fire">Ember</span>
+$灵骚=<span class="pokemon-move ghost">Poltergeist</span>
+$炸蛋=<span class="pokemon-move normal">Egg Bomb</span>
+$点穴=<span class="pokemon-move normal">Acupressure</span>
 $炼狱=<span class="pokemon-move fire">Inferno</span>
-$水之誓约=<span class="pokemon-move water">Water Pledge</span>
-$火之誓约=<span class="pokemon-move fire">Fire Pledge</span>
-$草之誓约=<span class="pokemon-move grass">Grass Pledge</span>
-$伏特替换=<span class="pokemon-move electric">Volt Switch</span>
-$虫之抵抗=<span class="pokemon-move bug">Struggle Bug</span>
-$重踏=<span class="pokemon-move ground">Bulldoze</span>
-$冰息=<span class="pokemon-move ice">Frost Breath</span>
-$龙尾=<span class="pokemon-move dragon">Dragon Tail</span>
-$自我激励=<span class="pokemon-move normal">Work Up</span>
+$烟幕=<span class="pokemon-move normal">Smokescreen</span>
+$烧尽=<span class="pokemon-move fire">Incinerate</span>
+$热水=<span class="pokemon-move water">Scald</span>
+$热风=<span class="pokemon-move fire">Heat Wave</span>
+$燃尽=<span class="pokemon-move fire">Burn Up</span>
+$燕返=<span class="pokemon-move flying">Aerial Ace</span>
+$爬击=<span class="pokemon-move bug">Skitter Smack</span>
+$牵手=<span class="pokemon-move normal">Hold Hands</span>
+$狙击=<span class="pokemon-move water">Snipe Shot</span>
+$猛扑=<span class="pokemon-move bug">Lunge</span>
+$猛推=<span class="pokemon-move fighting">Arm Thrust</span>
+$猛撞=<span class="pokemon-move normal">Take Down</span>
+$王牌=<span class="pokemon-move normal">Trump Card</span>
+$玩水=<span class="pokemon-move water">Water Sport</span>
+$珍藏=<span class="pokemon-move normal">Last Resort</span>
+$生蛋=<span class="pokemon-move normal">Soft-Boiled</span>
+$生长=<span class="pokemon-move normal">Growth</span>
+$甩肉=<span class="pokemon-move normal">Fillet Away</span>
+$电光=<span class="pokemon-move electric">Spark</span>
+$电击=<span class="pokemon-move electric">Thunder Shock</span>
+$电喙=<span class="pokemon-move electric">Bolt Beak</span>
+$电球=<span class="pokemon-move electric">Electro Ball</span>
 $电网=<span class="pokemon-move electric">Electroweb</span>
-$疯狂伏特=<span class="pokemon-move electric">Wild Charge</span>
-$直冲钻=<span class="pokemon-move ground">Drill Run</span>
-$二连劈=<span class="pokemon-move dragon">Dual Chop</span>
-$爱心印章=<span class="pokemon-move psychic">Heart Stamp</span>
-$木角=<span class="pokemon-move grass">Horn Leech</span>
-$圣剑=<span class="pokemon-move fighting">Sacred Sword</span>
-$贝壳刃=<span class="pokemon-move water">Razor Shell</span>
-$高温重压=<span class="pokemon-move fire">Heat Crash</span>
-$青草搅拌器=<span class="pokemon-move grass">Leaf Tornado</span>
-$疯狂滚压=<span class="pokemon-move bug">Steamroller</span>
-$棉花防守=<span class="pokemon-move grass">Cotton Guard</span>
-$暗黑爆破=<span class="pokemon-move dark">Night Daze</span>
-$精神击破=<span class="pokemon-move psychic">Psystrike</span>
-$扫尾拍打=<span class="pokemon-move normal">Tail Slap</span>
-$暴风=<span class="pokemon-move flying">Hurricane</span>
-$爆炸头突击=<span class="pokemon-move normal">Head Charge</span>
-$齿轮飞盘=<span class="pokemon-move steel">Gear Grind</span>
-$火焰弹=<span class="pokemon-move fire">Searing Shot</span>
-$高科技光炮=<span class="pokemon-move normal">Techno Blast</span>
-$古老之歌=<span class="pokemon-move normal">Relic Song</span>
-$神秘之剑=<span class="pokemon-move fighting">Secret Sword</span>
-$冰封世界=<span class="pokemon-move ice">Glaciate</span>
+$白雾=<span class="pokemon-move ice">Mist</span>
+$盐水=<span class="pokemon-move water">Brine</span>
+$盐腌=<span class="pokemon-move rock">Salt Cure</span>
+$盘蜷=<span class="pokemon-move poison">Coil</span>
+$看穿=<span class="pokemon-move fighting">Detect</span>
+$睡觉=<span class="pokemon-move psychic">Rest</span>
+$瞪眼=<span class="pokemon-move normal">Leer</span>
+$破壳=<span class="pokemon-move normal">Shell Smash</span>
+$破音=<span class="pokemon-move electric">Overdrive</span>
+$硬压=<span class="pokemon-move steel">Hard Press</span>
+$硬撑=<span class="pokemon-move normal">Facade</span>
+$碉堡=<span class="pokemon-move poison">Baneful Bunker</span>
+$碎岩=<span class="pokemon-move fighting">Rock Smash</span>
+$磨爪=<span class="pokemon-move dark">Hone Claws</span>
+$磨砺=<span class="pokemon-move normal">Laser Focus</span>
+$礼物=<span class="pokemon-move normal">Present</span>
+$祈愿=<span class="pokemon-move normal">Wish</span>
+$神速=<span class="pokemon-move normal">Extreme Speed</span>
+$突袭=<span class="pokemon-move dark">Sucker Punch</span>
+$粉尘=<span class="pokemon-move bug">Powder</span>
+$紧束=<span class="pokemon-move normal">Wrap</span>
+$纹理=<span class="pokemon-move normal">Conversion</span>
+$线阱=<span class="pokemon-move bug">Silk Trap</span>
+$细雪=<span class="pokemon-move ice">Powder Snow</span>
+$绑紧=<span class="pokemon-move normal">Bind</span>
+$绞紧=<span class="pokemon-move normal">Wring Out</span>
+$缝影=<span class="pokemon-move ghost">Spirit Shackle</span>
+$缠绕=<span class="pokemon-move normal">Constrict</span>
+$羽栖=<span class="pokemon-move flying">Roost</span>
+$耕地=<span class="pokemon-move ground">Rototiller</span>
+$聚气=<span class="pokemon-move normal">Focus Energy</span>
+$胃液=<span class="pokemon-move poison">Gastro Acid</span>
+$腹鼓=<span class="pokemon-move normal">Belly Drum</span>
+$臂锤=<span class="pokemon-move fighting">Hammer Arm</span>
+$自爆=<span class="pokemon-move normal">Self-Destruct</span>
+$舌舔=<span class="pokemon-move ghost">Lick</span>
+$花疗=<span class="pokemon-move fairy">Floral Healing</span>
+$茶会=<span class="pokemon-move normal">Teatime</span>
+$草笛=<span class="pokemon-move grass">Grass Whistle</span>
+$萤火=<span class="pokemon-move bug">Tail Glow</span>
+$落石=<span class="pokemon-move rock">Rock Throw</span>
+$蓄力=<span class="pokemon-move normal">Stockpile</span>
+$藤鞭=<span class="pokemon-move grass">Vine Whip</span>
+$虫咬=<span class="pokemon-move bug">Bug Bite</span>
+$虫扑=<span class="pokemon-move bug">Pounce</span>
+$虫鸣=<span class="pokemon-move bug">Bug Buzz</span>
+$蛛网=<span class="pokemon-move bug">Spider Web</span>
+$蛮力=<span class="pokemon-move fighting">Superpower</span>
+$蛮干=<span class="pokemon-move normal">Endeavor</span>
+$蛸固=<span class="pokemon-move fighting">Octolock</span>
+$蝶舞=<span class="pokemon-move bug">Quiver Dance</span>
+$血月=<span class="pokemon-move normal">Blood Moon</span>
+$装饰=<span class="pokemon-move fairy">Decorate</span>
+$角撞=<span class="pokemon-move normal">Horn Attack</span>
+$角钻=<span class="pokemon-move normal">Horn Drill</span>
+$诅咒=<span class="pokemon-move ghost">Curse</span>
+$识破=<span class="pokemon-move normal">Foresight</span>
+$诡计=<span class="pokemon-move dark">Nasty Plot</span>
+$诱惑=<span class="pokemon-move normal">Captivate</span>
+$起草=<span class="pokemon-move grass">Trailblaze</span>
+$起风=<span class="pokemon-move flying">Gust</span>
+$跃起=<span class="pokemon-move normal">Splash</span>
+$跺脚=<span class="pokemon-move ground">Stomping Tantrum</span>
+$踢倒=<span class="pokemon-move fighting">Low Kick</span>
+$踩踏=<span class="pokemon-move normal">Stomp</span>
+$轮唱=<span class="pokemon-move normal">Round</span>
+$输电=<span class="pokemon-move electric">Electrify</span>
+$迁怒=<span class="pokemon-move normal">Frustration</span>
+$迅雷=<span class="pokemon-move electric">Thunderclap</span>
+$过热=<span class="pokemon-move fire">Overheat</span>
+$连斩=<span class="pokemon-move bug">Fury Cutter</span>
+$迷人=<span class="pokemon-move normal">Attract</span>
+$追打=<span class="pokemon-move dark">Pursuit</span>
+$逆鳞=<span class="pokemon-move dragon">Outrage</span>
+$重力=<span class="pokemon-move psychic">Gravity</span>
+$重踏=<span class="pokemon-move ground">Bulldoze</span>
+$钢翼=<span class="pokemon-move steel">Steel Wing</span>
+$铁壁=<span class="pokemon-move steel">Iron Defense</span>
+$铁头=<span class="pokemon-move steel">Iron Head</span>
+$铁尾=<span class="pokemon-move steel">Iron Tail</span>
+$锁定=<span class="pokemon-move normal">Lock-On</span>
+$长嚎=<span class="pokemon-move normal">Howl</span>
+$闪光=<span class="pokemon-move normal">Flash</span>
+$闭关=<span class="pokemon-move steel">Shelter</span>
+$集沙=<span class="pokemon-move ground">Shore Up</span>
+$雪崩=<span class="pokemon-move ice">Avalanche</span>
+$雪景=<span class="pokemon-move ice">Snowscape</span>
+$雪矛=<span class="pokemon-move ice">Glacial Lance</span>
 $雷击=<span class="pokemon-move electric">Bolt Strike</span>
+$震级=<span class="pokemon-move ground">Magnitude</span>
 $青焰=<span class="pokemon-move fire">Blue Flare</span>
+$音爆=<span class="pokemon-move normal">Sonic Boom</span>
+$顺风=<span class="pokemon-move flying">Tailwind</span>
+$颠倒=<span class="pokemon-move dark">Topsy-Turvy</span>
+$飞翔=<span class="pokemon-move flying">Fly</span>
+$飞踢=<span class="pokemon-move fighting">Jump Kick</span>
+$食梦=<span class="pokemon-move psychic">Dream Eater</span>
+$骨棒=<span class="pokemon-move ground">Bone Club</span>
+$鬼火=<span class="pokemon-move fire">Will-O-Wisp</span>
+$鬼面=<span class="pokemon-move normal">Scary Face</span>
+$鳃咬=<span class="pokemon-move water">Fishious Rend</span>
+$鳞射=<span class="pokemon-move dragon">Scale Shot</span>
+$黑雾=<span class="pokemon-move ice">Haze</span>
+$鼓击=<span class="pokemon-move grass">Drum Beating</span>
+$龙尾=<span class="pokemon-move dragon">Dragon Tail</span>
+$龙息=<span class="pokemon-move dragon">Dragon Breath</span>
+$龙爪=<span class="pokemon-move dragon">Dragon Claw</span>
+$龙箭=<span class="pokemon-move dragon">Dragon Darts</span>
+$龙锤=<span class="pokemon-move dragon">Dragon Hammer</span>
+$万圣夜=<span class="pokemon-move ghost">Trick-or-Treat</span>
+$三旋击=<span class="pokemon-move ice">Triple Axel</span>
+$三连箭=<span class="pokemon-move fighting">Triple Arrows</span>
+$三连踢=<span class="pokemon-move fighting">Triple Kick</span>
+$三连钻=<span class="pokemon-move water">Triple Dive</span>
+$下压踢=<span class="pokemon-move fighting">Axe Kick</span>
+$下盘踢=<span class="pokemon-move fighting">Low Sweep</span>
+$二连击=<span class="pokemon-move normal">Double Hit</span>
+$二连劈=<span class="pokemon-move dragon">Dual Chop</span>
+$二连踢=<span class="pokemon-move fighting">Double Kick</span>
+$保护色=<span class="pokemon-move normal">Camouflage</span>
+$借力摔=<span class="pokemon-move fighting">Vital Throw</span>
+$催眠术=<span class="pokemon-move psychic">Hypnosis</span>
+$催眠粉=<span class="pokemon-move grass">Sleep Powder</span>
+$克命爪=<span class="pokemon-move poison">Dire Claw</span>
+$冰冻拳=<span class="pokemon-move ice">Ice Punch</span>
+$冰冻牙=<span class="pokemon-move ice">Ice Fang</span>
+$冰山风=<span class="pokemon-move ice">Mountain Gale</span>
+$冲天拳=<span class="pokemon-move fighting">Sky Uppercut</span>
+$冷笑话=<span class="pokemon-move ice">Chilly Reception</span>
+$刺耳声=<span class="pokemon-move normal">Screech</span>
+$剧毒牙=<span class="pokemon-move poison">Poison Fang</span>
+$十字剪=<span class="pokemon-move bug">X-Scissor</span>
+$十字劈=<span class="pokemon-move fighting">Cross Chop</span>
+$双光束=<span class="pokemon-move psychic">Twin Beam</span>
+$反射壁=<span class="pokemon-move psychic">Reflect</span>
+$吸取拳=<span class="pokemon-move fighting">Drain Punch</span>
+$喝牛奶=<span class="pokemon-move normal">Milk Drink</span>
+$喷射拳=<span class="pokemon-move water">Jet Punch</span>
+$回旋踢=<span class="pokemon-move fighting">Rolling Kick</span>
+$增强拳=<span class="pokemon-move fighting">Power-Up Punch</span>
+$大愤慨=<span class="pokemon-move fire">Raging Fury</span>
+$大扫除=<span class="pokemon-move normal">Tidy Up</span>
+$大晴天=<span class="pokemon-move fire">Sunny Day</span>
+$大灾难=<span class="pokemon-move dark">Ruination</span>
+$大爆炸=<span class="pokemon-move normal">Explosion</span>
+$子弹拳=<span class="pokemon-move steel">Bullet Punch</span>
+$定身法=<span class="pokemon-move normal">Disable</span>
+$尖刺臂=<span class="pokemon-move grass">Needle Arm</span>
+$居合斩=<span class="pokemon-move normal">Cut</span>
+$山岚摔=<span class="pokemon-move fighting">Storm Throw</span>
+$岩石炮=<span class="pokemon-move rock">Rock Wrecker</span>
+$巨兽弹=<span class="pokemon-move steel">Behemoth Bash</span>
+$巨兽斩=<span class="pokemon-move steel">Behemoth Blade</span>
+$巨力锤=<span class="pokemon-move steel">Gigaton Hammer</span>
+$强力钻=<span class="pokemon-move normal">Hyper Drill</span>
+$彗星拳=<span class="pokemon-move steel">Meteor Mash</span>
+$心之眼=<span class="pokemon-move normal">Mind Reader</span>
+$怪力*=<span class="pokemon-move normal">Strength</span>
+$悔念剑=<span class="pokemon-move fire">Bitter Blade</span>
+$您先请=<span class="pokemon-move normal">After You</span>
+$愤怒粉=<span class="pokemon-move bug">Rage Powder</span>
+$打草结=<span class="pokemon-move grass">Grass Knot</span>
+$找伙伴=<span class="pokemon-move normal">Entrainment</span>
+$捕兽夹=<span class="pokemon-move grass">Snap Trap</span>
+$摇尾巴=<span class="pokemon-move normal">Tail Whip</span>
+$摇晃舞=<span class="pokemon-move normal">Teeter Dance</span>
+$撕裂爪=<span class="pokemon-move normal">Crush Claw</span>
+$断头钳=<span class="pokemon-move normal">Guillotine</span>
+$新月舞=<span class="pokemon-move psychic">Lunar Dance</span>
+$旋风刀=<span class="pokemon-move normal">Razor Wind</span>
+$日光刃=<span class="pokemon-move grass">Solar Blade</span>
+$日光束=<span class="pokemon-move grass">Solar Beam</span>
+$暗影拳=<span class="pokemon-move ghost">Shadow Punch</span>
+$暗影爪=<span class="pokemon-move ghost">Shadow Claw</span>
+$暗影球=<span class="pokemon-move ghost">Shadow Ball</span>
+$暗黑洞=<span class="pokemon-move dark">Dark Void</span>
+$暴风雪=<span class="pokemon-move ice">Blizzard</span>
+$极光幕=<span class="pokemon-move ice">Aurora Veil</span>
+$极光束=<span class="pokemon-move ice">Aurora Beam</span>
+$极巨炮=<span class="pokemon-move dragon">Dynamax Cannon</span>
+$棉孢子=<span class="pokemon-move grass">Cotton Spore</span>
+$棘藤棒=<span class="pokemon-move grass">Ivy Cudgel</span>
+$棱角化=<span class="pokemon-move normal">Sharpen</span>
+$毒千针=<span class="pokemon-move poison">Barb Barrage</span>
+$毒瓦斯=<span class="pokemon-move poison">Poison Gas</span>
+$气场轮=<span class="pokemon-move electric">Aura Wheel</span>
+$气象球=<span class="pokemon-move normal">Weather Ball</span>
+$水波刀=<span class="pokemon-move water">Aqua Cutter</span>
+$水流尾=<span class="pokemon-move water">Aqua Tail</span>
+$水流环=<span class="pokemon-move water">Aqua Ring</span>
+$水蒸气=<span class="pokemon-move water">Hydro Steam</span>
+$污泥波=<span class="pokemon-move poison">Sludge Wave</span>
+$波动冲=<span class="pokemon-move water">Wave Crash</span>
+$波导弹=<span class="pokemon-move fighting">Aura Sphere</span>
+$泼冷水=<span class="pokemon-move water">Chilling Water</span>
+$流星群=<span class="pokemon-move dragon">Draco Meteor</span>
+$淘金潮=<span class="pokemon-move steel">Make It Rain</span>
+$溶解液=<span class="pokemon-move poison">Acid</span>
 $火之舞=<span class="pokemon-move fire">Fiery Dance</span>
-$冰冻伏特=<span class="pokemon-move ice">Freeze Shock</span>
-$极寒冷焰=<span class="pokemon-move ice">Ice Burn</span>
-$大声咆哮=<span class="pokemon-move dark">Snarl</span>
-$冰柱坠击=<span class="pokemon-move ice">Icicle Crash</span>
+$火焰弹=<span class="pokemon-move fire">Searing Shot</span>
+$火焰拳=<span class="pokemon-move fire">Fire Punch</span>
+$火焰牙=<span class="pokemon-move fire">Fire Fang</span>
+$火焰球=<span class="pokemon-move fire">Pyro Ball</span>
+$火焰踢=<span class="pokemon-move fire">Blaze Kick</span>
+$火焰轮=<span class="pokemon-move fire">Flame Wheel</span>
+$火焰鞭=<span class="pokemon-move fire">Fire Lash</span>
+$热带踢=<span class="pokemon-move grass">Trop Kick</span>
+$爆裂拳=<span class="pokemon-move fighting">Dynamic Punch</span>
+$爆音波=<span class="pokemon-move normal">Boomburst</span>
+$玩泥巴=<span class="pokemon-move ground">Mud Sport</span>
+$电光束=<span class="pokemon-move electric">Electro Shot</span>
+$电击波=<span class="pokemon-move electric">Shock Wave</span>
+$电磁波=<span class="pokemon-move electric">Thunder Wave</span>
+$电磁炮=<span class="pokemon-move electric">Zap Cannon</span>
+$直冲钻=<span class="pokemon-move ground">Drill Run</span>
+$看我嘛=<span class="pokemon-move normal">Follow Me</span>
+$真气弹=<span class="pokemon-move fighting">Focus Blast</span>
+$真气拳=<span class="pokemon-move fighting">Focus Punch</span>
+$真空波=<span class="pokemon-move fighting">Vacuum Wave</span>
+$神通力=<span class="pokemon-move psychic">Extrasensory</span>
+$空手劈=<span class="pokemon-move fighting">Karate Chop</span>
+$空气斩=<span class="pokemon-move flying">Air Slash</span>
+$精神劍=<span class="pokemon-move psychic">Psyblade</span>
+$精神波=<span class="pokemon-move psychic">Psywave</span>
+$纹理２=<span class="pokemon-move normal">Conversion 2</span>
+$羽毛舞=<span class="pokemon-move flying">Feather Dance</span>
+$聚光灯=<span class="pokemon-move normal">Spotlight</span>
+$聚宝功=<span class="pokemon-move normal">Pay Day</span>
+$能量球=<span class="pokemon-move grass">Energy Ball</span>
+$花瓣舞=<span class="pokemon-move grass">Petal Dance</span>
+$花粉团=<span class="pokemon-move bug">Pollen Puff</span>
+$苹果酸=<span class="pokemon-move grass">Apple Acid</span>
+$薄雾球=<span class="pokemon-move psychic">Mist Ball</span>
+$蟹钳锤=<span class="pokemon-move water">Crabhammer</span>
+$豁出去=<span class="pokemon-move fire">Temper Flare</span>
+$贝壳刃=<span class="pokemon-move water">Razor Shell</span>
+$超音波=<span class="pokemon-move normal">Supersonic</span>
+$近身战=<span class="pokemon-move fighting">Close Combat</span>
+$连续拳=<span class="pokemon-move normal">Comet Punch</span>
+$迷昏拳=<span class="pokemon-move normal">Dizzy Punch</span>
+$金属爪=<span class="pokemon-move steel">Metal Claw</span>
+$金属音=<span class="pokemon-move steel">Metal Sound</span>
+$铁滚轮=<span class="pokemon-move steel">Steel Roller</span>
+$铠农炮=<span class="pokemon-move fire">Armor Cannon</span>
+$陀螺球=<span class="pokemon-move steel">Gyro Ball</span>
+$随机光=<span class="pokemon-move dragon">Fickle Beam</span>
+$隐形岩=<span class="pokemon-move rock">Stealth Rock</span>
+$雷电拳=<span class="pokemon-move electric">Thunder Punch</span>
+$雷電牙=<span class="pokemon-move electric">Thunder Fang</span>
+$音速拳=<span class="pokemon-move fighting">Mach Punch</span>
+$飞弹针=<span class="pokemon-move bug">Pin Missile</span>
+$飞膝踢=<span class="pokemon-move fighting">High Jump Kick</span>
+$魔法叶=<span class="pokemon-move grass">Magical Leaf</span>
+$魔法粉=<span class="pokemon-move psychic">Magic Powder</span>
+$麻痺粉=<span class="pokemon-move grass">Stun Spore</span>
+$黏黏网=<span class="pokemon-move bug">Sticky Web</span>
+$鼠数儿=<span class="pokemon-move normal">Population Bomb</span>
+$龙之怒=<span class="pokemon-move dragon">Dragon Rage</span>
+$龙之舞=<span class="pokemon-move dragon">Dragon Dance</span>
+$龙卷风=<span class="pokemon-move dragon">Twister</span>
 $Ｖ热焰=<span class="pokemon-move fire">V-create</span>
+$万有引力=<span class="pokemon-move grass">Grav Apple</span>
+$三重攻击=<span class="pokemon-move normal">Tri Attack</span>
+$丛林治疗=<span class="pokemon-move grass">Jungle Healing</span>
+$临别礼物=<span class="pokemon-move dark">Memento</span>
+$亚空裂斩=<span class="pokemon-move dragon">Spacial Rend</span>
+$交换场地=<span class="pokemon-move psychic">Ally Switch</span>
 $交错火焰=<span class="pokemon-move fire">Fusion Flare</span>
 $交错闪电=<span class="pokemon-move electric">Fusion Bolt</span>
-$飞身重压=<span class="pokemon-move fighting">Flying Press</span>
-$掀榻榻米=<span class="pokemon-move fighting">Mat Block</span>
-$打嗝=<span class="pokemon-move poison">Belch</span>
-$耕地=<span class="pokemon-move ground">Rototiller</span>
-$黏黏网=<span class="pokemon-move bug">Sticky Web</span>
-$致命针刺=<span class="pokemon-move bug">Fell Stinger</span>
-$潜灵奇袭=<span class="pokemon-move ghost">Phantom Force</span>
-$万圣夜=<span class="pokemon-move ghost">Trick-or-Treat</span>
-$战吼=<span class="pokemon-move normal">Noble Roar</span>
-$等离子浴=<span class="pokemon-move electric">Ion Deluge</span>
-$抛物面充电=<span class="pokemon-move electric">Parabolic Charge</span>
-$森林诅咒=<span class="pokemon-move grass">Forest's Curse</span>
-$落英缤纷=<span class="pokemon-move grass">Petal Blizzard</span>
+$亮亮风暴=<span class="pokemon-move fairy">Sparkly Swirl</span>
+$以牙还牙=<span class="pokemon-move dark">Payback</span>
+$伏特攻击=<span class="pokemon-move electric">Volt Tackle</span>
+$伏特替换=<span class="pokemon-move electric">Volt Switch</span>
+$传递礼物=<span class="pokemon-move normal">Bestow</span>
+$信号光束=<span class="pokemon-move bug">Signal Beam</span>
+$修长之角=<span class="pokemon-move steel">Smart Strike</span>
+$假跪真撞=<span class="pokemon-move dark">False Surrender</span>
+$充电光束=<span class="pokemon-move electric">Charge Beam</span>
+$光合作用=<span class="pokemon-move grass">Synthesis</span>
+$光子喷涌=<span class="pokemon-move psychic">Photon Geyser</span>
+$全开猛撞=<span class="pokemon-move fighting">Collision Course</span>
+$再来一次=<span class="pokemon-move normal">Encore</span>
+$冤冤相报=<span class="pokemon-move ghost">Bitter Malice</span>
+$冰冰霜冻=<span class="pokemon-move ice">Freezy Frost</span>
+$冰冷视线=<span class="pokemon-move psychic">Freezing Glare</span>
+$冰冻之风=<span class="pokemon-move ice">Icy Wind</span>
+$冰冻伏特=<span class="pokemon-move ice">Freeze Shock</span>
+$冰冻光束=<span class="pokemon-move ice">Ice Beam</span>
+$冰封世界=<span class="pokemon-move ice">Glaciate</span>
+$冰柱坠击=<span class="pokemon-move ice">Icicle Crash</span>
 $冷冻干燥=<span class="pokemon-move ice">Freeze-Dry</span>
-$魅惑之声=<span class="pokemon-move fairy">Disarming Voice</span>
-$抛下狠话=<span class="pokemon-move dark">Parting Shot</span>
-$颠倒=<span class="pokemon-move dark">Topsy-Turvy</span>
-$吸取之吻=<span class="pokemon-move fairy">Draining Kiss</span>
-$戏法防守=<span class="pokemon-move fairy">Crafty Shield</span>
-$鲜花防守=<span class="pokemon-move fairy">Flower Shield</span>
-$青草场地=<span class="pokemon-move grass">Grassy Terrain</span>
-$薄雾场地=<span class="pokemon-move fairy">Misty Terrain</span>
-$输电=<span class="pokemon-move electric">Electrify</span>
-$嬉闹=<span class="pokemon-move fairy">Play Rough</span>
-$妖精之风=<span class="pokemon-move fairy">Fairy Wind</span>
-$月亮之力=<span class="pokemon-move fairy">Moonblast</span>
-$爆音波=<span class="pokemon-move normal">Boomburst</span>
-$妖精之锁=<span class="pokemon-move fairy">Fairy Lock</span>
-$王者盾牌=<span class="pokemon-move steel">King's Shield</span>
-$和睦相处=<span class="pokemon-move normal">Play Nice</span>
-$密语=<span class="pokemon-move normal">Confide</span>
-$钻石风暴=<span class="pokemon-move rock">Diamond Storm</span>
-$蒸汽爆炸=<span class="pokemon-move water">Steam Eruption</span>
-$异次元洞=<span class="pokemon-move psychic">Hyperspace Hole</span>
-$飞水手里剑=<span class="pokemon-move water">Water Shuriken</span>
-$魔法火焰=<span class="pokemon-move fire">Mystical Fire</span>
-$尖刺防守=<span class="pokemon-move grass">Spiky Shield</span>
-$芳香薄雾=<span class="pokemon-move fairy">Aromatic Mist</span>
-$怪异电波=<span class="pokemon-move electric">Eerie Impulse</span>
-$毒液陷阱=<span class="pokemon-move poison">Venom Drench</span>
-$粉尘=<span class="pokemon-move bug">Powder</span>
-$大地掌控=<span class="pokemon-move fairy">Geomancy</span>
-$磁场操控=<span class="pokemon-move electric">Magnetic Flux</span>
-$欢乐时光=<span class="pokemon-move normal">Happy Hour</span>
-$电气场地=<span class="pokemon-move electric">Electric Terrain</span>
-$魔法闪耀=<span class="pokemon-move fairy">Dazzling Gleam</span>
-$庆祝=<span class="pokemon-move normal">Celebrate</span>
-$牵手=<span class="pokemon-move normal">Hold Hands</span>
-$圆瞳=<span class="pokemon-move fairy">Baby-Doll Eyes</span>
-$蹭蹭脸颊=<span class="pokemon-move electric">Nuzzle</span>
-$手下留情=<span class="pokemon-move normal">Hold Back</span>
-$死缠烂打=<span class="pokemon-move bug">Infestation</span>
-$增强拳=<span class="pokemon-move fighting">Power-Up Punch</span>
-$死亡之翼=<span class="pokemon-move flying">Oblivion Wing</span>
-$千箭齐发=<span class="pokemon-move ground">Thousand Arrows</span>
+$出奇一击=<span class="pokemon-move dark">Feint Attack</span>
+$击掌奇袭=<span class="pokemon-move normal">Fake Out</span>
+$分担痛楚=<span class="pokemon-move normal">Pain Split</span>
+$制裁光砾=<span class="pokemon-move normal">Judgment</span>
+$刷刷茶炮=<span class="pokemon-move grass">Matcha Gotcha</span>
+$力量互换=<span class="pokemon-move psychic">Power Swap</span>
+$力量寶石=<span class="pokemon-move rock">Power Gem</span>
+$力量平分=<span class="pokemon-move psychic">Power Split</span>
+$力量戏法=<span class="pokemon-move psychic">Power Trick</span>
+$力量转换=<span class="pokemon-move normal">Power Shift</span>
+$加农光炮=<span class="pokemon-move steel">Flash Cannon</span>
+$加农水炮=<span class="pokemon-move water">Hydro Cannon</span>
+$勇气填充=<span class="pokemon-move psychic">Take Heart</span>
+$勇鸟猛攻=<span class="pokemon-move flying">Brave Bird</span>
+$十万伏特=<span class="pokemon-move electric">Thunderbolt</span>
+$十万马力=<span class="pokemon-move ground">High Horsepower</span>
+$十字毒刃=<span class="pokemon-move poison">Cross Poison</span>
+$千万伏特=<span class="pokemon-move electric">10,000,000 Volt Thunderbolt</span>
+$千变万花=<span class="pokemon-move grass">Flower Trick</span>
 $千波激荡=<span class="pokemon-move ground">Thousand Waves</span>
+$千箭齐发=<span class="pokemon-move ground">Thousand Arrows</span>
+$单纯光束=<span class="pokemon-move normal">Simple Beam</span>
+$原始之力=<span class="pokemon-move rock">Ancient Power</span>
+$双倍奉还=<span class="pokemon-move fighting">Counter</span>
+$双刃头锤=<span class="pokemon-move rock">Head Smash</span>
+$古老之歌=<span class="pokemon-move normal">Relic Song</span>
+$叶绿爆震=<span class="pokemon-move grass">Chloroblast</span>
+$同步干扰=<span class="pokemon-move psychic">Synchronoise</span>
+$吸取之吻=<span class="pokemon-move fairy">Draining Kiss</span>
+$吸取力量=<span class="pokemon-move grass">Strength Sap</span>
+$和睦相处=<span class="pokemon-move normal">Play Nice</span>
+$哗哗气场=<span class="pokemon-move psychic">Glitzy Glow</span>
+$唤醒巴掌=<span class="pokemon-move fighting">Wake-Up Slap</span>
+$喋喋不休=<span class="pokemon-move flying">Chatter</span>
+$喷射火焰=<span class="pokemon-move fire">Flamethrower</span>
+$回复封锁=<span class="pokemon-move psychic">Heal Block</span>
+$回复指令=<span class="pokemon-move bug">Heal Order</span>
+$回收利用=<span class="pokemon-move normal">Recycle</span>
+$地狱突刺=<span class="pokemon-move dark">Throat Chop</span>
+$地狱翻滚=<span class="pokemon-move fighting">Submission</span>
+$地球上投=<span class="pokemon-move fighting">Seismic Toss</span>
+$坏坏领域=<span class="pokemon-move dark">Baddy Bad</span>
+$垃圾射击=<span class="pokemon-move poison">Gunk Shot</span>
+$复生祈祷=<span class="pokemon-move normal">Revival Blessing</span>
+$大地之力=<span class="pokemon-move ground">Earth Power</span>
+$大地掌控=<span class="pokemon-move fairy">Geomancy</span>
+$大地波动=<span class="pokemon-move normal">Terrain Pulse</span>
 $大地神力=<span class="pokemon-move ground">Land's Wrath</span>
-$破灭之光=<span class="pokemon-move fairy">Light of Ruin</span>
-$根源波动=<span class="pokemon-move water">Origin Pulse</span>
+$大声咆哮=<span class="pokemon-move dark">Snarl</span>
+$大字爆炎=<span class="pokemon-move fire">Fire Blast</span>
+$大快朵颐=<span class="pokemon-move normal">Stuff Cheeks</span>
+$大蛇瞪眼=<span class="pokemon-move normal">Glare</span>
+$大闹一番=<span class="pokemon-move normal">Thrash</span>
+$天使之吻=<span class="pokemon-move fairy">Sweet Kiss</span>
+$太晶爆发=<span class="pokemon-move normal">Tera Blast</span>
+$奇妙空间=<span class="pokemon-move psychic">Wonder Room</span>
+$奇异之光=<span class="pokemon-move ghost">Confuse Ray</span>
+$奇异之风=<span class="pokemon-move ghost">Ominous Wind</span>
+$奇迹之眼=<span class="pokemon-move psychic">Miracle Eye</span>
+$妖精之锁=<span class="pokemon-move fairy">Fairy Lock</span>
+$妖精之风=<span class="pokemon-move fairy">Fairy Wind</span>
+$宇宙力量=<span class="pokemon-move psychic">Cosmic Power</span>
+$寄生种子=<span class="pokemon-move grass">Leech Seed</span>
+$尖刺防守=<span class="pokemon-move grass">Spiky Shield</span>
+$尖石攻击=<span class="pokemon-move rock">Stone Edge</span>
+$屏障猛攻=<span class="pokemon-move psychic">Psyshield Bash</span>
+$岩石封锁=<span class="pokemon-move rock">Rock Tomb</span>
+$岩石打磨=<span class="pokemon-move rock">Rock Polish</span>
+$岩石爆击=<span class="pokemon-move rock">Rock Blast</span>
+$巨劍突擊=<span class="pokemon-move dragon">Glaive Rush</span>
+$巨龙威能=<span class="pokemon-move dragon">Dragon Energy</span>
+$幸运咒语=<span class="pokemon-move normal">Lucky Chant</span>
+$幻象光线=<span class="pokemon-move psychic">Psybeam</span>
+$广域战力=<span class="pokemon-move psychic">Expanding Force</span>
+$广域破坏=<span class="pokemon-move dragon">Breaking Swipe</span>
+$广域防守=<span class="pokemon-move rock">Wide Guard</span>
+$异次元洞=<span class="pokemon-move psychic">Hyperspace Hole</span>
+$强刃攻击=<span class="pokemon-move rock">Mighty Cleave</span>
+$强力鞭打=<span class="pokemon-move grass">Power Whip</span>
+$影子偷袭=<span class="pokemon-move ghost">Shadow Sneak</span>
+$影子分身=<span class="pokemon-move normal">Double Team</span>
+$心灵互换=<span class="pokemon-move psychic">Heart Swap</span>
+$必杀门牙=<span class="pokemon-move normal">Hyper Fang</span>
+$快手还击=<span class="pokemon-move fighting">Upper Hand</span>
+$快速折返=<span class="pokemon-move water">Flip Turn</span>
+$快速防守=<span class="pokemon-move fighting">Quick Guard</span>
+$怒火中烧=<span class="pokemon-move dark">Fiery Wrath</span>
+$急速折返=<span class="pokemon-move bug">U-turn</span>
+$怪异电波=<span class="pokemon-move electric">Eerie Impulse</span>
+$恶之波动=<span class="pokemon-move dark">Dark Pulse</span>
+$恶意追击=<span class="pokemon-move dark">Assurance</span>
+$惊爆大头=<span class="pokemon-move fire">Mind Blown</span>
+$惡魔之吻=<span class="pokemon-move normal">Lovely Kiss</span>
+$意念头锤=<span class="pokemon-move psychic">Zen Headbutt</span>
+$意念移物=<span class="pokemon-move psychic">Telekinesis</span>
+$愤怒之拳=<span class="pokemon-move ghost">Rage Fist</span>
+$愤怒门牙=<span class="pokemon-move normal">Super Fang</span>
+$戏法空间=<span class="pokemon-move psychic">Trick Room</span>
+$戏法防守=<span class="pokemon-move fairy">Crafty Shield</span>
+$手下留情=<span class="pokemon-move normal">Hold Back</span>
+$扫尾拍打=<span class="pokemon-move normal">Tail Slap</span>
+$折弯汤匙=<span class="pokemon-move psychic">Kinesis</span>
+$抛下狠话=<span class="pokemon-move dark">Parting Shot</span>
+$抢先一步=<span class="pokemon-move normal">Me First</span>
+$掀榻榻米=<span class="pokemon-move fighting">Mat Block</span>
+$攻击指令=<span class="pokemon-move bug">Attack Order</span>
 $断崖之剑=<span class="pokemon-move ground">Precipice Blades</span>
+$新月祈祷=<span class="pokemon-move psychic">Lunar Blessing</span>
+$无极光束=<span class="pokemon-move dragon">Eternabeam</span>
+$无理取闹=<span class="pokemon-move dark">Torment</span>
+$时光咆哮=<span class="pokemon-move dragon">Roar of Time</span>
+$晶光星群=<span class="pokemon-move normal">Tera Starstorm</span>
+$晶光转转=<span class="pokemon-move poison">Mortal Spin</span>
+$暗冥强击=<span class="pokemon-move dark">Wicked Blow</span>
+$暗影之光=<span class="pokemon-move ghost">Moongeist Beam</span>
+$暗影之骨=<span class="pokemon-move ghost">Shadow Bone</span>
+$暗影偷盗=<span class="pokemon-move ghost">Spectral Thief</span>
+$暗影潜袭=<span class="pokemon-move ghost">Shadow Force</span>
+$暗袭要害=<span class="pokemon-move dark">Night Slash</span>
+$暗黑爆破=<span class="pokemon-move dark">Night Daze</span>
+$月亮之力=<span class="pokemon-move fairy">Moonblast</span>
+$木枝突刺=<span class="pokemon-move grass">Branch Poke</span>
+$极寒冷焰=<span class="pokemon-move ice">Ice Burn</span>
+$极巨大地=<span class="pokemon-move ground">Max Quake</span>
+$极巨妖精=<span class="pokemon-move fairy">Max Starfall</span>
+$极巨寒冰=<span class="pokemon-move ice">Max Hailstorm</span>
+$极巨岩石=<span class="pokemon-move rock">Max Rockfall</span>
+$极巨幽魂=<span class="pokemon-move ghost">Max Phantasm</span>
+$极巨恶霸=<span class="pokemon-move dark">Max Darkness</span>
+$极巨拳斗=<span class="pokemon-move fighting">Max Knuckle</span>
+$极巨攻击=<span class="pokemon-move normal">Max Strike</span>
+$极巨水流=<span class="pokemon-move water">Max Geyser</span>
+$极巨火爆=<span class="pokemon-move fire">Max Flare</span>
+$极巨草原=<span class="pokemon-move grass">Max Overgrowth</span>
+$极巨虫蛊=<span class="pokemon-move bug">Max Flutterby</span>
+$极巨超能=<span class="pokemon-move psychic">Max Mindstorm</span>
+$极巨酸毒=<span class="pokemon-move poison">Max Ooze</span>
+$极巨钢铁=<span class="pokemon-move steel">Max Steelspike</span>
+$极巨闪电=<span class="pokemon-move electric">Max Lightning</span>
+$极巨防壁=<span class="pokemon-move normal">Max Guard</span>
+$极巨飞冲=<span class="pokemon-move flying">Max Airstream</span>
+$极巨龙骑=<span class="pokemon-move dragon">Max Wyrmwind</span>
+$枯叶风暴=<span class="pokemon-move flying">Bleakwind Storm</span>
+$根源波动=<span class="pokemon-move water">Origin Pulse</span>
+$棉花防守=<span class="pokemon-move grass">Cotton Guard</span>
+$森林诅咒=<span class="pokemon-move grass">Forest's Curse</span>
+$棱镜镭射=<span class="pokemon-move psychic">Prismatic Laser</span>
+$欢乐时光=<span class="pokemon-move normal">Happy Hour</span>
+$死亡之翼=<span class="pokemon-move flying">Oblivion Wing</span>
+$死缠烂打=<span class="pokemon-move bug">Infestation</span>
+$毒液冲击=<span class="pokemon-move poison">Venoshock</span>
+$毒液陷阱=<span class="pokemon-move poison">Venom Drench</span>
+$气味侦测=<span class="pokemon-move normal">Odor Sleuth</span>
+$气场之翼=<span class="pokemon-move psychic">Esper Wing</span>
+$气旋攻击=<span class="pokemon-move flying">Aeroblast</span>
+$水之波动=<span class="pokemon-move water">Water Pulse</span>
+$水之誓约=<span class="pokemon-move water">Water Pledge</span>
+$水流喷射=<span class="pokemon-move water">Aqua Jet</span>
+$水流裂破=<span class="pokemon-move water">Liquidation</span>
+$水流连打=<span class="pokemon-move water">Surging Strikes</span>
+$污泥攻击=<span class="pokemon-move poison">Sludge</span>
+$污泥炸弹=<span class="pokemon-move poison">Sludge Bomb</span>
+$沥青射击=<span class="pokemon-move rock">Tar Shot</span>
+$治愈之愿=<span class="pokemon-move psychic">Healing Wish</span>
+$治愈波动=<span class="pokemon-move psychic">Heal Pulse</span>
+$治愈铃声=<span class="pokemon-move normal">Heal Bell</span>
+$泡沫光线=<span class="pokemon-move water">Bubble Beam</span>
+$泥巴射击=<span class="pokemon-move ground">Mud Shot</span>
+$泥巴炸弹=<span class="pokemon-move ground">Mud Bomb</span>
+$泪眼汪汪=<span class="pokemon-move normal">Tearful Look</span>
+$泰山压顶=<span class="pokemon-move normal">Body Slam</span>
+$洁净光芒=<span class="pokemon-move psychic">Luster Purge</span>
+$活活气泡=<span class="pokemon-move water">Bouncy Bubble</span>
+$流星光束=<span class="pokemon-move rock">Meteor Beam</span>
+$流星突击=<span class="pokemon-move fighting">Meteor Assault</span>
+$流星闪冲=<span class="pokemon-move steel">Sunsteel Strike</span>
+$流水旋舞=<span class="pokemon-move water">Aqua Step</span>
+$流沙地狱=<span class="pokemon-move ground">Sand Tomb</span>
+$清除之烟=<span class="pokemon-move poison">Clear Smog</span>
+$清除浓雾=<span class="pokemon-move flying">Defog</span>
+$滔滔冲浪=<span class="pokemon-move water">Splishy Splash</span>
+$潜灵奇袭=<span class="pokemon-move ghost">Phantom Force</span>
+$火之誓约=<span class="pokemon-move fire">Fire Pledge</span>
+$火焰守护=<span class="pokemon-move fire">Burning Bulwark</span>
+$火焰旋涡=<span class="pokemon-move fire">Fire Spin</span>
+$火箭头锤=<span class="pokemon-move normal">Skull Bash</span>
+$灭亡之歌=<span class="pokemon-move normal">Perish Song</span>
+$灵魂冲击=<span class="pokemon-move fairy">Spirit Break</span>
+$点到为止=<span class="pokemon-move normal">False Swipe</span>
+$烈焰溅射=<span class="pokemon-move fire">Flame Burst</span>
+$烦恼种子=<span class="pokemon-move grass">Worry Seed</span>
+$热沙大地=<span class="pokemon-move ground">Scorching Sands</span>
+$热沙风暴=<span class="pokemon-move ground">Sandsear Storm</span>
+$焕然一新=<span class="pokemon-move normal">Refresh</span>
+$熊熊火爆=<span class="pokemon-move fire">Sizzly Slide</span>
+$熔岩风暴=<span class="pokemon-move fire">Magma Storm</span>
+$爆炸烈焰=<span class="pokemon-move fire">Blast Burn</span>
+$爱心印章=<span class="pokemon-move psychic">Heart Stamp</span>
+$特性互换=<span class="pokemon-move psychic">Skill Swap</span>
+$狂舞挥打=<span class="pokemon-move dark">Brutal Swing</span>
+$王者盾牌=<span class="pokemon-move steel">King's Shield</span>
+$琉光冲激=<span class="pokemon-move psychic">Lumina Crash</span>
+$瑜伽姿势=<span class="pokemon-move psychic">Meditate</span>
+$甜甜香气=<span class="pokemon-move normal">Sweet Scent</span>
+$生命水滴=<span class="pokemon-move water">Life Dew</span>
+$电光一闪=<span class="pokemon-move normal">Quick Attack</span>
+$电光双击=<span class="pokemon-move electric">Double Shock</span>
+$电力上升=<span class="pokemon-move electric">Rising Voltage</span>
+$电气场地=<span class="pokemon-move electric">Electric Terrain</span>
+$电电加速=<span class="pokemon-move electric">Zippy Zap</span>
+$电磁飘浮=<span class="pokemon-move electric">Magnet Rise</span>
 $画龙点睛=<span class="pokemon-move flying">Dragon Ascent</span>
-$异次元猛攻=<span class="pokemon-move dark">Hyperspace Fury</span>
-$集沙=<span class="pokemon-move ground">Shore Up</span>
+$疯狂伏特=<span class="pokemon-move electric">Wild Charge</span>
+$疯狂植物=<span class="pokemon-move grass">Frenzy Plant</span>
+$疯狂滚压=<span class="pokemon-move bug">Steamroller</span>
+$疾速转轮=<span class="pokemon-move steel">Spin Out</span>
+$瞬间失忆=<span class="pokemon-move psychic">Amnesia</span>
+$瞬间移动=<span class="pokemon-move psychic">Teleport</span>
+$砰砰击破=<span class="pokemon-move normal">Veevee Volley</span>
+$破坏光线=<span class="pokemon-move normal">Hyper Beam</span>
+$破灭之光=<span class="pokemon-move fairy">Light of Ruin</span>
+$破灭之愿=<span class="pokemon-move steel">Doom Desire</span>
+$磁场操控=<span class="pokemon-move electric">Magnetic Flux</span>
+$磁铁炸弹=<span class="pokemon-move steel">Magnet Bomb</span>
+$神圣之火=<span class="pokemon-move fire">Sacred Fire</span>
+$神奇蒸汽=<span class="pokemon-move fairy">Strange Steam</span>
+$神秘之剑=<span class="pokemon-move fighting">Secret Sword</span>
+$神秘之力=<span class="pokemon-move psychic">Mystical Power</span>
+$神秘守护=<span class="pokemon-move normal">Safeguard</span>
+$神鸟猛击=<span class="pokemon-move flying">Sky Attack</span>
+$祸不单行=<span class="pokemon-move ghost">Hex</span>
+$种子炸弹=<span class="pokemon-move grass">Seed Bomb</span>
+$种子闪光=<span class="pokemon-move grass">Seed Flare</span>
+$秘密之力=<span class="pokemon-move normal">Secret Power</span>
+$空气利刃=<span class="pokemon-move flying">Air Cutter</span>
+$突飞猛扑=<span class="pokemon-move ground">Headlong Rush</span>
+$章鱼桶炮=<span class="pokemon-move water">Octazooka</span>
+$等离子浴=<span class="pokemon-move electric">Ion Deluge</span>
+$精神之牙=<span class="pokemon-move psychic">Psychic Fangs</span>
+$精神冲击=<span class="pokemon-move psychic">Psyshock</span>
+$精神击破=<span class="pokemon-move psychic">Psystrike</span>
+$精神利刃=<span class="pokemon-move psychic">Psycho Cut</span>
+$精神噪音=<span class="pokemon-move psychic">Psychic Noise</span>
+$精神场地=<span class="pokemon-move psychic">Psychic Terrain</span>
+$精神强念=<span class="pokemon-move psychic">Psychic</span>
+$精神突进=<span class="pokemon-move psychic">Psycho Boost</span>
+$精神转移=<span class="pokemon-move psychic">Psycho Shift</span>
+$糖浆炸弹=<span class="pokemon-move grass">Syrup Bomb</span>
+$紧咬不放=<span class="pokemon-move dark">Jaw Lock</span>
+$终极冲击=<span class="pokemon-move normal">Giga Impact</span>
+$终极吸取=<span class="pokemon-move grass">Giga Drain</span>
+$绝对零度=<span class="pokemon-move ice">Sheer Cold</span>
+$缩入壳中=<span class="pokemon-move water">Withdraw</span>
+$群魔乱舞=<span class="pokemon-move ghost">Infernal Parade</span>
+$翅膀攻击=<span class="pokemon-move flying">Wing Attack</span>
+$背水一战=<span class="pokemon-move fighting">No Retreat</span>
+$胜利之舞=<span class="pokemon-move fighting">Victory Dance</span>
+$腐蚀气体=<span class="pokemon-move poison">Corrosive Gas</span>
+$臂贝武器=<span class="pokemon-move poison">Shell Side Arm</span>
+$自我再生=<span class="pokemon-move normal">Recover</span>
+$自我暗示=<span class="pokemon-move normal">Psych Up</span>
+$自我激励=<span class="pokemon-move normal">Work Up</span>
+$自然之力=<span class="pokemon-move normal">Nature Power</span>
+$自然之怒=<span class="pokemon-move fairy">Nature's Madness</span>
+$自然之恩=<span class="pokemon-move normal">Natural Gift</span>
+$自由落体=<span class="pokemon-move flying">Sky Drop</span>
+$致命针刺=<span class="pokemon-move bug">Fell Stinger</span>
+$舍身冲撞=<span class="pokemon-move normal">Double-Edge</span>
+$芳香治疗=<span class="pokemon-move grass">Aromatherapy</span>
+$芳香薄雾=<span class="pokemon-move fairy">Aromatic Mist</span>
+$茁茁轰炸=<span class="pokemon-move grass">Sappy Seed</span>
+$草之誓约=<span class="pokemon-move grass">Grass Pledge</span>
+$落英缤纷=<span class="pokemon-move grass">Petal Blizzard</span>
+$蒸汽爆炸=<span class="pokemon-move water">Steam Eruption</span>
+$蓄能焰袭=<span class="pokemon-move fire">Flame Charge</span>
+$薄雾场地=<span class="pokemon-move fairy">Misty Terrain</span>
+$薄雾炸裂=<span class="pokemon-move fairy">Misty Explosion</span>
+$蘑菇孢子=<span class="pokemon-move grass">Spore</span>
+$虚张声势=<span class="pokemon-move normal">Swagger</span>
+$虫之抵抗=<span class="pokemon-move bug">Struggle Bug</span>
+$觉醒之舞=<span class="pokemon-move normal">Revelation Dance</span>
+$觉醒力量=<span class="pokemon-move normal">Hidden Power</span>
+$诡异咒语=<span class="pokemon-move psychic">Eerie Spell</span>
+$贝壳夹击=<span class="pokemon-move water">Clamp</span>
+$起死回生=<span class="pokemon-move fighting">Reversal</span>
+$超级吸取=<span class="pokemon-move grass">Mega Drain</span>
+$超级角击=<span class="pokemon-move bug">Megahorn</span>
+$蹭蹭脸颊=<span class="pokemon-move electric">Nuzzle</span>
+$辅助力量=<span class="pokemon-move psychic">Stored Power</span>
+$辅助齿轮=<span class="pokemon-move steel">Gear Up</span>
+$辣椒精华=<span class="pokemon-move grass">Spicy Extract</span>
+$迅子利刃=<span class="pokemon-move steel">Tachyon Cutter</span>
 $迎头一击=<span class="pokemon-move bug">First Impression</span>
-$碉堡=<span class="pokemon-move poison">Baneful Bunker</span>
-$缝影=<span class="pokemon-move ghost">Spirit Shackle</span>
+$连环巴掌=<span class="pokemon-move normal">Double Slap</span>
+$逐步击破=<span class="pokemon-move normal">Chip Away</span>
+$速度互换=<span class="pokemon-move psychic">Speed Swap</span>
+$邪毒锁链=<span class="pokemon-move poison">Malignant Chain</span>
+$酸液炸弹=<span class="pokemon-move poison">Acid Spray</span>
+$重磅冲撞=<span class="pokemon-move steel">Heavy Slam</span>
+$金属爆炸=<span class="pokemon-move steel">Metal Burst</span>
+$钢拳双击=<span class="pokemon-move steel">Double Iron Bash</span>
+$钻石风暴=<span class="pokemon-move rock">Diamond Storm</span>
+$铁蹄光线=<span class="pokemon-move steel">Steel Beam</span>
+$银色旋风=<span class="pokemon-move bug">Silver Wind</span>
+$镜光射击=<span class="pokemon-move steel">Mirror Shot</span>
+$镜面反射=<span class="pokemon-move psychic">Mirror Coat</span>
+$镜面属性=<span class="pokemon-move normal">Reflect pokemon-move</span>
+$闪焰冲锋=<span class="pokemon-move fire">Flare Blitz</span>
+$闪焰高歌=<span class="pokemon-move fire">Torch Song</span>
+$闪电强袭=<span class="pokemon-move electric">Supercell Slam</span>
+$闪电猛冲=<span class="pokemon-move electric">Electro Drift</span>
+$闪闪雷光=<span class="pokemon-move electric">Pika Papow</span>
+$防守互换=<span class="pokemon-move psychic">Guard Swap</span>
+$防守平分=<span class="pokemon-move psychic">Guard Split</span>
+$防御指令=<span class="pokemon-move bug">Defend Order</span>
+$阳春风暴=<span class="pokemon-move fairy">Springtide Storm</span>
+$陷阱甲壳=<span class="pokemon-move fire">Shell Trap</span>
+$雷电囚笼=<span class="pokemon-move electric">Thunder Cage</span>
+$雷鸣蹴击=<span class="pokemon-move fighting">Thunderous Kick</span>
+$青草场地=<span class="pokemon-move grass">Grassy Terrain</span>
+$青草滑梯=<span class="pokemon-move grass">Grassy Glide</span>
+$预知未来=<span class="pokemon-move psychic">Future Sight</span>
+$飘飘坠落=<span class="pokemon-move flying">Floaty Fall</span>
+$飞叶快刀=<span class="pokemon-move grass">Razor Leaf</span>
+$飞叶风暴=<span class="pokemon-move grass">Leaf Storm</span>
+$飞身重压=<span class="pokemon-move fighting">Flying Press</span>
+$骨棒乱打=<span class="pokemon-move ground">Bone Rush</span>
+$高温重压=<span class="pokemon-move fire">Heat Crash</span>
+$高速旋转=<span class="pokemon-move normal">Rapid Spin</span>
+$高速星星=<span class="pokemon-move normal">Swift</span>
+$高速移动=<span class="pokemon-move psychic">Agility</span>
+$魅惑之声=<span class="pokemon-move fairy">Disarming Voice</span>
+$魅诱之声=<span class="pokemon-move fairy">Alluring Voice</span>
+$魔法反射=<span class="pokemon-move psychic">Magic Coat</span>
+$魔法火焰=<span class="pokemon-move fire">Mystical Fire</span>
+$魔法空间=<span class="pokemon-move psychic">Magic Room</span>
+$魔法闪耀=<span class="pokemon-move fairy">Dazzling Gleam</span>
+$鲜花防守=<span class="pokemon-move fairy">Flower Shield</span>
+$鳞片噪音=<span class="pokemon-move dragon">Clanging Scales</span>
+$鸣雷风暴=<span class="pokemon-move electric">Wildbolt Storm</span>
+$鹦鹉学舌=<span class="pokemon-move flying">Mirror Move</span>
+$麻麻刺刺=<span class="pokemon-move electric">Zing Zap</span>
+$麻麻电击=<span class="pokemon-move electric">Buzzy Buzz</span>
+$黑夜魔影=<span class="pokemon-move ghost">Night Shade</span>
+$黑色目光=<span class="pokemon-move normal">Mean Look</span>
+$齿轮飞盘=<span class="pokemon-move steel">Gear Grind</span>
+$龙之俯冲=<span class="pokemon-move dragon">Dragon Rush</span>
+$龙之波动=<span class="pokemon-move dragon">Dragon Pulse</span>
+$龙声鼓舞=<span class="pokemon-move dragon">Dragon Cheer</span>
+$七星夺魂腿=<span class="pokemon-move ghost">Soul-Stealing 7-Star Strike</span>
+$多属性攻击=<span class="pokemon-move normal">Multi-Attack</span>
+$尖刺加农炮=<span class="pokemon-move normal">Spike Cannon</span>
+$异次元猛攻=<span class="pokemon-move dark">Hyperspace Fury</span>
+$抛物面充电=<span class="pokemon-move electric">Parabolic Charge</span>
+$核心惩罚者=<span class="pokemon-move dragon">Core Enforcer</span>
+$爆炸头突击=<span class="pokemon-move normal">Head Charge</span>
+$百万吨重拳=<span class="pokemon-move normal">Mega Punch</span>
+$百万吨重踢=<span class="pokemon-move normal">Mega Kick</span>
+$种子机关枪=<span class="pokemon-move grass">Bullet Seed</span>
+$花朵加农炮=<span class="pokemon-move fairy">Fleur Cannon</span>
+$身体轻量化=<span class="pokemon-move steel">Autotomize</span>
+$青草搅拌器=<span class="pokemon-move grass">Leaf Tornado</span>
+$飞水手里剑=<span class="pokemon-move water">Water Shuriken</span>
+$骨头回力镖=<span class="pokemon-move ground">Bonemerang</span>
+$高科技光炮=<span class="pokemon-move normal">Techno Blast</span>
+$魂舞烈音爆=<span class="pokemon-move dragon">Clangorous Soul</span>
+$鸟嘴加农炮=<span class="pokemon-move flying">Beak Blast</span>
 $ＤＤ金勾臂=<span class="pokemon-move dark">Darkest Lariat</span>
 $泡影的咏叹调=<span class="pokemon-move water">Sparkling Aria</span>
-$冰锤=<span class="pokemon-move ice">Ice Hammer</span>
-$花疗=<span class="pokemon-move fairy">Floral Healing</span>
-$十万马力=<span class="pokemon-move ground">High Horsepower</span>
-$吸取力量=<span class="pokemon-move grass">Strength Sap</span>
-$日光刃=<span class="pokemon-move grass">Solar Blade</span>
-$树叶=<span class="pokemon-move grass">Leafage</span>
-$聚光灯=<span class="pokemon-move normal">Spotlight</span>
-$毒丝=<span class="pokemon-move poison">Toxic Thread</span>
-$磨砺=<span class="pokemon-move normal">Laser Focus</span>
-$辅助齿轮=<span class="pokemon-move steel">Gear Up</span>
-$地狱突刺=<span class="pokemon-move dark">Throat Chop</span>
-$花粉团=<span class="pokemon-move bug">Pollen Puff</span>
-$掷锚=<span class="pokemon-move steel">Anchor Shot</span>
-$精神场地=<span class="pokemon-move psychic">Psychic Terrain</span>
-$猛扑=<span class="pokemon-move bug">Lunge</span>
-$火焰鞭=<span class="pokemon-move fire">Fire Lash</span>
-$嚣张=<span class="pokemon-move dark">Power Trip</span>
-$燃尽=<span class="pokemon-move fire">Burn Up</span>
-$速度互换=<span class="pokemon-move psychic">Speed Swap</span>
-$修长之角=<span class="pokemon-move steel">Smart Strike</span>
-$净化=<span class="pokemon-move poison">Purify</span>
-$觉醒之舞=<span class="pokemon-move normal">Revelation Dance</span>
-$核心惩罚者=<span class="pokemon-move dragon">Core Enforcer</span>
-$热带踢=<span class="pokemon-move grass">Trop Kick</span>
-$号令=<span class="pokemon-move psychic">Instruct</span>
-$鸟嘴加农炮=<span class="pokemon-move flying">Beak Blast</span>
-$鳞片噪音=<span class="pokemon-move dragon">Clanging Scales</span>
-$龙锤=<span class="pokemon-move dragon">Dragon Hammer</span>
-$狂舞挥打=<span class="pokemon-move dark">Brutal Swing</span>
-$极光幕=<span class="pokemon-move ice">Aurora Veil</span>
-$陷阱甲壳=<span class="pokemon-move fire">Shell Trap</span>
-$花朵加农炮=<span class="pokemon-move fairy">Fleur Cannon</span>
-$精神之牙=<span class="pokemon-move psychic">Psychic Fangs</span>
-$跺脚=<span class="pokemon-move ground">Stomping Tantrum</span>
-$暗影之骨=<span class="pokemon-move ghost">Shadow Bone</span>
-$冲岩=<span class="pokemon-move rock">Accelerock</span>
-$水流裂破=<span class="pokemon-move water">Liquidation</span>
-$棱镜镭射=<span class="pokemon-move psychic">Prismatic Laser</span>
-$暗影偷盗=<span class="pokemon-move ghost">Spectral Thief</span>
-$流星闪冲=<span class="pokemon-move steel">Sunsteel Strike</span>
-$暗影之光=<span class="pokemon-move ghost">Moongeist Beam</span>
-$泪眼汪汪=<span class="pokemon-move normal">Tearful Look</span>
-$麻麻刺刺=<span class="pokemon-move electric">Zing Zap</span>
-$自然之怒=<span class="pokemon-move fairy">Nature's Madness</span>
-$多属性攻击=<span class="pokemon-move normal">Multi-Attack</span>
-$惊爆大头=<span class="pokemon-move fire">Mind Blown</span>
-$等离子闪电拳=<span class="pokemon-move electric">Plasma Fists</span>
-$光子喷涌=<span class="pokemon-move psychic">Photon Geyser</span>
-$电电加速=<span class="pokemon-move electric">Zippy Zap</span>
-$滔滔冲浪=<span class="pokemon-move water">Splishy Splash</span>
-$飘飘坠落=<span class="pokemon-move flying">Floaty Fall</span>
-$闪闪雷光=<span class="pokemon-move electric">Pika Papow</span>
-$活活气泡=<span class="pokemon-move water">Bouncy Bubble</span>
-$麻麻电击=<span class="pokemon-move electric">Buzzy Buzz</span>
-$熊熊火爆=<span class="pokemon-move fire">Sizzly Slide</span>
-$哗哗气场=<span class="pokemon-move psychic">Glitzy Glow</span>
-$坏坏领域=<span class="pokemon-move dark">Baddy Bad</span>
-$茁茁轰炸=<span class="pokemon-move grass">Sappy Seed</span>
-$冰冰霜冻=<span class="pokemon-move ice">Freezy Frost</span>
-$亮亮风暴=<span class="pokemon-move fairy">Sparkly Swirl</span>
-$砰砰击破=<span class="pokemon-move normal">Veevee Volley</span>
-$钢拳双击=<span class="pokemon-move steel">Double Iron Bash</span>
-$极巨防壁=<span class="pokemon-move normal">Max Guard</span>
-$极巨炮=<span class="pokemon-move dragon">Dynamax Cannon</span>
-$狙击=<span class="pokemon-move water">Snipe Shot</span>
-$紧咬不放=<span class="pokemon-move dark">Jaw Lock</span>
-$大快朵颐=<span class="pokemon-move normal">Stuff Cheeks</span>
-$背水一战=<span class="pokemon-move fighting">No Retreat</span>
-$沥青射击=<span class="pokemon-move rock">Tar Shot</span>
-$魔法粉=<span class="pokemon-move psychic">Magic Powder</span>
-$龙箭=<span class="pokemon-move dragon">Dragon Darts</span>
-$茶会=<span class="pokemon-move normal">Teatime</span>
-$蛸固=<span class="pokemon-move fighting">Octolock</span>
-$电喙=<span class="pokemon-move electric">Bolt Beak</span>
-$鳃咬=<span class="pokemon-move water">Fishious Rend</span>
-$换场=<span class="pokemon-move normal">Court Change</span>
-$极巨火爆=<span class="pokemon-move fire">Max Flare</span>
-$极巨虫蛊=<span class="pokemon-move bug">Max Flutterby</span>
-$极巨闪电=<span class="pokemon-move electric">Max Lightning</span>
-$极巨攻击=<span class="pokemon-move normal">Max Strike</span>
-$极巨拳斗=<span class="pokemon-move fighting">Max Knuckle</span>
-$极巨幽魂=<span class="pokemon-move ghost">Max Phantasm</span>
-$极巨寒冰=<span class="pokemon-move ice">Max Hailstorm</span>
-$极巨酸毒=<span class="pokemon-move poison">Max Ooze</span>
-$极巨水流=<span class="pokemon-move water">Max Geyser</span>
-$极巨飞冲=<span class="pokemon-move flying">Max Airstream</span>
-$极巨妖精=<span class="pokemon-move fairy">Max Starfall</span>
-$极巨龙骑=<span class="pokemon-move dragon">Max Wyrmwind</span>
-$极巨超能=<span class="pokemon-move psychic">Max Mindstorm</span>
-$极巨岩石=<span class="pokemon-move rock">Max Rockfall</span>
-$极巨大地=<span class="pokemon-move ground">Max Quake</span>
-$极巨恶霸=<span class="pokemon-move dark">Max Darkness</span>
-$极巨草原=<span class="pokemon-move grass">Max Overgrowth</span>
-$极巨钢铁=<span class="pokemon-move steel">Max Steelspike</span>
-$魂舞烈音爆=<span class="pokemon-move dragon">Clangorous Soul</span>
-$扑击=<span class="pokemon-move fighting">Body Press</span>
-$装饰=<span class="pokemon-move fairy">Decorate</span>
-$鼓击=<span class="pokemon-move grass">Drum Beating</span>
-$捕兽夹=<span class="pokemon-move grass">Snap Trap</span>
-$火焰球=<span class="pokemon-move fire">Pyro Ball</span>
-$巨兽斩=<span class="pokemon-move steel">Behemoth Blade</span>
-$巨兽弹=<span class="pokemon-move steel">Behemoth Bash</span>
-$气场轮=<span class="pokemon-move electric">Aura Wheel</span>
-$广域破坏=<span class="pokemon-move dragon">Breaking Swipe</span>
-$木枝突刺=<span class="pokemon-move grass">Branch Poke</span>
-$破音=<span class="pokemon-move electric">Overdrive</span>
-$苹果酸=<span class="pokemon-move grass">Apple Acid</span>
-$万有引力=<span class="pokemon-move grass">Grav Apple</span>
-$灵魂冲击=<span class="pokemon-move fairy">Spirit Break</span>
-$神奇蒸汽=<span class="pokemon-move fairy">Strange Steam</span>
-$生命水滴=<span class="pokemon-move water">Life Dew</span>
-$拦堵=<span class="pokemon-move dark">Obstruct</span>
-$假跪真撞=<span class="pokemon-move dark">False Surrender</span>
-$流星突击=<span class="pokemon-move fighting">Meteor Assault</span>
-$无极光束=<span class="pokemon-move dragon">Eternabeam</span>
-$铁蹄光线=<span class="pokemon-move steel">Steel Beam</span>
-$广域战力=<span class="pokemon-move psychic">Expanding Force</span>
-$铁滚轮=<span class="pokemon-move steel">Steel Roller</span>
-$鳞射=<span class="pokemon-move dragon">Scale Shot</span>
-$流星光束=<span class="pokemon-move rock">Meteor Beam</span>
-$臂贝武器=<span class="pokemon-move poison">Shell Side Arm</span>
-$薄雾炸裂=<span class="pokemon-move fairy">Misty Explosion</span>
-$青草滑梯=<span class="pokemon-move grass">Grassy Glide</span>
-$电力上升=<span class="pokemon-move electric">Rising Voltage</span>
-$大地波动=<span class="pokemon-move normal">Terrain Pulse</span>
-$爬击=<span class="pokemon-move bug">Skitter Smack</span>
-$妒火=<span class="pokemon-move fire">Burning Jealousy</span>
-$泄愤=<span class="pokemon-move dark">Lash Out</span>
-$灵骚=<span class="pokemon-move ghost">Poltergeist</span>
-$腐蚀气体=<span class="pokemon-move poison">Corrosive Gas</span>
-$指导=<span class="pokemon-move fighting">Coaching</span>
-$快速折返=<span class="pokemon-move water">Flip Turn</span>
-$三旋击=<span class="pokemon-move ice">Triple Axel</span>
-$双翼=<span class="pokemon-move flying">Dual Wingbeat</span>
-$热沙大地=<span class="pokemon-move ground">Scorching Sands</span>
-$丛林治疗=<span class="pokemon-move grass">Jungle Healing</span>
-$暗冥强击=<span class="pokemon-move dark">Wicked Blow</span>
-$水流连打=<span class="pokemon-move water">Surging Strikes</span>
-$雷电囚笼=<span class="pokemon-move electric">Thunder Cage</span>
-$巨龙威能=<span class="pokemon-move dragon">Dragon Energy</span>
-$冰冷视线=<span class="pokemon-move psychic">Freezing Glare</span>
-$怒火中烧=<span class="pokemon-move dark">Fiery Wrath</span>
-$雷鸣蹴击=<span class="pokemon-move fighting">Thunderous Kick</span>
-$雪矛=<span class="pokemon-move ice">Glacial Lance</span>
-$星碎=<span class="pokemon-move ghost">Astral Barrage</span>
-$诡异咒语=<span class="pokemon-move psychic">Eerie Spell</span>
-$克命爪=<span class="pokemon-move poison">Dire Claw</span>
-$屏障猛攻=<span class="pokemon-move psychic">Psyshield Bash</span>
-$力量转换=<span class="pokemon-move normal">Power Shift</span>
-$岩斧=<span class="pokemon-move rock">Stone Axe</span>
-$阳春风暴=<span class="pokemon-move fairy">Springtide Storm</span>
-$神秘之力=<span class="pokemon-move psychic">Mystical Power</span>
-$大愤慨=<span class="pokemon-move fire">Raging Fury</span>
-$波动冲=<span class="pokemon-move water">Wave Crash</span>
-$叶绿爆震=<span class="pokemon-move grass">Chloroblast</span>
-$冰山风=<span class="pokemon-move ice">Mountain Gale</span>
-$胜利之舞=<span class="pokemon-move fighting">Victory Dance</span>
-$突飞猛扑=<span class="pokemon-move ground">Headlong Rush</span>
-$毒千针=<span class="pokemon-move poison">Barb Barrage</span>
-$气场之翼=<span class="pokemon-move psychic">Esper Wing</span>
-$冤冤相报=<span class="pokemon-move ghost">Bitter Malice</span>
-$闭关=<span class="pokemon-move steel">Shelter</span>
-$三连箭=<span class="pokemon-move fighting">Triple Arrows</span>
-$群魔乱舞=<span class="pokemon-move ghost">Infernal Parade</span>
 $秘剑・千重涛=<span class="pokemon-move dark">Ceaseless Edge</span>
-$枯叶风暴=<span class="pokemon-move flying">Bleakwind Storm</span>
-$鸣雷风暴=<span class="pokemon-move electric">Wildbolt Storm</span>
-$热沙风暴=<span class="pokemon-move ground">Sandsear Storm</span>
-$新月祈祷=<span class="pokemon-move psychic">Lunar Blessing</span>
-$勇气填充=<span class="pokemon-move psychic">Take Heart</span>
-$太晶爆发=<span class="pokemon-move normal">Tera Blast</span>
-$线阱=<span class="pokemon-move bug">Silk Trap</span>
-$下压踢=<span class="pokemon-move fighting">Axe Kick</span>
-$扫墓=<span class="pokemon-move ghost">Last Respects</span>
-$琉光冲激=<span class="pokemon-move psychic">Lumina Crash</span>
-$上菜=<span class="pokemon-move dragon">Order Up</span>
-$喷射拳=<span class="pokemon-move water">Jet Punch</span>
-$辣椒精华=<span class="pokemon-move grass">Spicy Extract</span>
-$疾速转轮=<span class="pokemon-move steel">Spin Out</span>
-$鼠数儿=<span class="pokemon-move normal">Population Bomb</span>
-$冰旋=<span class="pokemon-move ice">Ice Spinner</span>
-$巨劍突擊=<span class="pokemon-move dragon">Glaive Rush</span>
-$复生祈祷=<span class="pokemon-move normal">Revival Blessing</span>
-$盐腌=<span class="pokemon-move rock">Salt Cure</span>
-$三连钻=<span class="pokemon-move water">Triple Dive</span>
-$晶光转转=<span class="pokemon-move poison">Mortal Spin</span>
-$描绘=<span class="pokemon-move normal">Doodle</span>
-$甩肉=<span class="pokemon-move normal">Fillet Away</span>
-$仆刀=<span class="pokemon-move dark">Kowtow Cleave</span>
-$千变万花=<span class="pokemon-move grass">Flower Trick</span>
-$闪焰高歌=<span class="pokemon-move fire">Torch Song</span>
-$流水旋舞=<span class="pokemon-move water">Aqua Step</span>
-$怒牛=<span class="pokemon-move normal">Raging Bull</span>
-$淘金潮=<span class="pokemon-move steel">Make It Rain</span>
-$精神劍=<span class="pokemon-move psychic">Psyblade</span>
-$水蒸气=<span class="pokemon-move water">Hydro Steam</span>
-$大灾难=<span class="pokemon-move dark">Ruination</span>
-$全开猛撞=<span class="pokemon-move fighting">Collision Course</span>
-$闪电猛冲=<span class="pokemon-move electric">Electro Drift</span>
-$断尾=<span class="pokemon-move normal">Shed Tail</span>
-$冷笑话=<span class="pokemon-move ice">Chilly Reception</span>
-$大扫除=<span class="pokemon-move normal">Tidy Up</span>
-$雪景=<span class="pokemon-move ice">Snowscape</span>
-$虫扑=<span class="pokemon-move bug">Pounce</span>
-$起草=<span class="pokemon-move grass">Trailblaze</span>
-$泼冷水=<span class="pokemon-move water">Chilling Water</span>
-$强力钻=<span class="pokemon-move normal">Hyper Drill</span>
-$双光束=<span class="pokemon-move psychic">Twin Beam</span>
-$愤怒之拳=<span class="pokemon-move ghost">Rage Fist</span>
-$铠农炮=<span class="pokemon-move fire">Armor Cannon</span>
-$悔念剑=<span class="pokemon-move fire">Bitter Blade</span>
-$电光双击=<span class="pokemon-move electric">Double Shock</span>
-$巨力锤=<span class="pokemon-move steel">Gigaton Hammer</span>
-$复仇=<span class="pokemon-move dark">Comeuppance</span>
-$水波刀=<span class="pokemon-move water">Aqua Cutter</span>
-$血月=<span class="pokemon-move normal">Blood Moon</span>
-$刷刷茶炮=<span class="pokemon-move grass">Matcha Gotcha</span>
-$糖浆炸弹=<span class="pokemon-move grass">Syrup Bomb</span>
-$棘藤棒=<span class="pokemon-move grass">Ivy Cudgel</span>
-$电光束=<span class="pokemon-move electric">Electro Shot</span>
-$晶光星群=<span class="pokemon-move normal">Tera Starstorm</span>
-$随机光=<span class="pokemon-move dragon">Fickle Beam</span>
-$火焰守护=<span class="pokemon-move fire">Burning Bulwark</span>
-$迅雷=<span class="pokemon-move electric">Thunderclap</span>
-$强刃攻击=<span class="pokemon-move rock">Mighty Cleave</span>
-$迅子利刃=<span class="pokemon-move steel">Tachyon Cutter</span>
-$硬压=<span class="pokemon-move steel">Hard Press</span>
-$龙声鼓舞=<span class="pokemon-move dragon">Dragon Cheer</span>
-$魅诱之声=<span class="pokemon-move fairy">Alluring Voice</span>
-$豁出去=<span class="pokemon-move fire">Temper Flare</span>
-$闪电强袭=<span class="pokemon-move electric">Supercell Slam</span>
-$精神噪音=<span class="pokemon-move psychic">Psychic Noise</span>
-$快手还击=<span class="pokemon-move fighting">Upper Hand</span>
-$邪毒锁链=<span class="pokemon-move poison">Malignant Chain</span>
-
-$究极无敌大冲撞=<span class="pokemon-move normal">Breakneck Blitz</span>
-$全力无双激烈拳=<span class="pokemon-move fighting">All-Out Pummeling</span>
-$极速俯冲轰烈撞=<span class="pokemon-move flying">Supersonic Skystrike</span>
-$强酸剧毒灭绝雨=<span class="pokemon-move poison">Acid Downpour</span>
-$地隆啸天大终结=<span class="pokemon-move ground">Tectonic Rage</span>
-$毁天灭地巨岩坠=<span class="pokemon-move rock">Continental Crush</span>
-$绝对捕食回旋斩=<span class="pokemon-move bug">Savage Spin-Out</span>
-$无尽暗夜之诱惑=<span class="pokemon-move ghost">Never-Ending Nightmare</span>
+$等离子闪电拳=<span class="pokemon-move electric">Plasma Fists</span>
 $超绝螺旋连击=<span class="pokemon-move steel">Corkscrew Crash</span>
-$超强极限爆焰弹=<span class="pokemon-move fire">Inferno Overdrive</span>
-$超级水流大漩涡=<span class="pokemon-move water">Hydro Vortex</span>
-$绚烂缤纷花怒放=<span class="pokemon-move grass">Bloom Doom</span>
-$终极伏特狂雷闪=<span class="pokemon-move electric">Gigavolt Havoc</span>
-$至高精神破坏波=<span class="pokemon-move psychic">Shattered Psyche</span>
-$激狂大地万里冰=<span class="pokemon-move ice">Subzero Slammer</span>
-$究极巨龙震天地=<span class="pokemon-move dragon">Devastating Drake</span>
-$黑洞吞噬万物灭=<span class="pokemon-move dark">Black Hole Eclipse</span>
-$可爱星星飞天撞=<span class="pokemon-move fairy">Twinkle Tackle</span>
-$皮卡皮卡必杀击=<span class="pokemon-move electric">Catastropika</span>
-$遮天蔽日暗影箭=<span class="pokemon-move ghost">Sinister Arrow Raid</span>
-$极恶飞跃粉碎击=<span class="pokemon-move dark">Malicious Moonsault</span>
-$海神庄严交响乐=<span class="pokemon-move water">Oceanic Operetta</span>
-$巨人卫士・阿罗拉=<span class="pokemon-move fairy">Guardian of Alola</span>
-$七星夺魂腿=<span class="pokemon-move ghost">Soul-Stealing 7-Star Strike</span>
-$驾雷驭电戏冲浪=<span class="pokemon-move electric">Stoked Sparksurfer</span>
-$认真起来大爆击=<span class="pokemon-move normal">Pulverizing Pancake</span>
 $九彩升华齐聚顶=<span class="pokemon-move normal">Extreme Evoboost</span>
-$起源超新星大爆炸=<span class="pokemon-move psychic">Genesis Supernova</span>
-$千万伏特=<span class="pokemon-move electric">10,000,000 Volt Thunderbolt</span>
-$焚天灭世炽光爆=<span class="pokemon-move psychic">Light That Burns the Sky</span>
+$亲密无间大乱揍=<span class="pokemon-move fairy">Let's Snuggle Forever</span>
+$全力无双激烈拳=<span class="pokemon-move fighting">All-Out Pummeling</span>
+$可爱星星飞天撞=<span class="pokemon-move fairy">Twinkle Tackle</span>
+$地隆啸天大终结=<span class="pokemon-move ground">Tectonic Rage</span>
+$强酸剧毒灭绝雨=<span class="pokemon-move poison">Acid Downpour</span>
+$无尽暗夜之诱惑=<span class="pokemon-move ghost">Never-Ending Nightmare</span>
 $日光回旋下苍穹=<span class="pokemon-move steel">Searing Sunraze Smash</span>
 $月华飞溅落灵霄=<span class="pokemon-move ghost">Menacing Moonraze Maelstrom</span>
-$亲密无间大乱揍=<span class="pokemon-move fairy">Let's Snuggle Forever</span>
-$狼啸石牙飓风暴=<span class="pokemon-move rock">Splintered Stormshards</span>
+$极恶飞跃粉碎击=<span class="pokemon-move dark">Malicious Moonsault</span>
+$极速俯冲轰烈撞=<span class="pokemon-move flying">Supersonic Skystrike</span>
+$毁天灭地巨岩坠=<span class="pokemon-move rock">Continental Crush</span>
+$海神庄严交响乐=<span class="pokemon-move water">Oceanic Operetta</span>
+$激狂大地万里冰=<span class="pokemon-move ice">Subzero Slammer</span>
 $炽魂热舞烈音爆=<span class="pokemon-move dragon">Clangorous Soulblaze</span>
-
-$超极巨灰飞鞭灭=<span class="pokemon-move grass">G-Max Vine Lash</span>
-$超极巨地狱灭焰=<span class="pokemon-move fire">G-Max Wildfire</span>
-$超极巨水炮轰灭=<span class="pokemon-move water">G-Max Cannonade</span>
-$超极巨蝶影蛊惑=<span class="pokemon-move bug">G-Max Befuddle</span>
+$焚天灭世炽光爆=<span class="pokemon-move psychic">Light That Burns the Sky</span>
+$狼啸石牙飓风暴=<span class="pokemon-move rock">Splintered Stormshards</span>
+$皮卡皮卡必杀击=<span class="pokemon-move electric">Catastropika</span>
+$究极巨龙震天地=<span class="pokemon-move dragon">Devastating Drake</span>
+$究极无敌大冲撞=<span class="pokemon-move normal">Breakneck Blitz</span>
+$终极伏特狂雷闪=<span class="pokemon-move electric">Gigavolt Havoc</span>
+$绚烂缤纷花怒放=<span class="pokemon-move grass">Bloom Doom</span>
+$绝对捕食回旋斩=<span class="pokemon-move bug">Savage Spin-Out</span>
+$至高精神破坏波=<span class="pokemon-move psychic">Shattered Psyche</span>
+$认真起来大爆击=<span class="pokemon-move normal">Pulverizing Pancake</span>
+$超强极限爆焰弹=<span class="pokemon-move fire">Inferno Overdrive</span>
 $超极巨万雷轰顶=<span class="pokemon-move electric">G-Max Volt Crash</span>
-$超极巨特大金币=<span class="pokemon-move normal">G-Max Gold Rush</span>
 $超极巨会心一击=<span class="pokemon-move fighting">G-Max Chi Strike</span>
-$超极巨幻影幽魂=<span class="pokemon-move ghost">G-Max Terror</span>
-$超极巨激漩泡涡=<span class="pokemon-move water">G-Max Foam Burst</span>
-$超极巨极光旋律=<span class="pokemon-move ice">G-Max Resonance</span>
-$超极巨热情拥抱=<span class="pokemon-move normal">G-Max Cuddle</span>
-$超极巨资源再生=<span class="pokemon-move normal">G-Max Replenish</span>
-$超极巨臭气冲天=<span class="pokemon-move poison">G-Max Malodor</span>
-$超极巨液金熔击=<span class="pokemon-move steel">G-Max Meltdown</span>
-$超极巨狂擂乱打=<span class="pokemon-move grass">G-Max Drum Solo</span>
-$超极巨破阵火球=<span class="pokemon-move fire">G-Max Fireball</span>
-$超极巨狙击神射=<span class="pokemon-move water">G-Max Hydrosnipe</span>
-$超极巨旋风袭卷=<span class="pokemon-move flying">G-Max Wind Rage</span>
-$超极巨天道七星=<span class="pokemon-move psychic">G-Max Gravitas</span>
-$超极巨岩阵以待=<span class="pokemon-move water">G-Max Stonesurge</span>
-$超极巨炎石喷发=<span class="pokemon-move rock">G-Max Volcalith</span>
-$超极巨酸不溜丟=<span class="pokemon-move grass">G-Max Tartness</span>
-$超极巨琼浆玉液=<span class="pokemon-move grass">G-Max Sweetness</span>
-$超极巨沙尘漫天=<span class="pokemon-move ground">G-Max Sandblast</span>
-$超极巨异毒电场=<span class="pokemon-move electric">G-Max Stun Shock</span>
-$超极巨百火焚野=<span class="pokemon-move fire">G-Max Centiferno</span>
-$超极巨天谴雷诛=<span class="pokemon-move fairy">G-Max Smite</span>
-$超极巨睡魔降临=<span class="pokemon-move dark">G-Max Snooze</span>
-$超极巨幸福圆满=<span class="pokemon-move fairy">G-Max Finale</span>
-$超极巨钢铁阵法=<span class="pokemon-move steel">G-Max Steelsurge</span>
 $超极巨劣化衰变=<span class="pokemon-move dragon">G-Max Depletion</span>
+$超极巨地狱灭焰=<span class="pokemon-move fire">G-Max Wildfire</span>
+$超极巨天谴雷诛=<span class="pokemon-move fairy">G-Max Smite</span>
+$超极巨天道七星=<span class="pokemon-move psychic">G-Max Gravitas</span>
 $超极巨夺命一击=<span class="pokemon-move dark">G-Max One Blow</span>
+$超极巨岩阵以待=<span class="pokemon-move water">G-Max Stonesurge</span>
+$超极巨幸福圆满=<span class="pokemon-move fairy">G-Max Finale</span>
+$超极巨幻影幽魂=<span class="pokemon-move ghost">G-Max Terror</span>
+$超极巨异毒电场=<span class="pokemon-move electric">G-Max Stun Shock</span>
+$超极巨旋风袭卷=<span class="pokemon-move flying">G-Max Wind Rage</span>
+$超极巨极光旋律=<span class="pokemon-move ice">G-Max Resonance</span>
+$超极巨水炮轰灭=<span class="pokemon-move water">G-Max Cannonade</span>
+$超极巨沙尘漫天=<span class="pokemon-move ground">G-Max Sandblast</span>
 $超极巨流水连击=<span class="pokemon-move water">G-Max Rapid Flow</span>
+$超极巨液金熔击=<span class="pokemon-move steel">G-Max Meltdown</span>
+$超极巨激漩泡涡=<span class="pokemon-move water">G-Max Foam Burst</span>
+$超极巨灰飞鞭灭=<span class="pokemon-move grass">G-Max Vine Lash</span>
+$超极巨炎石喷发=<span class="pokemon-move rock">G-Max Volcalith</span>
+$超极巨热情拥抱=<span class="pokemon-move normal">G-Max Cuddle</span>
+$超极巨特大金币=<span class="pokemon-move normal">G-Max Gold Rush</span>
+$超极巨狂擂乱打=<span class="pokemon-move grass">G-Max Drum Solo</span>
+$超极巨狙击神射=<span class="pokemon-move water">G-Max Hydrosnipe</span>
+$超极巨琼浆玉液=<span class="pokemon-move grass">G-Max Sweetness</span>
+$超极巨百火焚野=<span class="pokemon-move fire">G-Max Centiferno</span>
+$超极巨睡魔降临=<span class="pokemon-move dark">G-Max Snooze</span>
+$超极巨破阵火球=<span class="pokemon-move fire">G-Max Fireball</span>
+$超极巨臭气冲天=<span class="pokemon-move poison">G-Max Malodor</span>
+$超极巨蝶影蛊惑=<span class="pokemon-move bug">G-Max Befuddle</span>
+$超极巨资源再生=<span class="pokemon-move normal">G-Max Replenish</span>
+$超极巨酸不溜丟=<span class="pokemon-move grass">G-Max Tartness</span>
+$超极巨钢铁阵法=<span class="pokemon-move steel">G-Max Steelsurge</span>
+$超级水流大漩涡=<span class="pokemon-move water">Hydro Vortex</span>
+$遮天蔽日暗影箭=<span class="pokemon-move ghost">Sinister Arrow Raid</span>
+$驾雷驭电戏冲浪=<span class="pokemon-move electric">Stoked Sparksurfer</span>
+$黑洞吞噬万物灭=<span class="pokemon-move dark">Black Hole Eclipse</span>
+$巨人卫士・阿罗拉=<span class="pokemon-move fairy">Guardian of Alola</span>
+$起源超新星大爆炸=<span class="pokemon-move psychic">Genesis Supernova</span>
 
 _____________MOVES 2_____________
-$DD 金钩臂=<span class="pokemon-move dark">Darkest Lariat</span>
-$DD 金勾臂=<span class="pokemon-move dark">Darkest Lariat</span>
-$DD金钩臂=<span class="pokemon-move dark">Darkest Lariat</span>
-$电磁漂浮=<span class="pokemon-move electric">Magnet Rise</span>
-$百万顿重拳=<span class="pokemon-move normal">Mega Punch</span>
-$龙星群=<span class="pokemon-move dragon">Draco Meteor</span>
-$岩石封闭=<span class="pokemon-move rock">Rock Tomb</span>
-$龙神俯冲=<span class="pokemon-move dragon">Dragon Rush</span>
-$消除浓雾=<span class="pokemon-move flying">Defog</span>
-$百万顿脚踢=<span class="pokemon-move normal">Mega Kick</span>
-$力量宝石=<span class="pokemon-move rock">Power Gem</span>
-$岩石暴击=<span class="pokemon-move rock">Rock Blast</span>
-$双刃头槌=<span class="pokemon-move rock">Head Smash</span>
-$雷电牙=<span class="pokemon-move electric">Thunder Fang</span>
-$终级冲击=<span class="pokemon-move normal">Giga Impact</span>
-$火焰漩涡=<span class="pokemon-move fire">Fire Spin</span>
-$恶魔之吻=<span class="pokemon-move normal">Lovely Kiss</span>
-$大字炎爆=<span class="pokemon-move fire">Fire Blast</span>
-$神鸟猛攻=<span class="pokemon-move flying">Sky Attack</span>
 $保护=<span class="pokemon-move normal">Protect</span>
-$阳光烈焰=<span class="pokemon-move grass">Solar Beam</span>
 $祈雨=<span class="pokemon-move water">Rain Dance</span>
-$保护=<span class="pokemon-move normal">Protect</span>
+$雷电牙=<span class="pokemon-move electric">Thunder Fang</span>
+$龙星群=<span class="pokemon-move dragon">Draco Meteor</span>
+$力量宝石=<span class="pokemon-move rock">Power Gem</span>
+$双刃头槌=<span class="pokemon-move rock">Head Smash</span>
+$大字炎爆=<span class="pokemon-move fire">Fire Blast</span>
+$岩石封闭=<span class="pokemon-move rock">Rock Tomb</span>
+$岩石暴击=<span class="pokemon-move rock">Rock Blast</span>
+$恶魔之吻=<span class="pokemon-move normal">Lovely Kiss</span>
+$消除浓雾=<span class="pokemon-move flying">Defog</span>
+$火焰漩涡=<span class="pokemon-move fire">Fire Spin</span>
+$电磁漂浮=<span class="pokemon-move electric">Magnet Rise</span>
+$神鸟猛攻=<span class="pokemon-move flying">Sky Attack</span>
+$终级冲击=<span class="pokemon-move normal">Giga Impact</span>
+$阳光烈焰=<span class="pokemon-move grass">Solar Beam</span>
 $黑暗爆破=<span class="pokemon-move dark">Night Daze</span>
+$龙神俯冲=<span class="pokemon-move dragon">Dragon Rush</span>
+$DD金钩臂=<span class="pokemon-move dark">Darkest Lariat</span>
+$百万顿脚踢=<span class="pokemon-move normal">Mega Kick</span>
+$百万顿重拳=<span class="pokemon-move normal">Mega Punch</span>
+$DD 金勾臂=<span class="pokemon-move dark">Darkest Lariat</span>
+$DD 金钩臂=<span class="pokemon-move dark">Darkest Lariat</span>
