@@ -4541,3 +4541,4 @@ $保护=<span class="pokemon-move normal">Protect</span>
 $阳光烈焰=<span class="pokemon-move grass">Solar Beam</span>
 $祈雨=<span class="pokemon-move water">Rain Dance</span>
 $保护=<span class="pokemon-move normal">Protect</span>
+$黑暗爆破=<span class="pokemon-move dark">Night Daze</span>
