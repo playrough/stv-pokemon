@@ -17425,7 +17425,7 @@
 		"total": 600
 	},
 	"Mega Venusaur": {
-		"number": "#003",
+		"number": "#0003",
 		"name": "Mega Venusaur",
 		"type": ["Grass", "Poison"],
 		"abilities": {
@@ -17442,7 +17442,7 @@
 		"total": 625
 	},
 	"Mega Charizard X": {
-		"number": "#006",
+		"number": "#0006",
 		"name": "Mega Charizard X",
 		"type": ["Fire", "Dragon"],
 		"abilities": {
@@ -17459,7 +17459,7 @@
 		"total": 634
 	},
 	"Mega Charizard Y": {
-		"number": "#006",
+		"number": "#0006",
 		"name": "Mega Charizard Y",
 		"type": ["Fire", "Flying"],
 		"abilities": {
@@ -17476,7 +17476,7 @@
 		"total": 634
 	},
 	"Mega Blastoise": {
-		"number": "#009",
+		"number": "#0009",
 		"name": "Mega Blastoise",
 		"type": ["Water"],
 		"abilities": {
@@ -17493,7 +17493,7 @@
 		"total": 630
 	},
 	"Mega Beedrill": {
-		"number": "#015",
+		"number": "#0015",
 		"name": "Mega Beedrill",
 		"type": ["Bug", "Poison"],
 		"abilities": {
@@ -17510,7 +17510,7 @@
 		"total": 495
 	},
 	"Mega Pidgeot": {
-		"number": "#018",
+		"number": "#0018",
 		"name": "Mega Pidgeot",
 		"type": ["Normal", "Flying"],
 		"abilities": {
@@ -17527,7 +17527,7 @@
 		"total": 579
 	},
 	"Mega Alakazam": {
-		"number": "#065",
+		"number": "#0065",
 		"name": "Mega Alakazam",
 		"type": ["Psychic"],
 		"abilities": {
@@ -17544,7 +17544,7 @@
 		"total": 590
 	},
 	"Mega Slowbro": {
-		"number": "#080",
+		"number": "#0080",
 		"name": "Mega Slowbro",
 		"type": ["Water", "Psychic"],
 		"abilities": {
@@ -17561,7 +17561,7 @@
 		"total": 590
 	},
 	"Mega Gengar": {
-		"number": "#094",
+		"number": "#0094",
 		"name": "Mega Gengar",
 		"type": ["Ghost", "Poison"],
 		"abilities": {
@@ -17578,7 +17578,7 @@
 		"total": 600
 	},
 	"Mega Kangaskhan": {
-		"number": "#115",
+		"number": "#0115",
 		"name": "Mega Kangaskhan",
 		"type": ["Normal"],
 		"abilities": {
@@ -17595,7 +17595,7 @@
 		"total": 590
 	},
 	"Mega Pinsir": {
-		"number": "#127",
+		"number": "#0127",
 		"name": "Mega Pinsir",
 		"type": ["Bug", "Flying"],
 		"abilities": {
@@ -17612,7 +17612,7 @@
 		"total": 600
 	},
 	"Mega Gyarados": {
-		"number": "#130",
+		"number": "#0130",
 		"name": "Mega Gyarados",
 		"type": ["Water", "Dark"],
 		"abilities": {
@@ -17629,7 +17629,7 @@
 		"total": 640
 	},
 	"Mega Aerodactyl": {
-		"number": "#142",
+		"number": "#0142",
 		"name": "Mega Aerodactyl",
 		"type": ["Rock", "Flying"],
 		"abilities": {
@@ -17646,7 +17646,7 @@
 		"total": 615
 	},
 	"Mega Mewtwo X": {
-		"number": "#150",
+		"number": "#0150",
 		"name": "Mega Mewtwo X",
 		"type": ["Psychic", "Fighting"],
 		"abilities": {
@@ -17663,7 +17663,7 @@
 		"total": 780
 	},
 	"Mega Mewtwo Y": {
-		"number": "#150",
+		"number": "#0150",
 		"name": "Mega Mewtwo Y",
 		"type": ["Psychic"],
 		"abilities": {
@@ -17680,7 +17680,7 @@
 		"total": 780
 	},
 	"Mega Ampharos": {
-		"number": "#181",
+		"number": "#0181",
 		"name": "Mega Ampharos",
 		"type": ["Electric", "Dragon"],
 		"abilities": {
@@ -17697,7 +17697,7 @@
 		"total": 610
 	},
 	"Mega Steelix": {
-		"number": "#208",
+		"number": "#0208",
 		"name": "Mega Steelix",
 		"type": ["Steel", "Ground"],
 		"abilities": {
@@ -17714,7 +17714,7 @@
 		"total": 610
 	},
 	"Mega Scizor": {
-		"number": "#212",
+		"number": "#0212",
 		"name": "Mega Scizor",
 		"type": ["Bug", "Steel"],
 		"abilities": {
@@ -17731,7 +17731,7 @@
 		"total": 600
 	},
 	"Mega Heracross": {
-		"number": "#214",
+		"number": "#0214",
 		"name": "Mega Heracross",
 		"type": ["Bug", "Fighting"],
 		"abilities": {
@@ -17748,7 +17748,7 @@
 		"total": 600
 	},
 	"Mega Houndoom": {
-		"number": "#229",
+		"number": "#0229",
 		"name": "Mega Houndoom",
 		"type": ["Dark", "Fire"],
 		"abilities": {
@@ -17765,7 +17765,7 @@
 		"total": 600
 	},
 	"Mega Tyranitar": {
-		"number": "#248",
+		"number": "#0248",
 		"name": "Mega Tyranitar",
 		"type": ["Rock", "Dark"],
 		"abilities": {
@@ -17782,7 +17782,7 @@
 		"total": 700
 	},
 	"Mega Sceptile": {
-		"number": "#254",
+		"number": "#0254",
 		"name": "Mega Sceptile",
 		"type": ["Grass", "Dragon"],
 		"abilities": {
@@ -17799,7 +17799,7 @@
 		"total": 630
 	},
 	"Mega Blaziken": {
-		"number": "#257",
+		"number": "#0257",
 		"name": "Mega Blaziken",
 		"type": ["Fire", "Fighting"],
 		"abilities": {
@@ -17816,7 +17816,7 @@
 		"total": 630
 	},
 	"Mega Swampert": {
-		"number": "#260",
+		"number": "#0260",
 		"name": "Mega Swampert",
 		"type": ["Water", "Ground"],
 		"abilities": {
@@ -17833,7 +17833,7 @@
 		"total": 635
 	},
 	"Mega Gardevoir": {
-		"number": "#282",
+		"number": "#0282",
 		"name": "Mega Gardevoir",
 		"type": ["Psychic", "Fairy"],
 		"abilities": {
@@ -17850,7 +17850,7 @@
 		"total": 618
 	},
 	"Mega Sableye": {
-		"number": "#302",
+		"number": "#0302",
 		"name": "Mega Sableye",
 		"type": ["Dark", "Ghost"],
 		"abilities": {
@@ -17867,7 +17867,7 @@
 		"total": 480
 	},
 	"Mega Mawile": {
-		"number": "#303",
+		"number": "#0303",
 		"name": "Mega Mawile",
 		"type": ["Steel", "Fairy"],
 		"abilities": {
@@ -17884,7 +17884,7 @@
 		"total": 480
 	},
 	"Mega Aggron": {
-		"number": "#306",
+		"number": "#0306",
 		"name": "Mega Aggron",
 		"type": ["Steel"],
 		"abilities": {
@@ -17901,7 +17901,7 @@
 		"total": 630
 	},
 	"Mega Medicham": {
-		"number": "#308",
+		"number": "#0308",
 		"name": "Mega Medicham",
 		"type": ["Fighting", "Psychic"],
 		"abilities": {
@@ -17918,7 +17918,7 @@
 		"total": 510
 	},
 	"Mega Manectric": {
-		"number": "#310",
+		"number": "#0310",
 		"name": "Mega Manectric",
 		"type": ["Electric"],
 		"abilities": {
@@ -17935,7 +17935,7 @@
 		"total": 575
 	},
 	"Mega Sharpedo": {
-		"number": "#319",
+		"number": "#0319",
 		"name": "Mega Sharpedo",
 		"type": ["Water", "Dark"],
 		"abilities": {
@@ -17952,7 +17952,7 @@
 		"total": 560
 	},
 	"Mega Camerupt": {
-		"number": "#323",
+		"number": "#0323",
 		"name": "Mega Camerupt",
 		"type": ["Fire", "Ground"],
 		"abilities": {
@@ -17969,7 +17969,7 @@
 		"total": 560
 	},
 	"Mega Altaria": {
-		"number": "#334",
+		"number": "#0334",
 		"name": "Mega Altaria",
 		"type": ["Dragon", "Fairy"],
 		"abilities": {
@@ -17986,7 +17986,7 @@
 		"total": 590
 	},
 	"Mega Banette": {
-		"number": "#354",
+		"number": "#0354",
 		"name": "Mega Banette",
 		"type": ["Ghost"],
 		"abilities": {
@@ -18003,7 +18003,7 @@
 		"total": 555
 	},
 	"Mega Absol": {
-		"number": "#359",
+		"number": "#0359",
 		"name": "Mega Absol",
 		"type": ["Dark"],
 		"abilities": {
@@ -18020,7 +18020,7 @@
 		"total": 565
 	},
 	"Mega Glalie": {
-		"number": "#362",
+		"number": "#0362",
 		"name": "Mega Glalie",
 		"type": ["Ice"],
 		"abilities": {
@@ -18037,7 +18037,7 @@
 		"total": 580
 	},
 	"Mega Salamence": {
-		"number": "#373",
+		"number": "#0373",
 		"name": "Mega Salamence",
 		"type": ["Dragon", "Flying"],
 		"abilities": {
@@ -18054,7 +18054,7 @@
 		"total": 700
 	},
 	"Mega Metagross": {
-		"number": "#376",
+		"number": "#0376",
 		"name": "Mega Metagross",
 		"type": ["Steel", "Psychic"],
 		"abilities": {
@@ -18071,7 +18071,7 @@
 		"total": 700
 	},
 	"Mega Latias": {
-		"number": "#380",
+		"number": "#0380",
 		"name": "Mega Latias",
 		"type": ["Dragon", "Psychic"],
 		"abilities": {
@@ -18088,7 +18088,7 @@
 		"total": 700
 	},
 	"Mega Latios": {
-		"number": "#381",
+		"number": "#0381",
 		"name": "Mega Latios",
 		"type": ["Dragon", "Psychic"],
 		"abilities": {
@@ -18105,7 +18105,7 @@
 		"total": 700
 	},
 	"Mega Rayquaza": {
-		"number": "#384",
+		"number": "#0384",
 		"name": "Mega Rayquaza",
 		"type": ["Dragon", "Flying"],
 		"abilities": {
@@ -18122,7 +18122,7 @@
 		"total": 780
 	},
 	"Mega Lopunny": {
-		"number": "#428",
+		"number": "#0428",
 		"name": "Mega Lopunny",
 		"type": ["Normal", "Fighting"],
 		"abilities": {
@@ -18139,7 +18139,7 @@
 		"total": 580
 	},
 	"Mega Garchomp": {
-		"number": "#445",
+		"number": "#0445",
 		"name": "Mega Garchomp",
 		"type": ["Dragon", "Ground"],
 		"abilities": {
@@ -18156,7 +18156,7 @@
 		"total": 700
 	},
 	"Mega Lucario": {
-		"number": "#448",
+		"number": "#0448",
 		"name": "Mega Lucario",
 		"type": ["Fighting", "Steel"],
 		"abilities": {
@@ -18173,7 +18173,7 @@
 		"total": 625
 	},
 	"Mega Abomasnow": {
-		"number": "#460",
+		"number": "#0460",
 		"name": "Mega Abomasnow",
 		"type": ["Grass", "Ice"],
 		"abilities": {
@@ -18190,7 +18190,7 @@
 		"total": 594
 	},
 	"Mega Gallade": {
-		"number": "#475",
+		"number": "#0475",
 		"name": "Mega Gallade",
 		"type": ["Psychic", "Fighting"],
 		"abilities": {
@@ -18207,7 +18207,7 @@
 		"total": 618
 	},
 	"Mega Audino": {
-		"number": "#531",
+		"number": "#0531",
 		"name": "Mega Audino",
 		"type": ["Normal", "Fairy"],
 		"abilities": {
@@ -18224,7 +18224,7 @@
 		"total": 545
 	},
 	"Mega Diancie": {
-		"number": "#719",
+		"number": "#0719",
 		"name": "Mega Diancie",
 		"type": ["Rock", "Fairy"],
 		"abilities": {
