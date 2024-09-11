@@ -23,313 +23,313 @@ $哞哞牛奶=Moomoo Milk
 $回击之盾=Counter Shield
 
 _____________ABILITIES_____________
-$下载=<span class="pokemon-ability" data-ability="Download">Download</span>
-$不眠=<span class="pokemon-ability" data-ability="Insomnia">Insomnia</span>
-$乘风=<span class="pokemon-ability" data-ability="Wind Rider">Wind Rider</span>
-$储水=<span class="pokemon-ability" data-ability="Water Absorb">Water Absorb</span>
-$免疫=<span class="pokemon-ability" data-ability="Immunity">Immunity</span>
-$共生=<span class="pokemon-ability" data-ability="Symbiosis">Symbiosis</span>
-$分析=<span class="pokemon-ability" data-ability="Analytic">Analytic</span>
-$加速=<span class="pokemon-ability" data-ability="Speed Boost">Speed Boost</span>
-$单纯=<span class="pokemon-ability" data-ability="Simple">Simple</span>
-$卷发=<span class="pokemon-ability" data-ability="Tangling Hair">Tangling Hair</span>
-$反刍=<span class="pokemon-ability" data-ability="Cud Chew">Cud Chew</span>
-$发光=<span class="pokemon-ability" data-ability="Illuminate">Illuminate</span>
-$变色=<span class="pokemon-ability" data-ability="Color Change">Color Change</span>
-$同步=<span class="pokemon-ability" data-ability="Synchronize">Synchronize</span>
-$吐沙=<span class="pokemon-ability" data-ability="Sand Spit">Sand Spit</span>
-$吸盘=<span class="pokemon-ability" data-ability="Suction Cups">Suction Cups</span>
-$坚毅=<span class="pokemon-ability" data-ability="Stalwart">Stalwart</span>
-$复制=<span class="pokemon-ability" data-ability="Trace">Trace</span>
-$复眼=<span class="pokemon-ability" data-ability="Compound Eyes">Compound Eyes</span>
-$大将=<span class="pokemon-ability" data-ability="Supreme Overlord">Supreme Overlord</span>
-$天恩=<span class="pokemon-ability" data-ability="Serene Grace">Serene Grace</span>
-$好胜=<span class="pokemon-ability" data-ability="Competitive">Competitive</span>
-$威吓=<span class="pokemon-ability" data-ability="Intimidate">Intimidate</span>
-$孢子=<span class="pokemon-ability" data-ability="Effect Spore">Effect Spore</span>
-$察觉=<span class="pokemon-ability" data-ability="Frisk">Frisk</span>
-$尾甲=<span class="pokemon-ability" data-ability="Armor Tail">Armor Tail</span>
-$干劲=<span class="pokemon-ability" data-ability="Vital Spirit">Vital Spirit</span>
-$幻觉=<span class="pokemon-ability" data-ability="Illusion">Illusion</span>
-$引水=<span class="pokemon-ability" data-ability="Storm Drain">Storm Drain</span>
-$引火=<span class="pokemon-ability" data-ability="Flash Fire">Flash Fire</span>
-$引爆=<span class="pokemon-ability" data-ability="Aftermath">Aftermath</span>
-$强行=<span class="pokemon-ability" data-ability="Sheer Force">Sheer Force</span>
-$心眼=<span class="pokemon-ability" data-ability="Mind's Eye">Mind's Eye</span>
-$怪药=<span class="pokemon-ability" data-ability="Curious Medicine">Curious Medicine</span>
-$恶臭=<span class="pokemon-ability" data-ability="Stench">Stench</span>
-$慢出=<span class="pokemon-ability" data-ability="Stall">Stall</span>
-$懒惰=<span class="pokemon-ability" data-ability="Truant">Truant</span>
-$扬沙=<span class="pokemon-ability" data-ability="Sand Stream">Sand Stream</span>
-$拟态=<span class="pokemon-ability" data-ability="Mimicry">Mimicry</span>
-$拨沙=<span class="pokemon-ability" data-ability="Sand Rush">Sand Rush</span>
-$拨雪=<span class="pokemon-ability" data-ability="Slush Rush">Slush Rush</span>
-$捡拾=<span class="pokemon-ability" data-ability="Pickup">Pickup</span>
-$捡球=<span class="pokemon-ability" data-ability="Ball Fetch">Ball Fetch</span>
-$搬岩=<span class="pokemon-ability" data-ability="Rocky Payload">Rocky Payload</span>
-$收获=<span class="pokemon-ability" data-ability="Harvest">Harvest</span>
-$日照=<span class="pokemon-ability" data-ability="Drought">Drought</span>
-$早起=<span class="pokemon-ability" data-ability="Early Bird">Early Bird</span>
-$柔软=<span class="pokemon-ability" data-ability="Limber">Limber</span>
-$梦魇=<span class="pokemon-ability" data-ability="Bad Dreams">Bad Dreams</span>
-$棉絮=<span class="pokemon-ability" data-ability="Cotton Down">Cotton Down</span>
-$款待=<span class="pokemon-ability" data-ability="Hospitality">Hospitality</span>
-$正电=<span class="pokemon-ability" data-ability="Plus">Plus</span>
-$毅力=<span class="pokemon-ability" data-ability="Guts">Guts</span>
-$毒刺=<span class="pokemon-ability" data-ability="Poison Point">Poison Point</span>
-$毒手=<span class="pokemon-ability" data-ability="Poison Touch">Poison Touch</span>
-$毒疗=<span class="pokemon-ability" data-ability="Poison Heal">Poison Heal</span>
-$气闸=<span class="pokemon-ability" data-ability="Air Lock">Air Lock</span>
-$水幕=<span class="pokemon-ability" data-ability="Water Veil">Water Veil</span>
-$水泡=<span class="pokemon-ability" data-ability="Water Bubble">Water Bubble</span>
-$沙穴=<span class="pokemon-ability" data-ability="Arena Trap">Arena Trap</span>
-$沙隐=<span class="pokemon-ability" data-ability="Sand Veil">Sand Veil</span>
-$活力=<span class="pokemon-ability" data-ability="Hustle">Hustle</span>
-$游魂=<span class="pokemon-ability" data-ability="Wandering Spirit">Wandering Spirit</span>
-$湿气=<span class="pokemon-ability" data-ability="Damp">Damp</span>
-$激流=<span class="pokemon-ability" data-ability="Torrent">Torrent</span>
-$熟成=<span class="pokemon-ability" data-ability="Ripen">Ripen</span>
-$猛火=<span class="pokemon-ability" data-ability="Blaze">Blaze</span>
-$甜幕=<span class="pokemon-ability" data-ability="Sweet Veil">Sweet Veil</span>
-$画皮=<span class="pokemon-ability" data-ability="Disguise">Disguise</span>
-$監視=<span class="pokemon-ability" data-ability="Stakeout">Stakeout</span>
-$破格=<span class="pokemon-ability" data-ability="Mold Breaker">Mold Breaker</span>
-$硬爪=<span class="pokemon-ability" data-ability="Tough Claws">Tough Claws</span>
-$磁力=<span class="pokemon-ability" data-ability="Magnet Pull">Magnet Pull</span>
-$穿透=<span class="pokemon-ability" data-ability="Infiltrator">Infiltrator</span>
-$笨拙=<span class="pokemon-ability" data-ability="Klutz">Klutz</span>
-$纯朴=<span class="pokemon-ability" data-ability="Unaware">Unaware</span>
-$结实=<span class="pokemon-ability" data-ability="Sturdy">Sturdy</span>
-$耐热=<span class="pokemon-ability" data-ability="Heatproof">Heatproof</span>
-$胆怯=<span class="pokemon-ability" data-ability="Rattled">Rattled</span>
-$胆量=<span class="pokemon-ability" data-ability="Scrappy">Scrappy</span>
-$腐蚀=<span class="pokemon-ability" data-ability="Corrosion">Corrosion</span>
-$舍身=<span class="pokemon-ability" data-ability="Reckless">Reckless</span>
-$舞者=<span class="pokemon-ability" data-ability="Dancer">Dancer</span>
-$花幕=<span class="pokemon-ability" data-ability="Flower Veil">Flower Veil</span>
-$茂盛=<span class="pokemon-ability" data-ability="Overgrow">Overgrow</span>
-$蓄电=<span class="pokemon-ability" data-ability="Volt Absorb">Volt Absorb</span>
-$蜕皮=<span class="pokemon-ability" data-ability="Shed Skin">Shed Skin</span>
-$负电=<span class="pokemon-ability" data-ability="Minus">Minus</span>
-$跟风=<span class="pokemon-ability" data-ability="Opportunist">Opportunist</span>
-$踩影=<span class="pokemon-ability" data-ability="Shadow Tag">Shadow Tag</span>
-$蹒跚=<span class="pokemon-ability" data-ability="Tangled Feet">Tangled Feet</span>
-$蹲守=<span class="pokemon-ability" data-ability="Stakeout">Stakeout</span>
-$软弱=<span class="pokemon-ability" data-ability="Defeatist">Defeatist</span>
-$轻装=<span class="pokemon-ability" data-ability="Unburden">Unburden</span>
-$过滤=<span class="pokemon-ability" data-ability="Filter">Filter</span>
-$远隔=<span class="pokemon-ability" data-ability="Long Reach">Long Reach</span>
-$迟钝=<span class="pokemon-ability" data-ability="Oblivious">Oblivious</span>
-$逃跑=<span class="pokemon-ability" data-ability="Run Away">Run Away</span>
-$速击=<span class="pokemon-ability" data-ability="Quick Draw">Quick Draw</span>
-$采蜜=<span class="pokemon-ability" data-ability="Honey Gather">Honey Gather</span>
-$铁刺=<span class="pokemon-ability" data-ability="Iron Barbs">Iron Barbs</span>
-$铁拳=<span class="pokemon-ability" data-ability="Iron Fist">Iron Fist</span>
-$锋锐=<span class="pokemon-ability" data-ability="Sharpness">Sharpness</span>
-$镜甲=<span class="pokemon-ability" data-ability="Mirror Armor">Mirror Armor</span>
-$防尘=<span class="pokemon-ability" data-ability="Overcoat">Overcoat</span>
-$防弹=<span class="pokemon-ability" data-ability="Bulletproof">Bulletproof</span>
-$降雨=<span class="pokemon-ability" data-ability="Drizzle">Drizzle</span>
-$降雪=<span class="pokemon-ability" data-ability="Snow Warning">Snow Warning</span>
-$除障=<span class="pokemon-ability" data-ability="Screen Cleaner">Screen Cleaner</span>
-$隔音=<span class="pokemon-ability" data-ability="Soundproof">Soundproof</span>
-$雨盘=<span class="pokemon-ability" data-ability="Rain Dish">Rain Dish</span>
-$雪隐=<span class="pokemon-ability" data-ability="Snow Cloak">Snow Cloak</span>
-$静电=<span class="pokemon-ability" data-ability="Static">Static</span>
-$颊囊=<span class="pokemon-ability" data-ability="Cheek Pouch">Cheek Pouch</span>
-$飘浮=<span class="pokemon-ability" data-ability="Levitate">Levitate</span>
-$食土=<span class="pokemon-ability" data-ability="Earth Eater">Earth Eater</span>
-$食草=<span class="pokemon-ability" data-ability="Sap Sipper">Sap Sipper</span>
-$魂心=<span class="pokemon-ability" data-ability="Soul-Heart">Soul-Heart</span>
-$鱼群=<span class="pokemon-ability" data-ability="Schooling">Schooling</span>
-$鳞粉=<span class="pokemon-ability" data-ability="Shield Dust">Shield Dust</span>
-$黏滑=<span class="pokemon-ability" data-ability="Gooey">Gooey</span>
-$黏着=<span class="pokemon-ability" data-ability="Sticky Hold">Sticky Hold</span>
-$龙颚=<span class="pokemon-ability" data-ability="Dragon's Maw">Dragon's Maw</span>
-$不服输=<span class="pokemon-ability" data-ability="Defiant">Defiant</span>
-$亲子爱=<span class="pokemon-ability" data-ability="Parental Bond">Parental Bond</span>
-$再生力=<span class="pokemon-ability" data-ability="Regenerator">Regenerator</span>
-$冰鳞粉=<span class="pokemon-ability" data-ability="Ice Scales">Ice Scales</span>
-$压迫感=<span class="pokemon-ability" data-ability="Pressure">Pressure</span>
-$厚脂肪=<span class="pokemon-ability" data-ability="Thick Fat">Thick Fat</span>
-$变身者=<span class="pokemon-ability" data-ability="Imposter">Imposter</span>
-$叶绿素=<span class="pokemon-ability" data-ability="Chlorophyll">Chlorophyll</span>
-$唱反调=<span class="pokemon-ability" data-ability="Contrary">Contrary</span>
-$多属性=<span class="pokemon-ability" data-ability="Multitype">Multitype</span>
-$大力士=<span class="pokemon-ability" data-ability="Huge Power">Huge Power</span>
-$怪力钳=<span class="pokemon-ability" data-ability="Hyper Cutter">Hyper Cutter</span>
-$慢启动=<span class="pokemon-ability" data-ability="Slow Start">Slow Start</span>
-$持久力=<span class="pokemon-ability" data-ability="Stamina">Stamina</span>
-$接球手=<span class="pokemon-ability" data-ability="Receiver">Receiver</span>
-$斗争心=<span class="pokemon-ability" data-ability="Rivalry">Rivalry</span>
-$无形拳=<span class="pokemon-ability" data-ability="Unseen Fist">Unseen Fist</span>
-$无防守=<span class="pokemon-ability" data-ability="No Guard">No Guard</span>
-$木乃伊=<span class="pokemon-ability" data-ability="Mummy">Mummy</span>
-$毒傀儡=<span class="pokemon-ability" data-ability="Poison Puppeteer">Poison Puppeteer</span>
-$毒满地=<span class="pokemon-ability" data-ability="Toxic Debris">Toxic Debris</span>
-$毒锁链=<span class="pokemon-ability" data-ability="Toxic Chain">Toxic Chain</span>
-$毛茸茸=<span class="pokemon-ability" data-ability="Fluffy">Fluffy</span>
-$污泥浆=<span class="pokemon-ability" data-ability="Liquid Ooze">Liquid Ooze</span>
-$沙之力=<span class="pokemon-ability" data-ability="Sand Force">Sand Force</span>
-$热交换=<span class="pokemon-ability" data-ability="Thermal Exchange">Thermal Exchange</span>
-$狙击手=<span class="pokemon-ability" data-ability="Sniper">Sniper</span>
-$电晶体=<span class="pokemon-ability" data-ability="Transistor">Transistor</span>
-$看门犬=<span class="pokemon-ability" data-ability="Guard Dog">Guard Dog</span>
-$精神力=<span class="pokemon-ability" data-ability="Inner Focus">Inner Focus</span>
-$紧张感=<span class="pokemon-ability" data-ability="Unnerve">Unnerve</span>
-$结冻头=<span class="pokemon-ability" data-ability="Ice Face">Ice Face</span>
-$能量点=<span class="pokemon-ability" data-ability="Power Spot">Power Spot</span>
-$自由者=<span class="pokemon-ability" data-ability="Libero">Libero</span>
-$花之礼=<span class="pokemon-ability" data-ability="Flower Gift">Flower Gift</span>
-$芳香幕=<span class="pokemon-ability" data-ability="Aroma Veil">Aroma Veil</span>
-$蒸汽机=<span class="pokemon-ability" data-ability="Steam Engine">Steam Engine</span>
-$蓄电池=<span class="pokemon-ability" data-ability="Battery">Battery</span>
-$贪吃鬼=<span class="pokemon-ability" data-ability="Gluttony">Gluttony</span>
-$超幸运=<span class="pokemon-ability" data-ability="Super Luck">Super Luck</span>
-$轻金属=<span class="pokemon-ability" data-ability="Light Metal">Light Metal</span>
-$适应力=<span class="pokemon-ability" data-ability="Adaptability">Adaptability</span>
-$避雷针=<span class="pokemon-ability" data-ability="Lightning Rod">Lightning Rod</span>
-$重金属=<span class="pokemon-ability" data-ability="Heavy Metal">Heavy Metal</span>
-$预知梦=<span class="pokemon-ability" data-ability="Forewarn">Forewarn</span>
-$飞毛腿=<span class="pokemon-ability" data-ability="Quick Feet">Quick Feet</span>
-$魔术师=<span class="pokemon-ability" data-ability="Magician">Magician</span>
-$魔法镜=<span class="pokemon-ability" data-ability="Magic Bounce">Magic Bounce</span>
-$一口导弹=<span class="pokemon-ability" data-ability="Gulp Missile">Gulp Missile</span>
-$一猩一意=<span class="pokemon-ability" data-ability="Gorilla Tactics">Gorilla Tactics</span>
-$一般皮肤=<span class="pokemon-ability" data-ability="Normalize">Normalize</span>
-$不仁不义=<span class="pokemon-ability" data-ability="Merciless">Merciless</span>
-$不屈之心=<span class="pokemon-ability" data-ability="Steadfast">Steadfast</span>
-$不屈之盾=<span class="pokemon-ability" data-ability="Dauntless Shield">Dauntless Shield</span>
-$不挠之剑=<span class="pokemon-ability" data-ability="Intrepid Sword">Intrepid Sword</span>
-$中毒激升=<span class="pokemon-ability" data-ability="Toxic Boost">Toxic Boost</span>
-$人马一体=<span class="pokemon-ability" data-ability="As One">As One</span>
-$健壮胸肌=<span class="pokemon-ability" data-ability="Big Pecks">Big Pecks</span>
-$兆级电压=<span class="pokemon-ability" data-ability="Teravolt">Teravolt</span>
-$先行治疗=<span class="pokemon-ability" data-ability="Triage">Triage</span>
-$全能变身=<span class="pokemon-ability" data-ability="Zero to Hero">Zero to Hero</span>
-$冰冻之躯=<span class="pokemon-ability" data-ability="Ice Body">Ice Body</span>
-$冰冻皮肤=<span class="pokemon-ability" data-ability="Refrigerate">Refrigerate</span>
-$冲浪之尾=<span class="pokemon-ability" data-ability="Surge Surfer">Surge Surfer</span>
-$化学之力=<span class="pokemon-ability" data-ability="Power of Alchemy">Power of Alchemy</span>
-$危险回避=<span class="pokemon-ability" data-ability="Emergency Exit">Emergency Exit</span>
-$危险预知=<span class="pokemon-ability" data-ability="Anticipation">Anticipation</span>
-$友情防守=<span class="pokemon-ability" data-ability="Friend Guard">Friend Guard</span>
-$发号施令=<span class="pokemon-ability" data-ability="Commander">Commander</span>
-$受热激升=<span class="pokemon-ability" data-ability="Flare Boost">Flare Boost</span>
-$变幻自如=<span class="pokemon-ability" data-ability="Protean">Protean</span>
-$古代活性=<span class="pokemon-ability" data-ability="Protosynthesis">Protosynthesis</span>
-$叶子防守=<span class="pokemon-ability" data-ability="Leaf Guard">Leaf Guard</span>
-$同台共演=<span class="pokemon-ability" data-ability="Costar">Costar</span>
-$坚硬岩石=<span class="pokemon-ability" data-ability="Solid Rock">Solid Rock</span>
-$坚硬脑袋=<span class="pokemon-ability" data-ability="Rock Head">Rock Head</span>
-$多重鳞片=<span class="pokemon-ability" data-ability="Multiscale">Multiscale</span>
-$太晶变形=<span class="pokemon-ability" data-ability="Tera Shift">Tera Shift</span>
-$太晶甲壳=<span class="pokemon-ability" data-ability="Tera Shell">Tera Shell</span>
-$太阳之力=<span class="pokemon-ability" data-ability="Solar Power">Solar Power</span>
-$夸克充能=<span class="pokemon-ability" data-ability="Quark Drive">Quark Drive</span>
-$奇迹皮肤=<span class="pokemon-ability" data-ability="Wonder Skin">Wonder Skin</span>
-$妖精气场=<span class="pokemon-ability" data-ability="Fairy Aura">Fairy Aura</span>
-$妖精皮肤=<span class="pokemon-ability" data-ability="Pixilate">Pixilate</span>
-$始源之海=<span class="pokemon-ability" data-ability="Primordial Sea">Primordial Sea</span>
-$干燥皮肤=<span class="pokemon-ability" data-ability="Dry Skin">Dry Skin</span>
-$幻影防守=<span class="pokemon-ability" data-ability="Shadow Shield">Shadow Shield</span>
-$庞克摇滚=<span class="pokemon-ability" data-ability="Punk Rock">Punk Rock</span>
-$异兽提升=<span class="pokemon-ability" data-ability="Beast Boost">Beast Boost</span>
-$强壮之颚=<span class="pokemon-ability" data-ability="Strong Jaw">Strong Jaw</span>
-$强子引擎=<span class="pokemon-ability" data-ability="Hadron Engine">Hadron Engine</span>
-$归零化境=<span class="pokemon-ability" data-ability="Teraform Zero">Teraform Zero</span>
-$心情不定=<span class="pokemon-ability" data-ability="Moody">Moody</span>
-$心灵感应=<span class="pokemon-ability" data-ability="Telepathy">Telepathy</span>
-$怒火冲天=<span class="pokemon-ability" data-ability="Berserk">Berserk</span>
-$恒净之躯=<span class="pokemon-ability" data-ability="Clear Body">Clear Body</span>
-$悠游自如=<span class="pokemon-ability" data-ability="Swift Swim">Swift Swim</span>
-$愤怒甲壳=<span class="pokemon-ability" data-ability="Anger Shell">Anger Shell</span>
-$愤怒穴位=<span class="pokemon-ability" data-ability="Anger Point">Anger Point</span>
-$我行我素=<span class="pokemon-ability" data-ability="Own Tempo">Own Tempo</span>
-$战斗切换=<span class="pokemon-ability" data-ability="Stance Change">Stance Change</span>
-$战斗盔甲=<span class="pokemon-ability" data-ability="Battle Armor">Battle Armor</span>
-$技术高手=<span class="pokemon-ability" data-ability="Technician">Technician</span>
-$掉出种子=<span class="pokemon-ability" data-ability="Seed Sower">Seed Sower</span>
-$无关天气=<span class="pokemon-ability" data-ability="Cloud Nine">Cloud Nine</span>
-$暗黑气场=<span class="pokemon-ability" data-ability="Dark Aura">Dark Aura</span>
-$有色眼镜=<span class="pokemon-ability" data-ability="Tinted Lens">Tinted Lens</span>
-$棱镜装甲=<span class="pokemon-ability" data-ability="Prism Armor">Prism Armor</span>
-$正义之心=<span class="pokemon-ability" data-ability="Justified">Justified</span>
-$毛皮大衣=<span class="pokemon-ability" data-ability="Fur Coat">Fur Coat</span>
-$气场破坏=<span class="pokemon-ability" data-ability="Aura Break">Aura Break</span>
-$治愈之心=<span class="pokemon-ability" data-ability="Healer">Healer</span>
-$洁净之盐=<span class="pokemon-ability" data-ability="Purifying Salt">Purifying Salt</span>
-$涡轮火焰=<span class="pokemon-ability" data-ability="Turboblaze">Turboblaze</span>
-$湿润之声=<span class="pokemon-ability" data-ability="Liquid Voice">Liquid Voice</span>
-$湿润之躯=<span class="pokemon-ability" data-ability="Hydration">Hydration</span>
-$漆黑嘶鸣=<span class="pokemon-ability" data-ability="Grim Neigh">Grim Neigh</span>
-$火焰之躯=<span class="pokemon-ability" data-ability="Flame Body">Flame Body</span>
-$灭亡之躯=<span class="pokemon-ability" data-ability="Perish Body">Perish Body</span>
-$灾祸之剑=<span class="pokemon-ability" data-ability="Sword of Ruin">Sword of Ruin</span>
-$灾祸之玉=<span class="pokemon-ability" data-ability="Beads of Ruin">Beads of Ruin</span>
-$灾祸之简=<span class="pokemon-ability" data-ability="Tablets of Ruin">Tablets of Ruin</span>
-$灾祸之鼎=<span class="pokemon-ability" data-ability="Vessel of Ruin">Vessel of Ruin</span>
-$焦香之躯=<span class="pokemon-ability" data-ability="Well-Baked Body">Well-Baked Body</span>
-$熔岩铠甲=<span class="pokemon-ability" data-ability="Magma Armor">Magma Armor</span>
-$牵绊变身=<span class="pokemon-ability" data-ability="Battle Bond">Battle Bond</span>
-$瑜伽之力=<span class="pokemon-ability" data-ability="Pure Power">Pure Power</span>
-$甘露之蜜=<span class="pokemon-ability" data-ability="Supersweet Syrup">Supersweet Syrup</span>
-$电力转换=<span class="pokemon-ability" data-ability="Electromorphosis">Electromorphosis</span>
-$电气引擎=<span class="pokemon-ability" data-ability="Motor Drive">Motor Drive</span>
-$电气皮肤=<span class="pokemon-ability" data-ability="Galvanize">Galvanize</span>
-$界限盾壳=<span class="pokemon-ability" data-ability="Shields Down">Shields Down</span>
-$疾风之翼=<span class="pokemon-ability" data-ability="Gale Wings">Gale Wings</span>
-$白色烟雾=<span class="pokemon-ability" data-ability="White Smoke">White Smoke</span>
-$硬壳盔甲=<span class="pokemon-ability" data-ability="Shell Armor">Shell Armor</span>
-$碎裂铠甲=<span class="pokemon-ability" data-ability="Weak Armor">Weak Armor</span>
-$神奇守护=<span class="pokemon-ability" data-ability="Wonder Guard">Wonder Guard</span>
-$神奇鳞片=<span class="pokemon-ability" data-ability="Marvel Scale">Marvel Scale</span>
-$粉彩护幕=<span class="pokemon-ability" data-ability="Pastel Veil">Pastel Veil</span>
-$粗糙皮肤=<span class="pokemon-ability" data-ability="Rough Skin">Rough Skin</span>
-$终结之地=<span class="pokemon-ability" data-ability="Desolate Land">Desolate Land</span>
-$绝对睡眠=<span class="pokemon-ability" data-ability="Comatose">Comatose</span>
-$绯红脉动=<span class="pokemon-ability" data-ability="Orichalcum Pulse">Orichalcum Pulse</span>
-$群聚变形=<span class="pokemon-ability" data-ability="Power Construct">Power Construct</span>
-$胜利之星=<span class="pokemon-ability" data-ability="Victory Star">Victory Star</span>
-$脑核之力=<span class="pokemon-ability" data-ability="Neuroforce">Neuroforce</span>
-$自信过度=<span class="pokemon-ability" data-ability="Moxie">Moxie</span>
-$自然回复=<span class="pokemon-ability" data-ability="Natural Cure">Natural Cure</span>
-$苍白嘶鸣=<span class="pokemon-ability" data-ability="Chilling Neigh">Chilling Neigh</span>
-$草之毛皮=<span class="pokemon-ability" data-ability="Grass Pelt">Grass Pelt</span>
-$菌丝之力=<span class="pokemon-ability" data-ability="Mycelium Might">Mycelium Might</span>
-$虫之预感=<span class="pokemon-ability" data-ability="Swarm">Swarm</span>
-$螺旋尾鳍=<span class="pokemon-ability" data-ability="Propeller Tail">Propeller Tail</span>
-$诅咒之躯=<span class="pokemon-ability" data-ability="Cursed Body">Cursed Body</span>
-$跃跃欲逃=<span class="pokemon-ability" data-ability="Wimp Out">Wimp Out</span>
-$达摩模式=<span class="pokemon-ability" data-ability="Zen Mode">Zen Mode</span>
-$连续攻击=<span class="pokemon-ability" data-ability="Skill Link">Skill Link</span>
-$迷人之躯=<span class="pokemon-ability" data-ability="Cute Charm">Cute Charm</span>
-$遇水凝固=<span class="pokemon-ability" data-ability="Water Compaction">Water Compaction</span>
-$金属防护=<span class="pokemon-ability" data-ability="Full Metal Body">Full Metal Body</span>
-$钢之意志=<span class="pokemon-ability" data-ability="Steely Spirit">Steely Spirit</span>
-$钢能力者=<span class="pokemon-ability" data-ability="Steelworker">Steelworker</span>
-$锐利目光=<span class="pokemon-ability" data-ability="Keen Eye">Keen Eye</span>
-$阴晴不定=<span class="pokemon-ability" data-ability="Forecast">Forecast</span>
-$面影輝映=<span class="pokemon-ability" data-ability="Embody Aspect">Embody Aspect</span>
-$顺手牵羊=<span class="pokemon-ability" data-ability="Pickpocket">Pickpocket</span>
-$风力发电=<span class="pokemon-ability" data-ability="Wind Power">Wind Power</span>
-$飞行皮肤=<span class="pokemon-ability" data-ability="Aerilate">Aerilate</span>
-$饱了又饿=<span class="pokemon-ability" data-ability="Hunger Switch">Hunger Switch</span>
-$魔法防守=<span class="pokemon-ability" data-ability="Magic Guard">Magic Guard</span>
-$鲜艳之躯=<span class="pokemon-ability" data-ability="Dazzling">Dazzling</span>
-$黄金之躯=<span class="pokemon-ability" data-ability="Good as Gold">Good as Gold</span>
-$ＡＲ系统=<span class="pokemon-ability" data-ability="RKS System">RKS System</span>
-$女王的威严=<span class="pokemon-ability" data-ability="Queenly Majesty">Queenly Majesty</span>
-$德尔塔气流=<span class="pokemon-ability" data-ability="Delta Stream">Delta Stream</span>
-$恶作剧之心=<span class="pokemon-ability" data-ability="Prankster">Prankster</span>
-$电气制造者=<span class="pokemon-ability" data-ability="Electric Surge">Electric Surge</span>
-$精神制造者=<span class="pokemon-ability" data-ability="Psychic Surge">Psychic Surge</span>
-$薄雾制造者=<span class="pokemon-ability" data-ability="Misty Surge">Misty Surge</span>
-$超级发射器=<span class="pokemon-ability" data-ability="Mega Launcher">Mega Launcher</span>
-$青草制造者=<span class="pokemon-ability" data-ability="Grassy Surge">Grassy Surge</span>
-$化学变化气体=<span class="pokemon-ability" data-ability="Neutralizing Gas">Neutralizing Gas</span>
-$甩不掉的气味=<span class="pokemon-ability" data-ability="Lingering Aroma">Lingering Aroma</span>
-$飞出的内在物=<span class="pokemon-ability" data-ability="Innards Out">Innards Out</span>
+$下载=<span class="pokemon-ability" data-pokedex="Download">Download</span>
+$不眠=<span class="pokemon-ability" data-pokedex="Insomnia">Insomnia</span>
+$乘风=<span class="pokemon-ability" data-pokedex="Wind Rider">Wind Rider</span>
+$储水=<span class="pokemon-ability" data-pokedex="Water Absorb">Water Absorb</span>
+$免疫=<span class="pokemon-ability" data-pokedex="Immunity">Immunity</span>
+$共生=<span class="pokemon-ability" data-pokedex="Symbiosis">Symbiosis</span>
+$分析=<span class="pokemon-ability" data-pokedex="Analytic">Analytic</span>
+$加速=<span class="pokemon-ability" data-pokedex="Speed Boost">Speed Boost</span>
+$单纯=<span class="pokemon-ability" data-pokedex="Simple">Simple</span>
+$卷发=<span class="pokemon-ability" data-pokedex="Tangling Hair">Tangling Hair</span>
+$反刍=<span class="pokemon-ability" data-pokedex="Cud Chew">Cud Chew</span>
+$发光=<span class="pokemon-ability" data-pokedex="Illuminate">Illuminate</span>
+$变色=<span class="pokemon-ability" data-pokedex="Color Change">Color Change</span>
+$同步=<span class="pokemon-ability" data-pokedex="Synchronize">Synchronize</span>
+$吐沙=<span class="pokemon-ability" data-pokedex="Sand Spit">Sand Spit</span>
+$吸盘=<span class="pokemon-ability" data-pokedex="Suction Cups">Suction Cups</span>
+$坚毅=<span class="pokemon-ability" data-pokedex="Stalwart">Stalwart</span>
+$复制=<span class="pokemon-ability" data-pokedex="Trace">Trace</span>
+$复眼=<span class="pokemon-ability" data-pokedex="Compound Eyes">Compound Eyes</span>
+$大将=<span class="pokemon-ability" data-pokedex="Supreme Overlord">Supreme Overlord</span>
+$天恩=<span class="pokemon-ability" data-pokedex="Serene Grace">Serene Grace</span>
+$好胜=<span class="pokemon-ability" data-pokedex="Competitive">Competitive</span>
+$威吓=<span class="pokemon-ability" data-pokedex="Intimidate">Intimidate</span>
+$孢子=<span class="pokemon-ability" data-pokedex="Effect Spore">Effect Spore</span>
+$察觉=<span class="pokemon-ability" data-pokedex="Frisk">Frisk</span>
+$尾甲=<span class="pokemon-ability" data-pokedex="Armor Tail">Armor Tail</span>
+$干劲=<span class="pokemon-ability" data-pokedex="Vital Spirit">Vital Spirit</span>
+$幻觉=<span class="pokemon-ability" data-pokedex="Illusion">Illusion</span>
+$引水=<span class="pokemon-ability" data-pokedex="Storm Drain">Storm Drain</span>
+$引火=<span class="pokemon-ability" data-pokedex="Flash Fire">Flash Fire</span>
+$引爆=<span class="pokemon-ability" data-pokedex="Aftermath">Aftermath</span>
+$强行=<span class="pokemon-ability" data-pokedex="Sheer Force">Sheer Force</span>
+$心眼=<span class="pokemon-ability" data-pokedex="Mind's Eye">Mind's Eye</span>
+$怪药=<span class="pokemon-ability" data-pokedex="Curious Medicine">Curious Medicine</span>
+$恶臭=<span class="pokemon-ability" data-pokedex="Stench">Stench</span>
+$慢出=<span class="pokemon-ability" data-pokedex="Stall">Stall</span>
+$懒惰=<span class="pokemon-ability" data-pokedex="Truant">Truant</span>
+$扬沙=<span class="pokemon-ability" data-pokedex="Sand Stream">Sand Stream</span>
+$拟态=<span class="pokemon-ability" data-pokedex="Mimicry">Mimicry</span>
+$拨沙=<span class="pokemon-ability" data-pokedex="Sand Rush">Sand Rush</span>
+$拨雪=<span class="pokemon-ability" data-pokedex="Slush Rush">Slush Rush</span>
+$捡拾=<span class="pokemon-ability" data-pokedex="Pickup">Pickup</span>
+$捡球=<span class="pokemon-ability" data-pokedex="Ball Fetch">Ball Fetch</span>
+$搬岩=<span class="pokemon-ability" data-pokedex="Rocky Payload">Rocky Payload</span>
+$收获=<span class="pokemon-ability" data-pokedex="Harvest">Harvest</span>
+$日照=<span class="pokemon-ability" data-pokedex="Drought">Drought</span>
+$早起=<span class="pokemon-ability" data-pokedex="Early Bird">Early Bird</span>
+$柔软=<span class="pokemon-ability" data-pokedex="Limber">Limber</span>
+$梦魇=<span class="pokemon-ability" data-pokedex="Bad Dreams">Bad Dreams</span>
+$棉絮=<span class="pokemon-ability" data-pokedex="Cotton Down">Cotton Down</span>
+$款待=<span class="pokemon-ability" data-pokedex="Hospitality">Hospitality</span>
+$正电=<span class="pokemon-ability" data-pokedex="Plus">Plus</span>
+$毅力=<span class="pokemon-ability" data-pokedex="Guts">Guts</span>
+$毒刺=<span class="pokemon-ability" data-pokedex="Poison Point">Poison Point</span>
+$毒手=<span class="pokemon-ability" data-pokedex="Poison Touch">Poison Touch</span>
+$毒疗=<span class="pokemon-ability" data-pokedex="Poison Heal">Poison Heal</span>
+$气闸=<span class="pokemon-ability" data-pokedex="Air Lock">Air Lock</span>
+$水幕=<span class="pokemon-ability" data-pokedex="Water Veil">Water Veil</span>
+$水泡=<span class="pokemon-ability" data-pokedex="Water Bubble">Water Bubble</span>
+$沙穴=<span class="pokemon-ability" data-pokedex="Arena Trap">Arena Trap</span>
+$沙隐=<span class="pokemon-ability" data-pokedex="Sand Veil">Sand Veil</span>
+$活力=<span class="pokemon-ability" data-pokedex="Hustle">Hustle</span>
+$游魂=<span class="pokemon-ability" data-pokedex="Wandering Spirit">Wandering Spirit</span>
+$湿气=<span class="pokemon-ability" data-pokedex="Damp">Damp</span>
+$激流=<span class="pokemon-ability" data-pokedex="Torrent">Torrent</span>
+$熟成=<span class="pokemon-ability" data-pokedex="Ripen">Ripen</span>
+$猛火=<span class="pokemon-ability" data-pokedex="Blaze">Blaze</span>
+$甜幕=<span class="pokemon-ability" data-pokedex="Sweet Veil">Sweet Veil</span>
+$画皮=<span class="pokemon-ability" data-pokedex="Disguise">Disguise</span>
+$監視=<span class="pokemon-ability" data-pokedex="Stakeout">Stakeout</span>
+$破格=<span class="pokemon-ability" data-pokedex="Mold Breaker">Mold Breaker</span>
+$硬爪=<span class="pokemon-ability" data-pokedex="Tough Claws">Tough Claws</span>
+$磁力=<span class="pokemon-ability" data-pokedex="Magnet Pull">Magnet Pull</span>
+$穿透=<span class="pokemon-ability" data-pokedex="Infiltrator">Infiltrator</span>
+$笨拙=<span class="pokemon-ability" data-pokedex="Klutz">Klutz</span>
+$纯朴=<span class="pokemon-ability" data-pokedex="Unaware">Unaware</span>
+$结实=<span class="pokemon-ability" data-pokedex="Sturdy">Sturdy</span>
+$耐热=<span class="pokemon-ability" data-pokedex="Heatproof">Heatproof</span>
+$胆怯=<span class="pokemon-ability" data-pokedex="Rattled">Rattled</span>
+$胆量=<span class="pokemon-ability" data-pokedex="Scrappy">Scrappy</span>
+$腐蚀=<span class="pokemon-ability" data-pokedex="Corrosion">Corrosion</span>
+$舍身=<span class="pokemon-ability" data-pokedex="Reckless">Reckless</span>
+$舞者=<span class="pokemon-ability" data-pokedex="Dancer">Dancer</span>
+$花幕=<span class="pokemon-ability" data-pokedex="Flower Veil">Flower Veil</span>
+$茂盛=<span class="pokemon-ability" data-pokedex="Overgrow">Overgrow</span>
+$蓄电=<span class="pokemon-ability" data-pokedex="Volt Absorb">Volt Absorb</span>
+$蜕皮=<span class="pokemon-ability" data-pokedex="Shed Skin">Shed Skin</span>
+$负电=<span class="pokemon-ability" data-pokedex="Minus">Minus</span>
+$跟风=<span class="pokemon-ability" data-pokedex="Opportunist">Opportunist</span>
+$踩影=<span class="pokemon-ability" data-pokedex="Shadow Tag">Shadow Tag</span>
+$蹒跚=<span class="pokemon-ability" data-pokedex="Tangled Feet">Tangled Feet</span>
+$蹲守=<span class="pokemon-ability" data-pokedex="Stakeout">Stakeout</span>
+$软弱=<span class="pokemon-ability" data-pokedex="Defeatist">Defeatist</span>
+$轻装=<span class="pokemon-ability" data-pokedex="Unburden">Unburden</span>
+$过滤=<span class="pokemon-ability" data-pokedex="Filter">Filter</span>
+$远隔=<span class="pokemon-ability" data-pokedex="Long Reach">Long Reach</span>
+$迟钝=<span class="pokemon-ability" data-pokedex="Oblivious">Oblivious</span>
+$逃跑=<span class="pokemon-ability" data-pokedex="Run Away">Run Away</span>
+$速击=<span class="pokemon-ability" data-pokedex="Quick Draw">Quick Draw</span>
+$采蜜=<span class="pokemon-ability" data-pokedex="Honey Gather">Honey Gather</span>
+$铁刺=<span class="pokemon-ability" data-pokedex="Iron Barbs">Iron Barbs</span>
+$铁拳=<span class="pokemon-ability" data-pokedex="Iron Fist">Iron Fist</span>
+$锋锐=<span class="pokemon-ability" data-pokedex="Sharpness">Sharpness</span>
+$镜甲=<span class="pokemon-ability" data-pokedex="Mirror Armor">Mirror Armor</span>
+$防尘=<span class="pokemon-ability" data-pokedex="Overcoat">Overcoat</span>
+$防弹=<span class="pokemon-ability" data-pokedex="Bulletproof">Bulletproof</span>
+$降雨=<span class="pokemon-ability" data-pokedex="Drizzle">Drizzle</span>
+$降雪=<span class="pokemon-ability" data-pokedex="Snow Warning">Snow Warning</span>
+$除障=<span class="pokemon-ability" data-pokedex="Screen Cleaner">Screen Cleaner</span>
+$隔音=<span class="pokemon-ability" data-pokedex="Soundproof">Soundproof</span>
+$雨盘=<span class="pokemon-ability" data-pokedex="Rain Dish">Rain Dish</span>
+$雪隐=<span class="pokemon-ability" data-pokedex="Snow Cloak">Snow Cloak</span>
+$静电=<span class="pokemon-ability" data-pokedex="Static">Static</span>
+$颊囊=<span class="pokemon-ability" data-pokedex="Cheek Pouch">Cheek Pouch</span>
+$飘浮=<span class="pokemon-ability" data-pokedex="Levitate">Levitate</span>
+$食土=<span class="pokemon-ability" data-pokedex="Earth Eater">Earth Eater</span>
+$食草=<span class="pokemon-ability" data-pokedex="Sap Sipper">Sap Sipper</span>
+$魂心=<span class="pokemon-ability" data-pokedex="Soul-Heart">Soul-Heart</span>
+$鱼群=<span class="pokemon-ability" data-pokedex="Schooling">Schooling</span>
+$鳞粉=<span class="pokemon-ability" data-pokedex="Shield Dust">Shield Dust</span>
+$黏滑=<span class="pokemon-ability" data-pokedex="Gooey">Gooey</span>
+$黏着=<span class="pokemon-ability" data-pokedex="Sticky Hold">Sticky Hold</span>
+$龙颚=<span class="pokemon-ability" data-pokedex="Dragon's Maw">Dragon's Maw</span>
+$不服输=<span class="pokemon-ability" data-pokedex="Defiant">Defiant</span>
+$亲子爱=<span class="pokemon-ability" data-pokedex="Parental Bond">Parental Bond</span>
+$再生力=<span class="pokemon-ability" data-pokedex="Regenerator">Regenerator</span>
+$冰鳞粉=<span class="pokemon-ability" data-pokedex="Ice Scales">Ice Scales</span>
+$压迫感=<span class="pokemon-ability" data-pokedex="Pressure">Pressure</span>
+$厚脂肪=<span class="pokemon-ability" data-pokedex="Thick Fat">Thick Fat</span>
+$变身者=<span class="pokemon-ability" data-pokedex="Imposter">Imposter</span>
+$叶绿素=<span class="pokemon-ability" data-pokedex="Chlorophyll">Chlorophyll</span>
+$唱反调=<span class="pokemon-ability" data-pokedex="Contrary">Contrary</span>
+$多属性=<span class="pokemon-ability" data-pokedex="Multitype">Multitype</span>
+$大力士=<span class="pokemon-ability" data-pokedex="Huge Power">Huge Power</span>
+$怪力钳=<span class="pokemon-ability" data-pokedex="Hyper Cutter">Hyper Cutter</span>
+$慢启动=<span class="pokemon-ability" data-pokedex="Slow Start">Slow Start</span>
+$持久力=<span class="pokemon-ability" data-pokedex="Stamina">Stamina</span>
+$接球手=<span class="pokemon-ability" data-pokedex="Receiver">Receiver</span>
+$斗争心=<span class="pokemon-ability" data-pokedex="Rivalry">Rivalry</span>
+$无形拳=<span class="pokemon-ability" data-pokedex="Unseen Fist">Unseen Fist</span>
+$无防守=<span class="pokemon-ability" data-pokedex="No Guard">No Guard</span>
+$木乃伊=<span class="pokemon-ability" data-pokedex="Mummy">Mummy</span>
+$毒傀儡=<span class="pokemon-ability" data-pokedex="Poison Puppeteer">Poison Puppeteer</span>
+$毒满地=<span class="pokemon-ability" data-pokedex="Toxic Debris">Toxic Debris</span>
+$毒锁链=<span class="pokemon-ability" data-pokedex="Toxic Chain">Toxic Chain</span>
+$毛茸茸=<span class="pokemon-ability" data-pokedex="Fluffy">Fluffy</span>
+$污泥浆=<span class="pokemon-ability" data-pokedex="Liquid Ooze">Liquid Ooze</span>
+$沙之力=<span class="pokemon-ability" data-pokedex="Sand Force">Sand Force</span>
+$热交换=<span class="pokemon-ability" data-pokedex="Thermal Exchange">Thermal Exchange</span>
+$狙击手=<span class="pokemon-ability" data-pokedex="Sniper">Sniper</span>
+$电晶体=<span class="pokemon-ability" data-pokedex="Transistor">Transistor</span>
+$看门犬=<span class="pokemon-ability" data-pokedex="Guard Dog">Guard Dog</span>
+$精神力=<span class="pokemon-ability" data-pokedex="Inner Focus">Inner Focus</span>
+$紧张感=<span class="pokemon-ability" data-pokedex="Unnerve">Unnerve</span>
+$结冻头=<span class="pokemon-ability" data-pokedex="Ice Face">Ice Face</span>
+$能量点=<span class="pokemon-ability" data-pokedex="Power Spot">Power Spot</span>
+$自由者=<span class="pokemon-ability" data-pokedex="Libero">Libero</span>
+$花之礼=<span class="pokemon-ability" data-pokedex="Flower Gift">Flower Gift</span>
+$芳香幕=<span class="pokemon-ability" data-pokedex="Aroma Veil">Aroma Veil</span>
+$蒸汽机=<span class="pokemon-ability" data-pokedex="Steam Engine">Steam Engine</span>
+$蓄电池=<span class="pokemon-ability" data-pokedex="Battery">Battery</span>
+$贪吃鬼=<span class="pokemon-ability" data-pokedex="Gluttony">Gluttony</span>
+$超幸运=<span class="pokemon-ability" data-pokedex="Super Luck">Super Luck</span>
+$轻金属=<span class="pokemon-ability" data-pokedex="Light Metal">Light Metal</span>
+$适应力=<span class="pokemon-ability" data-pokedex="Adaptability">Adaptability</span>
+$避雷针=<span class="pokemon-ability" data-pokedex="Lightning Rod">Lightning Rod</span>
+$重金属=<span class="pokemon-ability" data-pokedex="Heavy Metal">Heavy Metal</span>
+$预知梦=<span class="pokemon-ability" data-pokedex="Forewarn">Forewarn</span>
+$飞毛腿=<span class="pokemon-ability" data-pokedex="Quick Feet">Quick Feet</span>
+$魔术师=<span class="pokemon-ability" data-pokedex="Magician">Magician</span>
+$魔法镜=<span class="pokemon-ability" data-pokedex="Magic Bounce">Magic Bounce</span>
+$一口导弹=<span class="pokemon-ability" data-pokedex="Gulp Missile">Gulp Missile</span>
+$一猩一意=<span class="pokemon-ability" data-pokedex="Gorilla Tactics">Gorilla Tactics</span>
+$一般皮肤=<span class="pokemon-ability" data-pokedex="Normalize">Normalize</span>
+$不仁不义=<span class="pokemon-ability" data-pokedex="Merciless">Merciless</span>
+$不屈之心=<span class="pokemon-ability" data-pokedex="Steadfast">Steadfast</span>
+$不屈之盾=<span class="pokemon-ability" data-pokedex="Dauntless Shield">Dauntless Shield</span>
+$不挠之剑=<span class="pokemon-ability" data-pokedex="Intrepid Sword">Intrepid Sword</span>
+$中毒激升=<span class="pokemon-ability" data-pokedex="Toxic Boost">Toxic Boost</span>
+$人马一体=<span class="pokemon-ability" data-pokedex="As One">As One</span>
+$健壮胸肌=<span class="pokemon-ability" data-pokedex="Big Pecks">Big Pecks</span>
+$兆级电压=<span class="pokemon-ability" data-pokedex="Teravolt">Teravolt</span>
+$先行治疗=<span class="pokemon-ability" data-pokedex="Triage">Triage</span>
+$全能变身=<span class="pokemon-ability" data-pokedex="Zero to Hero">Zero to Hero</span>
+$冰冻之躯=<span class="pokemon-ability" data-pokedex="Ice Body">Ice Body</span>
+$冰冻皮肤=<span class="pokemon-ability" data-pokedex="Refrigerate">Refrigerate</span>
+$冲浪之尾=<span class="pokemon-ability" data-pokedex="Surge Surfer">Surge Surfer</span>
+$化学之力=<span class="pokemon-ability" data-pokedex="Power of Alchemy">Power of Alchemy</span>
+$危险回避=<span class="pokemon-ability" data-pokedex="Emergency Exit">Emergency Exit</span>
+$危险预知=<span class="pokemon-ability" data-pokedex="Anticipation">Anticipation</span>
+$友情防守=<span class="pokemon-ability" data-pokedex="Friend Guard">Friend Guard</span>
+$发号施令=<span class="pokemon-ability" data-pokedex="Commander">Commander</span>
+$受热激升=<span class="pokemon-ability" data-pokedex="Flare Boost">Flare Boost</span>
+$变幻自如=<span class="pokemon-ability" data-pokedex="Protean">Protean</span>
+$古代活性=<span class="pokemon-ability" data-pokedex="Protosynthesis">Protosynthesis</span>
+$叶子防守=<span class="pokemon-ability" data-pokedex="Leaf Guard">Leaf Guard</span>
+$同台共演=<span class="pokemon-ability" data-pokedex="Costar">Costar</span>
+$坚硬岩石=<span class="pokemon-ability" data-pokedex="Solid Rock">Solid Rock</span>
+$坚硬脑袋=<span class="pokemon-ability" data-pokedex="Rock Head">Rock Head</span>
+$多重鳞片=<span class="pokemon-ability" data-pokedex="Multiscale">Multiscale</span>
+$太晶变形=<span class="pokemon-ability" data-pokedex="Tera Shift">Tera Shift</span>
+$太晶甲壳=<span class="pokemon-ability" data-pokedex="Tera Shell">Tera Shell</span>
+$太阳之力=<span class="pokemon-ability" data-pokedex="Solar Power">Solar Power</span>
+$夸克充能=<span class="pokemon-ability" data-pokedex="Quark Drive">Quark Drive</span>
+$奇迹皮肤=<span class="pokemon-ability" data-pokedex="Wonder Skin">Wonder Skin</span>
+$妖精气场=<span class="pokemon-ability" data-pokedex="Fairy Aura">Fairy Aura</span>
+$妖精皮肤=<span class="pokemon-ability" data-pokedex="Pixilate">Pixilate</span>
+$始源之海=<span class="pokemon-ability" data-pokedex="Primordial Sea">Primordial Sea</span>
+$干燥皮肤=<span class="pokemon-ability" data-pokedex="Dry Skin">Dry Skin</span>
+$幻影防守=<span class="pokemon-ability" data-pokedex="Shadow Shield">Shadow Shield</span>
+$庞克摇滚=<span class="pokemon-ability" data-pokedex="Punk Rock">Punk Rock</span>
+$异兽提升=<span class="pokemon-ability" data-pokedex="Beast Boost">Beast Boost</span>
+$强壮之颚=<span class="pokemon-ability" data-pokedex="Strong Jaw">Strong Jaw</span>
+$强子引擎=<span class="pokemon-ability" data-pokedex="Hadron Engine">Hadron Engine</span>
+$归零化境=<span class="pokemon-ability" data-pokedex="Teraform Zero">Teraform Zero</span>
+$心情不定=<span class="pokemon-ability" data-pokedex="Moody">Moody</span>
+$心灵感应=<span class="pokemon-ability" data-pokedex="Telepathy">Telepathy</span>
+$怒火冲天=<span class="pokemon-ability" data-pokedex="Berserk">Berserk</span>
+$恒净之躯=<span class="pokemon-ability" data-pokedex="Clear Body">Clear Body</span>
+$悠游自如=<span class="pokemon-ability" data-pokedex="Swift Swim">Swift Swim</span>
+$愤怒甲壳=<span class="pokemon-ability" data-pokedex="Anger Shell">Anger Shell</span>
+$愤怒穴位=<span class="pokemon-ability" data-pokedex="Anger Point">Anger Point</span>
+$我行我素=<span class="pokemon-ability" data-pokedex="Own Tempo">Own Tempo</span>
+$战斗切换=<span class="pokemon-ability" data-pokedex="Stance Change">Stance Change</span>
+$战斗盔甲=<span class="pokemon-ability" data-pokedex="Battle Armor">Battle Armor</span>
+$技术高手=<span class="pokemon-ability" data-pokedex="Technician">Technician</span>
+$掉出种子=<span class="pokemon-ability" data-pokedex="Seed Sower">Seed Sower</span>
+$无关天气=<span class="pokemon-ability" data-pokedex="Cloud Nine">Cloud Nine</span>
+$暗黑气场=<span class="pokemon-ability" data-pokedex="Dark Aura">Dark Aura</span>
+$有色眼镜=<span class="pokemon-ability" data-pokedex="Tinted Lens">Tinted Lens</span>
+$棱镜装甲=<span class="pokemon-ability" data-pokedex="Prism Armor">Prism Armor</span>
+$正义之心=<span class="pokemon-ability" data-pokedex="Justified">Justified</span>
+$毛皮大衣=<span class="pokemon-ability" data-pokedex="Fur Coat">Fur Coat</span>
+$气场破坏=<span class="pokemon-ability" data-pokedex="Aura Break">Aura Break</span>
+$治愈之心=<span class="pokemon-ability" data-pokedex="Healer">Healer</span>
+$洁净之盐=<span class="pokemon-ability" data-pokedex="Purifying Salt">Purifying Salt</span>
+$涡轮火焰=<span class="pokemon-ability" data-pokedex="Turboblaze">Turboblaze</span>
+$湿润之声=<span class="pokemon-ability" data-pokedex="Liquid Voice">Liquid Voice</span>
+$湿润之躯=<span class="pokemon-ability" data-pokedex="Hydration">Hydration</span>
+$漆黑嘶鸣=<span class="pokemon-ability" data-pokedex="Grim Neigh">Grim Neigh</span>
+$火焰之躯=<span class="pokemon-ability" data-pokedex="Flame Body">Flame Body</span>
+$灭亡之躯=<span class="pokemon-ability" data-pokedex="Perish Body">Perish Body</span>
+$灾祸之剑=<span class="pokemon-ability" data-pokedex="Sword of Ruin">Sword of Ruin</span>
+$灾祸之玉=<span class="pokemon-ability" data-pokedex="Beads of Ruin">Beads of Ruin</span>
+$灾祸之简=<span class="pokemon-ability" data-pokedex="Tablets of Ruin">Tablets of Ruin</span>
+$灾祸之鼎=<span class="pokemon-ability" data-pokedex="Vessel of Ruin">Vessel of Ruin</span>
+$焦香之躯=<span class="pokemon-ability" data-pokedex="Well-Baked Body">Well-Baked Body</span>
+$熔岩铠甲=<span class="pokemon-ability" data-pokedex="Magma Armor">Magma Armor</span>
+$牵绊变身=<span class="pokemon-ability" data-pokedex="Battle Bond">Battle Bond</span>
+$瑜伽之力=<span class="pokemon-ability" data-pokedex="Pure Power">Pure Power</span>
+$甘露之蜜=<span class="pokemon-ability" data-pokedex="Supersweet Syrup">Supersweet Syrup</span>
+$电力转换=<span class="pokemon-ability" data-pokedex="Electromorphosis">Electromorphosis</span>
+$电气引擎=<span class="pokemon-ability" data-pokedex="Motor Drive">Motor Drive</span>
+$电气皮肤=<span class="pokemon-ability" data-pokedex="Galvanize">Galvanize</span>
+$界限盾壳=<span class="pokemon-ability" data-pokedex="Shields Down">Shields Down</span>
+$疾风之翼=<span class="pokemon-ability" data-pokedex="Gale Wings">Gale Wings</span>
+$白色烟雾=<span class="pokemon-ability" data-pokedex="White Smoke">White Smoke</span>
+$硬壳盔甲=<span class="pokemon-ability" data-pokedex="Shell Armor">Shell Armor</span>
+$碎裂铠甲=<span class="pokemon-ability" data-pokedex="Weak Armor">Weak Armor</span>
+$神奇守护=<span class="pokemon-ability" data-pokedex="Wonder Guard">Wonder Guard</span>
+$神奇鳞片=<span class="pokemon-ability" data-pokedex="Marvel Scale">Marvel Scale</span>
+$粉彩护幕=<span class="pokemon-ability" data-pokedex="Pastel Veil">Pastel Veil</span>
+$粗糙皮肤=<span class="pokemon-ability" data-pokedex="Rough Skin">Rough Skin</span>
+$终结之地=<span class="pokemon-ability" data-pokedex="Desolate Land">Desolate Land</span>
+$绝对睡眠=<span class="pokemon-ability" data-pokedex="Comatose">Comatose</span>
+$绯红脉动=<span class="pokemon-ability" data-pokedex="Orichalcum Pulse">Orichalcum Pulse</span>
+$群聚变形=<span class="pokemon-ability" data-pokedex="Power Construct">Power Construct</span>
+$胜利之星=<span class="pokemon-ability" data-pokedex="Victory Star">Victory Star</span>
+$脑核之力=<span class="pokemon-ability" data-pokedex="Neuroforce">Neuroforce</span>
+$自信过度=<span class="pokemon-ability" data-pokedex="Moxie">Moxie</span>
+$自然回复=<span class="pokemon-ability" data-pokedex="Natural Cure">Natural Cure</span>
+$苍白嘶鸣=<span class="pokemon-ability" data-pokedex="Chilling Neigh">Chilling Neigh</span>
+$草之毛皮=<span class="pokemon-ability" data-pokedex="Grass Pelt">Grass Pelt</span>
+$菌丝之力=<span class="pokemon-ability" data-pokedex="Mycelium Might">Mycelium Might</span>
+$虫之预感=<span class="pokemon-ability" data-pokedex="Swarm">Swarm</span>
+$螺旋尾鳍=<span class="pokemon-ability" data-pokedex="Propeller Tail">Propeller Tail</span>
+$诅咒之躯=<span class="pokemon-ability" data-pokedex="Cursed Body">Cursed Body</span>
+$跃跃欲逃=<span class="pokemon-ability" data-pokedex="Wimp Out">Wimp Out</span>
+$达摩模式=<span class="pokemon-ability" data-pokedex="Zen Mode">Zen Mode</span>
+$连续攻击=<span class="pokemon-ability" data-pokedex="Skill Link">Skill Link</span>
+$迷人之躯=<span class="pokemon-ability" data-pokedex="Cute Charm">Cute Charm</span>
+$遇水凝固=<span class="pokemon-ability" data-pokedex="Water Compaction">Water Compaction</span>
+$金属防护=<span class="pokemon-ability" data-pokedex="Full Metal Body">Full Metal Body</span>
+$钢之意志=<span class="pokemon-ability" data-pokedex="Steely Spirit">Steely Spirit</span>
+$钢能力者=<span class="pokemon-ability" data-pokedex="Steelworker">Steelworker</span>
+$锐利目光=<span class="pokemon-ability" data-pokedex="Keen Eye">Keen Eye</span>
+$阴晴不定=<span class="pokemon-ability" data-pokedex="Forecast">Forecast</span>
+$面影輝映=<span class="pokemon-ability" data-pokedex="Embody Aspect">Embody Aspect</span>
+$顺手牵羊=<span class="pokemon-ability" data-pokedex="Pickpocket">Pickpocket</span>
+$风力发电=<span class="pokemon-ability" data-pokedex="Wind Power">Wind Power</span>
+$飞行皮肤=<span class="pokemon-ability" data-pokedex="Aerilate">Aerilate</span>
+$饱了又饿=<span class="pokemon-ability" data-pokedex="Hunger Switch">Hunger Switch</span>
+$魔法防守=<span class="pokemon-ability" data-pokedex="Magic Guard">Magic Guard</span>
+$鲜艳之躯=<span class="pokemon-ability" data-pokedex="Dazzling">Dazzling</span>
+$黄金之躯=<span class="pokemon-ability" data-pokedex="Good as Gold">Good as Gold</span>
+$ＡＲ系统=<span class="pokemon-ability" data-pokedex="RKS System">RKS System</span>
+$女王的威严=<span class="pokemon-ability" data-pokedex="Queenly Majesty">Queenly Majesty</span>
+$德尔塔气流=<span class="pokemon-ability" data-pokedex="Delta Stream">Delta Stream</span>
+$恶作剧之心=<span class="pokemon-ability" data-pokedex="Prankster">Prankster</span>
+$电气制造者=<span class="pokemon-ability" data-pokedex="Electric Surge">Electric Surge</span>
+$精神制造者=<span class="pokemon-ability" data-pokedex="Psychic Surge">Psychic Surge</span>
+$薄雾制造者=<span class="pokemon-ability" data-pokedex="Misty Surge">Misty Surge</span>
+$超级发射器=<span class="pokemon-ability" data-pokedex="Mega Launcher">Mega Launcher</span>
+$青草制造者=<span class="pokemon-ability" data-pokedex="Grassy Surge">Grassy Surge</span>
+$化学变化气体=<span class="pokemon-ability" data-pokedex="Neutralizing Gas">Neutralizing Gas</span>
+$甩不掉的气味=<span class="pokemon-ability" data-pokedex="Lingering Aroma">Lingering Aroma</span>
+$飞出的内在物=<span class="pokemon-ability" data-pokedex="Innards Out">Innards Out</span>
 
 _____________ITEMS_____________
 $伤药=Potion
@@ -2109,44 +2109,44 @@ $究极球=Beast Ball<img class="pokemon-ball" src="https://www.serebii.net/item
 $奇异球=Strange Ball<img class="pokemon-ball" src="https://www.serebii.net/itemdex/sprites/sv/strangeball.png">
 
 _____________TYPES_____________
-$冰属性=thuộc tính băng<img class="pokemon-type ice-type" src="https://i.postimg.cc/m28srhSx/Ice.png">
-$恶属性=thuộc tính bóng tối<img class="pokemon-type dark-type" src="https://i.postimg.cc/tTtcmmS0/Dark.png">
-$毒属性=thuộc tính độc<img class="pokemon-type poison-type" src="https://i.postimg.cc/MpH8fxsn/Poison.png">
-$水属性=thuộc tính nước<img class="pokemon-type water-type" src="https://i.postimg.cc/CKfTJ7pY/Water.png">
-$火属性=thuộc tính lửa<img class="pokemon-type fire-type" src="https://i.postimg.cc/pLSMD77q/Fire.png">
-$电属性=thuộc tính điện<img class="pokemon-type electric-type" src="https://i.postimg.cc/NMqhnXQX/Electric.png">
-$草属性=thuộc tính cỏ<img class="pokemon-type grass-type" src="https://i.postimg.cc/v8vRPDk1/Grass.png">
-$虫属性=thuộc tính trùng<img class="pokemon-type bug-type" src="https://i.postimg.cc/Dy2hF1Ld/Bug.png">
-$钢属性=thuộc tính thép<img class="pokemon-type steel-type" src="https://i.postimg.cc/8Cv9LCLz/Steel.png">
-$龙属性=thuộc tính rồng<img class="pokemon-type dragon-type" src="https://i.postimg.cc/4d6CR33S/Dragon.png">
-$一般属性=thuộc tính thường<img class="pokemon-type normal-type" src="https://i.postimg.cc/3xdPJ1Rp/Normal.png">
-$地面属性=thuộc tính đất<img class="pokemon-type ground-type" src="https://i.postimg.cc/L5Drh0Lk/Ground.png">
-$妖精属性=thuộc tính tiên<img class="pokemon-type fairy-type" src="https://i.postimg.cc/jSmBWfw1/Fairy.png">
-$岩石属性=thuộc tính đá<img class="pokemon-type rock-type" src="https://i.postimg.cc/CLv3gXFS/Rock.png">
-$幽灵属性=thuộc tính ma<img class="pokemon-type ghost-type" src="https://i.postimg.cc/wMgCqdyT/Ghost.png">
-$格斗属性=thuộc tính cách đấu<img class="pokemon-type fighting-type" src="https://i.postimg.cc/yNwBz5yk/Fighting.png">
-$超能属性=thuộc tính siêu năng<img class="pokemon-type psychic-type" src="https://i.postimg.cc/fLhFChvj/Psychic.png">
-$飞行属性=thuộc tính bay<img class="pokemon-type flying-type" src="https://i.postimg.cc/L64cG2Fx/Flying.png">
+$冰属性=thuộc tính băng<img class="pokemon-type" data-pokedex="ice" src="https://i.postimg.cc/m28srhSx/Ice.png">
+$恶属性=thuộc tính bóng tối<img class="pokemon-type" data-pokedex="dark" src="https://i.postimg.cc/tTtcmmS0/Dark.png">
+$毒属性=thuộc tính độc<img class="pokemon-type" data-pokedex="poison" src="https://i.postimg.cc/MpH8fxsn/Poison.png">
+$水属性=thuộc tính nước<img class="pokemon-type" data-pokedex="water" src="https://i.postimg.cc/CKfTJ7pY/Water.png">
+$火属性=thuộc tính lửa<img class="pokemon-type" data-pokedex="fire" src="https://i.postimg.cc/pLSMD77q/Fire.png">
+$电属性=thuộc tính điện<img class="pokemon-type" data-pokedex="electric" src="https://i.postimg.cc/NMqhnXQX/Electric.png">
+$草属性=thuộc tính cỏ<img class="pokemon-type" data-pokedex="grass" src="https://i.postimg.cc/v8vRPDk1/Grass.png">
+$虫属性=thuộc tính trùng<img class="pokemon-type" data-pokedex="bug" src="https://i.postimg.cc/Dy2hF1Ld/Bug.png">
+$钢属性=thuộc tính thép<img class="pokemon-type" data-pokedex="steel" src="https://i.postimg.cc/8Cv9LCLz/Steel.png">
+$龙属性=thuộc tính rồng<img class="pokemon-type" data-pokedex="dragon" src="https://i.postimg.cc/4d6CR33S/Dragon.png">
+$一般属性=thuộc tính thường<img class="pokemon-type" data-pokedex="normal" src="https://i.postimg.cc/3xdPJ1Rp/Normal.png">
+$地面属性=thuộc tính đất<img class="pokemon-type" data-pokedex="ground" src="https://i.postimg.cc/L5Drh0Lk/Ground.png">
+$妖精属性=thuộc tính tiên<img class="pokemon-type" data-pokedex="fairy" src="https://i.postimg.cc/jSmBWfw1/Fairy.png">
+$岩石属性=thuộc tính đá<img class="pokemon-type" data-pokedex="rock" src="https://i.postimg.cc/CLv3gXFS/Rock.png">
+$幽灵属性=thuộc tính ma<img class="pokemon-type" data-pokedex="ghost" src="https://i.postimg.cc/wMgCqdyT/Ghost.png">
+$格斗属性=thuộc tính cách đấu<img class="pokemon-type" data-pokedex="fighting" src="https://i.postimg.cc/yNwBz5yk/Fighting.png">
+$超能属性=thuộc tính siêu năng<img class="pokemon-type" data-pokedex="psychic" src="https://i.postimg.cc/fLhFChvj/Psychic.png">
+$飞行属性=thuộc tính bay<img class="pokemon-type" data-pokedex="flying" src="https://i.postimg.cc/L64cG2Fx/Flying.png">
 
-$冰系=hệ băng<img class="pokemon-type ice-type" src="https://i.postimg.cc/m28srhSx/Ice.png">
-$恶系=hệ bóng tối<img class="pokemon-type dark-type" src="https://i.postimg.cc/tTtcmmS0/Dark.png">
-$毒系=hệ độc<img class="pokemon-type poison-type" src="https://i.postimg.cc/MpH8fxsn/Poison.png">
-$水系=hệ nước<img class="pokemon-type water-type" src="https://i.postimg.cc/CKfTJ7pY/Water.png">
-$火系=hệ lửa<img class="pokemon-type fire-type" src="https://i.postimg.cc/pLSMD77q/Fire.png">
-$电系=hệ điện<img class="pokemon-type electric-type" src="https://i.postimg.cc/NMqhnXQX/Electric.png">
-$草系=hệ cỏ<img class="pokemon-type grass-type" src="https://i.postimg.cc/v8vRPDk1/Grass.png">
-$虫系=hệ trùng<img class="pokemon-type bug-type" src="https://i.postimg.cc/Dy2hF1Ld/Bug.png">
-$钢系=hệ thép<img class="pokemon-type steel-type" src="https://i.postimg.cc/8Cv9LCLz/Steel.png">
-$龙系=hệ rồng<img class="pokemon-type dragon-type" src="https://i.postimg.cc/4d6CR33S/Dragon.png">
-$一般系=hệ thường<img class="pokemon-type normal-type" src="https://i.postimg.cc/3xdPJ1Rp/Normal.png">
-$地面系=hệ đất<img class="pokemon-type ground-type" src="https://i.postimg.cc/L5Drh0Lk/Ground.png">
-$妖精系=hệ tiên<img class="pokemon-type fairy-type" src="https://i.postimg.cc/jSmBWfw1/Fairy.png">
-$岩石系=hệ đá<img class="pokemon-type rock-type" src="https://i.postimg.cc/CLv3gXFS/Rock.png">
-$幽灵系=hệ ma<img class="pokemon-type ghost-type" src="https://i.postimg.cc/wMgCqdyT/Ghost.png">
-$格斗系=hệ cách đấu<img class="pokemon-type fighting-type" src="https://i.postimg.cc/yNwBz5yk/Fighting.png">
-$超能系=hệ siêu năng<img class="pokemon-type psychic-type" src="https://i.postimg.cc/fLhFChvj/Psychic.png">
-$飞行系=hệ bay<img class="pokemon-type flying-type" src="https://i.postimg.cc/L64cG2Fx/Flying.png">
-$超能力系=hệ siêu năng<img class="pokemon-type psychic-type" src="https://i.postimg.cc/fLhFChvj/Psychic.png">
+$冰系=hệ băng<img class="pokemon-type" data-pokedex="ice" src="https://i.postimg.cc/m28srhSx/Ice.png">
+$恶系=hệ bóng tối<img class="pokemon-type" data-pokedex="dark" src="https://i.postimg.cc/tTtcmmS0/Dark.png">
+$毒系=hệ độc<img class="pokemon-type" data-pokedex="poison" src="https://i.postimg.cc/MpH8fxsn/Poison.png">
+$水系=hệ nước<img class="pokemon-type" data-pokedex="water" src="https://i.postimg.cc/CKfTJ7pY/Water.png">
+$火系=hệ lửa<img class="pokemon-type" data-pokedex="fire" src="https://i.postimg.cc/pLSMD77q/Fire.png">
+$电系=hệ điện<img class="pokemon-type" data-pokedex="electric" src="https://i.postimg.cc/NMqhnXQX/Electric.png">
+$草系=hệ cỏ<img class="pokemon-type" data-pokedex="grass" src="https://i.postimg.cc/v8vRPDk1/Grass.png">
+$虫系=hệ trùng<img class="pokemon-type" data-pokedex="bug" src="https://i.postimg.cc/Dy2hF1Ld/Bug.png">
+$钢系=hệ thép<img class="pokemon-type" data-pokedex="steel" src="https://i.postimg.cc/8Cv9LCLz/Steel.png">
+$龙系=hệ rồng<img class="pokemon-type" data-pokedex="dragon" src="https://i.postimg.cc/4d6CR33S/Dragon.png">
+$一般系=hệ thường<img class="pokemon-type" data-pokedex="normal" src="https://i.postimg.cc/3xdPJ1Rp/Normal.png">
+$地面系=hệ đất<img class="pokemon-type" data-pokedex="ground" src="https://i.postimg.cc/L5Drh0Lk/Ground.png">
+$妖精系=hệ tiên<img class="pokemon-type" data-pokedex="fairy" src="https://i.postimg.cc/jSmBWfw1/Fairy.png">
+$岩石系=hệ đá<img class="pokemon-type" data-pokedex="rock" src="https://i.postimg.cc/CLv3gXFS/Rock.png">
+$幽灵系=hệ ma<img class="pokemon-type" data-pokedex="ghost" src="https://i.postimg.cc/wMgCqdyT/Ghost.png">
+$格斗系=hệ cách đấu<img class="pokemon-type" data-pokedex="fighting" src="https://i.postimg.cc/yNwBz5yk/Fighting.png">
+$超能系=hệ siêu năng<img class="pokemon-type" data-pokedex="psychic" src="https://i.postimg.cc/fLhFChvj/Psychic.png">
+$飞行系=hệ bay<img class="pokemon-type" data-pokedex="flying" src="https://i.postimg.cc/L64cG2Fx/Flying.png">
+$超能力系=hệ siêu năng<img class="pokemon-type" data-pokedex="psychic" src="https://i.postimg.cc/fLhFChvj/Psychic.png">
 
 _____________MEGA_____________
 $超级妙蛙花=Mega Venusaur<img index="#0003" class="pokemon-image" src="https://i.postimg.cc/rm5gwPC6/Mega-Venusaur.png">
