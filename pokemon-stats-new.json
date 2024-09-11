@@ -12189,21 +12189,21 @@
 		"total": 680
 	},
 	"Zygarde": {
-		"number": "#0718",
-		"name": "Zygarde 50% Forme",
+		"number": "0718",
+		"name": "Zygarde 10% Forme",
 		"type": ["Dragon", "Ground"],
 		"abilities": {
 			"ability1": "Aura Break",
 			"ability2": "Power Construct",
 			"hidden": null
 		},
-		"hp": 108,
+		"hp": 54,
 		"attack": 100,
-		"defense": 121,
-		"spAttack": 81,
-		"spDefense": 95,
-		"speed": 95,
-		"total": 600
+		"defense": 71,
+		"spAttack": 61,
+		"spDefense": 85,
+		"speed": 115,
+		"total": 486
 	},
 	"Diancie": {
 		"number": "#0719",
@@ -19940,22 +19940,22 @@
 		"speed": 99,
 		"total": 680
 	},
-	"Zygarde 10% Forme": {
-		"number": "0718",
-		"name": "Zygarde 10% Forme",
+	"Zygarde 50% Forme": {
+		"number": "#0718",
+		"name": "Zygarde 50% Forme",
 		"type": ["Dragon", "Ground"],
 		"abilities": {
 			"ability1": "Aura Break",
 			"ability2": "Power Construct",
 			"hidden": null
 		},
-		"hp": 54,
+		"hp": 108,
 		"attack": 100,
-		"defense": 71,
-		"spAttack": 61,
-		"spDefense": 85,
-		"speed": 115,
-		"total": 486
+		"defense": 121,
+		"spAttack": 81,
+		"spDefense": 95,
+		"speed": 95,
+		"total": 600
 	},
 	"Zygarde Complete Forme": {
 		"number": "0718",
