@@ -3537,45 +3537,45 @@ $厄诡椪=Ogerpon<img index="#1017" class="pokemon-image" data-pokedex="Ogerpon
 $太乐巴戈斯=Terapagos<img index="#1024" class="pokemon-image" data-pokedex="Terapagos" src="https://i.postimg.cc/858HZQtK/Terapagos-Normal-Form.png"><img index="#1024" class="pokemon-image" data-pokedex="Terapagos Terastal Form" src="https://i.postimg.cc/bJQRMC5z/Terapagos-Terastal-Form.png"><img index="#1024" class="pokemon-image" data-pokedex="Terapagos Stellar Form" src="https://i.postimg.cc/HsB2DVKr/Terapagos-Stellar-Form.png">
 
 _____________POKÉMON 2_________
-$大甲=Pinsir<img index="#0127" class="pokemon-image" src="https://i.postimg.cc/R3gGGxMt/image127.png">
-$比雕=Pidgeot<img index="#0018" class="pokemon-image" src="https://i.postimg.cc/8jfdWrJL/image18.png">
-$水军=Suicune<img index="#0245" class="pokemon-image" src="https://i.postimg.cc/ft02bgN0/image245.png">
-$纽拉=Sneasel<img index="#0215" class="pokemon-image" src="https://i.postimg.cc/2jhJRTWL/Sneasel.png"><img index="#0215" class="pokemon-image" src="https://i.postimg.cc/pXB6yTq2/Sneasel-Hisuian-Form.png">
-$袋龙=Kangaskhan<img index="#0115" class="pokemon-image" src="https://i.postimg.cc/CRjQG2BC/image115.png">
-$迷龙=Dratini<img index="#0147" class="pokemon-image" src="https://i.postimg.cc/Z9QpCbbw/image147.png">
-$勇吉拉=Kadabra<img index="#0064" class="pokemon-image" src="https://i.postimg.cc/JHL8qX7t/image64.png">
-$好运蛋=Happiny<img index="#0440" class="pokemon-image" src="https://i.postimg.cc/SJ7MhLwQ/image440.png">
-$幽灵马=Spectrier<img index="#0897" class="pokemon-image" src="https://i.postimg.cc/q6hM7KB7/image897.png">
-$懒人翁=Slakoth<img index="#0287" class="pokemon-image" src="https://i.postimg.cc/MMDDXkLH/image287.png">
-$月伊布=Umbreon<img index="#0197" class="pokemon-image" src="https://i.postimg.cc/B85tGJ88/image197.png">
-$死神板=Runerigus<img index="#0867" class="pokemon-image" src="https://i.postimg.cc/F1DjkXr5/image867.png">
-$死神棺=Cofagrigus<img index="#0563" class="pokemon-image" src="https://i.postimg.cc/N96NTJN9/image563.png">
-$沙瓦朗=Hitmonlee<img index="#0106" class="pokemon-image" src="https://i.postimg.cc/fJ1GjXHs/image106.png">
-$火炎狮=Pyroar<img index="#0668" class="pokemon-image" src="https://i.postimg.cc/rsQvzrcD/Pyroar-Male.png"><img index="#0668" class="pokemon-image" src="https://i.postimg.cc/KjZ6ZNXX/Pyroar-Female.png">
-$火爆兽=Typhlosion<img index="#0157" class="pokemon-image" src="https://i.postimg.cc/7ZdMLr8H/Typhlosion.png"><img index="#0157" class="pokemon-image" src="https://i.postimg.cc/VNt9rZmj/Typhlosion-Hisuian-Form.png">
-$火爆猴=Primeape<img index="#0057" class="pokemon-image" src="https://i.postimg.cc/G9GhyL3H/image57.png">
-$独角兽=Weedle<img index="#0013" class="pokemon-image" src="https://i.postimg.cc/xk338Dk7/image13.png">
-$玛丽露=Marill<img index="#0183" class="pokemon-image" src="https://i.postimg.cc/bsvnHSZm/image183.png">
-$班吉拉=Tyranitar<img index="#0248" class="pokemon-image" src="https://i.postimg.cc/y3mLmgW1/image248.png">
-$皮克西=Clefable<img index="#0036" class="pokemon-image" src="https://i.postimg.cc/XBCZZdHJ/image36.png">
-$穿山甲=Sandshrew<img index="#0027" class="pokemon-image" src="https://i.postimg.cc/mk9W0ssP/Sandshrew.png"><img index="#0027" class="pokemon-image" src="https://i.postimg.cc/3r0hygv3/Sandshrew-Alolan-Form.png">
-$素利普=Drowzee<img index="#0096" class="pokemon-image" src="https://i.postimg.cc/mzw4mDPw/image96.png">
-$艾比郎=Hitmonchan<img index="#0107" class="pokemon-image" src="https://i.postimg.cc/zyW9dBMg/image107.png">
-$阿伯怪=Arbok<img index="#0024" class="pokemon-image" src="https://i.postimg.cc/ygr93V7f/image24.png">
-$修缮老头=Conkeldurr<img index="#0534" class="pokemon-image" src="https://i.postimg.cc/gXCM69qP/image534.png">
-$吸盘魔偶=Mr. Mime<img index="#0122" class="pokemon-image" src="https://i.postimg.cc/g2X2mfHH/Mr-Mime.png"><img index="#0122" class="pokemon-image" src="https://i.postimg.cc/9fyXqZS4/Mr-Mime-Galarian-Form.png">
-$哭哭假面=Yamask<img index="#0562" class="pokemon-image" src="https://i.postimg.cc/tgdZGK9m/Yamask.png"><img index="#0562" class="pokemon-image" src="https://i.postimg.cc/TwRydtw2/Yamask-Galarian-Form.png">
-$拉鲁拉斯=Ralts<img index="#0280" class="pokemon-image" src="https://i.postimg.cc/HjdvmzNj/image280.png">
-$漂浮泡泡=Castform<img index="#0351" class="pokemon-image" src="https://i.postimg.cc/ZKjJmfS5/Castform-Normal.png"><img index="#0351" class="pokemon-image" src="https://i.postimg.cc/gJ9WsQvN/Castform-Sunny-Form.png"><img index="#0351" class="pokemon-image" src="https://i.postimg.cc/6pmw2yTs/Castform-Rainy-Form.png"><img index="#0351" class="pokemon-image" src="https://i.postimg.cc/25LY4rB1/Castform-Snowy-Form.png">
-$班吉拉斯=Tyranitar<img index="#0248" class="pokemon-image" src="https://i.postimg.cc/y3mLmgW1/image248.png">
-$超铁暴龙=Rhyperior<img index="#0464" class="pokemon-image" src="https://i.postimg.cc/BL9SbkKr/image464.png">
-$铁甲犀牛=Rhyhorn<img index="#0111" class="pokemon-image" src="https://i.postimg.cc/s1XqkKqy/image111.png">
-$首席天鹅=Swanna<img index="#0581" class="pokemon-image" src="https://i.postimg.cc/hJFbr8Q9/image581.png">
-$鸭嘴火龙=Magmar<img index="#0126" class="pokemon-image" src="https://i.postimg.cc/rdVQSwLc/image126.png">
-$鸭嘴焰龙=Magmortar<img index="#0467" class="pokemon-image" src="https://i.postimg.cc/4nRbt1RZ/image467.png">
-$原始固拉多=Primal Groudon<img index="#0383" class="pokemon-image" src="https://i.postimg.cc/jSDyyKtL/Primal-Groudon.png">
-$原始盖欧卡=Primal Kyogre<img index="#0382" class="pokemon-image" src="https://i.postimg.cc/NjZm4Vjb/Primal-Kyogre.png">
-$赤炎咆哮虎=Incineroar<img index="#0727" class="pokemon-image" src="https://i.postimg.cc/gx4Lwvqz/image727.png">
+$大甲=Pinsir<img index="#0127" class="pokemon-image" data-pokedex="Pinsir" src="https://i.postimg.cc/R3gGGxMt/image127.png">
+$比雕=Pidgeot<img index="#0018" class="pokemon-image" data-pokedex="Pidgeot" src="https://i.postimg.cc/8jfdWrJL/image18.png">
+$水军=Suicune<img index="#0245" class="pokemon-image" data-pokedex="Suicune" src="https://i.postimg.cc/ft02bgN0/image245.png">
+$纽拉=Sneasel<img index="#0215" class="pokemon-image" data-pokedex="Sneasel" src="https://i.postimg.cc/2jhJRTWL/Sneasel.png"><img index="#0215" class="pokemon-image" data-pokedex="Hisuian Sneasel" src="https://i.postimg.cc/pXB6yTq2/Sneasel-Hisuian-Form.png">
+$袋龙=Kangaskhan<img index="#0115" class="pokemon-image" data-pokedex="Kangaskhan" src="https://i.postimg.cc/CRjQG2BC/image115.png">
+$迷龙=Dratini<img index="#0147" class="pokemon-image" data-pokedex="Dratini" src="https://i.postimg.cc/Z9QpCbbw/image147.png">
+$勇吉拉=Kadabra<img index="#0064" class="pokemon-image" data-pokedex="Kadabra" src="https://i.postimg.cc/JHL8qX7t/image64.png">
+$好运蛋=Happiny<img index="#0440" class="pokemon-image" data-pokedex="Happiny" src="https://i.postimg.cc/SJ7MhLwQ/image440.png">
+$幽灵马=Spectrier<img index="#0897" class="pokemon-image" data-pokedex="Spectrier" src="https://i.postimg.cc/q6hM7KB7/image897.png">
+$懒人翁=Slakoth<img index="#0287" class="pokemon-image" data-pokedex="Slakoth" src="https://i.postimg.cc/MMDDXkLH/image287.png">
+$月伊布=Umbreon<img index="#0197" class="pokemon-image" data-pokedex="Umbreon" src="https://i.postimg.cc/B85tGJ88/image197.png">
+$死神板=Runerigus<img index="#0867" class="pokemon-image" data-pokedex="Runerigus" src="https://i.postimg.cc/F1DjkXr5/image867.png">
+$死神棺=Cofagrigus<img index="#0563" class="pokemon-image" data-pokedex="Cofagrigus" src="https://i.postimg.cc/N96NTJN9/image563.png">
+$沙瓦朗=Hitmonlee<img index="#0106" class="pokemon-image" data-pokedex="Hitmonlee" src="https://i.postimg.cc/fJ1GjXHs/image106.png">
+$火炎狮=Pyroar<img index="#0668" class="pokemon-image" data-pokedex="Pyroar" src="https://i.postimg.cc/rsQvzrcD/Pyroar-Male.png"><img index="#0668" class="pokemon-image" data-pokedex="" src="https://i.postimg.cc/KjZ6ZNXX/Pyroar-Female.png">
+$火爆兽=Typhlosion<img index="#0157" class="pokemon-image" data-pokedex="Typhlosion" src="https://i.postimg.cc/7ZdMLr8H/Typhlosion.png"><img index="#0157" class="pokemon-image" data-pokedex="Hisuian Typhlosion" src="https://i.postimg.cc/VNt9rZmj/Typhlosion-Hisuian-Form.png">
+$火爆猴=Primeape<img index="#0057" class="pokemon-image" data-pokedex="Primeape" src="https://i.postimg.cc/G9GhyL3H/image57.png">
+$独角兽=Weedle<img index="#0013" class="pokemon-image" data-pokedex="Weedle" src="https://i.postimg.cc/xk338Dk7/image13.png">
+$玛丽露=Marill<img index="#0183" class="pokemon-image" data-pokedex="Marill" src="https://i.postimg.cc/bsvnHSZm/image183.png">
+$班吉拉=Tyranitar<img index="#0248" class="pokemon-image" data-pokedex="Tyranitar" src="https://i.postimg.cc/y3mLmgW1/image248.png">
+$皮克西=Clefable<img index="#0036" class="pokemon-image" data-pokedex="Clefable" src="https://i.postimg.cc/XBCZZdHJ/image36.png">
+$穿山甲=Sandshrew<img index="#0027" class="pokemon-image" data-pokedex="Sandshrew" src="https://i.postimg.cc/mk9W0ssP/Sandshrew.png"><img index="#0027" class="pokemon-image" data-pokedex="Alolan Sandshrew" src="https://i.postimg.cc/3r0hygv3/Sandshrew-Alolan-Form.png">
+$素利普=Drowzee<img index="#0096" class="pokemon-image" data-pokedex="Drowzee" src="https://i.postimg.cc/mzw4mDPw/image96.png">
+$艾比郎=Hitmonchan<img index="#0107" class="pokemon-image" data-pokedex="Hitmonchan" src="https://i.postimg.cc/zyW9dBMg/image107.png">
+$阿伯怪=Arbok<img index="#0024" class="pokemon-image" data-pokedex="Arbok" src="https://i.postimg.cc/ygr93V7f/image24.png">
+$修缮老头=Conkeldurr<img index="#0534" class="pokemon-image" data-pokedex="Conkeldurr" src="https://i.postimg.cc/gXCM69qP/image534.png">
+$吸盘魔偶=Mr. Mime<img index="#0122" class="pokemon-image" data-pokedex="Mr. Mime" src="https://i.postimg.cc/g2X2mfHH/Mr-Mime.png"><img index="#0122" class="pokemon-image" data-pokedex="Galarian Mr. Mime" src="https://i.postimg.cc/9fyXqZS4/Mr-Mime-Galarian-Form.png">
+$哭哭假面=Yamask<img index="#0562" class="pokemon-image" data-pokedex="Yamask" src="https://i.postimg.cc/tgdZGK9m/Yamask.png"><img index="#0562" class="pokemon-image" data-pokedex="Galarian Yamask" src="https://i.postimg.cc/TwRydtw2/Yamask-Galarian-Form.png">
+$拉鲁拉斯=Ralts<img index="#0280" class="pokemon-image" data-pokedex="Ralts" src="https://i.postimg.cc/HjdvmzNj/image280.png">
+$漂浮泡泡=Castform<img index="#0351" class="pokemon-image" data-pokedex="Castform" src="https://i.postimg.cc/ZKjJmfS5/Castform-Normal.png"><img index="#0351" class="pokemon-image" data-pokedex="Castform Sunny Form" src="https://i.postimg.cc/gJ9WsQvN/Castform-Sunny-Form.png"><img index="#0351" class="pokemon-image" data-pokedex="Castform Rainy Form" src="https://i.postimg.cc/6pmw2yTs/Castform-Rainy-Form.png"><img index="#0351" class="pokemon-image" data-pokedex="Castform Snowy Form" src="https://i.postimg.cc/25LY4rB1/Castform-Snowy-Form.png">
+$班吉拉斯=Tyranitar<img index="#0248" class="pokemon-image" data-pokedex="Tyranitar" src="https://i.postimg.cc/y3mLmgW1/image248.png">
+$超铁暴龙=Rhyperior<img index="#0464" class="pokemon-image" data-pokedex="Rhyperior" src="https://i.postimg.cc/BL9SbkKr/image464.png">
+$铁甲犀牛=Rhyhorn<img index="#0111" class="pokemon-image" data-pokedex="Rhyhorn" src="https://i.postimg.cc/s1XqkKqy/image111.png">
+$首席天鹅=Swanna<img index="#0581" class="pokemon-image" data-pokedex="Swanna" src="https://i.postimg.cc/hJFbr8Q9/image581.png">
+$鸭嘴火龙=Magmar<img index="#0126" class="pokemon-image" data-pokedex="Magmar" src="https://i.postimg.cc/rdVQSwLc/image126.png">
+$鸭嘴焰龙=Magmortar<img index="#0467" class="pokemon-image" data-pokedex="Magmortar" src="https://i.postimg.cc/4nRbt1RZ/image467.png">
+$原始固拉多=Groudon<img index="#0383" class="pokemon-image" data-pokedex="Primal Groudon" src="https://i.postimg.cc/jSDyyKtL/Primal-Groudon.png">
+$原始盖欧卡=Kyogre<img index="#0382" class="pokemon-image" data-pokedex="Primal Kyogre" src="https://i.postimg.cc/NjZm4Vjb/Primal-Kyogre.png">
+$赤炎咆哮虎=Incineroar<img index="#0727" class="pokemon-image" data-pokedex="Incineroar" src="https://i.postimg.cc/gx4Lwvqz/image727.png">
 
 _____________SHINY_____________
 $闪光喷火龙=Shiny Charizard<img index="#0006" class="pokemon-image" src="https://i.postimg.cc/zf0hCCGy/delpmav-730ef73a-1ee2-42f2-9875-3ef30a41a4c2.png">
