@@ -1799,44 +1799,44 @@ $究极球=Beast Ball<img class="pokemon-ball" src="https://www.serebii.net/item
 $奇异球=Strange Ball<img class="pokemon-ball" src="https://www.serebii.net/itemdex/sprites/sv/strangeball.png">
 
 _____________TYPES_____________
-$冰属性=thuộc tính băng<img class="pokemon-type" data-pokedex="ice" src="https://i.postimg.cc/m28srhSx/Ice.png">
-$恶属性=thuộc tính bóng tối<img class="pokemon-type" data-pokedex="dark" src="https://i.postimg.cc/tTtcmmS0/Dark.png">
-$毒属性=thuộc tính độc<img class="pokemon-type" data-pokedex="poison" src="https://i.postimg.cc/MpH8fxsn/Poison.png">
-$水属性=thuộc tính nước<img class="pokemon-type" data-pokedex="water" src="https://i.postimg.cc/CKfTJ7pY/Water.png">
-$火属性=thuộc tính lửa<img class="pokemon-type" data-pokedex="fire" src="https://i.postimg.cc/pLSMD77q/Fire.png">
-$电属性=thuộc tính điện<img class="pokemon-type" data-pokedex="electric" src="https://i.postimg.cc/NMqhnXQX/Electric.png">
-$草属性=thuộc tính cỏ<img class="pokemon-type" data-pokedex="grass" src="https://i.postimg.cc/v8vRPDk1/Grass.png">
-$虫属性=thuộc tính trùng<img class="pokemon-type" data-pokedex="bug" src="https://i.postimg.cc/Dy2hF1Ld/Bug.png">
-$钢属性=thuộc tính thép<img class="pokemon-type" data-pokedex="steel" src="https://i.postimg.cc/8Cv9LCLz/Steel.png">
-$龙属性=thuộc tính rồng<img class="pokemon-type" data-pokedex="dragon" src="https://i.postimg.cc/4d6CR33S/Dragon.png">
-$一般属性=thuộc tính thường<img class="pokemon-type" data-pokedex="normal" src="https://i.postimg.cc/3xdPJ1Rp/Normal.png">
-$地面属性=thuộc tính đất<img class="pokemon-type" data-pokedex="ground" src="https://i.postimg.cc/L5Drh0Lk/Ground.png">
-$妖精属性=thuộc tính tiên<img class="pokemon-type" data-pokedex="fairy" src="https://i.postimg.cc/jSmBWfw1/Fairy.png">
-$岩石属性=thuộc tính đá<img class="pokemon-type" data-pokedex="rock" src="https://i.postimg.cc/CLv3gXFS/Rock.png">
-$幽灵属性=thuộc tính ma<img class="pokemon-type" data-pokedex="ghost" src="https://i.postimg.cc/wMgCqdyT/Ghost.png">
-$格斗属性=thuộc tính cách đấu<img class="pokemon-type" data-pokedex="fighting" src="https://i.postimg.cc/yNwBz5yk/Fighting.png">
-$超能属性=thuộc tính siêu năng<img class="pokemon-type" data-pokedex="psychic" src="https://i.postimg.cc/fLhFChvj/Psychic.png">
-$飞行属性=thuộc tính bay<img class="pokemon-type" data-pokedex="flying" src="https://i.postimg.cc/L64cG2Fx/Flying.png">
+$冰属性=thuộc tính băng<img class="pokemon-type" data-pokedex="Ice" src="https://i.postimg.cc/m28srhSx/Ice.png">
+$恶属性=thuộc tính bóng tối<img class="pokemon-type" data-pokedex="Dark" src="https://i.postimg.cc/tTtcmmS0/Dark.png">
+$毒属性=thuộc tính độc<img class="pokemon-type" data-pokedex="Poison" src="https://i.postimg.cc/MpH8fxsn/Poison.png">
+$水属性=thuộc tính nước<img class="pokemon-type" data-pokedex="Water" src="https://i.postimg.cc/CKfTJ7pY/Water.png">
+$火属性=thuộc tính lửa<img class="pokemon-type" data-pokedex="Fire" src="https://i.postimg.cc/pLSMD77q/Fire.png">
+$电属性=thuộc tính điện<img class="pokemon-type" data-pokedex="Electric" src="https://i.postimg.cc/NMqhnXQX/Electric.png">
+$草属性=thuộc tính cỏ<img class="pokemon-type" data-pokedex="Grass" src="https://i.postimg.cc/v8vRPDk1/Grass.png">
+$虫属性=thuộc tính trùng<img class="pokemon-type" data-pokedex="Bug" src="https://i.postimg.cc/Dy2hF1Ld/Bug.png">
+$钢属性=thuộc tính thép<img class="pokemon-type" data-pokedex="Steel" src="https://i.postimg.cc/8Cv9LCLz/Steel.png">
+$龙属性=thuộc tính rồng<img class="pokemon-type" data-pokedex="Dragon" src="https://i.postimg.cc/4d6CR33S/Dragon.png">
+$一般属性=thuộc tính thường<img class="pokemon-type" data-pokedex="Normal" src="https://i.postimg.cc/3xdPJ1Rp/Normal.png">
+$地面属性=thuộc tính đất<img class="pokemon-type" data-pokedex="Ground" src="https://i.postimg.cc/L5Drh0Lk/Ground.png">
+$妖精属性=thuộc tính tiên<img class="pokemon-type" data-pokedex="Fairy" src="https://i.postimg.cc/jSmBWfw1/Fairy.png">
+$岩石属性=thuộc tính đá<img class="pokemon-type" data-pokedex="Rock" src="https://i.postimg.cc/CLv3gXFS/Rock.png">
+$幽灵属性=thuộc tính ma<img class="pokemon-type" data-pokedex="Ghost" src="https://i.postimg.cc/wMgCqdyT/Ghost.png">
+$格斗属性=thuộc tính cách đấu<img class="pokemon-type" data-pokedex="Fighting" src="https://i.postimg.cc/yNwBz5yk/Fighting.png">
+$超能属性=thuộc tính siêu năng<img class="pokemon-type" data-pokedex="Psychic" src="https://i.postimg.cc/fLhFChvj/Psychic.png">
+$飞行属性=thuộc tính bay<img class="pokemon-type" data-pokedex="Flying" src="https://i.postimg.cc/L64cG2Fx/Flying.png">
 
-$冰系=hệ băng<img class="pokemon-type" data-pokedex="ice" src="https://i.postimg.cc/m28srhSx/Ice.png">
-$恶系=hệ bóng tối<img class="pokemon-type" data-pokedex="dark" src="https://i.postimg.cc/tTtcmmS0/Dark.png">
-$毒系=hệ độc<img class="pokemon-type" data-pokedex="poison" src="https://i.postimg.cc/MpH8fxsn/Poison.png">
-$水系=hệ nước<img class="pokemon-type" data-pokedex="water" src="https://i.postimg.cc/CKfTJ7pY/Water.png">
-$火系=hệ lửa<img class="pokemon-type" data-pokedex="fire" src="https://i.postimg.cc/pLSMD77q/Fire.png">
-$电系=hệ điện<img class="pokemon-type" data-pokedex="electric" src="https://i.postimg.cc/NMqhnXQX/Electric.png">
-$草系=hệ cỏ<img class="pokemon-type" data-pokedex="grass" src="https://i.postimg.cc/v8vRPDk1/Grass.png">
-$虫系=hệ trùng<img class="pokemon-type" data-pokedex="bug" src="https://i.postimg.cc/Dy2hF1Ld/Bug.png">
-$钢系=hệ thép<img class="pokemon-type" data-pokedex="steel" src="https://i.postimg.cc/8Cv9LCLz/Steel.png">
-$龙系=hệ rồng<img class="pokemon-type" data-pokedex="dragon" src="https://i.postimg.cc/4d6CR33S/Dragon.png">
-$一般系=hệ thường<img class="pokemon-type" data-pokedex="normal" src="https://i.postimg.cc/3xdPJ1Rp/Normal.png">
-$地面系=hệ đất<img class="pokemon-type" data-pokedex="ground" src="https://i.postimg.cc/L5Drh0Lk/Ground.png">
-$妖精系=hệ tiên<img class="pokemon-type" data-pokedex="fairy" src="https://i.postimg.cc/jSmBWfw1/Fairy.png">
-$岩石系=hệ đá<img class="pokemon-type" data-pokedex="rock" src="https://i.postimg.cc/CLv3gXFS/Rock.png">
-$幽灵系=hệ ma<img class="pokemon-type" data-pokedex="ghost" src="https://i.postimg.cc/wMgCqdyT/Ghost.png">
-$格斗系=hệ cách đấu<img class="pokemon-type" data-pokedex="fighting" src="https://i.postimg.cc/yNwBz5yk/Fighting.png">
-$超能系=hệ siêu năng<img class="pokemon-type" data-pokedex="psychic" src="https://i.postimg.cc/fLhFChvj/Psychic.png">
-$飞行系=hệ bay<img class="pokemon-type" data-pokedex="flying" src="https://i.postimg.cc/L64cG2Fx/Flying.png">
-$超能力系=hệ siêu năng<img class="pokemon-type" data-pokedex="psychic" src="https://i.postimg.cc/fLhFChvj/Psychic.png">
+$冰系=hệ băng<img class="pokemon-type" data-pokedex="Ice" src="https://i.postimg.cc/m28srhSx/Ice.png">
+$恶系=hệ bóng tối<img class="pokemon-type" data-pokedex="Dark" src="https://i.postimg.cc/tTtcmmS0/Dark.png">
+$毒系=hệ độc<img class="pokemon-type" data-pokedex="Poison" src="https://i.postimg.cc/MpH8fxsn/Poison.png">
+$水系=hệ nước<img class="pokemon-type" data-pokedex="Water" src="https://i.postimg.cc/CKfTJ7pY/Water.png">
+$火系=hệ lửa<img class="pokemon-type" data-pokedex="Fire" src="https://i.postimg.cc/pLSMD77q/Fire.png">
+$电系=hệ điện<img class="pokemon-type" data-pokedex="Electric" src="https://i.postimg.cc/NMqhnXQX/Electric.png">
+$草系=hệ cỏ<img class="pokemon-type" data-pokedex="Grass" src="https://i.postimg.cc/v8vRPDk1/Grass.png">
+$虫系=hệ trùng<img class="pokemon-type" data-pokedex="Bug" src="https://i.postimg.cc/Dy2hF1Ld/Bug.png">
+$钢系=hệ thép<img class="pokemon-type" data-pokedex="Steel" src="https://i.postimg.cc/8Cv9LCLz/Steel.png">
+$龙系=hệ rồng<img class="pokemon-type" data-pokedex="Dragon" src="https://i.postimg.cc/4d6CR33S/Dragon.png">
+$一般系=hệ thường<img class="pokemon-type" data-pokedex="Normal" src="https://i.postimg.cc/3xdPJ1Rp/Normal.png">
+$地面系=hệ đất<img class="pokemon-type" data-pokedex="Ground" src="https://i.postimg.cc/L5Drh0Lk/Ground.png">
+$妖精系=hệ tiên<img class="pokemon-type" data-pokedex="Fairy" src="https://i.postimg.cc/jSmBWfw1/Fairy.png">
+$岩石系=hệ đá<img class="pokemon-type" data-pokedex="Rock" src="https://i.postimg.cc/CLv3gXFS/Rock.png">
+$幽灵系=hệ ma<img class="pokemon-type" data-pokedex="Ghost" src="https://i.postimg.cc/wMgCqdyT/Ghost.png">
+$格斗系=hệ cách đấu<img class="pokemon-type" data-pokedex="Fighting" src="https://i.postimg.cc/yNwBz5yk/Fighting.png">
+$超能系=hệ siêu năng<img class="pokemon-type" data-pokedex="Psychic" src="https://i.postimg.cc/fLhFChvj/Psychic.png">
+$飞行系=hệ bay<img class="pokemon-type" data-pokedex="Flying" src="https://i.postimg.cc/L64cG2Fx/Flying.png">
+$超能力系=hệ siêu năng<img class="pokemon-type" data-pokedex="Psychic" src="https://i.postimg.cc/fLhFChvj/Psychic.png">
 
 _____________MEGA_____________
 $超级妙蛙花=Mega Venusaur<img index="#0003" class="pokemon-image" data-pokedex="Mega Venusaur" src="https://i.postimg.cc/rm5gwPC6/Mega-Venusaur.png">
