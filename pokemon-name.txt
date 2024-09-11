@@ -2149,250 +2149,250 @@ $飞行系=hệ bay<img class="pokemon-type" data-pokedex="flying" src="https://
 $超能力系=hệ siêu năng<img class="pokemon-type" data-pokedex="psychic" src="https://i.postimg.cc/fLhFChvj/Psychic.png">
 
 _____________MEGA_____________
-$超级妙蛙花=Mega Venusaur<img index="#0003" class="pokemon-image" src="https://i.postimg.cc/rm5gwPC6/Mega-Venusaur.png">
-$超级喷火龙X=Mega Charizard X<img index="#0006" class="pokemon-image" src="https://i.postimg.cc/0yxvkTYv/Mega-Charizard-X.png">
-$超级喷火龙Y=Mega Charizard Y<img index="#0006" class="pokemon-image" src="https://i.postimg.cc/9QphrLb7/Mega-Charizard-Y.png">
-$超级水箭龟=Mega Blastoise<img index="#0009" class="pokemon-image" src="https://i.postimg.cc/3r4YnC8s/Mega-Blastoise.png">
-$超级胡地=Mega Alakazam<img index="#0065" class="pokemon-image" src="https://i.postimg.cc/mr85Gqwm/Mega-Alakazam.png">
-$超级耿鬼=Mega Gengar<img index="#0094" class="pokemon-image" src="https://i.postimg.cc/BbHWsptt/Mega-Gengar.png">
-$超级袋兽=Mega Kangaskhan<img index="#0115" class="pokemon-image" src="https://i.postimg.cc/nLPNDgDC/Mega-Kangaskhan.png">
-$超级凯罗斯=Mega Pinsir<img index="#0127" class="pokemon-image" src="https://i.postimg.cc/mrJ6D9v9/Mega-Pinsir.png">
-$超级暴鲤龙=Mega Gyarados<img index="#0130" class="pokemon-image" src="https://i.postimg.cc/ZKPkMw1M/Mega-Gyarados.png">
-$超级化石翼龙=Mega Aerodactyl<img index="#0142" class="pokemon-image" src="https://i.postimg.cc/1RTbtkZT/Mega-Aerodactyl.png">
-$超级超梦X=Mega Mewtwo X<img index="#0150" class="pokemon-image" src="https://i.postimg.cc/T32sHfjK/Mega-Mewtwo-X.png">
-$超级超梦Y=Mega Mewtwo Y<img index="#0150" class="pokemon-image" src="https://i.postimg.cc/Vvnk4k5T/Mega-Mewtwo-Y.png">
-$超级电龙=Mega Ampharos<img index="#0181" class="pokemon-image" src="https://i.postimg.cc/Jn0d7qYM/Mega-Ampharos.png">
-$超级巨钳螳螂=Mega Scizor<img index="#0212" class="pokemon-image" src="https://i.postimg.cc/9Fb89s3C/Mega-Scizor.png">
-$超级赫拉克罗斯=Mega Heracross<img index="#0214" class="pokemon-image" src="https://i.postimg.cc/dtcP6bSC/Mega-Heracross.png">
-$超级黑鲁加=Mega Houndoom<img index="#0229" class="pokemon-image" src="https://i.postimg.cc/N0MWLBL3/Mega-Houndoom.png">
-$超级班基拉斯=Mega Tyranitar<img index="#0248" class="pokemon-image" src="https://i.postimg.cc/rpBQck4C/Mega-Tyranitar.png">
-$超级火焰鸡=Mega Blaziken<img index="#0257" class="pokemon-image" src="https://i.postimg.cc/Df9FDJm8/Mega-Blaziken.png">
-$超级沙奈朵=Mega Gardevoir<img index="#0282" class="pokemon-image" src="https://i.postimg.cc/gJf9fQzf/Mega-Gardevoir.png">
-$超级大嘴娃=Mega Mawile<img index="#0303" class="pokemon-image" src="https://i.postimg.cc/y692DfY8/Mega-Mawile.png">
-$超级波士可多拉=Mega Aggron<img index="#0306" class="pokemon-image" src="https://i.postimg.cc/rw2bG5sN/Mega-Aggron.png">
-$超级恰雷姆=Mega Medicham<img index="#0308" class="pokemon-image" src="https://i.postimg.cc/7YncVfzv/Mega-Medicham.png">
-$超级雷电兽=Mega Manectric<img index="#0310" class="pokemon-image" src="https://i.postimg.cc/ZnrQXqDd/Mega-Manectric.png">
-$超级诅咒娃娃=Mega Banette<img index="#0354" class="pokemon-image" src="https://i.postimg.cc/Gts7Gp1f/Mega-Banette.png">
-$超级阿勃梭鲁=Mega Absol<img index="#0359" class="pokemon-image" src="https://i.postimg.cc/GhyVsXLp/Mega-Absol.png">
-$超级拉帝亚斯=Mega Latias<img index="#0380" class="pokemon-image" src="https://i.postimg.cc/wjFC67x5/Mega-Latias.png">
-$超级拉帝欧斯=Mega Latios<img index="#0381" class="pokemon-image" src="https://i.postimg.cc/cLsqyQW4/Mega-Latios.png">
-$超级烈咬陆鲨=Mega Garchomp<img index="#0445" class="pokemon-image" src="https://i.postimg.cc/HxJDvdgw/Mega-Garchomp.png">
-$超级路卡利欧=Mega Lucario<img index="#0448" class="pokemon-image" src="https://i.postimg.cc/MHk4sBtw/Mega-Lucario.png">
-$超级暴雪王=Mega Abomasnow<img index="#0460" class="pokemon-image" src="https://i.postimg.cc/t4dcB7VQ/Mega-Abomasnow.png">
-$超级大针蜂=Mega Beedrill<img index="#0015" class="pokemon-image" src="https://i.postimg.cc/WtL9nPN1/Mega-Beedrill.png">
-$超级大比鸟=Mega Pidgeot<img index="#0018" class="pokemon-image" src="https://i.postimg.cc/25VKrGKm/Mega-Pidgeot.png">
-$超级呆壳兽=Mega Slowbro<img index="#0080" class="pokemon-image" src="https://i.postimg.cc/8zCymwDW/Mega-Slowbro.png">
-$超级大钢蛇=Mega Steelix<img index="#0208" class="pokemon-image" src="https://i.postimg.cc/y8rLQ9YG/Mega-Steelix.png">
-$超级蜥蜴王=Mega Sceptile<img index="#0254" class="pokemon-image" src="https://i.postimg.cc/66d1WyY7/Mega-Sceptile.png">
-$超级巨沼怪=Mega Swampert<img index="#0260" class="pokemon-image" src="https://i.postimg.cc/TPLCZwK3/Mega-Swampert.png">
-$超级勾魂眼=Mega Sableye<img index="#0302" class="pokemon-image" src="https://i.postimg.cc/PJk3bjrr/Mega-Sableye.png">
-$超级巨牙鲨=Mega Sharpedo<img index="#0319" class="pokemon-image" src="https://i.postimg.cc/sDsHvsNT/Mega-Sharpedo.png">
-$超级喷火驼=Mega Camerupt<img index="#0323" class="pokemon-image" src="https://i.postimg.cc/ncqZtFQT/Mega-Camerupt.png">
-$超级七夕青鸟=Mega Altaria<img index="#0334" class="pokemon-image" src="https://i.postimg.cc/LsHbwRzq/Mega-Altaria.png">
-$超级冰鬼护=Mega Glalie<img index="#0362" class="pokemon-image" src="https://i.postimg.cc/mZHWQLVR/Mega-Glalie.png">
-$超级暴飞龙=Mega Salamence<img index="#0373" class="pokemon-image" src="https://i.postimg.cc/Kjr9JHR7/Mega-Salamence.png">
-$超级巨金怪=Mega Metagross<img index="#0376" class="pokemon-image" src="https://i.postimg.cc/sgnNkqKw/Mega-Metagross.png">
-$超级烈空坐=Mega Rayquaza<img index="#0384" class="pokemon-image" src="https://i.postimg.cc/mD9pFD45/Mega-Rayquaza.png">
-$超级长耳兔=Mega Lopunny<img index="#0428" class="pokemon-image" src="https://i.postimg.cc/85f9B4Rw/Mega-Lopunny.png">
-$超级艾路雷朵=Mega Gallade<img index="#0475" class="pokemon-image" src="https://i.postimg.cc/xd1SHLpF/Mega-Gallade.png">
-$超级差不多娃娃=Mega Audino<img index="#0531" class="pokemon-image" src="https://i.postimg.cc/0Q4Xzwhm/Mega-Audino.png">
-$超级蒂安希=Mega Diancie<img index="#0719" class="pokemon-image" src="https://i.postimg.cc/mrpWSh0Z/Mega-Diancie.png">
+$超级妙蛙花=Mega Venusaur<img index="#0003" class="pokemon-image" data-pokedex="Mega Venusaur" src="https://i.postimg.cc/rm5gwPC6/Mega-Venusaur.png">
+$超级喷火龙X=Mega Charizard X<img index="#0006" class="pokemon-image" data-pokedex="Mega Charizard X" src="https://i.postimg.cc/0yxvkTYv/Mega-Charizard-X.png">
+$超级喷火龙Y=Mega Charizard Y<img index="#0006" class="pokemon-image" data-pokedex="Mega Charizard Y" src="https://i.postimg.cc/9QphrLb7/Mega-Charizard-Y.png">
+$超级水箭龟=Mega Blastoise<img index="#0009" class="pokemon-image" data-pokedex="Mega Blastoise" src="https://i.postimg.cc/3r4YnC8s/Mega-Blastoise.png">
+$超级胡地=Mega Alakazam<img index="#0065" class="pokemon-image" data-pokedex="Mega Alakazam" src="https://i.postimg.cc/mr85Gqwm/Mega-Alakazam.png">
+$超级耿鬼=Mega Gengar<img index="#0094" class="pokemon-image" data-pokedex="Mega Gengar" src="https://i.postimg.cc/BbHWsptt/Mega-Gengar.png">
+$超级袋兽=Mega Kangaskhan<img index="#0115" class="pokemon-image" data-pokedex="Mega Kangaskhan" src="https://i.postimg.cc/nLPNDgDC/Mega-Kangaskhan.png">
+$超级凯罗斯=Mega Pinsir<img index="#0127" class="pokemon-image" data-pokedex="Mega Pinsir" src="https://i.postimg.cc/mrJ6D9v9/Mega-Pinsir.png">
+$超级暴鲤龙=Mega Gyarados<img index="#0130" class="pokemon-image" data-pokedex="Mega Gyarados" src="https://i.postimg.cc/ZKPkMw1M/Mega-Gyarados.png">
+$超级化石翼龙=Mega Aerodactyl<img index="#0142" class="pokemon-image" data-pokedex="Mega Aerodactyl" src="https://i.postimg.cc/1RTbtkZT/Mega-Aerodactyl.png">
+$超级超梦X=Mega Mewtwo X<img index="#0150" class="pokemon-image" data-pokedex="Mega Mewtwo X" src="https://i.postimg.cc/T32sHfjK/Mega-Mewtwo-X.png">
+$超级超梦Y=Mega Mewtwo Y<img index="#0150" class="pokemon-image" data-pokedex="Mega Mewtwo Y" src="https://i.postimg.cc/Vvnk4k5T/Mega-Mewtwo-Y.png">
+$超级电龙=Mega Ampharos<img index="#0181" class="pokemon-image" data-pokedex="Mega Ampharos" src="https://i.postimg.cc/Jn0d7qYM/Mega-Ampharos.png">
+$超级巨钳螳螂=Mega Scizor<img index="#0212" class="pokemon-image" data-pokedex="Mega Scizor" src="https://i.postimg.cc/9Fb89s3C/Mega-Scizor.png">
+$超级赫拉克罗斯=Mega Heracross<img index="#0214" class="pokemon-image" data-pokedex="Mega Heracross" src="https://i.postimg.cc/dtcP6bSC/Mega-Heracross.png">
+$超级黑鲁加=Mega Houndoom<img index="#0229" class="pokemon-image" data-pokedex="Mega Houndoom" src="https://i.postimg.cc/N0MWLBL3/Mega-Houndoom.png">
+$超级班基拉斯=Mega Tyranitar<img index="#0248" class="pokemon-image" data-pokedex="Mega Tyranitar" src="https://i.postimg.cc/rpBQck4C/Mega-Tyranitar.png">
+$超级火焰鸡=Mega Blaziken<img index="#0257" class="pokemon-image" data-pokedex="Mega Blaziken" src="https://i.postimg.cc/Df9FDJm8/Mega-Blaziken.png">
+$超级沙奈朵=Mega Gardevoir<img index="#0282" class="pokemon-image" data-pokedex="Mega Gardevoir" src="https://i.postimg.cc/gJf9fQzf/Mega-Gardevoir.png">
+$超级大嘴娃=Mega Mawile<img index="#0303" class="pokemon-image" data-pokedex="Mega Mawile" src="https://i.postimg.cc/y692DfY8/Mega-Mawile.png">
+$超级波士可多拉=Mega Aggron<img index="#0306" class="pokemon-image" data-pokedex="Mega Aggron" src="https://i.postimg.cc/rw2bG5sN/Mega-Aggron.png">
+$超级恰雷姆=Mega Medicham<img index="#0308" class="pokemon-image" data-pokedex="Mega Medicham" src="https://i.postimg.cc/7YncVfzv/Mega-Medicham.png">
+$超级雷电兽=Mega Manectric<img index="#0310" class="pokemon-image" data-pokedex="Mega Manectric" src="https://i.postimg.cc/ZnrQXqDd/Mega-Manectric.png">
+$超级诅咒娃娃=Mega Banette<img index="#0354" class="pokemon-image" data-pokedex="Mega Banette" src="https://i.postimg.cc/Gts7Gp1f/Mega-Banette.png">
+$超级阿勃梭鲁=Mega Absol<img index="#0359" class="pokemon-image" data-pokedex="Mega Absol" src="https://i.postimg.cc/GhyVsXLp/Mega-Absol.png">
+$超级拉帝亚斯=Mega Latias<img index="#0380" class="pokemon-image" data-pokedex="Mega Latias" src="https://i.postimg.cc/wjFC67x5/Mega-Latias.png">
+$超级拉帝欧斯=Mega Latios<img index="#0381" class="pokemon-image" data-pokedex="Mega Latios" src="https://i.postimg.cc/cLsqyQW4/Mega-Latios.png">
+$超级烈咬陆鲨=Mega Garchomp<img index="#0445" class="pokemon-image" data-pokedex="Mega Garchomp" src="https://i.postimg.cc/HxJDvdgw/Mega-Garchomp.png">
+$超级路卡利欧=Mega Lucario<img index="#0448" class="pokemon-image" data-pokedex="Mega Lucario" src="https://i.postimg.cc/MHk4sBtw/Mega-Lucario.png">
+$超级暴雪王=Mega Abomasnow<img index="#0460" class="pokemon-image" data-pokedex="Mega Abomasnow" src="https://i.postimg.cc/t4dcB7VQ/Mega-Abomasnow.png">
+$超级大针蜂=Mega Beedrill<img index="#0015" class="pokemon-image" data-pokedex="Mega Beedrill" src="https://i.postimg.cc/WtL9nPN1/Mega-Beedrill.png">
+$超级大比鸟=Mega Pidgeot<img index="#0018" class="pokemon-image" data-pokedex="Mega Pidgeot" src="https://i.postimg.cc/25VKrGKm/Mega-Pidgeot.png">
+$超级呆壳兽=Mega Slowbro<img index="#0080" class="pokemon-image" data-pokedex="Mega Slowbro" src="https://i.postimg.cc/8zCymwDW/Mega-Slowbro.png">
+$超级大钢蛇=Mega Steelix<img index="#0208" class="pokemon-image" data-pokedex="Mega Steelix" src="https://i.postimg.cc/y8rLQ9YG/Mega-Steelix.png">
+$超级蜥蜴王=Mega Sceptile<img index="#0254" class="pokemon-image" data-pokedex="Mega Sceptile" src="https://i.postimg.cc/66d1WyY7/Mega-Sceptile.png">
+$超级巨沼怪=Mega Swampert<img index="#0260" class="pokemon-image" data-pokedex="Mega Swampert" src="https://i.postimg.cc/TPLCZwK3/Mega-Swampert.png">
+$超级勾魂眼=Mega Sableye<img index="#0302" class="pokemon-image" data-pokedex="Mega Sableye" src="https://i.postimg.cc/PJk3bjrr/Mega-Sableye.png">
+$超级巨牙鲨=Mega Sharpedo<img index="#0319" class="pokemon-image" data-pokedex="Mega Sharpedo" src="https://i.postimg.cc/sDsHvsNT/Mega-Sharpedo.png">
+$超级喷火驼=Mega Camerupt<img index="#0323" class="pokemon-image" data-pokedex="Mega Camerupt" src="https://i.postimg.cc/ncqZtFQT/Mega-Camerupt.png">
+$超级七夕青鸟=Mega Altaria<img index="#0334" class="pokemon-image" data-pokedex="Mega Altaria" src="https://i.postimg.cc/LsHbwRzq/Mega-Altaria.png">
+$超级冰鬼护=Mega Glalie<img index="#0362" class="pokemon-image" data-pokedex="Mega Glalie" src="https://i.postimg.cc/mZHWQLVR/Mega-Glalie.png">
+$超级暴飞龙=Mega Salamence<img index="#0373" class="pokemon-image" data-pokedex="Mega Salamence" src="https://i.postimg.cc/Kjr9JHR7/Mega-Salamence.png">
+$超级巨金怪=Mega Metagross<img index="#0376" class="pokemon-image" data-pokedex="Mega Metagross" src="https://i.postimg.cc/sgnNkqKw/Mega-Metagross.png">
+$超级烈空坐=Mega Rayquaza<img index="#0384" class="pokemon-image" data-pokedex="Mega Rayquaza" src="https://i.postimg.cc/mD9pFD45/Mega-Rayquaza.png">
+$超级长耳兔=Mega Lopunny<img index="#0428" class="pokemon-image" data-pokedex="Mega Lopunny" src="https://i.postimg.cc/85f9B4Rw/Mega-Lopunny.png">
+$超级艾路雷朵=Mega Gallade<img index="#0475" class="pokemon-image" data-pokedex="Mega Gallade" src="https://i.postimg.cc/xd1SHLpF/Mega-Gallade.png">
+$超级差不多娃娃=Mega Audino<img index="#0531" class="pokemon-image" data-pokedex="Mega Audino" src="https://i.postimg.cc/0Q4Xzwhm/Mega-Audino.png">
+$超级蒂安希=Mega Diancie<img index="#0719" class="pokemon-image" data-pokedex="Mega Diancie" src="https://i.postimg.cc/mrpWSh0Z/Mega-Diancie.png">
 
-$MEGA妙蛙花=Mega Venusaur<img index="#0003" class="pokemon-image" src="https://i.postimg.cc/rm5gwPC6/Mega-Venusaur.png">
-$MEGA喷火龙X=Mega Charizard X<img index="#0006" class="pokemon-image" src="https://i.postimg.cc/0yxvkTYv/Mega-Charizard-X.png">
-$MEGA喷火龙Y=Mega Charizard Y<img index="#0006" class="pokemon-image" src="https://i.postimg.cc/9QphrLb7/Mega-Charizard-Y.png">
-$MEGA水箭龟=Mega Blastoise<img index="#0009" class="pokemon-image" src="https://i.postimg.cc/3r4YnC8s/Mega-Blastoise.png">
-$MEGA胡地=Mega Alakazam<img index="#0065" class="pokemon-image" src="https://i.postimg.cc/mr85Gqwm/Mega-Alakazam.png">
-$MEGA耿鬼=Mega Gengar<img index="#0094" class="pokemon-image" src="https://i.postimg.cc/BbHWsptt/Mega-Gengar.png">
-$MEGA袋兽=Mega Kangaskhan<img index="#0115" class="pokemon-image" src="https://i.postimg.cc/nLPNDgDC/Mega-Kangaskhan.png">
-$MEGA凯罗斯=Mega Pinsir<img index="#0127" class="pokemon-image" src="https://i.postimg.cc/mrJ6D9v9/Mega-Pinsir.png">
-$MEGA暴鲤龙=Mega Gyarados<img index="#0130" class="pokemon-image" src="https://i.postimg.cc/ZKPkMw1M/Mega-Gyarados.png">
-$MEGA化石翼龙=Mega Aerodactyl<img index="#0142" class="pokemon-image" src="https://i.postimg.cc/1RTbtkZT/Mega-Aerodactyl.png">
-$MEGA超梦X=Mega Mewtwo X<img index="#0150" class="pokemon-image" src="https://i.postimg.cc/T32sHfjK/Mega-Mewtwo-X.png">
-$MEGA超梦Y=Mega Mewtwo Y<img index="#0150" class="pokemon-image" src="https://i.postimg.cc/Vvnk4k5T/Mega-Mewtwo-Y.png">
-$MEGA电龙=Mega Ampharos<img index="#0181" class="pokemon-image" src="https://i.postimg.cc/Jn0d7qYM/Mega-Ampharos.png">
-$MEGA巨钳螳螂=Mega Scizor<img index="#0212" class="pokemon-image" src="https://i.postimg.cc/9Fb89s3C/Mega-Scizor.png">
-$MEGA赫拉克罗斯=Mega Heracross<img index="#0214" class="pokemon-image" src="https://i.postimg.cc/dtcP6bSC/Mega-Heracross.png">
-$MEGA黑鲁加=Mega Houndoom<img index="#0229" class="pokemon-image" src="https://i.postimg.cc/N0MWLBL3/Mega-Houndoom.png">
-$MEGA班基拉斯=Mega Tyranitar<img index="#0248" class="pokemon-image" src="https://i.postimg.cc/rpBQck4C/Mega-Tyranitar.png">
-$MEGA火焰鸡=Mega Blaziken<img index="#0257" class="pokemon-image" src="https://i.postimg.cc/Df9FDJm8/Mega-Blaziken.png">
-$MEGA沙奈朵=Mega Gardevoir<img index="#0282" class="pokemon-image" src="https://i.postimg.cc/gJf9fQzf/Mega-Gardevoir.png">
-$MEGA大嘴娃=Mega Mawile<img index="#0303" class="pokemon-image" src="https://i.postimg.cc/y692DfY8/Mega-Mawile.png">
-$MEGA波士可多拉=Mega Aggron<img index="#0306" class="pokemon-image" src="https://i.postimg.cc/rw2bG5sN/Mega-Aggron.png">
-$MEGA恰雷姆=Mega Medicham<img index="#0308" class="pokemon-image" src="https://i.postimg.cc/7YncVfzv/Mega-Medicham.png">
-$MEGA雷电兽=Mega Manectric<img index="#0310" class="pokemon-image" src="https://i.postimg.cc/ZnrQXqDd/Mega-Manectric.png">
-$MEGA诅咒娃娃=Mega Banette<img index="#0354" class="pokemon-image" src="https://i.postimg.cc/Gts7Gp1f/Mega-Banette.png">
-$MEGA阿勃梭鲁=Mega Absol<img index="#0359" class="pokemon-image" src="https://i.postimg.cc/GhyVsXLp/Mega-Absol.png">
-$MEGA拉帝亚斯=Mega Latias<img index="#0380" class="pokemon-image" src="https://i.postimg.cc/wjFC67x5/Mega-Latias.png">
-$MEGA拉帝欧斯=Mega Latios<img index="#0381" class="pokemon-image" src="https://i.postimg.cc/cLsqyQW4/Mega-Latios.png">
-$MEGA烈咬陆鲨=Mega Garchomp<img index="#0445" class="pokemon-image" src="https://i.postimg.cc/HxJDvdgw/Mega-Garchomp.png">
-$MEGA路卡利欧=Mega Lucario<img index="#0448" class="pokemon-image" src="https://i.postimg.cc/MHk4sBtw/Mega-Lucario.png">
-$MEGA暴雪王=Mega Abomasnow<img index="#0460" class="pokemon-image" src="https://i.postimg.cc/t4dcB7VQ/Mega-Abomasnow.png">
-$MEGA大针蜂=Mega Beedrill<img index="#0015" class="pokemon-image" src="https://i.postimg.cc/WtL9nPN1/Mega-Beedrill.png">
-$MEGA大比鸟=Mega Pidgeot<img index="#0018" class="pokemon-image" src="https://i.postimg.cc/25VKrGKm/Mega-Pidgeot.png">
-$MEGA呆壳兽=Mega Slowbro<img index="#0080" class="pokemon-image" src="https://i.postimg.cc/8zCymwDW/Mega-Slowbro.png">
-$MEGA大钢蛇=Mega Steelix<img index="#0208" class="pokemon-image" src="https://i.postimg.cc/y8rLQ9YG/Mega-Steelix.png">
-$MEGA蜥蜴王=Mega Sceptile<img index="#0254" class="pokemon-image" src="https://i.postimg.cc/66d1WyY7/Mega-Sceptile.png">
-$MEGA巨沼怪=Mega Swampert<img index="#0260" class="pokemon-image" src="https://i.postimg.cc/TPLCZwK3/Mega-Swampert.png">
-$MEGA勾魂眼=Mega Sableye<img index="#0302" class="pokemon-image" src="https://i.postimg.cc/PJk3bjrr/Mega-Sableye.png">
-$MEGA巨牙鲨=Mega Sharpedo<img index="#0319" class="pokemon-image" src="https://i.postimg.cc/sDsHvsNT/Mega-Sharpedo.png">
-$MEGA喷火驼=Mega Camerupt<img index="#0323" class="pokemon-image" src="https://i.postimg.cc/ncqZtFQT/Mega-Camerupt.png">
-$MEGA七夕青鸟=Mega Altaria<img index="#0334" class="pokemon-image" src="https://i.postimg.cc/LsHbwRzq/Mega-Altaria.png">
-$MEGA冰鬼护=Mega Glalie<img index="#0362" class="pokemon-image" src="https://i.postimg.cc/mZHWQLVR/Mega-Glalie.png">
-$MEGA暴飞龙=Mega Salamence<img index="#0373" class="pokemon-image" src="https://i.postimg.cc/Kjr9JHR7/Mega-Salamence.png">
-$MEGA巨金怪=Mega Metagross<img index="#0376" class="pokemon-image" src="https://i.postimg.cc/sgnNkqKw/Mega-Metagross.png">
-$MEGA烈空坐=Mega Rayquaza<img index="#0384" class="pokemon-image" src="https://i.postimg.cc/mD9pFD45/Mega-Rayquaza.png">
-$MEGA长耳兔=Mega Lopunny<img index="#0428" class="pokemon-image" src="https://i.postimg.cc/85f9B4Rw/Mega-Lopunny.png">
-$MEGA艾路雷朵=Mega Gallade<img index="#0475" class="pokemon-image" src="https://i.postimg.cc/xd1SHLpF/Mega-Gallade.png">
-$MEGA差不多娃娃=Mega Audino<img index="#0531" class="pokemon-image" src="https://i.postimg.cc/0Q4Xzwhm/Mega-Audino.png">
-$MEGA蒂安希=Mega Diancie<img index="#0719" class="pokemon-image" src="https://i.postimg.cc/mrpWSh0Z/Mega-Diancie.png">
+$MEGA妙蛙花=Mega Venusaur<img index="#0003" class="pokemon-image" data-pokedex="Mega Venusaur" src="https://i.postimg.cc/rm5gwPC6/Mega-Venusaur.png">
+$MEGA喷火龙X=Mega Charizard X<img index="#0006" class="pokemon-image" data-pokedex="Mega Charizard X" src="https://i.postimg.cc/0yxvkTYv/Mega-Charizard-X.png">
+$MEGA喷火龙Y=Mega Charizard Y<img index="#0006" class="pokemon-image" data-pokedex="Mega Charizard Y" src="https://i.postimg.cc/9QphrLb7/Mega-Charizard-Y.png">
+$MEGA水箭龟=Mega Blastoise<img index="#0009" class="pokemon-image" data-pokedex="Mega Blastoise" src="https://i.postimg.cc/3r4YnC8s/Mega-Blastoise.png">
+$MEGA胡地=Mega Alakazam<img index="#0065" class="pokemon-image" data-pokedex="Mega Alakazam" src="https://i.postimg.cc/mr85Gqwm/Mega-Alakazam.png">
+$MEGA耿鬼=Mega Gengar<img index="#0094" class="pokemon-image" data-pokedex="Mega Gengar" src="https://i.postimg.cc/BbHWsptt/Mega-Gengar.png">
+$MEGA袋兽=Mega Kangaskhan<img index="#0115" class="pokemon-image" data-pokedex="Mega Kangaskhan" src="https://i.postimg.cc/nLPNDgDC/Mega-Kangaskhan.png">
+$MEGA凯罗斯=Mega Pinsir<img index="#0127" class="pokemon-image" data-pokedex="Mega Pinsir" src="https://i.postimg.cc/mrJ6D9v9/Mega-Pinsir.png">
+$MEGA暴鲤龙=Mega Gyarados<img index="#0130" class="pokemon-image" data-pokedex="Mega Gyarados" src="https://i.postimg.cc/ZKPkMw1M/Mega-Gyarados.png">
+$MEGA化石翼龙=Mega Aerodactyl<img index="#0142" class="pokemon-image" data-pokedex="Mega Aerodactyl" src="https://i.postimg.cc/1RTbtkZT/Mega-Aerodactyl.png">
+$MEGA超梦X=Mega Mewtwo X<img index="#0150" class="pokemon-image" data-pokedex="Mega Mewtwo X" src="https://i.postimg.cc/T32sHfjK/Mega-Mewtwo-X.png">
+$MEGA超梦Y=Mega Mewtwo Y<img index="#0150" class="pokemon-image" data-pokedex="Mega Mewtwo Y" src="https://i.postimg.cc/Vvnk4k5T/Mega-Mewtwo-Y.png">
+$MEGA电龙=Mega Ampharos<img index="#0181" class="pokemon-image" data-pokedex="Mega Ampharos" src="https://i.postimg.cc/Jn0d7qYM/Mega-Ampharos.png">
+$MEGA巨钳螳螂=Mega Scizor<img index="#0212" class="pokemon-image" data-pokedex="Mega Scizor" src="https://i.postimg.cc/9Fb89s3C/Mega-Scizor.png">
+$MEGA赫拉克罗斯=Mega Heracross<img index="#0214" class="pokemon-image" data-pokedex="Mega Heracross" src="https://i.postimg.cc/dtcP6bSC/Mega-Heracross.png">
+$MEGA黑鲁加=Mega Houndoom<img index="#0229" class="pokemon-image" data-pokedex="Mega Houndoom" src="https://i.postimg.cc/N0MWLBL3/Mega-Houndoom.png">
+$MEGA班基拉斯=Mega Tyranitar<img index="#0248" class="pokemon-image" data-pokedex="Mega Tyranitar" src="https://i.postimg.cc/rpBQck4C/Mega-Tyranitar.png">
+$MEGA火焰鸡=Mega Blaziken<img index="#0257" class="pokemon-image" data-pokedex="Mega Blaziken" src="https://i.postimg.cc/Df9FDJm8/Mega-Blaziken.png">
+$MEGA沙奈朵=Mega Gardevoir<img index="#0282" class="pokemon-image" data-pokedex="Mega Gardevoir" src="https://i.postimg.cc/gJf9fQzf/Mega-Gardevoir.png">
+$MEGA大嘴娃=Mega Mawile<img index="#0303" class="pokemon-image" data-pokedex="Mega Mawile" src="https://i.postimg.cc/y692DfY8/Mega-Mawile.png">
+$MEGA波士可多拉=Mega Aggron<img index="#0306" class="pokemon-image" data-pokedex="Mega Aggron" src="https://i.postimg.cc/rw2bG5sN/Mega-Aggron.png">
+$MEGA恰雷姆=Mega Medicham<img index="#0308" class="pokemon-image" data-pokedex="Mega Medicham" src="https://i.postimg.cc/7YncVfzv/Mega-Medicham.png">
+$MEGA雷电兽=Mega Manectric<img index="#0310" class="pokemon-image" data-pokedex="Mega Manectric" src="https://i.postimg.cc/ZnrQXqDd/Mega-Manectric.png">
+$MEGA诅咒娃娃=Mega Banette<img index="#0354" class="pokemon-image" data-pokedex="Mega Banette" src="https://i.postimg.cc/Gts7Gp1f/Mega-Banette.png">
+$MEGA阿勃梭鲁=Mega Absol<img index="#0359" class="pokemon-image" data-pokedex="Mega Absol" src="https://i.postimg.cc/GhyVsXLp/Mega-Absol.png">
+$MEGA拉帝亚斯=Mega Latias<img index="#0380" class="pokemon-image" data-pokedex="Mega Latias" src="https://i.postimg.cc/wjFC67x5/Mega-Latias.png">
+$MEGA拉帝欧斯=Mega Latios<img index="#0381" class="pokemon-image" data-pokedex="Mega Latios" src="https://i.postimg.cc/cLsqyQW4/Mega-Latios.png">
+$MEGA烈咬陆鲨=Mega Garchomp<img index="#0445" class="pokemon-image" data-pokedex="Mega Garchomp" src="https://i.postimg.cc/HxJDvdgw/Mega-Garchomp.png">
+$MEGA路卡利欧=Mega Lucario<img index="#0448" class="pokemon-image" data-pokedex="Mega Lucario" src="https://i.postimg.cc/MHk4sBtw/Mega-Lucario.png">
+$MEGA暴雪王=Mega Abomasnow<img index="#0460" class="pokemon-image" data-pokedex="Mega Abomasnow" src="https://i.postimg.cc/t4dcB7VQ/Mega-Abomasnow.png">
+$MEGA大针蜂=Mega Beedrill<img index="#0015" class="pokemon-image" data-pokedex="Mega Beedrill" src="https://i.postimg.cc/WtL9nPN1/Mega-Beedrill.png">
+$MEGA大比鸟=Mega Pidgeot<img index="#0018" class="pokemon-image" data-pokedex="Mega Pidgeot" src="https://i.postimg.cc/25VKrGKm/Mega-Pidgeot.png">
+$MEGA呆壳兽=Mega Slowbro<img index="#0080" class="pokemon-image" data-pokedex="Mega Slowbro" src="https://i.postimg.cc/8zCymwDW/Mega-Slowbro.png">
+$MEGA大钢蛇=Mega Steelix<img index="#0208" class="pokemon-image" data-pokedex="Mega Steelix" src="https://i.postimg.cc/y8rLQ9YG/Mega-Steelix.png">
+$MEGA蜥蜴王=Mega Sceptile<img index="#0254" class="pokemon-image" data-pokedex="Mega Sceptile" src="https://i.postimg.cc/66d1WyY7/Mega-Sceptile.png">
+$MEGA巨沼怪=Mega Swampert<img index="#0260" class="pokemon-image" data-pokedex="Mega Swampert" src="https://i.postimg.cc/TPLCZwK3/Mega-Swampert.png">
+$MEGA勾魂眼=Mega Sableye<img index="#0302" class="pokemon-image" data-pokedex="Mega Sableye" src="https://i.postimg.cc/PJk3bjrr/Mega-Sableye.png">
+$MEGA巨牙鲨=Mega Sharpedo<img index="#0319" class="pokemon-image" data-pokedex="Mega Sharpedo" src="https://i.postimg.cc/sDsHvsNT/Mega-Sharpedo.png">
+$MEGA喷火驼=Mega Camerupt<img index="#0323" class="pokemon-image" data-pokedex="Mega Camerupt" src="https://i.postimg.cc/ncqZtFQT/Mega-Camerupt.png">
+$MEGA七夕青鸟=Mega Altaria<img index="#0334" class="pokemon-image" data-pokedex="Mega Altaria" src="https://i.postimg.cc/LsHbwRzq/Mega-Altaria.png">
+$MEGA冰鬼护=Mega Glalie<img index="#0362" class="pokemon-image" data-pokedex="Mega Glalie" src="https://i.postimg.cc/mZHWQLVR/Mega-Glalie.png">
+$MEGA暴飞龙=Mega Salamence<img index="#0373" class="pokemon-image" data-pokedex="Mega Salamence" src="https://i.postimg.cc/Kjr9JHR7/Mega-Salamence.png">
+$MEGA巨金怪=Mega Metagross<img index="#0376" class="pokemon-image" data-pokedex="Mega Metagross" src="https://i.postimg.cc/sgnNkqKw/Mega-Metagross.png">
+$MEGA烈空坐=Mega Rayquaza<img index="#0384" class="pokemon-image" data-pokedex="Mega Rayquaza" src="https://i.postimg.cc/mD9pFD45/Mega-Rayquaza.png">
+$MEGA长耳兔=Mega Lopunny<img index="#0428" class="pokemon-image" data-pokedex="Mega Lopunny" src="https://i.postimg.cc/85f9B4Rw/Mega-Lopunny.png">
+$MEGA艾路雷朵=Mega Gallade<img index="#0475" class="pokemon-image" data-pokedex="Mega Gallade" src="https://i.postimg.cc/xd1SHLpF/Mega-Gallade.png">
+$MEGA差不多娃娃=Mega Audino<img index="#0531" class="pokemon-image" data-pokedex="Mega Audino" src="https://i.postimg.cc/0Q4Xzwhm/Mega-Audino.png">
+$MEGA蒂安希=Mega Diancie<img index="#0719" class="pokemon-image" data-pokedex="Mega Diancie" src="https://i.postimg.cc/mrpWSh0Z/Mega-Diancie.png">
 
-$MEGA 妙蛙花=Mega Venusaur<img index="#0003" class="pokemon-image" src="https://i.postimg.cc/rm5gwPC6/Mega-Venusaur.png">
-$MEGA 喷火龙X=Mega Charizard X<img index="#0006" class="pokemon-image" src="https://i.postimg.cc/0yxvkTYv/Mega-Charizard-X.png">
-$MEGA 喷火龙Y=Mega Charizard Y<img index="#0006" class="pokemon-image" src="https://i.postimg.cc/9QphrLb7/Mega-Charizard-Y.png">
-$MEGA 水箭龟=Mega Blastoise<img index="#0009" class="pokemon-image" src="https://i.postimg.cc/3r4YnC8s/Mega-Blastoise.png">
-$MEGA 胡地=Mega Alakazam<img index="#0065" class="pokemon-image" src="https://i.postimg.cc/mr85Gqwm/Mega-Alakazam.png">
-$MEGA 耿鬼=Mega Gengar<img index="#0094" class="pokemon-image" src="https://i.postimg.cc/BbHWsptt/Mega-Gengar.png">
-$MEGA 袋兽=Mega Kangaskhan<img index="#0115" class="pokemon-image" src="https://i.postimg.cc/nLPNDgDC/Mega-Kangaskhan.png">
-$MEGA 凯罗斯=Mega Pinsir<img index="#0127" class="pokemon-image" src="https://i.postimg.cc/mrJ6D9v9/Mega-Pinsir.png">
-$MEGA 暴鲤龙=Mega Gyarados<img index="#0130" class="pokemon-image" src="https://i.postimg.cc/ZKPkMw1M/Mega-Gyarados.png">
-$MEGA 化石翼龙=Mega Aerodactyl<img index="#0142" class="pokemon-image" src="https://i.postimg.cc/1RTbtkZT/Mega-Aerodactyl.png">
-$MEGA 超梦X=Mega Mewtwo X<img index="#0150" class="pokemon-image" src="https://i.postimg.cc/T32sHfjK/Mega-Mewtwo-X.png">
-$MEGA 超梦Y=Mega Mewtwo Y<img index="#0150" class="pokemon-image" src="https://i.postimg.cc/Vvnk4k5T/Mega-Mewtwo-Y.png">
-$MEGA 电龙=Mega Ampharos<img index="#0181" class="pokemon-image" src="https://i.postimg.cc/Jn0d7qYM/Mega-Ampharos.png">
-$MEGA 巨钳螳螂=Mega Scizor<img index="#0212" class="pokemon-image" src="https://i.postimg.cc/9Fb89s3C/Mega-Scizor.png">
-$MEGA 赫拉克罗斯=Mega Heracross<img index="#0214" class="pokemon-image" src="https://i.postimg.cc/dtcP6bSC/Mega-Heracross.png">
-$MEGA 黑鲁加=Mega Houndoom<img index="#0229" class="pokemon-image" src="https://i.postimg.cc/N0MWLBL3/Mega-Houndoom.png">
-$MEGA 班基拉斯=Mega Tyranitar<img index="#0248" class="pokemon-image" src="https://i.postimg.cc/rpBQck4C/Mega-Tyranitar.png">
-$MEGA 火焰鸡=Mega Blaziken<img index="#0257" class="pokemon-image" src="https://i.postimg.cc/Df9FDJm8/Mega-Blaziken.png">
-$MEGA 沙奈朵=Mega Gardevoir<img index="#0282" class="pokemon-image" src="https://i.postimg.cc/gJf9fQzf/Mega-Gardevoir.png">
-$MEGA 大嘴娃=Mega Mawile<img index="#0303" class="pokemon-image" src="https://i.postimg.cc/y692DfY8/Mega-Mawile.png">
-$MEGA 波士可多拉=Mega Aggron<img index="#0306" class="pokemon-image" src="https://i.postimg.cc/rw2bG5sN/Mega-Aggron.png">
-$MEGA 恰雷姆=Mega Medicham<img index="#0308" class="pokemon-image" src="https://i.postimg.cc/7YncVfzv/Mega-Medicham.png">
-$MEGA 雷电兽=Mega Manectric<img index="#0310" class="pokemon-image" src="https://i.postimg.cc/ZnrQXqDd/Mega-Manectric.png">
-$MEGA 诅咒娃娃=Mega Banette<img index="#0354" class="pokemon-image" src="https://i.postimg.cc/Gts7Gp1f/Mega-Banette.png">
-$MEGA 阿勃梭鲁=Mega Absol<img index="#0359" class="pokemon-image" src="https://i.postimg.cc/GhyVsXLp/Mega-Absol.png">
-$MEGA 拉帝亚斯=Mega Latias<img index="#0380" class="pokemon-image" src="https://i.postimg.cc/wjFC67x5/Mega-Latias.png">
-$MEGA 拉帝欧斯=Mega Latios<img index="#0381" class="pokemon-image" src="https://i.postimg.cc/cLsqyQW4/Mega-Latios.png">
-$MEGA 烈咬陆鲨=Mega Garchomp<img index="#0445" class="pokemon-image" src="https://i.postimg.cc/HxJDvdgw/Mega-Garchomp.png">
-$MEGA 路卡利欧=Mega Lucario<img index="#0448" class="pokemon-image" src="https://i.postimg.cc/MHk4sBtw/Mega-Lucario.png">
-$MEGA 暴雪王=Mega Abomasnow<img index="#0460" class="pokemon-image" src="https://i.postimg.cc/t4dcB7VQ/Mega-Abomasnow.png">
-$MEGA 大针蜂=Mega Beedrill<img index="#0015" class="pokemon-image" src="https://i.postimg.cc/WtL9nPN1/Mega-Beedrill.png">
-$MEGA 大比鸟=Mega Pidgeot<img index="#0018" class="pokemon-image" src="https://i.postimg.cc/25VKrGKm/Mega-Pidgeot.png">
-$MEGA 呆壳兽=Mega Slowbro<img index="#0080" class="pokemon-image" src="https://i.postimg.cc/8zCymwDW/Mega-Slowbro.png">
-$MEGA 大钢蛇=Mega Steelix<img index="#0208" class="pokemon-image" src="https://i.postimg.cc/y8rLQ9YG/Mega-Steelix.png">
-$MEGA 蜥蜴王=Mega Sceptile<img index="#0254" class="pokemon-image" src="https://i.postimg.cc/66d1WyY7/Mega-Sceptile.png">
-$MEGA 巨沼怪=Mega Swampert<img index="#0260" class="pokemon-image" src="https://i.postimg.cc/TPLCZwK3/Mega-Swampert.png">
-$MEGA 勾魂眼=Mega Sableye<img index="#0302" class="pokemon-image" src="https://i.postimg.cc/PJk3bjrr/Mega-Sableye.png">
-$MEGA 巨牙鲨=Mega Sharpedo<img index="#0319" class="pokemon-image" src="https://i.postimg.cc/sDsHvsNT/Mega-Sharpedo.png">
-$MEGA 喷火驼=Mega Camerupt<img index="#0323" class="pokemon-image" src="https://i.postimg.cc/ncqZtFQT/Mega-Camerupt.png">
-$MEGA 七夕青鸟=Mega Altaria<img index="#0334" class="pokemon-image" src="https://i.postimg.cc/LsHbwRzq/Mega-Altaria.png">
-$MEGA 冰鬼护=Mega Glalie<img index="#0362" class="pokemon-image" src="https://i.postimg.cc/mZHWQLVR/Mega-Glalie.png">
-$MEGA 暴飞龙=Mega Salamence<img index="#0373" class="pokemon-image" src="https://i.postimg.cc/Kjr9JHR7/Mega-Salamence.png">
-$MEGA 巨金怪=Mega Metagross<img index="#0376" class="pokemon-image" src="https://i.postimg.cc/sgnNkqKw/Mega-Metagross.png">
-$MEGA 烈空坐=Mega Rayquaza<img index="#0384" class="pokemon-image" src="https://i.postimg.cc/mD9pFD45/Mega-Rayquaza.png">
-$MEGA 长耳兔=Mega Lopunny<img index="#0428" class="pokemon-image" src="https://i.postimg.cc/85f9B4Rw/Mega-Lopunny.png">
-$MEGA 艾路雷朵=Mega Gallade<img index="#0475" class="pokemon-image" src="https://i.postimg.cc/xd1SHLpF/Mega-Gallade.png">
-$MEGA 差不多娃娃=Mega Audino<img index="#0531" class="pokemon-image" src="https://i.postimg.cc/0Q4Xzwhm/Mega-Audino.png">
-$MEGA 蒂安希=Mega Diancie<img index="#0719" class="pokemon-image" src="https://i.postimg.cc/mrpWSh0Z/Mega-Diancie.png">
+$MEGA 妙蛙花=Mega Venusaur<img index="#0003" class="pokemon-image" data-pokedex="Mega Venusaur" src="https://i.postimg.cc/rm5gwPC6/Mega-Venusaur.png">
+$MEGA 喷火龙X=Mega Charizard X<img index="#0006" class="pokemon-image" data-pokedex="Mega Charizard X" src="https://i.postimg.cc/0yxvkTYv/Mega-Charizard-X.png">
+$MEGA 喷火龙Y=Mega Charizard Y<img index="#0006" class="pokemon-image" data-pokedex="Mega Charizard Y" src="https://i.postimg.cc/9QphrLb7/Mega-Charizard-Y.png">
+$MEGA 水箭龟=Mega Blastoise<img index="#0009" class="pokemon-image" data-pokedex="Mega Blastoise" src="https://i.postimg.cc/3r4YnC8s/Mega-Blastoise.png">
+$MEGA 胡地=Mega Alakazam<img index="#0065" class="pokemon-image" data-pokedex="Mega Alakazam" src="https://i.postimg.cc/mr85Gqwm/Mega-Alakazam.png">
+$MEGA 耿鬼=Mega Gengar<img index="#0094" class="pokemon-image" data-pokedex="Mega Gengar" src="https://i.postimg.cc/BbHWsptt/Mega-Gengar.png">
+$MEGA 袋兽=Mega Kangaskhan<img index="#0115" class="pokemon-image" data-pokedex="Mega Kangaskhan" src="https://i.postimg.cc/nLPNDgDC/Mega-Kangaskhan.png">
+$MEGA 凯罗斯=Mega Pinsir<img index="#0127" class="pokemon-image" data-pokedex="Mega Pinsir" src="https://i.postimg.cc/mrJ6D9v9/Mega-Pinsir.png">
+$MEGA 暴鲤龙=Mega Gyarados<img index="#0130" class="pokemon-image" data-pokedex="Mega Gyarados" src="https://i.postimg.cc/ZKPkMw1M/Mega-Gyarados.png">
+$MEGA 化石翼龙=Mega Aerodactyl<img index="#0142" class="pokemon-image" data-pokedex="Mega Aerodactyl" src="https://i.postimg.cc/1RTbtkZT/Mega-Aerodactyl.png">
+$MEGA 超梦X=Mega Mewtwo X<img index="#0150" class="pokemon-image" data-pokedex="Mega Mewtwo X" src="https://i.postimg.cc/T32sHfjK/Mega-Mewtwo-X.png">
+$MEGA 超梦Y=Mega Mewtwo Y<img index="#0150" class="pokemon-image" data-pokedex="Mega Mewtwo Y" src="https://i.postimg.cc/Vvnk4k5T/Mega-Mewtwo-Y.png">
+$MEGA 电龙=Mega Ampharos<img index="#0181" class="pokemon-image" data-pokedex="Mega Ampharos" src="https://i.postimg.cc/Jn0d7qYM/Mega-Ampharos.png">
+$MEGA 巨钳螳螂=Mega Scizor<img index="#0212" class="pokemon-image" data-pokedex="Mega Scizor" src="https://i.postimg.cc/9Fb89s3C/Mega-Scizor.png">
+$MEGA 赫拉克罗斯=Mega Heracross<img index="#0214" class="pokemon-image" data-pokedex="Mega Heracross" src="https://i.postimg.cc/dtcP6bSC/Mega-Heracross.png">
+$MEGA 黑鲁加=Mega Houndoom<img index="#0229" class="pokemon-image" data-pokedex="Mega Houndoom" src="https://i.postimg.cc/N0MWLBL3/Mega-Houndoom.png">
+$MEGA 班基拉斯=Mega Tyranitar<img index="#0248" class="pokemon-image" data-pokedex="Mega Tyranitar" src="https://i.postimg.cc/rpBQck4C/Mega-Tyranitar.png">
+$MEGA 火焰鸡=Mega Blaziken<img index="#0257" class="pokemon-image" data-pokedex="Mega Blaziken" src="https://i.postimg.cc/Df9FDJm8/Mega-Blaziken.png">
+$MEGA 沙奈朵=Mega Gardevoir<img index="#0282" class="pokemon-image" data-pokedex="Mega Gardevoir" src="https://i.postimg.cc/gJf9fQzf/Mega-Gardevoir.png">
+$MEGA 大嘴娃=Mega Mawile<img index="#0303" class="pokemon-image" data-pokedex="Mega Mawile" src="https://i.postimg.cc/y692DfY8/Mega-Mawile.png">
+$MEGA 波士可多拉=Mega Aggron<img index="#0306" class="pokemon-image" data-pokedex="Mega Aggron" src="https://i.postimg.cc/rw2bG5sN/Mega-Aggron.png">
+$MEGA 恰雷姆=Mega Medicham<img index="#0308" class="pokemon-image" data-pokedex="Mega Medicham" src="https://i.postimg.cc/7YncVfzv/Mega-Medicham.png">
+$MEGA 雷电兽=Mega Manectric<img index="#0310" class="pokemon-image" data-pokedex="Mega Manectric" src="https://i.postimg.cc/ZnrQXqDd/Mega-Manectric.png">
+$MEGA 诅咒娃娃=Mega Banette<img index="#0354" class="pokemon-image" data-pokedex="Mega Banette" src="https://i.postimg.cc/Gts7Gp1f/Mega-Banette.png">
+$MEGA 阿勃梭鲁=Mega Absol<img index="#0359" class="pokemon-image" data-pokedex="Mega Absol" src="https://i.postimg.cc/GhyVsXLp/Mega-Absol.png">
+$MEGA 拉帝亚斯=Mega Latias<img index="#0380" class="pokemon-image" data-pokedex="Mega Latias" src="https://i.postimg.cc/wjFC67x5/Mega-Latias.png">
+$MEGA 拉帝欧斯=Mega Latios<img index="#0381" class="pokemon-image" data-pokedex="Mega Latios" src="https://i.postimg.cc/cLsqyQW4/Mega-Latios.png">
+$MEGA 烈咬陆鲨=Mega Garchomp<img index="#0445" class="pokemon-image" data-pokedex="Mega Garchomp" src="https://i.postimg.cc/HxJDvdgw/Mega-Garchomp.png">
+$MEGA 路卡利欧=Mega Lucario<img index="#0448" class="pokemon-image" data-pokedex="Mega Lucario" src="https://i.postimg.cc/MHk4sBtw/Mega-Lucario.png">
+$MEGA 暴雪王=Mega Abomasnow<img index="#0460" class="pokemon-image" data-pokedex="Mega Abomasnow" src="https://i.postimg.cc/t4dcB7VQ/Mega-Abomasnow.png">
+$MEGA 大针蜂=Mega Beedrill<img index="#0015" class="pokemon-image" data-pokedex="Mega Beedrill" src="https://i.postimg.cc/WtL9nPN1/Mega-Beedrill.png">
+$MEGA 大比鸟=Mega Pidgeot<img index="#0018" class="pokemon-image" data-pokedex="Mega Pidgeot" src="https://i.postimg.cc/25VKrGKm/Mega-Pidgeot.png">
+$MEGA 呆壳兽=Mega Slowbro<img index="#0080" class="pokemon-image" data-pokedex="Mega Slowbro" src="https://i.postimg.cc/8zCymwDW/Mega-Slowbro.png">
+$MEGA 大钢蛇=Mega Steelix<img index="#0208" class="pokemon-image" data-pokedex="Mega Steelix" src="https://i.postimg.cc/y8rLQ9YG/Mega-Steelix.png">
+$MEGA 蜥蜴王=Mega Sceptile<img index="#0254" class="pokemon-image" data-pokedex="Mega Sceptile" src="https://i.postimg.cc/66d1WyY7/Mega-Sceptile.png">
+$MEGA 巨沼怪=Mega Swampert<img index="#0260" class="pokemon-image" data-pokedex="Mega Swampert" src="https://i.postimg.cc/TPLCZwK3/Mega-Swampert.png">
+$MEGA 勾魂眼=Mega Sableye<img index="#0302" class="pokemon-image" data-pokedex="Mega Sableye" src="https://i.postimg.cc/PJk3bjrr/Mega-Sableye.png">
+$MEGA 巨牙鲨=Mega Sharpedo<img index="#0319" class="pokemon-image" data-pokedex="Mega Sharpedo" src="https://i.postimg.cc/sDsHvsNT/Mega-Sharpedo.png">
+$MEGA 喷火驼=Mega Camerupt<img index="#0323" class="pokemon-image" data-pokedex="Mega Camerupt" src="https://i.postimg.cc/ncqZtFQT/Mega-Camerupt.png">
+$MEGA 七夕青鸟=Mega Altaria<img index="#0334" class="pokemon-image" data-pokedex="Mega Altaria" src="https://i.postimg.cc/LsHbwRzq/Mega-Altaria.png">
+$MEGA 冰鬼护=Mega Glalie<img index="#0362" class="pokemon-image" data-pokedex="Mega Glalie" src="https://i.postimg.cc/mZHWQLVR/Mega-Glalie.png">
+$MEGA 暴飞龙=Mega Salamence<img index="#0373" class="pokemon-image" data-pokedex="Mega Salamence" src="https://i.postimg.cc/Kjr9JHR7/Mega-Salamence.png">
+$MEGA 巨金怪=Mega Metagross<img index="#0376" class="pokemon-image" data-pokedex="Mega Metagross" src="https://i.postimg.cc/sgnNkqKw/Mega-Metagross.png">
+$MEGA 烈空坐=Mega Rayquaza<img index="#0384" class="pokemon-image" data-pokedex="Mega Rayquaza" src="https://i.postimg.cc/mD9pFD45/Mega-Rayquaza.png">
+$MEGA 长耳兔=Mega Lopunny<img index="#0428" class="pokemon-image" data-pokedex="Mega Lopunny" src="https://i.postimg.cc/85f9B4Rw/Mega-Lopunny.png">
+$MEGA 艾路雷朵=Mega Gallade<img index="#0475" class="pokemon-image" data-pokedex="Mega Gallade" src="https://i.postimg.cc/xd1SHLpF/Mega-Gallade.png">
+$MEGA 差不多娃娃=Mega Audino<img index="#0531" class="pokemon-image" data-pokedex="Mega Audino" src="https://i.postimg.cc/0Q4Xzwhm/Mega-Audino.png">
+$MEGA 蒂安希=Mega Diancie<img index="#0719" class="pokemon-image" data-pokedex="Mega Diancie" src="https://i.postimg.cc/mrpWSh0Z/Mega-Diancie.png">
 
-$mega妙蛙花=Mega Venusaur<img index="#0003" class="pokemon-image" src="https://i.postimg.cc/rm5gwPC6/Mega-Venusaur.png">
-$mega喷火龙X=Mega Charizard X<img index="#0006" class="pokemon-image" src="https://i.postimg.cc/0yxvkTYv/Mega-Charizard-X.png">
-$mega喷火龙Y=Mega Charizard Y<img index="#0006" class="pokemon-image" src="https://i.postimg.cc/9QphrLb7/Mega-Charizard-Y.png">
-$mega水箭龟=Mega Blastoise<img index="#0009" class="pokemon-image" src="https://i.postimg.cc/3r4YnC8s/Mega-Blastoise.png">
-$mega胡地=Mega Alakazam<img index="#0065" class="pokemon-image" src="https://i.postimg.cc/mr85Gqwm/Mega-Alakazam.png">
-$mega耿鬼=Mega Gengar<img index="#0094" class="pokemon-image" src="https://i.postimg.cc/BbHWsptt/Mega-Gengar.png">
-$mega袋兽=Mega Kangaskhan<img index="#0115" class="pokemon-image" src="https://i.postimg.cc/nLPNDgDC/Mega-Kangaskhan.png">
-$mega凯罗斯=Mega Pinsir<img index="#0127" class="pokemon-image" src="https://i.postimg.cc/mrJ6D9v9/Mega-Pinsir.png">
-$mega暴鲤龙=Mega Gyarados<img index="#0130" class="pokemon-image" src="https://i.postimg.cc/ZKPkMw1M/Mega-Gyarados.png">
-$mega化石翼龙=Mega Aerodactyl<img index="#0142" class="pokemon-image" src="https://i.postimg.cc/1RTbtkZT/Mega-Aerodactyl.png">
-$mega超梦X=Mega Mewtwo X<img index="#0150" class="pokemon-image" src="https://i.postimg.cc/T32sHfjK/Mega-Mewtwo-X.png">
-$mega超梦Y=Mega Mewtwo Y<img index="#0150" class="pokemon-image" src="https://i.postimg.cc/Vvnk4k5T/Mega-Mewtwo-Y.png">
-$mega电龙=Mega Ampharos<img index="#0181" class="pokemon-image" src="https://i.postimg.cc/Jn0d7qYM/Mega-Ampharos.png">
-$mega巨钳螳螂=Mega Scizor<img index="#0212" class="pokemon-image" src="https://i.postimg.cc/9Fb89s3C/Mega-Scizor.png">
-$mega赫拉克罗斯=Mega Heracross<img index="#0214" class="pokemon-image" src="https://i.postimg.cc/dtcP6bSC/Mega-Heracross.png">
-$mega黑鲁加=Mega Houndoom<img index="#0229" class="pokemon-image" src="https://i.postimg.cc/N0MWLBL3/Mega-Houndoom.png">
-$mega班基拉斯=Mega Tyranitar<img index="#0248" class="pokemon-image" src="https://i.postimg.cc/rpBQck4C/Mega-Tyranitar.png">
-$mega火焰鸡=Mega Blaziken<img index="#0257" class="pokemon-image" src="https://i.postimg.cc/Df9FDJm8/Mega-Blaziken.png">
-$mega沙奈朵=Mega Gardevoir<img index="#0282" class="pokemon-image" src="https://i.postimg.cc/gJf9fQzf/Mega-Gardevoir.png">
-$mega大嘴娃=Mega Mawile<img index="#0303" class="pokemon-image" src="https://i.postimg.cc/y692DfY8/Mega-Mawile.png">
-$mega波士可多拉=Mega Aggron<img index="#0306" class="pokemon-image" src="https://i.postimg.cc/rw2bG5sN/Mega-Aggron.png">
-$mega恰雷姆=Mega Medicham<img index="#0308" class="pokemon-image" src="https://i.postimg.cc/7YncVfzv/Mega-Medicham.png">
-$mega雷电兽=Mega Manectric<img index="#0310" class="pokemon-image" src="https://i.postimg.cc/ZnrQXqDd/Mega-Manectric.png">
-$mega诅咒娃娃=Mega Banette<img index="#0354" class="pokemon-image" src="https://i.postimg.cc/Gts7Gp1f/Mega-Banette.png">
-$mega阿勃梭鲁=Mega Absol<img index="#0359" class="pokemon-image" src="https://i.postimg.cc/GhyVsXLp/Mega-Absol.png">
-$mega拉帝亚斯=Mega Latias<img index="#0380" class="pokemon-image" src="https://i.postimg.cc/wjFC67x5/Mega-Latias.png">
-$mega拉帝欧斯=Mega Latios<img index="#0381" class="pokemon-image" src="https://i.postimg.cc/cLsqyQW4/Mega-Latios.png">
-$mega烈咬陆鲨=Mega Garchomp<img index="#0445" class="pokemon-image" src="https://i.postimg.cc/HxJDvdgw/Mega-Garchomp.png">
-$mega路卡利欧=Mega Lucario<img index="#0448" class="pokemon-image" src="https://i.postimg.cc/MHk4sBtw/Mega-Lucario.png">
-$mega暴雪王=Mega Abomasnow<img index="#0460" class="pokemon-image" src="https://i.postimg.cc/t4dcB7VQ/Mega-Abomasnow.png">
-$mega大针蜂=Mega Beedrill<img index="#0015" class="pokemon-image" src="https://i.postimg.cc/WtL9nPN1/Mega-Beedrill.png">
-$mega大比鸟=Mega Pidgeot<img index="#0018" class="pokemon-image" src="https://i.postimg.cc/25VKrGKm/Mega-Pidgeot.png">
-$mega呆壳兽=Mega Slowbro<img index="#0080" class="pokemon-image" src="https://i.postimg.cc/8zCymwDW/Mega-Slowbro.png">
-$mega大钢蛇=Mega Steelix<img index="#0208" class="pokemon-image" src="https://i.postimg.cc/y8rLQ9YG/Mega-Steelix.png">
-$mega蜥蜴王=Mega Sceptile<img index="#0254" class="pokemon-image" src="https://i.postimg.cc/66d1WyY7/Mega-Sceptile.png">
-$mega巨沼怪=Mega Swampert<img index="#0260" class="pokemon-image" src="https://i.postimg.cc/TPLCZwK3/Mega-Swampert.png">
-$mega勾魂眼=Mega Sableye<img index="#0302" class="pokemon-image" src="https://i.postimg.cc/PJk3bjrr/Mega-Sableye.png">
-$mega巨牙鲨=Mega Sharpedo<img index="#0319" class="pokemon-image" src="https://i.postimg.cc/sDsHvsNT/Mega-Sharpedo.png">
-$mega喷火驼=Mega Camerupt<img index="#0323" class="pokemon-image" src="https://i.postimg.cc/ncqZtFQT/Mega-Camerupt.png">
-$mega七夕青鸟=Mega Altaria<img index="#0334" class="pokemon-image" src="https://i.postimg.cc/LsHbwRzq/Mega-Altaria.png">
-$mega冰鬼护=Mega Glalie<img index="#0362" class="pokemon-image" src="https://i.postimg.cc/mZHWQLVR/Mega-Glalie.png">
-$mega暴飞龙=Mega Salamence<img index="#0373" class="pokemon-image" src="https://i.postimg.cc/Kjr9JHR7/Mega-Salamence.png">
-$mega巨金怪=Mega Metagross<img index="#0376" class="pokemon-image" src="https://i.postimg.cc/sgnNkqKw/Mega-Metagross.png">
-$mega烈空坐=Mega Rayquaza<img index="#0384" class="pokemon-image" src="https://i.postimg.cc/mD9pFD45/Mega-Rayquaza.png">
-$mega长耳兔=Mega Lopunny<img index="#0428" class="pokemon-image" src="https://i.postimg.cc/85f9B4Rw/Mega-Lopunny.png">
-$mega艾路雷朵=Mega Gallade<img index="#0475" class="pokemon-image" src="https://i.postimg.cc/xd1SHLpF/Mega-Gallade.png">
-$mega差不多娃娃=Mega Audino<img index="#0531" class="pokemon-image" src="https://i.postimg.cc/0Q4Xzwhm/Mega-Audino.png">
-$mega蒂安希=Mega Diancie<img index="#0719" class="pokemon-image" src="https://i.postimg.cc/mrpWSh0Z/Mega-Diancie.png">
+$mega妙蛙花=Mega Venusaur<img index="#0003" class="pokemon-image" data-pokedex="Mega Venusaur" src="https://i.postimg.cc/rm5gwPC6/Mega-Venusaur.png">
+$mega喷火龙X=Mega Charizard X<img index="#0006" class="pokemon-image" data-pokedex="Mega Charizard X" src="https://i.postimg.cc/0yxvkTYv/Mega-Charizard-X.png">
+$mega喷火龙Y=Mega Charizard Y<img index="#0006" class="pokemon-image" data-pokedex="Mega Charizard Y" src="https://i.postimg.cc/9QphrLb7/Mega-Charizard-Y.png">
+$mega水箭龟=Mega Blastoise<img index="#0009" class="pokemon-image" data-pokedex="Mega Blastoise" src="https://i.postimg.cc/3r4YnC8s/Mega-Blastoise.png">
+$mega胡地=Mega Alakazam<img index="#0065" class="pokemon-image" data-pokedex="Mega Alakazam" src="https://i.postimg.cc/mr85Gqwm/Mega-Alakazam.png">
+$mega耿鬼=Mega Gengar<img index="#0094" class="pokemon-image" data-pokedex="Mega Gengar" src="https://i.postimg.cc/BbHWsptt/Mega-Gengar.png">
+$mega袋兽=Mega Kangaskhan<img index="#0115" class="pokemon-image" data-pokedex="Mega Kangaskhan" src="https://i.postimg.cc/nLPNDgDC/Mega-Kangaskhan.png">
+$mega凯罗斯=Mega Pinsir<img index="#0127" class="pokemon-image" data-pokedex="Mega Pinsir" src="https://i.postimg.cc/mrJ6D9v9/Mega-Pinsir.png">
+$mega暴鲤龙=Mega Gyarados<img index="#0130" class="pokemon-image" data-pokedex="Mega Gyarados" src="https://i.postimg.cc/ZKPkMw1M/Mega-Gyarados.png">
+$mega化石翼龙=Mega Aerodactyl<img index="#0142" class="pokemon-image" data-pokedex="Mega Aerodactyl" src="https://i.postimg.cc/1RTbtkZT/Mega-Aerodactyl.png">
+$mega超梦X=Mega Mewtwo X<img index="#0150" class="pokemon-image" data-pokedex="Mega Mewtwo X" src="https://i.postimg.cc/T32sHfjK/Mega-Mewtwo-X.png">
+$mega超梦Y=Mega Mewtwo Y<img index="#0150" class="pokemon-image" data-pokedex="Mega Mewtwo Y" src="https://i.postimg.cc/Vvnk4k5T/Mega-Mewtwo-Y.png">
+$mega电龙=Mega Ampharos<img index="#0181" class="pokemon-image" data-pokedex="Mega Ampharos" src="https://i.postimg.cc/Jn0d7qYM/Mega-Ampharos.png">
+$mega巨钳螳螂=Mega Scizor<img index="#0212" class="pokemon-image" data-pokedex="Mega Scizor" src="https://i.postimg.cc/9Fb89s3C/Mega-Scizor.png">
+$mega赫拉克罗斯=Mega Heracross<img index="#0214" class="pokemon-image" data-pokedex="Mega Heracross" src="https://i.postimg.cc/dtcP6bSC/Mega-Heracross.png">
+$mega黑鲁加=Mega Houndoom<img index="#0229" class="pokemon-image" data-pokedex="Mega Houndoom" src="https://i.postimg.cc/N0MWLBL3/Mega-Houndoom.png">
+$mega班基拉斯=Mega Tyranitar<img index="#0248" class="pokemon-image" data-pokedex="Mega Tyranitar" src="https://i.postimg.cc/rpBQck4C/Mega-Tyranitar.png">
+$mega火焰鸡=Mega Blaziken<img index="#0257" class="pokemon-image" data-pokedex="Mega Blaziken" src="https://i.postimg.cc/Df9FDJm8/Mega-Blaziken.png">
+$mega沙奈朵=Mega Gardevoir<img index="#0282" class="pokemon-image" data-pokedex="Mega Gardevoir" src="https://i.postimg.cc/gJf9fQzf/Mega-Gardevoir.png">
+$mega大嘴娃=Mega Mawile<img index="#0303" class="pokemon-image" data-pokedex="Mega Mawile" src="https://i.postimg.cc/y692DfY8/Mega-Mawile.png">
+$mega波士可多拉=Mega Aggron<img index="#0306" class="pokemon-image" data-pokedex="Mega Aggron" src="https://i.postimg.cc/rw2bG5sN/Mega-Aggron.png">
+$mega恰雷姆=Mega Medicham<img index="#0308" class="pokemon-image" data-pokedex="Mega Medicham" src="https://i.postimg.cc/7YncVfzv/Mega-Medicham.png">
+$mega雷电兽=Mega Manectric<img index="#0310" class="pokemon-image" data-pokedex="Mega Manectric" src="https://i.postimg.cc/ZnrQXqDd/Mega-Manectric.png">
+$mega诅咒娃娃=Mega Banette<img index="#0354" class="pokemon-image" data-pokedex="Mega Banette" src="https://i.postimg.cc/Gts7Gp1f/Mega-Banette.png">
+$mega阿勃梭鲁=Mega Absol<img index="#0359" class="pokemon-image" data-pokedex="Mega Absol" src="https://i.postimg.cc/GhyVsXLp/Mega-Absol.png">
+$mega拉帝亚斯=Mega Latias<img index="#0380" class="pokemon-image" data-pokedex="Mega Latias" src="https://i.postimg.cc/wjFC67x5/Mega-Latias.png">
+$mega拉帝欧斯=Mega Latios<img index="#0381" class="pokemon-image" data-pokedex="Mega Latios" src="https://i.postimg.cc/cLsqyQW4/Mega-Latios.png">
+$mega烈咬陆鲨=Mega Garchomp<img index="#0445" class="pokemon-image" data-pokedex="Mega Garchomp" src="https://i.postimg.cc/HxJDvdgw/Mega-Garchomp.png">
+$mega路卡利欧=Mega Lucario<img index="#0448" class="pokemon-image" data-pokedex="Mega Lucario" src="https://i.postimg.cc/MHk4sBtw/Mega-Lucario.png">
+$mega暴雪王=Mega Abomasnow<img index="#0460" class="pokemon-image" data-pokedex="Mega Abomasnow" src="https://i.postimg.cc/t4dcB7VQ/Mega-Abomasnow.png">
+$mega大针蜂=Mega Beedrill<img index="#0015" class="pokemon-image" data-pokedex="Mega Beedrill" src="https://i.postimg.cc/WtL9nPN1/Mega-Beedrill.png">
+$mega大比鸟=Mega Pidgeot<img index="#0018" class="pokemon-image" data-pokedex="Mega Pidgeot" src="https://i.postimg.cc/25VKrGKm/Mega-Pidgeot.png">
+$mega呆壳兽=Mega Slowbro<img index="#0080" class="pokemon-image" data-pokedex="Mega Slowbro" src="https://i.postimg.cc/8zCymwDW/Mega-Slowbro.png">
+$mega大钢蛇=Mega Steelix<img index="#0208" class="pokemon-image" data-pokedex="Mega Steelix" src="https://i.postimg.cc/y8rLQ9YG/Mega-Steelix.png">
+$mega蜥蜴王=Mega Sceptile<img index="#0254" class="pokemon-image" data-pokedex="Mega Sceptile" src="https://i.postimg.cc/66d1WyY7/Mega-Sceptile.png">
+$mega巨沼怪=Mega Swampert<img index="#0260" class="pokemon-image" data-pokedex="Mega Swampert" src="https://i.postimg.cc/TPLCZwK3/Mega-Swampert.png">
+$mega勾魂眼=Mega Sableye<img index="#0302" class="pokemon-image" data-pokedex="Mega Sableye" src="https://i.postimg.cc/PJk3bjrr/Mega-Sableye.png">
+$mega巨牙鲨=Mega Sharpedo<img index="#0319" class="pokemon-image" data-pokedex="Mega Sharpedo" src="https://i.postimg.cc/sDsHvsNT/Mega-Sharpedo.png">
+$mega喷火驼=Mega Camerupt<img index="#0323" class="pokemon-image" data-pokedex="Mega Camerupt" src="https://i.postimg.cc/ncqZtFQT/Mega-Camerupt.png">
+$mega七夕青鸟=Mega Altaria<img index="#0334" class="pokemon-image" data-pokedex="Mega Altaria" src="https://i.postimg.cc/LsHbwRzq/Mega-Altaria.png">
+$mega冰鬼护=Mega Glalie<img index="#0362" class="pokemon-image" data-pokedex="Mega Glalie" src="https://i.postimg.cc/mZHWQLVR/Mega-Glalie.png">
+$mega暴飞龙=Mega Salamence<img index="#0373" class="pokemon-image" data-pokedex="Mega Salamence" src="https://i.postimg.cc/Kjr9JHR7/Mega-Salamence.png">
+$mega巨金怪=Mega Metagross<img index="#0376" class="pokemon-image" data-pokedex="Mega Metagross" src="https://i.postimg.cc/sgnNkqKw/Mega-Metagross.png">
+$mega烈空坐=Mega Rayquaza<img index="#0384" class="pokemon-image" data-pokedex="Mega Rayquaza" src="https://i.postimg.cc/mD9pFD45/Mega-Rayquaza.png">
+$mega长耳兔=Mega Lopunny<img index="#0428" class="pokemon-image" data-pokedex="Mega Lopunny" src="https://i.postimg.cc/85f9B4Rw/Mega-Lopunny.png">
+$mega艾路雷朵=Mega Gallade<img index="#0475" class="pokemon-image" data-pokedex="Mega Gallade" src="https://i.postimg.cc/xd1SHLpF/Mega-Gallade.png">
+$mega差不多娃娃=Mega Audino<img index="#0531" class="pokemon-image" data-pokedex="Mega Audino" src="https://i.postimg.cc/0Q4Xzwhm/Mega-Audino.png">
+$mega蒂安希=Mega Diancie<img index="#0719" class="pokemon-image" data-pokedex="Mega Diancie" src="https://i.postimg.cc/mrpWSh0Z/Mega-Diancie.png">
 
-$mega 妙蛙花=Mega Venusaur<img index="#0003" class="pokemon-image" src="https://i.postimg.cc/rm5gwPC6/Mega-Venusaur.png">
-$mega 喷火龙X=Mega Charizard X<img index="#0006" class="pokemon-image" src="https://i.postimg.cc/0yxvkTYv/Mega-Charizard-X.png">
-$mega 喷火龙Y=Mega Charizard Y<img index="#0006" class="pokemon-image" src="https://i.postimg.cc/9QphrLb7/Mega-Charizard-Y.png">
-$mega 水箭龟=Mega Blastoise<img index="#0009" class="pokemon-image" src="https://i.postimg.cc/3r4YnC8s/Mega-Blastoise.png">
-$mega 胡地=Mega Alakazam<img index="#0065" class="pokemon-image" src="https://i.postimg.cc/mr85Gqwm/Mega-Alakazam.png">
-$mega 耿鬼=Mega Gengar<img index="#0094" class="pokemon-image" src="https://i.postimg.cc/BbHWsptt/Mega-Gengar.png">
-$mega 袋兽=Mega Kangaskhan<img index="#0115" class="pokemon-image" src="https://i.postimg.cc/nLPNDgDC/Mega-Kangaskhan.png">
-$mega 凯罗斯=Mega Pinsir<img index="#0127" class="pokemon-image" src="https://i.postimg.cc/mrJ6D9v9/Mega-Pinsir.png">
-$mega 暴鲤龙=Mega Gyarados<img index="#0130" class="pokemon-image" src="https://i.postimg.cc/ZKPkMw1M/Mega-Gyarados.png">
-$mega 化石翼龙=Mega Aerodactyl<img index="#0142" class="pokemon-image" src="https://i.postimg.cc/1RTbtkZT/Mega-Aerodactyl.png">
-$mega 超梦X=Mega Mewtwo X<img index="#0150" class="pokemon-image" src="https://i.postimg.cc/T32sHfjK/Mega-Mewtwo-X.png">
-$mega 超梦Y=Mega Mewtwo Y<img index="#0150" class="pokemon-image" src="https://i.postimg.cc/Vvnk4k5T/Mega-Mewtwo-Y.png">
-$mega 电龙=Mega Ampharos<img index="#0181" class="pokemon-image" src="https://i.postimg.cc/Jn0d7qYM/Mega-Ampharos.png">
-$mega 巨钳螳螂=Mega Scizor<img index="#0212" class="pokemon-image" src="https://i.postimg.cc/9Fb89s3C/Mega-Scizor.png">
-$mega 赫拉克罗斯=Mega Heracross<img index="#0214" class="pokemon-image" src="https://i.postimg.cc/dtcP6bSC/Mega-Heracross.png">
-$mega 黑鲁加=Mega Houndoom<img index="#0229" class="pokemon-image" src="https://i.postimg.cc/N0MWLBL3/Mega-Houndoom.png">
-$mega 班基拉斯=Mega Tyranitar<img index="#0248" class="pokemon-image" src="https://i.postimg.cc/rpBQck4C/Mega-Tyranitar.png">
-$mega 火焰鸡=Mega Blaziken<img index="#0257" class="pokemon-image" src="https://i.postimg.cc/Df9FDJm8/Mega-Blaziken.png">
-$mega 沙奈朵=Mega Gardevoir<img index="#0282" class="pokemon-image" src="https://i.postimg.cc/gJf9fQzf/Mega-Gardevoir.png">
-$mega 大嘴娃=Mega Mawile<img index="#0303" class="pokemon-image" src="https://i.postimg.cc/y692DfY8/Mega-Mawile.png">
-$mega 波士可多拉=Mega Aggron<img index="#0306" class="pokemon-image" src="https://i.postimg.cc/rw2bG5sN/Mega-Aggron.png">
-$mega 恰雷姆=Mega Medicham<img index="#0308" class="pokemon-image" src="https://i.postimg.cc/7YncVfzv/Mega-Medicham.png">
-$mega 雷电兽=Mega Manectric<img index="#0310" class="pokemon-image" src="https://i.postimg.cc/ZnrQXqDd/Mega-Manectric.png">
-$mega 诅咒娃娃=Mega Banette<img index="#0354" class="pokemon-image" src="https://i.postimg.cc/Gts7Gp1f/Mega-Banette.png">
-$mega 阿勃梭鲁=Mega Absol<img index="#0359" class="pokemon-image" src="https://i.postimg.cc/GhyVsXLp/Mega-Absol.png">
-$mega 拉帝亚斯=Mega Latias<img index="#0380" class="pokemon-image" src="https://i.postimg.cc/wjFC67x5/Mega-Latias.png">
-$mega 拉帝欧斯=Mega Latios<img index="#0381" class="pokemon-image" src="https://i.postimg.cc/cLsqyQW4/Mega-Latios.png">
-$mega 烈咬陆鲨=Mega Garchomp<img index="#0445" class="pokemon-image" src="https://i.postimg.cc/HxJDvdgw/Mega-Garchomp.png">
-$mega 路卡利欧=Mega Lucario<img index="#0448" class="pokemon-image" src="https://i.postimg.cc/MHk4sBtw/Mega-Lucario.png">
-$mega 暴雪王=Mega Abomasnow<img index="#0460" class="pokemon-image" src="https://i.postimg.cc/t4dcB7VQ/Mega-Abomasnow.png">
-$mega 大针蜂=Mega Beedrill<img index="#0015" class="pokemon-image" src="https://i.postimg.cc/WtL9nPN1/Mega-Beedrill.png">
-$mega 大比鸟=Mega Pidgeot<img index="#0018" class="pokemon-image" src="https://i.postimg.cc/25VKrGKm/Mega-Pidgeot.png">
-$mega 呆壳兽=Mega Slowbro<img index="#0080" class="pokemon-image" src="https://i.postimg.cc/8zCymwDW/Mega-Slowbro.png">
-$mega 大钢蛇=Mega Steelix<img index="#0208" class="pokemon-image" src="https://i.postimg.cc/y8rLQ9YG/Mega-Steelix.png">
-$mega 蜥蜴王=Mega Sceptile<img index="#0254" class="pokemon-image" src="https://i.postimg.cc/66d1WyY7/Mega-Sceptile.png">
-$mega 巨沼怪=Mega Swampert<img index="#0260" class="pokemon-image" src="https://i.postimg.cc/TPLCZwK3/Mega-Swampert.png">
-$mega 勾魂眼=Mega Sableye<img index="#0302" class="pokemon-image" src="https://i.postimg.cc/PJk3bjrr/Mega-Sableye.png">
-$mega 巨牙鲨=Mega Sharpedo<img index="#0319" class="pokemon-image" src="https://i.postimg.cc/sDsHvsNT/Mega-Sharpedo.png">
-$mega 喷火驼=Mega Camerupt<img index="#0323" class="pokemon-image" src="https://i.postimg.cc/ncqZtFQT/Mega-Camerupt.png">
-$mega 七夕青鸟=Mega Altaria<img index="#0334" class="pokemon-image" src="https://i.postimg.cc/LsHbwRzq/Mega-Altaria.png">
-$mega 冰鬼护=Mega Glalie<img index="#0362" class="pokemon-image" src="https://i.postimg.cc/mZHWQLVR/Mega-Glalie.png">
-$mega 暴飞龙=Mega Salamence<img index="#0373" class="pokemon-image" src="https://i.postimg.cc/Kjr9JHR7/Mega-Salamence.png">
-$mega 巨金怪=Mega Metagross<img index="#0376" class="pokemon-image" src="https://i.postimg.cc/sgnNkqKw/Mega-Metagross.png">
-$mega 烈空坐=Mega Rayquaza<img index="#0384" class="pokemon-image" src="https://i.postimg.cc/mD9pFD45/Mega-Rayquaza.png">
-$mega 长耳兔=Mega Lopunny<img index="#0428" class="pokemon-image" src="https://i.postimg.cc/85f9B4Rw/Mega-Lopunny.png">
-$mega 艾路雷朵=Mega Gallade<img index="#0475" class="pokemon-image" src="https://i.postimg.cc/xd1SHLpF/Mega-Gallade.png">
-$mega 差不多娃娃=Mega Audino<img index="#0531" class="pokemon-image" src="https://i.postimg.cc/0Q4Xzwhm/Mega-Audino.png">
-$mega 蒂安希=Mega Diancie<img index="#0719" class="pokemon-image" src="https://i.postimg.cc/mrpWSh0Z/Mega-Diancie.png">
+$mega 妙蛙花=Mega Venusaur<img index="#0003" class="pokemon-image" data-pokedex="Mega Venusaur" src="https://i.postimg.cc/rm5gwPC6/Mega-Venusaur.png">
+$mega 喷火龙X=Mega Charizard X<img index="#0006" class="pokemon-image" data-pokedex="Mega Charizard X" src="https://i.postimg.cc/0yxvkTYv/Mega-Charizard-X.png">
+$mega 喷火龙Y=Mega Charizard Y<img index="#0006" class="pokemon-image" data-pokedex="Mega Charizard Y" src="https://i.postimg.cc/9QphrLb7/Mega-Charizard-Y.png">
+$mega 水箭龟=Mega Blastoise<img index="#0009" class="pokemon-image" data-pokedex="Mega Blastoise" src="https://i.postimg.cc/3r4YnC8s/Mega-Blastoise.png">
+$mega 胡地=Mega Alakazam<img index="#0065" class="pokemon-image" data-pokedex="Mega Alakazam" src="https://i.postimg.cc/mr85Gqwm/Mega-Alakazam.png">
+$mega 耿鬼=Mega Gengar<img index="#0094" class="pokemon-image" data-pokedex="Mega Gengar" src="https://i.postimg.cc/BbHWsptt/Mega-Gengar.png">
+$mega 袋兽=Mega Kangaskhan<img index="#0115" class="pokemon-image" data-pokedex="Mega Kangaskhan" src="https://i.postimg.cc/nLPNDgDC/Mega-Kangaskhan.png">
+$mega 凯罗斯=Mega Pinsir<img index="#0127" class="pokemon-image" data-pokedex="Mega Pinsir" src="https://i.postimg.cc/mrJ6D9v9/Mega-Pinsir.png">
+$mega 暴鲤龙=Mega Gyarados<img index="#0130" class="pokemon-image" data-pokedex="Mega Gyarados" src="https://i.postimg.cc/ZKPkMw1M/Mega-Gyarados.png">
+$mega 化石翼龙=Mega Aerodactyl<img index="#0142" class="pokemon-image" data-pokedex="Mega Aerodactyl" src="https://i.postimg.cc/1RTbtkZT/Mega-Aerodactyl.png">
+$mega 超梦X=Mega Mewtwo X<img index="#0150" class="pokemon-image" data-pokedex="Mega Mewtwo X" src="https://i.postimg.cc/T32sHfjK/Mega-Mewtwo-X.png">
+$mega 超梦Y=Mega Mewtwo Y<img index="#0150" class="pokemon-image" data-pokedex="Mega Mewtwo Y" src="https://i.postimg.cc/Vvnk4k5T/Mega-Mewtwo-Y.png">
+$mega 电龙=Mega Ampharos<img index="#0181" class="pokemon-image" data-pokedex="Mega Ampharos" src="https://i.postimg.cc/Jn0d7qYM/Mega-Ampharos.png">
+$mega 巨钳螳螂=Mega Scizor<img index="#0212" class="pokemon-image" data-pokedex="Mega Scizor" src="https://i.postimg.cc/9Fb89s3C/Mega-Scizor.png">
+$mega 赫拉克罗斯=Mega Heracross<img index="#0214" class="pokemon-image" data-pokedex="Mega Heracross" src="https://i.postimg.cc/dtcP6bSC/Mega-Heracross.png">
+$mega 黑鲁加=Mega Houndoom<img index="#0229" class="pokemon-image" data-pokedex="Mega Houndoom" src="https://i.postimg.cc/N0MWLBL3/Mega-Houndoom.png">
+$mega 班基拉斯=Mega Tyranitar<img index="#0248" class="pokemon-image" data-pokedex="Mega Tyranitar" src="https://i.postimg.cc/rpBQck4C/Mega-Tyranitar.png">
+$mega 火焰鸡=Mega Blaziken<img index="#0257" class="pokemon-image" data-pokedex="Mega Blaziken" src="https://i.postimg.cc/Df9FDJm8/Mega-Blaziken.png">
+$mega 沙奈朵=Mega Gardevoir<img index="#0282" class="pokemon-image" data-pokedex="Mega Gardevoir" src="https://i.postimg.cc/gJf9fQzf/Mega-Gardevoir.png">
+$mega 大嘴娃=Mega Mawile<img index="#0303" class="pokemon-image" data-pokedex="Mega Mawile" src="https://i.postimg.cc/y692DfY8/Mega-Mawile.png">
+$mega 波士可多拉=Mega Aggron<img index="#0306" class="pokemon-image" data-pokedex="Mega Aggron" src="https://i.postimg.cc/rw2bG5sN/Mega-Aggron.png">
+$mega 恰雷姆=Mega Medicham<img index="#0308" class="pokemon-image" data-pokedex="Mega Medicham" src="https://i.postimg.cc/7YncVfzv/Mega-Medicham.png">
+$mega 雷电兽=Mega Manectric<img index="#0310" class="pokemon-image" data-pokedex="Mega Manectric" src="https://i.postimg.cc/ZnrQXqDd/Mega-Manectric.png">
+$mega 诅咒娃娃=Mega Banette<img index="#0354" class="pokemon-image" data-pokedex="Mega Banette" src="https://i.postimg.cc/Gts7Gp1f/Mega-Banette.png">
+$mega 阿勃梭鲁=Mega Absol<img index="#0359" class="pokemon-image" data-pokedex="Mega Absol" src="https://i.postimg.cc/GhyVsXLp/Mega-Absol.png">
+$mega 拉帝亚斯=Mega Latias<img index="#0380" class="pokemon-image" data-pokedex="Mega Latias" src="https://i.postimg.cc/wjFC67x5/Mega-Latias.png">
+$mega 拉帝欧斯=Mega Latios<img index="#0381" class="pokemon-image" data-pokedex="Mega Latios" src="https://i.postimg.cc/cLsqyQW4/Mega-Latios.png">
+$mega 烈咬陆鲨=Mega Garchomp<img index="#0445" class="pokemon-image" data-pokedex="Mega Garchomp" src="https://i.postimg.cc/HxJDvdgw/Mega-Garchomp.png">
+$mega 路卡利欧=Mega Lucario<img index="#0448" class="pokemon-image" data-pokedex="Mega Lucario" src="https://i.postimg.cc/MHk4sBtw/Mega-Lucario.png">
+$mega 暴雪王=Mega Abomasnow<img index="#0460" class="pokemon-image" data-pokedex="Mega Abomasnow" src="https://i.postimg.cc/t4dcB7VQ/Mega-Abomasnow.png">
+$mega 大针蜂=Mega Beedrill<img index="#0015" class="pokemon-image" data-pokedex="Mega Beedrill" src="https://i.postimg.cc/WtL9nPN1/Mega-Beedrill.png">
+$mega 大比鸟=Mega Pidgeot<img index="#0018" class="pokemon-image" data-pokedex="Mega Pidgeot" src="https://i.postimg.cc/25VKrGKm/Mega-Pidgeot.png">
+$mega 呆壳兽=Mega Slowbro<img index="#0080" class="pokemon-image" data-pokedex="Mega Slowbro" src="https://i.postimg.cc/8zCymwDW/Mega-Slowbro.png">
+$mega 大钢蛇=Mega Steelix<img index="#0208" class="pokemon-image" data-pokedex="Mega Steelix" src="https://i.postimg.cc/y8rLQ9YG/Mega-Steelix.png">
+$mega 蜥蜴王=Mega Sceptile<img index="#0254" class="pokemon-image" data-pokedex="Mega Sceptile" src="https://i.postimg.cc/66d1WyY7/Mega-Sceptile.png">
+$mega 巨沼怪=Mega Swampert<img index="#0260" class="pokemon-image" data-pokedex="Mega Swampert" src="https://i.postimg.cc/TPLCZwK3/Mega-Swampert.png">
+$mega 勾魂眼=Mega Sableye<img index="#0302" class="pokemon-image" data-pokedex="Mega Sableye" src="https://i.postimg.cc/PJk3bjrr/Mega-Sableye.png">
+$mega 巨牙鲨=Mega Sharpedo<img index="#0319" class="pokemon-image" data-pokedex="Mega Sharpedo" src="https://i.postimg.cc/sDsHvsNT/Mega-Sharpedo.png">
+$mega 喷火驼=Mega Camerupt<img index="#0323" class="pokemon-image" data-pokedex="Mega Camerupt" src="https://i.postimg.cc/ncqZtFQT/Mega-Camerupt.png">
+$mega 七夕青鸟=Mega Altaria<img index="#0334" class="pokemon-image" data-pokedex="Mega Altaria" src="https://i.postimg.cc/LsHbwRzq/Mega-Altaria.png">
+$mega 冰鬼护=Mega Glalie<img index="#0362" class="pokemon-image" data-pokedex="Mega Glalie" src="https://i.postimg.cc/mZHWQLVR/Mega-Glalie.png">
+$mega 暴飞龙=Mega Salamence<img index="#0373" class="pokemon-image" data-pokedex="Mega Salamence" src="https://i.postimg.cc/Kjr9JHR7/Mega-Salamence.png">
+$mega 巨金怪=Mega Metagross<img index="#0376" class="pokemon-image" data-pokedex="Mega Metagross" src="https://i.postimg.cc/sgnNkqKw/Mega-Metagross.png">
+$mega 烈空坐=Mega Rayquaza<img index="#0384" class="pokemon-image" data-pokedex="Mega Rayquaza" src="https://i.postimg.cc/mD9pFD45/Mega-Rayquaza.png">
+$mega 长耳兔=Mega Lopunny<img index="#0428" class="pokemon-image" data-pokedex="Mega Lopunny" src="https://i.postimg.cc/85f9B4Rw/Mega-Lopunny.png">
+$mega 艾路雷朵=Mega Gallade<img index="#0475" class="pokemon-image" data-pokedex="Mega Gallade" src="https://i.postimg.cc/xd1SHLpF/Mega-Gallade.png">
+$mega 差不多娃娃=Mega Audino<img index="#0531" class="pokemon-image" data-pokedex="Mega Audino" src="https://i.postimg.cc/0Q4Xzwhm/Mega-Audino.png">
+$mega 蒂安希=Mega Diancie<img index="#0719" class="pokemon-image" data-pokedex="Mega Diancie" src="https://i.postimg.cc/mrpWSh0Z/Mega-Diancie.png">
 
 _____________POKÉMON_____________
 $妙蛙种子=Bulbasaur<img index="#0001" class="pokemon-image" src="https://i.postimg.cc/hJW2h12J/image1.png">
