@@ -1,0 +1,1227 @@
+{
+	"Adaptability": {
+		"name": "Thích Nghi",
+		"description": "Tăng sức mạnh cho các chiêu thức cùng loại."
+	},
+	"Aerilate": {
+		"name": "Khí Hoá",
+		"description": "Biến các chiêu thức hệ Thường thành hệ Bay."
+	},
+	"Aftermath": {
+		"name": "Hậu Quả",
+		"description": "Gây sát thương cho kẻ tấn công hạ gục Pokémon."
+	},
+	"Air Lock": {
+		"name": "Khóa Khí",
+		"description": "Loại bỏ hiệu ứng của thời tiết."
+	},
+	"Analytic": {
+		"name": "Phân Tích",
+		"description": "Tăng sức mạnh chiêu thức khi Pokémon ra chiêu cuối cùng."
+	},
+	"Anger Point": {
+		"name": "Điểm Nộ",
+		"description": "Tối đa hóa chỉ số Tấn Công sau khi nhận đòn chí mạng."
+	},
+	"Anger Shell": {
+		"name": "Vỏ Giận Dữ",
+		"description": "Giảm Phòng Thủ/Phòng Thủ Đặc Biệt và tăng Tấn Công/Tấn Công Đặc Biệt/Tốc Độ khi HP giảm xuống dưới một nửa."
+	},
+	"Anticipation": {
+		"name": "Dự Đoán",
+		"description": "Cảm nhận được các chiêu thức nguy hiểm của đối thủ."
+	},
+	"Arena Trap": {
+		"name": "Bẫy Đấu Trường",
+		"description": "Ngăn đối thủ chạy trốn."
+	},
+	"Armor Tail": {
+		"name": "Đuôi Giáp",
+		"description": "Ngăn chặn đối thủ sử dụng các chiêu thức ưu tiên."
+	},
+	"Aroma Veil": {
+		"name": "Màn Hương Thơm",
+		"description": "Bảo vệ đồng minh khỏi các đòn tấn công hạn chế lựa chọn chiêu thức của họ."
+	},
+	"As One": {
+		"name": "Hợp Nhất",
+		"description": "Kết hợp Làm Lo Lắng và Tiếng Hú Rợn Người/Tiếng Hú Ám Ảnh"
+	},
+	"Aura Break": {
+		"name": "Phá Vỡ Khí",
+		"description": "Giảm sức mạnh của các chiêu thức hệ Bóng Tối và hệ Tiên."
+	},
+	"Bad Dreams": {
+		"name": "Giấc Mơ Xấu",
+		"description": "Giảm HP của đối thủ đang ngủ."
+	},
+	"Ball Fetch": {
+		"name": "Lấy Bóng",
+		"description": "Lấy lại Poké Ball từ lần ném không thành công."
+	},
+	"Battery": {
+		"name": "Pin",
+		"description": "Tăng sức mạnh cho các chiêu thức Đặc Biệt của đồng đội."
+	},
+	"Battle Armor": {
+		"name": "Giáp Chiến Đấu",
+		"description": "Pokémon được bảo vệ khỏi các đòn chí mạng."
+	},
+	"Battle Bond": {
+		"name": "Liên Kết Chiến Đấu",
+		"description": "Biến thành Ash-Greninja sau khi khiến đối thủ ngất xỉu."
+	},
+	"Beads of Ruin": {
+		"name": "Hạt Diệt Vong",
+		"description": "Giảm Phòng Thủ Đặc Biệt của tất cả Pokémon trừ bản thân."
+	},
+	"Beast Boost": {
+		"name": "Tăng Cường Thú",
+		"description": "Pokémon tăng chỉ số mạnh nhất của nó mỗi khi hạ gục một Pokémon."
+	},
+	"Berserk": {
+		"name": "Cuồng Nộ",
+		"description": "Tăng Tấn Công Đặc Biệt khi HP giảm xuống dưới một nửa."
+	},
+	"Big Pecks": {
+		"name": "Mỏ Lớn",
+		"description": "Bảo vệ Pokémon khỏi các đòn tấn công giảm Phòng Thủ."
+	},
+	"Blaze": {
+		"name": "Bùng Cháy",
+		"description": "Tăng sức mạnh cho các chiêu thức hệ Lửa khi gặp nguy hiểm."
+	},
+	"Bulletproof": {
+		"name": "Chống Đạn",
+		"description": "Bảo vệ Pokémon khỏi các chiêu thức dạng bóng và bom."
+	},
+	"Cheek Pouch": {
+		"name": "Túi Má",
+		"description": "Phục hồi thêm HP khi một Berry được tiêu thụ."
+	},
+	"Chilling Neigh": {
+		"name": "Tiếng Hú Rợn Người",
+		"description": "Tăng Tấn Công sau khi hạ gục một Pokémon."
+	},
+	"Chlorophyll": {
+		"name": "Diệp Lục",
+		"description": "Tăng Tốc Độ của Pokémon dưới ánh nắng mặt trời."
+	},
+	"Clear Body": {
+		"name": "Cơ Thể Trong Suốt",
+		"description": "Ngăn Pokémon khác hạ thấp chỉ số của nó."
+	},
+	"Cloud Nine": {
+		"name": "Chín Tầng Mây",
+		"description": "Loại bỏ hiệu ứng của thời tiết."
+	},
+	"Color Change": {
+		"name": "Thay Đổi Màu Sắc",
+		"description": "Thay đổi hệ của Pokémon thành hệ của chiêu thức đối thủ."
+	},
+	"Comatose": {
+		"name": "Hôn Mê",
+		"description": "Pokémon luôn ngủ nhưng vẫn có thể tấn công."
+	},
+	"Commander": {
+		"name": "Chỉ Huy",
+		"description": "Đi vào trong miệng của một đồng minh Dondozo nếu có một con trên sân."
+	},
+	"Competitive": {
+		"name": "Cạnh Tranh",
+		"description": "Tăng mạnh Tấn Công Đặc Biệt khi chỉ số của Pokémon bị giảm."
+	},
+	"Compound Eyes": {
+		"name": "Mắt Kép",
+		"description": "Độ chính xác của Pokémon được tăng cường."
+	},
+	"Contrary": {
+		"name": "Ngược Đời",
+		"description": "Làm cho các thay đổi chỉ số có tác dụng ngược lại."
+	},
+	"Corrosion": {
+		"name": "Ăn Mòn",
+		"description": "Pokémon có thể gây độc cho các Pokémon hệ Thép và hệ Độc."
+	},
+	"Costar": {
+		"name": "Đồng Sao",
+		"description": "Sao chép thay đổi chỉ số của đồng minh khi vào trận."
+	},
+	"Cotton Down": {
+		"name": "Bông Tuyết",
+		"description": "Giảm Tốc Độ của đối thủ khi bị tấn công."
+	},
+	"Cud Chew": {
+		"name": "Nhai Lại",
+		"description": "Có thể ăn cùng một Berry hai lần."
+	},
+	"Curious Medicine": {
+		"name": "Thuốc Kỳ Lạ",
+		"description": "Đặt lại tất cả các thay đổi chỉ số khi vào sân đấu."
+	},
+	"Cursed Body": {
+		"name": "Cơ Thể Bị Nguyền Rủa",
+		"description": "Có thể vô hiệu hóa một chiêu thức được sử dụng trên Pokémon."
+	},
+	"Cute Charm": {
+		"name": "Bùa Mê Hoặc",
+		"description": "Tiếp xúc với Pokémon có thể gây ra hiệu ứng say mê."
+	},
+	"Damp": {
+		"name": "Ẩm Ướt",
+		"description": "Ngăn chặn việc sử dụng các chiêu thức tự hủy."
+	},
+	"Dancer": {
+		"name": "Vũ Công",
+		"description": "Sao chép các chiêu thức hệ Nhảy của đối thủ."
+	},
+	"Dark Aura": {
+		"name": "Khí Ám",
+		"description": "Tăng sức mạnh của các chiêu thức hệ Bóng Tối cho tất cả Pokémon trong trận chiến."
+	},
+	"Dauntless Shield": {
+		"name": "Khiên Bất Khuất",
+		"description": "Tăng Phòng Thủ trong trận chiến."
+	},
+	"Dazzling": {
+		"name": "Chói Lóa",
+		"description": "Bảo vệ Pokémon khỏi các chiêu thức ưu tiên cao."
+	},
+	"Defeatist": {
+		"name": "Nhụt Chí",
+		"description": "Giảm chỉ số khi HP giảm xuống dưới một nửa."
+	},
+	"Defiant": {
+		"name": "Hiếu Chiến",
+		"description": "Tăng mạnh Tấn Công khi chỉ số của Pokémon bị giảm."
+	},
+	"Delta Stream": {
+		"name": "Dòng Chảy Delta",
+		"description": "Tạo ra gió mạnh khi  khả năng được kích hoạt."
+	},
+	"Desolate Land": {
+		"name": "Vùng Đất Hoang Tàn",
+		"description": "Biến ánh sáng mặt trời trở nên cực kỳ khắc nghiệt khi khả năng được kích hoạt."
+	},
+	"Disguise": {
+		"name": "Ngụy Trang",
+		"description": "Tránh sát thương trong một lượt."
+	},
+	"Download": {
+		"name": "Tải Xuống",
+		"description": "Điều chỉnh sức mạnh theo khả năng phòng thủ của đối thủ."
+	},
+	"Dragon's Maw": {
+		"name": "Hàm Rồng",
+		"description": "Tăng sức mạnh cho các chiêu thức hệ Rồng."
+	},
+	"Drizzle": {
+		"name": "Mưa Phùn",
+		"description": "Pokémon làm cho trời mưa khi nó vào trận chiến."
+	},
+	"Drought": {
+		"name": "Hạn Hán",
+		"description": "Biến ánh sáng mặt trời trở nên khắc nghiệt khi Pokémon vào trận chiến."
+	},
+	"Dry Skin": {
+		"name": "Da Khô",
+		"description": "Giảm HP nếu trời nóng. Nước phục hồi HP."
+	},
+	"Early Bird": {
+		"name": "Chim Sớm",
+		"description": "Pokémon thức dậy nhanh chóng sau khi ngủ."
+	},
+	"Earth Eater": {
+		"name": "Kẻ Ăn Đất",
+		"description": "Phục hồi HP khi bị tấn công bởi chiêu thức hệ Đất."
+	},
+	"Effect Spore": {
+		"name": "Bào Tử Hiệu Ứng",
+		"description": "Tiếp xúc có thể gây độc hoặc gây tê liệt hoặc ngủ."
+	},
+	"Electric Surge": {
+		"name": "Làn Sóng Điện",
+		"description": "Pokémon tạo ra Điện Trường khi nó vào trận chiến."
+	},
+	"Electromorphosis": {
+		"name": "Biến Hình Điện",
+		"description": "Nhân đôi sức mạnh của chiêu thức hệ Điện tiếp theo khi bị tấn công."
+	},
+	"Embody Aspect": {
+		"name": "Hiện Thể Khía Cạnh",
+		"description": "Tăng Tấn Công/Phòng Thủ/Phòng Thủ Đặc Biệt/Tốc Độ tùy thuộc vào hình dạng."
+	},
+	"Emergency Exit": {
+		"name": "Lối Thoát Khẩn Cấp",
+		"description": "Thay ra khi HP giảm xuống dưới 50%."
+	},
+	"Fairy Aura": {
+		"name": "Khí Tiên",
+		"description": "Tăng sức mạnh của các chiêu thức hệ Tiên cho tất cả Pokémon trong trận chiến."
+	},
+	"Filter": {
+		"name": "Bộ Lọc",
+		"description": "Giảm sát thương từ các đòn tấn công hiệu quả cao."
+	},
+	"Flame Body": {
+		"name": "Cơ Thể Lửa",
+		"description": "Tiếp xúc với Pokémon có thể làm bỏng kẻ tấn công."
+	},
+	"Flare Boost": {
+		"name": "Tăng Cường Ngọn Lửa",
+		"description": "Tăng sức mạnh cho các đòn tấn công đặc biệt khi bị bỏng."
+	},
+	"Flash Fire": {
+		"name": "Lửa Bùng",
+		"description": "Nó tăng sức mạnh cho các chiêu thức hệ Lửa nếu nó bị tấn công bởi một chiêu thức hệ Lửa."
+	},
+	"Flower Gift": {
+		"name": "Món Quà Hoa",
+		"description": "Tăng sức mạnh cho Pokémon trong đội khi trời nắng."
+	},
+	"Flower Veil": {
+		"name": "Màn Che Hoa",
+		"description": "Ngăn chặn việc giảm chỉ số của Pokémon hệ Cỏ đồng minh."
+	},
+	"Fluffy": {
+		"name": "Xốp",
+		"description": "Giảm một nửa sát thương từ các chiêu thức tiếp xúc, nhưng nhân đôi sát thương từ các chiêu thức hệ Lửa."
+	},
+	"Forecast": {
+		"name": "Dự Báo Thời Tiết",
+		"description": "Castform biến đổi theo thời tiết."
+	},
+	"Forewarn": {
+		"name": "Cảnh Báo Trước",
+		"description": "Xác định đối thủ có chiêu thức gì."
+	},
+	"Friend Guard": {
+		"name": "Bảo Vệ Bạn Bè",
+		"description": "Giảm sát thương gây ra cho đồng minh."
+	},
+	"Frisk": {
+		"name": "Kiểm Tra",
+		"description": "Pokémon có thể kiểm tra vật phẩm được giữ của đối thủ."
+	},
+	"Full Metal Body": {
+		"name": "Cơ Thể Kim Loại",
+		"description": "Ngăn Pokémon khác hạ thấp chỉ số của nó."
+	},
+	"Fur Coat": {
+		"name": "Áo Lông",
+		"description": "Giảm sát thương từ các chiêu thức vật lý."
+	},
+	"Gale Wings": {
+		"name": "Cánh Bão",
+		"description": "Ưu tiên cho các chiêu thức hệ Bay."
+	},
+	"Galvanize": {
+		"name": "Mạ Kẽm",
+		"description": "Các chiêu thức hệ Thường trở thành chiêu thức hệ Điện và sức mạnh của chúng được tăng cường."
+	},
+	"Gluttony": {
+		"name": "Phàm Ăn",
+		"description": "Khuyến khích sử dụng Berry sớm."
+	},
+	"Good as Gold": {
+		"name": "Tốt Như Vàng",
+		"description": "Miễn nhiễm với các chiêu thức trạng thái."
+	},
+	"Gooey": {
+		"name": "Nhầy Nhụa",
+		"description": "Tiếp xúc với Pokémon làm giảm chỉ số Tốc Độ của kẻ tấn công."
+	},
+	"Gorilla Tactics": {
+		"name": "Chiến Thuật Khỉ Đột",
+		"description": "Tăng chỉ số Tấn Công của Pokémon nhưng chỉ cho phép sử dụng chiêu thức đầu tiên được chọn."
+	},
+	"Grass Pelt": {
+		"name": "Lông Cỏ",
+		"description": "Tăng chỉ số Phòng Thủ trong Cỏ Trường."
+	},
+	"Grassy Surge": {
+		"name": "Làn Sóng Cỏ",
+		"description": "Pokémon tạo ra Cỏ Trường khi nó vào trận chiến."
+	},
+	"Grim Neigh": {
+		"name": "Tiếng Hú Ám Ảnh",
+		"description": "Tăng Tấn Công Đặc Biệt sau khi hạ gục một Pokémon."
+	},
+	"Guard Dog": {
+		"name": "Chó Canh Gác",
+		"description": "Tăng Tấn Công nếu bị đe dọa, và ngăn chặn việc bị buộc phải thay ra."
+	},
+	"Gulp Missile": {
+		"name": "Tên Lửa Nuốt Chửng",
+		"description": "Quay trở lại với một con mồi trong miệng sau khi sử dụng Lướt Sóng hoặc Lặn."
+	},
+	"Guts": {
+		"name": "Can Đảm",
+		"description": "Tăng Tấn Công nếu có vấn đề về trạng thái."
+	},
+	"Hadron Engine": {
+		"name": "Động Cơ Hadron",
+		"description": "Tạo ra Điện Trường khi vào trận chiến và tăng Tấn Công Đặc Biệt khi hoạt động."
+	},
+	"Harvest": {
+		"name": "Thu Hoạch",
+		"description": "Có thể tạo ra một Berry khác sau khi một Berry được sử dụng."
+	},
+	"Healer": {
+		"name": "Người Chữa Lành",
+		"description": "Có thể chữa lành các tình trạng bất lợi của đồng minh."
+	},
+	"Heatproof": {
+		"name": "Chịu Nhiệt",
+		"description": "Làm suy yếu sức mạnh của các chiêu thức hệ Lửa."
+	},
+	"Heavy Metal": {
+		"name": "Kim Loại Nặng",
+		"description": "Nhân đôi trọng lượng của Pokémon."
+	},
+	"Honey Gather": {
+		"name": "Thu Thập Mật Ong",
+		"description": "Pokémon có thể thu thập Mật Ong từ đâu đó."
+	},
+	"Hospitality": {
+		"name": "Hiếu Khách",
+		"description": "Phục hồi một phần HP của đồng minh khi nó vào trận chiến."
+	},
+	"Huge Power": {
+		"name": "Sức Mạnh Khổng Lồ",
+		"description": "Tăng chỉ số Tấn Công của Pokémon."
+	},
+	"Hunger Switch": {
+		"name": "Chuyển Đổi Cơn Đói",
+		"description": "Thay đổi hình dạng mỗi lượt."
+	},
+	"Hustle": {
+		"name": "Hăng Hái",
+		"description": "Tăng chỉ số Tấn Công, nhưng giảm độ chính xác."
+	},
+	"Hydration": {
+		"name": "Hydrat Hóa",
+		"description": "Chữa lành các vấn đề về trạng thái nếu trời đang mưa."
+	},
+	"Hyper Cutter": {
+		"name": "Siêu Dao",
+		"description": "Ngăn Pokémon khác hạ thấp chỉ số Tấn Công."
+	},
+	"Ice Body": {
+		"name": "Cơ Thể Băng",
+		"description": "Pokémon dần dần hồi phục HP trong mưa đá."
+	},
+	"Ice Face": {
+		"name": "Khuôn Mặt Băng",
+		"description": "Tránh sát thương từ các chiêu thức Vật Lý trong một lượt."
+	},
+	"Ice Scales": {
+		"name": "Vảy Băng",
+		"description": "Giảm một nửa sát thương từ các chiêu thức Đặc Biệt."
+	},
+	"Illuminate": {
+		"name": "Chiếu Sáng",
+		"description": "Tăng khả năng gặp Pokémon hoang dã."
+	},
+	"Illusion": {
+		"name": "Ảo Ảnh",
+		"description": "Vào trận chiến cải trang thành Pokémon cuối cùng trong đội."
+	},
+	"Immunity": {
+		"name": "Miễn Dịch",
+		"description": "Ngăn Pokémon bị nhiễm độc."
+	},
+	"Imposter": {
+		"name": "Kẻ Mạo Danh",
+		"description": "Nó biến hình thành Pokémon mà nó đang đối mặt."
+	},
+	"Infiltrator": {
+		"name": "Kẻ Xâm Nhập",
+		"description": "Đi qua hàng rào của đối thủ và tấn công."
+	},
+	"Innards Out": {
+		"name": "Lộn Ruột",
+		"description": "Gây sát thương khi ngất xỉu."
+	},
+	"Inner Focus": {
+		"name": "Tập Trung Nội Tâm",
+		"description": "Pokémon được bảo vệ khỏi bị chùn bước."
+	},
+	"Insomnia": {
+		"name": "Mất Ngủ",
+		"description": "Ngăn Pokémon ngủ quên."
+	},
+	"Intimidate": {
+		"name": "Đe Dọa",
+		"description": "Giảm chỉ số Tấn Công của đối thủ."
+	},
+	"Intrepid Sword": {
+		"name": "Kiếm Dũng Cảm",
+		"description": "Tăng Tấn Công trong trận chiến."
+	},
+	"Iron Barbs": {
+		"name": "Gai Sắt",
+		"description": "Gây sát thương cho Pokémon khi tiếp xúc."
+	},
+	"Iron Fist": {
+		"name": "Nắm Đấm Sắt",
+		"description": "Tăng sức mạnh của các chiêu thức đấm."
+	},
+	"Justified": {
+		"name": "Chính Đáng",
+		"description": "Tăng Tấn Công khi bị tấn công bởi chiêu thức hệ Bóng Tối."
+	},
+	"Keen Eye": {
+		"name": "Mắt Sắc Bén",
+		"description": "Ngăn Pokémon khác hạ thấp độ chính xác."
+	},
+	"Klutz": {
+		"name": "Vụng Về",
+		"description": "Pokémon không thể sử dụng bất kỳ vật phẩm nào được giữ."
+	},
+	"Leaf Guard": {
+		"name": "Lá Chắn",
+		"description": "Ngăn chặn các vấn đề về trạng thái trong thời tiết nắng."
+	},
+	"Levitate": {
+		"name": "Bay Lơ Lửng",
+		"description": "Miễn nhiễm với các chiêu thức hệ Đất."
+	},
+	"Libero": {
+		"name": "Libero",
+		"description": "Thay đổi hệ của Pokémon thành hệ của chiêu thức cuối cùng được sử dụng."
+	},
+	"Light Metal": {
+		"name": "Kim Loại Nhẹ",
+		"description": "Giảm một nửa trọng lượng của Pokémon."
+	},
+	"Lightning Rod": {
+		"name": "Cột Thu Lôi",
+		"description": "Thu hút tất cả các chiêu thức hệ Điện để tăng Tấn Công Đặc Biệt."
+	},
+	"Limber": {
+		"name": "Linh Hoạt",
+		"description": "Pokémon được bảo vệ khỏi bị tê liệt."
+	},
+	"Lingering Aroma": {
+		"name": "Hương Thơm Lưu Lại",
+		"description": "Tiếp xúc thay đổi Khả Năng của kẻ tấn công thành Hương Thơm Lưu Lại."
+	},
+	"Liquid Ooze": {
+		"name": "Chất Lỏng Nhầy Nhụa",
+		"description": "Gây sát thương cho kẻ tấn công sử dụng bất kỳ chiêu thức hút máu nào."
+	},
+	"Liquid Voice": {
+		"name": "Giọng Nói Lỏng",
+		"description": "Tất cả các chiêu thức dựa trên âm thanh trở thành chiêu thức hệ Nước."
+	},
+	"Long Reach": {
+		"name": "Tầm Xa",
+		"description": "Pokémon sử dụng chiêu thức của nó mà không cần tiếp xúc với mục tiêu."
+	},
+	"Magic Bounce": {
+		"name": "Phản Hồi Ma Thuật",
+		"description": "Phản chiếu các chiêu thức thay đổi trạng thái."
+	},
+	"Magic Guard": {
+		"name": "Lá Chắn Ma Thuật",
+		"description": "Bảo vệ Pokémon khỏi sát thương gián tiếp."
+	},
+	"Magician": {
+		"name": "Ảo Thuật Gia",
+		"description": "Pokémon đánh cắp vật phẩm được giữ của Pokémon mà nó tấn công bằng một chiêu thức."
+	},
+	"Magma Armor": {
+		"name": "Giáp Magma",
+		"description": "Ngăn Pokémon bị đóng băng."
+	},
+	"Magnet Pull": {
+		"name": "Hút Nam Châm",
+		"description": "Ngăn Pokémon hệ Thép trốn thoát."
+	},
+	"Marvel Scale": {
+		"name": "Vảy Kỳ Diệu",
+		"description": "Tăng Phòng Thủ nếu có vấn đề về trạng thái."
+	},
+	"Mega Launcher": {
+		"name": "Siêu Phóng",
+		"description": "Tăng sức mạnh của các chiêu thức hào quang và xung."
+	},
+	"Merciless": {
+		"name": "Tàn Nhẫn",
+		"description": "Các đòn tấn công của Pokémon trở thành đòn chí mạng nếu mục tiêu bị nhiễm độc."
+	},
+	"Mimicry": {
+		"name": "Bắt Chước",
+		"description": "Thay đổi hệ tùy thuộc vào địa hình."
+	},
+	"Mind's Eye": {
+		"name": "Con Mắt Tâm Trí",
+		"description": "Bỏ qua chỉ số Né Tránh của đối thủ và cho phép các đòn tấn công hệ Thường và hệ Giác Đấu tấn công Pokémon hệ Ma."
+	},
+	"Minus": {
+		"name": "Âm",
+		"description": "Tăng Tấn Công Đặc Biệt nếu Pokémon khác có Dương hoặc Âm."
+	},
+	"Mirror Armor": {
+		"name": "Giáp Gương",
+		"description": "Phản chiếu mọi hiệu ứng giảm chỉ số."
+	},
+	"Misty Surge": {
+		"name": "Làn Sóng Sương Mù",
+		"description": "Pokémon tạo ra Sương Mù Trường khi nó vào trận chiến."
+	},
+	"Mold Breaker": {
+		"name": "Phá Khuôn",
+		"description": "Các chiêu thức có thể được sử dụng bất kể Khả Năng."
+	},
+	"Moody": {
+		"name": "Sáng Nắng Chiều Mưa",
+		"description": "Tăng một chỉ số và giảm một chỉ số khác."
+	},
+	"Motor Drive": {
+		"name": "Truyền Động",
+		"description": "Tăng Tốc Độ nếu bị tấn công bởi chiêu thức hệ Điện."
+	},
+	"Moxie": {
+		"name": "Máu Liều",
+		"description": "Tăng Tấn Công sau khi hạ gục bất kỳ Pokémon nào."
+	},
+	"Multiscale": {
+		"name": "Đa Vảy",
+		"description": "Giảm sát thương khi HP đầy."
+	},
+	"Multitype": {
+		"name": "Đa Hệ",
+		"description": "Thay đổi hệ để phù hợp với Plate được giữ."
+	},
+	"Mummy": {
+		"name": "Xác Ướp",
+		"description": "Tiếp xúc với Pokémon này sẽ lây lan Khả Năng này."
+	},
+	"Mycelium Might": {
+		"name": "Sức Mạnh Nấm",
+		"description": "Các chiêu thức trạng thái ra sau, nhưng không bị ảnh hưởng bởi khả năng của đối thủ."
+	},
+	"Natural Cure": {
+		"name": "Chữa Trị Tự Nhiên",
+		"description": "Tất cả các vấn đề về trạng thái được chữa lành khi nó ra khỏi trận chiến."
+	},
+	"Neuroforce": {
+		"name": "Lực Thần Kinh",
+		"description": "Tăng sức mạnh cho các chiêu thức hiệu quả cao."
+	},
+	"Neutralizing Gas": {
+		"name": "Khí Trung Hòa",
+		"description": "Trung hòa khả năng của tất cả Pokémon trong trận chiến."
+	},
+	"No Guard": {
+		"name": "Không Phòng Vệ",
+		"description": "Đảm bảo các đòn tấn công bởi hoặc chống lại Pokémon đều trúng đích."
+	},
+	"Normalize": {
+		"name": "Chuẩn Hóa",
+		"description": "Tất cả các chiêu thức của Pokémon đều trở thành hệ Thường."
+	},
+	"Oblivious": {
+		"name": "Vô Tư",
+		"description": "Ngăn nó bị say mê."
+	},
+	"Opportunist": {
+		"name": "Kẻ Cơ Hội",
+		"description": "Sao chép tăng chỉ số của đối thủ."
+	},
+	"Orichalcum Pulse": {
+		"name": "Mạch Orichalcum",
+		"description": "Biến ánh sáng mặt trời trở nên khắc nghiệt khi vào trận chiến và tăng Tấn Công khi hoạt động."
+	},
+	"Overcoat": {
+		"name": "Áo Khoác",
+		"description": "Bảo vệ Pokémon khỏi sát thương do thời tiết."
+	},
+	"Overgrow": {
+		"name": "Sinh Trưởng",
+		"description": "Tăng sức mạnh cho các chiêu thức hệ Cỏ khi gặp nguy hiểm."
+	},
+	"Own Tempo": {
+		"name": "Nhịp Điệu Riêng",
+		"description": "Ngăn Pokémon bị nhầm lẫn."
+	},
+	"Parental Bond": {
+		"name": "Liên Kết Cha Mẹ",
+		"description": "Cho phép Pokémon tấn công hai lần."
+	},
+	"Pastel Veil": {
+		"name": "Màn Che Màu Pastel",
+		"description": "Ngăn Pokémon và đồng minh của nó bị nhiễm độc."
+	},
+	"Perish Body": {
+		"name": "Cơ Thể Diệt Vong",
+		"description": "Khi bị tấn công bởi một chiêu thức tiếp xúc trực tiếp, Pokémon và kẻ tấn công sẽ ngất xỉu sau ba lượt trừ khi chúng ra khỏi trận chiến."
+	},
+	"Pickpocket": {
+		"name": "Móc Túi",
+		"description": "Đánh cắp một vật phẩm khi bị Pokémon khác tấn công."
+	},
+	"Pickup": {
+		"name": "Nhặt Đồ",
+		"description": "Pokémon có thể nhặt vật phẩm."
+	},
+	"Pixilate": {
+		"name": "Pixel Hóa",
+		"description": "Biến các chiêu thức hệ Thường thành hệ Tiên."
+	},
+	"Plus": {
+		"name": "Dương",
+		"description": "Tăng Tấn Công Đặc Biệt nếu Pokémon khác có Dương hoặc Âm."
+	},
+	"Poison Heal": {
+		"name": "Hồi Máu Độc",
+		"description": "Phục hồi HP nếu Pokémon bị nhiễm độc."
+	},
+	"Poison Point": {
+		"name": "Gai Độc",
+		"description": "Tiếp xúc với Pokémon có thể gây độc cho kẻ tấn công."
+	},
+	"Poison Puppeteer": {
+		"name": "Bậc Thầy Múa Rối Độc",
+		"description": "Pokémon bị nhiễm độc cũng sẽ bị bối rối."
+	},
+	"Poison Touch": {
+		"name": "Cú Chạm Độc",
+		"description": "Có thể gây độc cho mục tiêu khi Pokémon tiếp xúc."
+	},
+	"Power Construct": {
+		"name": "Cấu Trúc Sức Mạnh",
+		"description": "Thay đổi hình dạng khi HP giảm xuống dưới một nửa."
+	},
+	"Power of Alchemy": {
+		"name": "Sức Mạnh Giả Kim",
+		"description": "Pokémon sao chép Khả Năng của đồng minh bị đánh bại."
+	},
+	"Power Spot": {
+		"name": "Điểm Sức Mạnh",
+		"description": "Chỉ cần ở cạnh Pokémon là tăng sức mạnh cho các chiêu thức."
+	},
+	"Prankster": {
+		"name": "Kẻ Nghịch Ngợm",
+		"description": "Ưu tiên cho một chiêu thức trạng thái."
+	},
+	"Pressure": {
+		"name": "Áp Lực",
+		"description": "Pokémon làm tăng mức sử dụng PP của đối thủ."
+	},
+	"Primordial Sea": {
+		"name": "Biển Nguyên Thủy",
+		"description": "Làm cho trời mưa lớn khi khả năng được kích hoạt."
+	},
+	"Prism Armor": {
+		"name": "Giáp Lăng Kính",
+		"description": "Giảm sát thương từ các đòn tấn công hiệu quả cao."
+	},
+	"Propeller Tail": {
+		"name": "Đuôi Cánh Quạt",
+		"description": "Bỏ qua các chiêu thức và khả năng hút các chiêu thức."
+	},
+	"Protean": {
+		"name": "Biến Hình",
+		"description": "Thay đổi hệ của Pokémon thành hệ của chiêu thức cuối cùng được sử dụng."
+	},
+	"Protosynthesis": {
+		"name": "Quang Hợp Nguyên Thủy",
+		"description": "Tăng chỉ số cao nhất dưới ánh sáng mặt trời gay gắt hoặc nếu đang giữ Năng Lượng Tăng Cường."
+	},
+	"Psychic Surge": {
+		"name": "Làn Sóng Tâm Linh",
+		"description": "Pokémon tạo ra Tâm Linh Trường khi nó vào trận chiến."
+	},
+	"Punk Rock": {
+		"name": "Punk Rock",
+		"description": "Tăng sức mạnh cho các chiêu thức dựa trên âm thanh và giảm một nửa sát thương từ các chiêu thức tương tự."
+	},
+	"Pure Power": {
+		"name": "Sức Mạnh Thuần Khiết",
+		"description": "Tăng chỉ số Tấn Công của Pokémon."
+	},
+	"Purifying Salt": {
+		"name": "Muối Thanh Tẩy",
+		"description": "Bảo vệ khỏi các tình trạng bất lợi và giảm một nửa sát thương từ các chiêu thức hệ Ma."
+	},
+	"Quark Drive": {
+		"name": "Truyền Động Quark",
+		"description": "Tăng chỉ số cao nhất trên Điện Trường hoặc nếu đang giữ Năng Lượng Tăng Cường."
+	},
+	"Queenly Majesty": {
+		"name": "Uy Nghi Hoàng Hậu",
+		"description": "Ngăn chặn việc sử dụng các chiêu thức ưu tiên."
+	},
+	"Quick Draw": {
+		"name": "Rút Nhanh",
+		"description": "Tăng khả năng ra chiêu trước."
+	},
+	"Quick Feet": {
+		"name": "Chân Nhanh",
+		"description": "Tăng Tốc Độ nếu có vấn đề về trạng thái."
+	},
+	"Rain Dish": {
+		"name": "Đĩa Mưa",
+		"description": "Pokémon dần dần hồi phục HP trong mưa."
+	},
+	"Rattled": {
+		"name": "Hoảng Sợ",
+		"description": "Các chiêu thức hệ Bọ, Ma hoặc Bóng Tối làm nó sợ hãi và tăng Tốc Độ của nó."
+	},
+	"Receiver": {
+		"name": "Người Tiếp Nhận",
+		"description": "Kế thừa khả năng của đồng minh khi nó ngất xỉu."
+	},
+	"Reckless": {
+		"name": "Liều Lĩnh",
+		"description": "Tăng sức mạnh cho các chiêu thức gây sát thương giật lùi."
+	},
+	"Refrigerate": {
+		"name": "Làm Lạnh",
+		"description": "Biến các chiêu thức hệ Thường thành hệ Băng."
+	},
+	"Regenerator": {
+		"name": "Tái Tạo",
+		"description": "Phục hồi một ít HP khi rút khỏi trận chiến."
+	},
+	"Ripen": {
+		"name": "Chín",
+		"description": "Nhân đôi hiệu quả của quả mọng."
+	},
+	"Rivalry": {
+		"name": "Cạnh Tranh Giới Tính",
+		"description": "Gây thêm sát thương cho Pokémon cùng giới tính."
+	},
+	"RKS System": {
+		"name": "Hệ Thống RKS",
+		"description": "Thay đổi hệ tùy thuộc vào vật phẩm được giữ."
+	},
+	"Rock Head": {
+		"name": "Đầu Đá",
+		"description": "Bảo vệ Pokémon khỏi sát thương giật lùi."
+	},
+	"Rocky Payload": {
+		"name": "Tải Trọng Đá",
+		"description": "Tăng sức mạnh cho các chiêu thức hệ Đá."
+	},
+	"Rough Skin": {
+		"name": "Da Thô Ráp",
+		"description": "Gây sát thương cho kẻ tấn công khi tiếp xúc."
+	},
+	"Run Away": {
+		"name": "Chạy Trốn",
+		"description": "Cho phép chạy trốn chắc chắn khỏi Pokémon hoang dã."
+	},
+	"Sand Force": {
+		"name": "Lực Cát",
+		"description": "Tăng sức mạnh của một số chiêu thức trong bão cát."
+	},
+	"Sand Rush": {
+		"name": "Xung Phong Cát",
+		"description": "Tăng Tốc Độ của Pokémon trong bão cát."
+	},
+	"Sand Spit": {
+		"name": "Nhổ Cát",
+		"description": "Tạo ra bão cát khi bị tấn công."
+	},
+	"Sand Stream": {
+		"name": "Dòng Cát",
+		"description": "Pokémon triệu hồi bão cát trong trận chiến."
+	},
+	"Sand Veil": {
+		"name": "Màn Che Cát",
+		"description": "Tăng khả năng né tránh của Pokémon trong bão cát."
+	},
+	"Sap Sipper": {
+		"name": "Kẻ Hút Nhựa",
+		"description": "Tăng Tấn Công khi bị tấn công bởi chiêu thức hệ Cỏ."
+	},
+	"Schooling": {
+		"name": "Đàn Cá",
+		"description": "Thay đổi Wishiwashi thành Dạng Đàn."
+	},
+	"Scrappy": {
+		"name": "Hiếu Chiến",
+		"description": "Cho phép các chiêu thức tấn công Pokémon hệ Ma."
+	},
+	"Screen Cleaner": {
+		"name": "Người Làm Sạch Màn Hình",
+		"description": "Vô hiệu hóa hiệu ứng của Ánh Sáng Màn Hình, Phản Chiếu và Màn Che Cực Quang."
+	},
+	"Seed Sower": {
+		"name": "Kẻ Gieo Hạt",
+		"description": "Biến mặt đất thành Cỏ Trường khi Pokémon bị tấn công."
+	},
+	"Serene Grace": {
+		"name": "Ân Sủng Thanh Thản",
+		"description": "Tăng khả năng xuất hiện các hiệu ứng bổ sung."
+	},
+	"Shadow Shield": {
+		"name": "Khiên Bóng Tối",
+		"description": "Giảm sát thương khi HP đầy."
+	},
+	"Shadow Tag": {
+		"name": "Đánh Dấu Bóng Tối",
+		"description": "Ngăn đối thủ chạy trốn."
+	},
+	"Sharpness": {
+		"name": "Sắc Bén",
+		"description": "Tăng sức mạnh của các chiêu thức cắt."
+	},
+	"Shed Skin": {
+		"name": "Lột Da",
+		"description": "Pokémon có thể tự chữa lành các vấn đề về trạng thái của mình."
+	},
+	"Sheer Force": {
+		"name": "Sức Mạnh Tuyệt Đối",
+		"description": "Loại bỏ các hiệu ứng bổ sung để tăng sát thương chiêu thức."
+	},
+	"Shell Armor": {
+		"name": "Giáp Vỏ",
+		"description": "Pokémon được bảo vệ khỏi các đòn chí mạng."
+	},
+	"Shield Dust": {
+		"name": "Bụi Khiên",
+		"description": "Chặn các hiệu ứng bổ sung của các đòn tấn công phải chịu."
+	},
+	"Shields Down": {
+		"name": "Hạ Khiên",
+		"description": "Thay đổi chỉ số khi HP giảm xuống dưới một nửa."
+	},
+	"Simple": {
+		"name": "Đơn Giản",
+		"description": "Nhân đôi tất cả các thay đổi chỉ số."
+	},
+	"Skill Link": {
+		"name": "Liên Kết Kỹ Năng",
+		"description": "Tăng tần suất của các chiêu thức đa đánh."
+	},
+	"Slow Start": {
+		"name": "Khởi Đầu Chậm",
+		"description": "Tạm thời giảm một nửa Tấn Công và Tốc Độ."
+	},
+	"Slush Rush": {
+		"name": "Xung Phong Tuyết",
+		"description": "Tăng chỉ số Tốc Độ của Pokémon trong mưa đá."
+	},
+	"Sniper": {
+		"name": "Xạ Thủ",
+		"description": "Tăng sức mạnh cho các chiêu thức nếu chúng trở thành đòn chí mạng."
+	},
+	"Snow Cloak": {
+		"name": "Áo Choàng Tuyết",
+		"description": "Tăng khả năng né tránh trong mưa đá."
+	},
+	"Snow Warning": {
+		"name": "Cảnh Báo Tuyết",
+		"description": "Pokémon triệu hồi mưa đá trong trận chiến."
+	},
+	"Solar Power": {
+		"name": "Năng Lượng Mặt Trời",
+		"description": "Dưới ánh nắng mặt trời, Tấn Công Đặc Biệt được tăng cường nhưng HP giảm."
+	},
+	"Solid Rock": {
+		"name": "Đá Rắn",
+		"description": "Giảm sát thương từ các đòn tấn công hiệu quả cao."
+	},
+	"Soul-Heart": {
+		"name": "Trái Tim Linh Hồn",
+		"description": "Tăng Tấn Công Đặc Biệt khi Pokémon khác ngất xỉu."
+	},
+	"Soundproof": {
+		"name": "Cách Âm",
+		"description": "Miễn nhiễm với các chiêu thức dựa trên âm thanh."
+	},
+	"Speed Boost": {
+		"name": "Tăng Tốc",
+		"description": "Chỉ số Tốc Độ của nó dần dần được tăng cường."
+	},
+	"Stakeout": {
+		"name": "Phục Kích",
+		"description": "Gây sát thương gấp đôi cho Pokémon đang chuyển vào."
+	},
+	"Stall": {
+		"name": "Cản Trở",
+		"description": "Pokémon di chuyển sau khi tất cả các Pokémon khác di chuyển."
+	},
+	"Stalwart": {
+		"name": "Kiên Cường",
+		"description": "Bỏ qua các chiêu thức và khả năng hút các chiêu thức."
+	},
+	"Stamina": {
+		"name": "Thể Lực",
+		"description": "Tăng Phòng Thủ khi bị tấn công."
+	},
+	"Stance Change": {
+		"name": "Thay Đổi Tư Thế",
+		"description": "Thay đổi hình dạng tùy thuộc vào chiêu thức được sử dụng."
+	},
+	"Static": {
+		"name": "Tĩnh Điện",
+		"description": "Tiếp xúc với Pokémon có thể gây tê liệt."
+	},
+	"Steadfast": {
+		"name": "Kiên Định",
+		"description": "Tăng Tốc Độ mỗi khi Pokémon chùn bước."
+	},
+	"Steam Engine": {
+		"name": "Động Cơ Hơi Nước",
+		"description": "Tăng Tốc Độ đáng kể khi bị tấn công bởi chiêu thức hệ Lửa hoặc Nước."
+	},
+	"Steelworker": {
+		"name": "Công Nhân Thép",
+		"description": "Tăng sức mạnh cho các chiêu thức hệ Thép."
+	},
+	"Steely Spirit": {
+		"name": "Tinh Thần Thép",
+		"description": "Tăng sức mạnh cho các chiêu thức hệ Thép của Pokémon đồng minh."
+	},
+	"Stench": {
+		"name": "Mùi Hôi",
+		"description": "Mùi hôi có thể khiến mục tiêu chùn bước."
+	},
+	"Sticky Hold": {
+		"name": "Giữ Chặt",
+		"description": "Bảo vệ Pokémon khỏi bị trộm vật phẩm."
+	},
+	"Storm Drain": {
+		"name": "Cống Thoát Nước",
+		"description": "Thu hút tất cả các chiêu thức hệ Nước để tăng Tấn Công Đặc Biệt."
+	},
+	"Strong Jaw": {
+		"name": "Hàm Mạnh",
+		"description": "Tăng sức mạnh của các chiêu thức cắn."
+	},
+	"Sturdy": {
+		"name": "Cứng Cỏi",
+		"description": "Nó không thể bị hạ gục bằng một đòn."
+	},
+	"Suction Cups": {
+		"name": "Cốc Hút",
+		"description": "Phủ nhận tất cả các chiêu thức buộc phải thay ra."
+	},
+	"Super Luck": {
+		"name": "Siêu May Mắn",
+		"description": "Tăng tỷ lệ chí mạng của các chiêu thức."
+	},
+	"Supersweet Syrup": {
+		"name": "Siro Siêu Ngọt",
+		"description": "Giảm khả năng né tránh của đối thủ khi vào trận chiến."
+	},
+	"Supreme Overlord": {
+		"name": "Chúa Tể Tối Cao",
+		"description": "Tấn Công và Tấn Công Đặc Biệt được tăng cường cho mỗi Pokémon trong đội đã bị đánh bại."
+	},
+	"Surge Surfer": {
+		"name": "Lướt Sóng Năng Lượng",
+		"description": "Nhân đôi Tốc Độ trong Điện Trường."
+	},
+	"Swarm": {
+		"name": "Bầy Đàn",
+		"description": "Tăng sức mạnh cho các chiêu thức hệ Bọ khi gặp nguy hiểm."
+	},
+	"Sweet Veil": {
+		"name": "Màn Che Ngọt Ngào",
+		"description": "Ngăn Pokémon và đồng minh ngủ quên."
+	},
+	"Swift Swim": {
+		"name": "Bơi Nhanh",
+		"description": "Tăng Tốc Độ của Pokémon trong mưa."
+	},
+	"Sword of Ruin": {
+		"name": "Kiếm Diệt Vong",
+		"description": "Giảm Phòng Thủ của tất cả Pokémon trừ bản thân."
+	},
+	"Symbiosis": {
+		"name": "Cộng Sinh",
+		"description": "Pokémon có thể chuyển vật phẩm cho đồng minh."
+	},
+	"Synchronize": {
+		"name": "Đồng Bộ",
+		"description": "Truyền bỏng, nhiễm độc hoặc tê liệt cho đối thủ."
+	},
+	"Tablets of Ruin": {
+		"name": "Bảng Diệt Vong",
+		"description": "Giảm Tấn Công của tất cả Pokémon trừ bản thân."
+	},
+	"Tangled Feet": {
+		"name": "Chân Bị Vướng",
+		"description": "Tăng khả năng né tránh nếu Pokémon bị bối rối."
+	},
+	"Tangling Hair": {
+		"name": "Tóc Vướng Víu",
+		"description": "Tiếp xúc với Pokémon làm giảm chỉ số Tốc Độ của kẻ tấn công."
+	},
+	"Technician": {
+		"name": "Kỹ Thuật Viên",
+		"description": "Tăng sức mạnh cho các chiêu thức yếu hơn của Pokémon."
+	},
+	"Telepathy": {
+		"name": "Thần Giao Cách Cảm",
+		"description": "Dự đoán đòn tấn công của đồng minh và né tránh nó."
+	},
+	"Tera Shell": {
+		"name": "Vỏ Terastal",
+		"description": "Các chiêu thức không hiệu quả lắm khi HP đầy."
+	},
+	"Tera Shift": {
+		"name": "Thay Đổi Terastal",
+		"description": "Biến thành Dạng Terastal trong trận chiến."
+	},
+	"Teraform Zero": {
+		"name": "Teraform Zero",
+		"description": "Loại bỏ tất cả các hiệu ứng của thời tiết và địa hình."
+	},
+	"Teravolt": {
+		"name": "Teravolt",
+		"description": "Các chiêu thức có thể được sử dụng bất kể Khả Năng."
+	},
+	"Thermal Exchange": {
+		"name": "Trao Đổi Nhiệt",
+		"description": "Tăng Tấn Công khi bị tấn công bởi chiêu thức hệ Lửa. Không thể bị bỏng."
+	},
+	"Thick Fat": {
+		"name": "Mỡ Dày",
+		"description": "Tăng khả năng kháng cự với các chiêu thức hệ Lửa và Băng."
+	},
+	"Tinted Lens": {
+		"name": "Ống Kính Màu",
+		"description": "Tăng sức mạnh cho các chiêu thức ",
+		"không hiệu quả lắm": "."
+	},
+	"Torrent": {
+		"name": "Dòng Nước",
+		"description": "Tăng sức mạnh cho các chiêu thức hệ Nước khi gặp nguy hiểm."
+	},
+	"Tough Claws": {
+		"name": "Móng Vuốt Cứng",
+		"description": "Tăng sức mạnh của các chiêu thức tiếp xúc."
+	},
+	"Toxic Boost": {
+		"name": "Tăng Cường Độc",
+		"description": "Tăng sức mạnh cho các đòn tấn công vật lý khi bị nhiễm độc."
+	},
+	"Toxic Chain": {
+		"name": "Chuỗi Độc",
+		"description": "Có thể gây ngộ độc nặng."
+	},
+	"Toxic Debris": {
+		"name": "Mảnh Vỡ Độc Hại",
+		"description": "Rải gai độc dưới chân đội đối phương khi Pokémon bị sát thương từ các chiêu thức vật lý."
+	},
+	"Trace": {
+		"name": "Theo Dõi",
+		"description": "Pokémon sao chép Khả Năng của đối thủ."
+	},
+	"Transistor": {
+		"name": "Bóng Bán Dẫn",
+		"description": "Tăng sức mạnh cho các chiêu thức hệ Điện."
+	},
+	"Triage": {
+		"name": "Phân Loại Ưu Tiên",
+		"description": "Ưu tiên cho các chiêu thức phục hồi."
+	},
+	"Truant": {
+		"name": "Trốn Học",
+		"description": "Pokémon không thể tấn công trong các lượt liên tiếp."
+	},
+	"Turboblaze": {
+		"name": "Ngọn Lửa Turbo",
+		"description": "Các chiêu thức có thể được sử dụng bất kể Khả Năng."
+	},
+	"Unaware": {
+		"name": "Không Nhận Thức",
+		"description": "Bỏ qua mọi thay đổi chỉ số trong Pokémon."
+	},
+	"Unburden": {
+		"name": "Giảm Gánh Nặng",
+		"description": "Tăng Tốc Độ nếu vật phẩm được giữ được sử dụng."
+	},
+	"Unnerve": {
+		"name": "Làm Lo Lắng",
+		"description": "Làm cho đối thủ lo lắng và không thể ăn Berry."
+	},
+	"Unseen Fist": {
+		"name": "Nắm Đấm Vô Hình",
+		"description": "Các chiêu thức tiếp xúc có thể tấn công xuyên qua Bảo Vệ/Phát Hiện."
+	},
+	"Vessel of Ruin": {
+		"name": "Bình Diệt Vong",
+		"description": "Giảm Tấn Công Đặc Biệt của tất cả Pokémon trừ bản thân."
+	},
+	"Victory Star": {
+		"name": "Ngôi Sao Chiến Thắng",
+		"description": "Tăng độ chính xác của đồng minh và bản thân."
+	},
+	"Vital Spirit": {
+		"name": "Tinh Thần Sống",
+		"description": "Ngăn Pokémon ngủ quên."
+	},
+	"Volt Absorb": {
+		"name": "Hấp Thụ Điện",
+		"description": "Phục hồi HP nếu bị tấn công bởi chiêu thức hệ Điện."
+	},
+	"Wandering Spirit": {
+		"name": "Linh Hồn Lang Thang",
+		"description": "Trao đổi khả năng với đối thủ khi tiếp xúc."
+	},
+	"Water Absorb": {
+		"name": "Hấp Thụ Nước",
+		"description": "Phục hồi HP nếu bị tấn công bởi chiêu thức hệ Nước."
+	},
+	"Water Bubble": {
+		"name": "Bong Bóng Nước",
+		"description": "Giảm một nửa sát thương từ các chiêu thức hệ Lửa, nhân đôi sức mạnh của các chiêu thức hệ Nước được sử dụng và ngăn ngừa bỏng."
+	},
+	"Water Compaction": {
+		"name": "Nén Nước",
+		"description": "Tăng mạnh Phòng Thủ khi bị tấn công bởi chiêu thức hệ Nước."
+	},
+	"Water Veil": {
+		"name": "Màn Che Nước",
+		"description": "Ngăn Pokémon bị bỏng."
+	},
+	"Weak Armor": {
+		"name": "Giáp Yếu",
+		"description": "Các đòn tấn công vật lý làm giảm Phòng Thủ và tăng Tốc Độ."
+	},
+	"Well-Baked Body": {
+		"name": "Cơ Thể Nướng Chín",
+		"description": "Miễn nhiễm với các chiêu thức hệ Lửa và Phòng Thủ được tăng cường mạnh mẽ."
+	},
+	"White Smoke": {
+		"name": "Khói Trắng",
+		"description": "Ngăn Pokémon khác hạ thấp chỉ số của nó."
+	},
+	"Wimp Out": {
+		"name": "Bỏ Cuộc",
+		"description": "Thay ra khi HP giảm xuống dưới một nửa."
+	},
+	"Wind Power": {
+		"name": "Sức Mạnh Gió",
+		"description": "Nhân đôi sức mạnh của chiêu thức hệ Điện tiếp theo được sử dụng, khi bị tấn công bởi chiêu thức gió."
+	},
+	"Wind Rider": {
+		"name": "Cưỡi Gió",
+		"description": "Không nhận sát thương từ các chiêu thức gió và tăng Tấn Công nếu bị tấn công bởi một chiêu thức gió."
+	},
+	"Wonder Guard": {
+		"name": "Lá Chắn Kỳ Diệu",
+		"description": "Chỉ các chiêu thức hiệu quả cao mới trúng đích."
+	},
+	"Wonder Skin": {
+		"name": "Làn Da Kỳ Diệu",
+		"description": "Làm cho các chiêu thức thay đổi trạng thái dễ bị trượt hơn."
+	},
+	"Zen Mode": {
+		"name": "Chế Độ Thiền",
+		"description": "Thay đổi hình dạng khi HP giảm xuống dưới một nửa."
+	},
+	"Zero to Hero": {
+		"name": "Từ Zero Đến Anh Hùng",
+		"description": "Biến thành Dạng Anh Hùng khi thay ra."
+	}
+}
