@@ -4539,3 +4539,6 @@ $百万顿重拳=<span class="pokemon-move normal" data-pokedex="Mega Punch">Meg
 $DD 金勾臂=<span class="pokemon-move dark" data-pokedex="Darkest Lariat">Darkest Lariat</span>
 $DD 金钩臂=<span class="pokemon-move dark" data-pokedex="Darkest Lariat">Darkest Lariat</span>
 $麻痹粉=<span class="pokemon-move grass" data-pokedex="Stun Spore">Stun Spore</span>
+$影子球=<span class="pokemon-move ghost" data-pokedex="Shadow Ball">Shadow Ball</span>
+$恶波动=<span class="pokemon-move dark" data-pokedex="Dark Pulse">Dark Pulse</span>
+$水波动=<span class="pokemon-move water" data-pokedex="Water Pulse">Water Pulse</span>
