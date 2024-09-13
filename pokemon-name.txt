@@ -1817,6 +1817,7 @@ $幽灵属性=thuộc tính ma<img class="pokemon-type" data-pokedex="Ghost" src
 $格斗属性=thuộc tính cách đấu<img class="pokemon-type" data-pokedex="Fighting" src="https://i.postimg.cc/yNwBz5yk/Fighting.png">
 $超能属性=thuộc tính siêu năng<img class="pokemon-type" data-pokedex="Psychic" src="https://i.postimg.cc/fLhFChvj/Psychic.png">
 $飞行属性=thuộc tính bay<img class="pokemon-type" data-pokedex="Flying" src="https://i.postimg.cc/L64cG2Fx/Flying.png">
+$超能力属性=thuộc tính siêu năng<img class="pokemon-type" data-pokedex="Psychic" src="https://i.postimg.cc/fLhFChvj/Psychic.png">
 
 $冰系=hệ băng<img class="pokemon-type" data-pokedex="Ice" src="https://i.postimg.cc/m28srhSx/Ice.png">
 $恶系=hệ bóng tối<img class="pokemon-type" data-pokedex="Dark" src="https://i.postimg.cc/tTtcmmS0/Dark.png">
