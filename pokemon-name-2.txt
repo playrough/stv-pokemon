@@ -3266,8 +3266,7 @@ $鸭嘴火龙=Magmar<img index="#0126" class="pokemon-image" data-pokedex="Magma
 $鸭嘴焰龙=Magmortar<img index="#0467" class="pokemon-image" data-pokedex="Magmortar" src="https://i.ibb.co/18gVwc1/image467.png">
 $原始固拉多=Primal Groudon<img index="#0383" class="pokemon-image" data-pokedex="Groudon" src="https://i.ibb.co/wr56v66/image383.png"><img index="#0383" class="pokemon-image" data-pokedex="Primal Groudon" src="https://i.ibb.co/b1nwCVZ/Primal-Groudon.png">
 $原始盖欧卡=Primal Kyogre<img index="#0382" class="pokemon-image" data-pokedex="Kyogre" src="https://i.ibb.co/dtvNgYY/image382.png"><img index="#0382" class="pokemon-image" data-pokedex="Primal Kyogre" src="https://i.ibb.co/LNkz0Fs/Primal-Kyogre.png">
-$赤炎咆哮虎=Incineroar<img index="#0727" class="pokemon-image" data-pokedex="Incineroar" src="https://i.postimg.cc/gx4Lwvqz/image727.png">
-
+$赤炎咆哮虎=Incineroar<img index="#0727" class="pokemon-image" data-pokedex="Incineroar" src="https://i.ibb.co/jHRW65c/image727.png">
 _____________SHINY_____________
 $闪光喷火龙=Shiny Charizard<img index="#0006" class="pokemon-image" src="https://i.postimg.cc/zf0hCCGy/delpmav-730ef73a-1ee2-42f2-9875-3ef30a41a4c2.png">
 $闪光铁哑铃=Shiny Beldum<img index="#0374" class="pokemon-image" src="https://i.postimg.cc/bSy5LJR8/shiny-beldum.png">
