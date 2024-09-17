@@ -4543,3 +4543,4 @@ $麻痹粉=<span class="pokemon-move grass" data-pokedex="Stun Spore">Stun Spore
 $影子球=<span class="pokemon-move ghost" data-pokedex="Shadow Ball">Shadow Ball</span>
 $恶波动=<span class="pokemon-move dark" data-pokedex="Dark Pulse">Dark Pulse</span>
 $水波动=<span class="pokemon-move water" data-pokedex="Water Pulse">Water Pulse</span>
+$缩小=<span class="pokemon-move normal" data-pokedex="Minimize">Minimize</span>
