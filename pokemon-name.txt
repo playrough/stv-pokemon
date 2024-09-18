@@ -68,7 +68,6 @@ $星琪五=Frieda
 $星祺六=Santos
 $星祺天=Sunny
 $遗忘爷爷=Move Deleter
-$小哥=Dude
 
 $克丽丝=Kris
 $水京=Eusine
