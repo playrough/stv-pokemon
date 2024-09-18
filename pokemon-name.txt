@@ -5001,3 +5001,4 @@ $影子球=<span class="pokemon-move ghost" data-pokedex="Shadow Ball">Shadow Ba
 $恶波动=<span class="pokemon-move dark" data-pokedex="Dark Pulse">Dark Pulse</span>
 $水波动=<span class="pokemon-move water" data-pokedex="Water Pulse">Water Pulse</span>
 $缩小=<span class="pokemon-move normal" data-pokedex="Minimize">Minimize</span>
+$破坏死光=<span class="pokemon-move normal" data-pokedex="Hyper Beam">Hyper Beam</span>
