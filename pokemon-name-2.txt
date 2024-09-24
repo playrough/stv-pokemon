@@ -3267,7 +3267,7 @@ $鸭嘴焰龙=Magmortar<img index="#0467" class="pokemon-image" data-pokedex="Ma
 $原始固拉多=Primal Groudon<img index="#0383" class="pokemon-image" data-pokedex="Primal Groudon" src="https://i.ibb.co/b1nwCVZ/Primal-Groudon.png">
 $原始盖欧卡=Primal Kyogre<img index="#0382" class="pokemon-image" data-pokedex="Primal Kyogre" src="https://i.ibb.co/LNkz0Fs/Primal-Kyogre.png">
 $赤炎咆哮虎=Incineroar<img index="#0727" class="pokemon-image" data-pokedex="Incineroar" src="https://i.ibb.co/jHRW65c/image727.png">
-$裂空座=Rayquaza<img index="#0384" class="pokemon-image" data-pokedex="Rayquaza" src="https://i.postimg.cc/d7MPjdVd/image384.png">
+$裂空座=Rayquaza<img index="#0384" class="pokemon-image" data-pokedex="Rayquaza" src="https://i.ibb.co/ckmPF4w/image384.png">
 
 _____________SHINY_____________
 $闪光喷火龙=Shiny Charizard<img index="#0006" class="pokemon-image" src="https://i.postimg.cc/zf0hCCGy/delpmav-730ef73a-1ee2-42f2-9875-3ef30a41a4c2.png">
