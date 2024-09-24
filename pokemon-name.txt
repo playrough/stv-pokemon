@@ -21,7 +21,6 @@ $富士老人=Mr. Fuji
 $巴奧巴=Baoba
 $妈妈=Mom
 $模仿少女=Copycat
-$老人=Old man
 $宝可梦中心的姐姐=Pokémon Center Nurse
 
 $武藏=Jessie
