@@ -3724,6 +3724,7 @@ $原始盖欧卡=Primal Kyogre<img index="#0382" class="pokemon-image" data-poke
 $赤炎咆哮虎=Incineroar<img index="#0727" class="pokemon-image" data-pokedex="Incineroar" src="https://i.postimg.cc/gx4Lwvqz/image727.png">
 $裂空座=Rayquaza<img index="#0384" class="pokemon-image" data-pokedex="Rayquaza" src="https://i.postimg.cc/d7MPjdVd/image384.png">
 $帕路奇犽=Palkia<img index="#0484" class="pokemon-image" data-pokedex="Palkia" src="https://i.postimg.cc/C1LyL8Vp/Palkia.png"><img index="#0484" class="pokemon-image" data-pokedex="Palkia Origin Forme" src="https://i.postimg.cc/yxkw0zdf/Palkia-Origin-Forme.png">
+$阿伯蛇=Ekans<img index="#0023" class="pokemon-image" data-pokedex="Ekans" src="https://i.postimg.cc/ns2qZ4gf/image23.png">
 
 _____________SHINY_____________
 $闪光喷火龙=Shiny Charizard<img index="#0006" class="pokemon-image" src="https://i.postimg.cc/zf0hCCGy/delpmav-730ef73a-1ee2-42f2-9875-3ef30a41a4c2.png">
