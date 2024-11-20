@@ -1,3 +1,8 @@
+ADDITIONAL____________________
+$皮卡=Pika
+$华蓝=Cerulean
+$道馆=Gym
+
 CHARACTERS____________________
 $赤紅=Red
 $青綠=Blue
