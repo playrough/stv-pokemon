@@ -3727,7 +3727,7 @@ $帕路奇犽=Palkia<img index="#0484" class="pokemon-image" data-pokedex="Palki
 $阿伯蛇=Ekans<img index="#0023" class="pokemon-image" data-pokedex="Ekans" src="https://i.postimg.cc/ns2qZ4gf/image23.png">
 $超音蝙=Zubat<img index="#0041" class="pokemon-image" data-pokedex="Zubat" src="https://i.postimg.cc/JsqsB1qb/image41.png">
 $铁甲暴龙=Rhydon<img index="#0112" class="pokemon-image" data-pokedex="Rhydon" src="https://i.postimg.cc/HjhRdX1M/image112.png">
-
+$皮卡西=Clefable<img index="#0036" class="pokemon-image" data-pokedex="Clefable" src="https://i.postimg.cc/XBCZZdHJ/image36.png">
 _____________SHINY_____________
 $闪光喷火龙=Shiny Charizard<img index="#0006" class="pokemon-image" src="https://i.postimg.cc/zf0hCCGy/delpmav-730ef73a-1ee2-42f2-9875-3ef30a41a4c2.png">
 $闪光铁哑铃=Shiny Beldum<img index="#0374" class="pokemon-image" src="https://i.postimg.cc/bSy5LJR8/shiny-beldum.png">
