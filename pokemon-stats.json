@@ -18241,7 +18241,7 @@
 		"total": 700
 	},
 	"Alolan Rattata": {
-		"number": "0019",
+		"number": "#0019",
 		"name": "Alolan Rattata",
 		"type": ["Dark", "Normal"],
 		"abilities": {
@@ -18258,7 +18258,7 @@
 		"total": 253
 	},
 	"Alolan Raticate": {
-		"number": "0020",
+		"number": "#0020",
 		"name": "Alolan Raticate",
 		"type": ["Dark", "Normal"],
 		"abilities": {
@@ -18275,7 +18275,7 @@
 		"total": 413
 	},
 	"Alolan Raichu": {
-		"number": "0026",
+		"number": "#0026",
 		"name": "Alolan Raichu",
 		"type": ["Electric", "Psychic"],
 		"abilities": {
@@ -18292,7 +18292,7 @@
 		"total": 485
 	},
 	"Alolan Sandshrew": {
-		"number": "0027",
+		"number": "#0027",
 		"name": "Alolan Sandshrew",
 		"type": ["Ice", "Steel"],
 		"abilities": {
@@ -18309,7 +18309,7 @@
 		"total": 300
 	},
 	"Alolan Sandslash": {
-		"number": "0028",
+		"number": "#0028",
 		"name": "Alolan Sandslash",
 		"type": ["Ice", "Steel"],
 		"abilities": {
@@ -18326,7 +18326,7 @@
 		"total": 450
 	},
 	"Alolan Vulpix": {
-		"number": "0037",
+		"number": "#0037",
 		"name": "Alolan Vulpix",
 		"type": ["Ice"],
 		"abilities": {
@@ -18343,7 +18343,7 @@
 		"total": 299
 	},
 	"Alolan Ninetales": {
-		"number": "0038",
+		"number": "#0038",
 		"name": "Alolan Ninetales",
 		"type": ["Ice", "Fairy"],
 		"abilities": {
@@ -18360,7 +18360,7 @@
 		"total": 505
 	},
 	"Alolan Diglett": {
-		"number": "0050",
+		"number": "#0050",
 		"name": "Alolan Diglett",
 		"type": ["Ground", "Steel"],
 		"abilities": {
@@ -18377,7 +18377,7 @@
 		"total": 265
 	},
 	"Alolan Dugtrio": {
-		"number": "0051",
+		"number": "#0051",
 		"name": "Alolan Dugtrio",
 		"type": ["Ground", "Steel"],
 		"abilities": {
@@ -18394,7 +18394,7 @@
 		"total": 425
 	},
 	"Alolan Meowth": {
-		"number": "0052",
+		"number": "#0052",
 		"name": "Alolan Meowth",
 		"type": ["Dark"],
 		"abilities": {
@@ -18411,7 +18411,7 @@
 		"total": 290
 	},
 	"Galarian Meowth": {
-		"number": "0052",
+		"number": "#0052",
 		"name": "Galarian Meowth",
 		"type": ["Steel"],
 		"abilities": {
@@ -18428,7 +18428,7 @@
 		"total": 290
 	},
 	"Alolan Persian": {
-		"number": "0053",
+		"number": "#0053",
 		"name": "Alolan Persian",
 		"type": ["Dark"],
 		"abilities": {
@@ -18445,7 +18445,7 @@
 		"total": 440
 	},
 	"Hisuian Growlithe": {
-		"number": "0058",
+		"number": "#0058",
 		"name": "Hisuian Growlithe",
 		"type": ["Fire", "Rock"],
 		"abilities": {
@@ -18462,7 +18462,7 @@
 		"total": 350
 	},
 	"Hisuian Arcanine": {
-		"number": "0059",
+		"number": "#0059",
 		"name": "Hisuian Arcanine",
 		"type": ["Fire", "Rock"],
 		"abilities": {
@@ -18479,7 +18479,7 @@
 		"total": 555
 	},
 	"Alolan Geodude": {
-		"number": "0074",
+		"number": "#0074",
 		"name": "Alolan Geodude",
 		"type": ["Rock", "Electric"],
 		"abilities": {
@@ -18496,7 +18496,7 @@
 		"total": 300
 	},
 	"Alolan Graveler": {
-		"number": "0075",
+		"number": "#0075",
 		"name": "Alolan Graveler",
 		"type": ["Rock", "Electric"],
 		"abilities": {
@@ -18513,7 +18513,7 @@
 		"total": 390
 	},
 	"Alolan Golem": {
-		"number": "0076",
+		"number": "#0076",
 		"name": "Alolan Golem",
 		"type": ["Rock", "Electric"],
 		"abilities": {
@@ -18530,7 +18530,7 @@
 		"total": 495
 	},
 	"Galarian Ponyta": {
-		"number": "0077",
+		"number": "#0077",
 		"name": "Galarian Ponyta",
 		"type": ["Psychic"],
 		"abilities": {
@@ -18547,7 +18547,7 @@
 		"total": 410
 	},
 	"Galarian Rapidash": {
-		"number": "0078",
+		"number": "#0078",
 		"name": "Galarian Rapidash",
 		"type": ["Psychic", "Fairy"],
 		"abilities": {
@@ -18564,7 +18564,7 @@
 		"total": 500
 	},
 	"Galarian Slowpoke": {
-		"number": "0079",
+		"number": "#0079",
 		"name": "Galarian Slowpoke",
 		"type": ["Psychic"],
 		"abilities": {
@@ -18581,7 +18581,7 @@
 		"total": 315
 	},
 	"Galarian Slowbro": {
-		"number": "0080",
+		"number": "#0080",
 		"name": "Galarian Slowbro",
 		"type": ["Poison", "Psychic"],
 		"abilities": {
@@ -18598,7 +18598,7 @@
 		"total": 490
 	},
 	"Galarian Farfetch'd": {
-		"number": "0083",
+		"number": "#0083",
 		"name": "Galarian Farfetch'd",
 		"type": ["Fighting"],
 		"abilities": {
@@ -18615,7 +18615,7 @@
 		"total": 377
 	},
 	"Alolan Grimer": {
-		"number": "0088",
+		"number": "#0088",
 		"name": "Alolan Grimer",
 		"type": ["Poison", "Dark"],
 		"abilities": {
@@ -18632,7 +18632,7 @@
 		"total": 325
 	},
 	"Alolan Muk": {
-		"number": "0089",
+		"number": "#0089",
 		"name": "Alolan Muk",
 		"type": ["Poison", "Dark"],
 		"abilities": {
@@ -18649,7 +18649,7 @@
 		"total": 500
 	},
 	"Hisuian Voltorb": {
-		"number": "0100",
+		"number": "#0100",
 		"name": "Hisuian Voltorb",
 		"type": ["Electric", "Grass"],
 		"abilities": {
@@ -18666,7 +18666,7 @@
 		"total": 330
 	},
 	"Hisuian Electrode": {
-		"number": "0101",
+		"number": "#0101",
 		"name": "Hisuian Electrode",
 		"type": ["Electric", "Grass"],
 		"abilities": {
@@ -18683,7 +18683,7 @@
 		"total": 490
 	},
 	"Alolan Exeggutor": {
-		"number": "0103",
+		"number": "#0103",
 		"name": "Alolan Exeggutor",
 		"type": ["Grass", "Dragon"],
 		"abilities": {
@@ -18700,7 +18700,7 @@
 		"total": 530
 	},
 	"Alolan Marowak": {
-		"number": "0105",
+		"number": "#0105",
 		"name": "Alolan Marowak",
 		"type": ["Fire", "Ghost"],
 		"abilities": {
@@ -18717,7 +18717,7 @@
 		"total": 425
 	},
 	"Galarian Weezing": {
-		"number": "0110",
+		"number": "#0110",
 		"name": "Galarian Weezing",
 		"type": ["Poison", "Fairy"],
 		"abilities": {
@@ -18734,7 +18734,7 @@
 		"total": 490
 	},
 	"Galarian Mr. Mime": {
-		"number": "0122",
+		"number": "#0122",
 		"name": "Galarian Mr. Mime",
 		"type": ["Ice", "Psychic"],
 		"abilities": {
@@ -18751,7 +18751,7 @@
 		"total": 460
 	},
 	"Combat Breed Paldean Tauros": {
-		"number": "0128",
+		"number": "#0128",
 		"name": "Combat Breed Paldean Tauros",
 		"type": ["Fighting"],
 		"abilities": {
@@ -18768,7 +18768,7 @@
 		"total": 490
 	},
 	"Blaze Breed Paldean Tauros": {
-		"number": "0128",
+		"number": "#0128",
 		"name": "Blaze Breed Paldean Tauros",
 		"type": ["Fighting", "Fire"],
 		"abilities": {
@@ -18785,7 +18785,7 @@
 		"total": 490
 	},
 	"Aqua Breed Paldean Tauros": {
-		"number": "0128",
+		"number": "#0128",
 		"name": "Aqua Breed Paldean Tauros",
 		"type": ["Fighting", "Water"],
 		"abilities": {
@@ -18802,7 +18802,7 @@
 		"total": 490
 	},
 	"Galarian Articuno": {
-		"number": "0144",
+		"number": "#0144",
 		"name": "Galarian Articuno",
 		"type": ["Psychic", "Flying"],
 		"abilities": {
@@ -18819,7 +18819,7 @@
 		"total": 580
 	},
 	"Galarian Zapdos": {
-		"number": "0145",
+		"number": "#0145",
 		"name": "Galarian Zapdos",
 		"type": ["Fighting", "Flying"],
 		"abilities": {
@@ -18836,7 +18836,7 @@
 		"total": 580
 	},
 	"Galarian Moltres": {
-		"number": "0146",
+		"number": "#0146",
 		"name": "Galarian Moltres",
 		"type": ["Dark", "Flying"],
 		"abilities": {
@@ -18853,7 +18853,7 @@
 		"total": 580
 	},
 	"Hisuian Typhlosion": {
-		"number": "0157",
+		"number": "#0157",
 		"name": "Hisuian Typhlosion",
 		"type": ["Fire", "Ghost"],
 		"abilities": {
@@ -18870,7 +18870,7 @@
 		"total": 534
 	},
 	"Paldean Wooper": {
-		"number": "0194",
+		"number": "#0194",
 		"name": "Paldean Wooper",
 		"type": ["Poison", "Ground"],
 		"abilities": {
@@ -18887,7 +18887,7 @@
 		"total": 210
 	},
 	"Galarian Slowking": {
-		"number": "0199",
+		"number": "#0199",
 		"name": "Galarian Slowking",
 		"type": ["Poison", "Psychic"],
 		"abilities": {
@@ -18904,7 +18904,7 @@
 		"total": 490
 	},
 	"Hisuian Qwilfish": {
-		"number": "0211",
+		"number": "#0211",
 		"name": "Hisuian Qwilfish",
 		"type": ["Dark", "Poison"],
 		"abilities": {
@@ -18921,7 +18921,7 @@
 		"total": 440
 	},
 	"Hisuian Sneasel": {
-		"number": "0215",
+		"number": "#0215",
 		"name": "Hisuian Sneasel",
 		"type": ["Fighting", "Poison"],
 		"abilities": {
@@ -18938,7 +18938,7 @@
 		"total": 430
 	},
 	"Galarian Corsola": {
-		"number": "0222",
+		"number": "#0222",
 		"name": "Galarian Corsola",
 		"type": ["Ghost"],
 		"abilities": {
@@ -18955,7 +18955,7 @@
 		"total": 410
 	},
 	"Galarian Zigzagoon": {
-		"number": "0263",
+		"number": "#0263",
 		"name": "Galarian Zigzagoon",
 		"type": ["Dark", "Normal"],
 		"abilities": {
@@ -18972,7 +18972,7 @@
 		"total": 240
 	},
 	"Galarian Linoone": {
-		"number": "0264",
+		"number": "#0264",
 		"name": "Galarian Linoone",
 		"type": ["Dark", "Normal"],
 		"abilities": {
@@ -18989,7 +18989,7 @@
 		"total": 420
 	},
 	"Castform Sunny Form": {
-		"number": "0351",
+		"number": "#0351",
 		"name": "Castform Sunny Form",
 		"type": ["Fire"],
 		"abilities": {
@@ -19006,7 +19006,7 @@
 		"total": 420
 	},
 	"Castform Rainy Form": {
-		"number": "0351",
+		"number": "#0351",
 		"name": "Castform Rainy Form",
 		"type": ["Water"],
 		"abilities": {
@@ -19023,7 +19023,7 @@
 		"total": 420
 	},
 	"Castform Snowy Form": {
-		"number": "0351",
+		"number": "#0351",
 		"name": "Castform Snowy Form",
 		"type": ["Ice"],
 		"abilities": {
@@ -19040,7 +19040,7 @@
 		"total": 420
 	},
 	"Primal Kyogre": {
-		"number": "0382",
+		"number": "#0382",
 		"name": "Primal Kyogre",
 		"type": ["Water"],
 		"abilities": {
@@ -19057,7 +19057,7 @@
 		"total": 770
 	},
 	"Primal Groudon": {
-		"number": "0383",
+		"number": "#0383",
 		"name": "Primal Groudon",
 		"type": ["Ground", "Fire"],
 		"abilities": {
@@ -19074,7 +19074,7 @@
 		"total": 770
 	},
 	"Deoxys Attack Forme": {
-		"number": "0386",
+		"number": "#0386",
 		"name": "Deoxys Attack Forme",
 		"type": ["Psychic"],
 		"abilities": {
@@ -19091,7 +19091,7 @@
 		"total": 600
 	},
 	"Deoxys Defense Forme": {
-		"number": "0386",
+		"number": "#0386",
 		"name": "Deoxys Defense Forme",
 		"type": ["Psychic"],
 		"abilities": {
@@ -19108,7 +19108,7 @@
 		"total": 600
 	},
 	"Deoxys Speed Forme": {
-		"number": "0386",
+		"number": "#0386",
 		"name": "Deoxys Speed Forme",
 		"type": ["Psychic"],
 		"abilities": {
@@ -19125,7 +19125,7 @@
 		"total": 600
 	},
 	"Burmy Sandy Cloak": {
-		"number": "0412",
+		"number": "#0412",
 		"name": "Burmy Sandy Cloak",
 		"type": ["Bug"],
 		"abilities": {
@@ -19142,7 +19142,7 @@
 		"total": 224
 	},
 	"Burmy Trash Cloak": {
-		"number": "0412",
+		"number": "#0412",
 		"name": "Burmy Trash Cloak",
 		"type": ["Bug"],
 		"abilities": {
@@ -19159,7 +19159,7 @@
 		"total": 224
 	},
 	"Wormadam Sandy Cloak": {
-		"number": "0413",
+		"number": "#0413",
 		"name": "Wormadam Sandy Cloak",
 		"type": ["Bug", "Ground"],
 		"abilities": {
@@ -19176,7 +19176,7 @@
 		"total": 424
 	},
 	"Wormadam Trash Cloak": {
-		"number": "0413",
+		"number": "#0413",
 		"name": "Wormadam Trash Cloak",
 		"type": ["Bug", "Steel"],
 		"abilities": {
@@ -19193,7 +19193,7 @@
 		"total": 424
 	},
 	"Cherrim Sunshine Form": {
-		"number": "0421",
+		"number": "#0421",
 		"name": "Cherrim Sunshine Form",
 		"type": ["Grass"],
 		"abilities": {
@@ -19210,7 +19210,7 @@
 		"total": 450
 	},
 	"Shellos East Sea": {
-		"number": "0422",
+		"number": "#0422",
 		"name": "Shellos East Sea",
 		"type": ["Water"],
 		"abilities": {
@@ -19227,7 +19227,7 @@
 		"total": 325
 	},
 	"Gastrodon East Sea": {
-		"number": "0423",
+		"number": "#0423",
 		"name": "Gastrodon East Sea",
 		"type": ["Water", "Ground"],
 		"abilities": {
@@ -19244,7 +19244,7 @@
 		"total": 475
 	},
 	"Heat Rotom": {
-		"number": "0479",
+		"number": "#0479",
 		"name": "Heat Rotom",
 		"type": ["Electric", "Fire"],
 		"abilities": {
@@ -19261,7 +19261,7 @@
 		"total": 520
 	},
 	"Wash Rotom": {
-		"number": "0479",
+		"number": "#0479",
 		"name": "Wash Rotom",
 		"type": ["Electric", "Water"],
 		"abilities": {
@@ -19278,7 +19278,7 @@
 		"total": 520
 	},
 	"Frost Rotom": {
-		"number": "0479",
+		"number": "#0479",
 		"name": "Frost Rotom",
 		"type": ["Electric", "Ice"],
 		"abilities": {
@@ -19295,7 +19295,7 @@
 		"total": 520
 	},
 	"Fan Rotom": {
-		"number": "0479",
+		"number": "#0479",
 		"name": "Fan Rotom",
 		"type": ["Electric", "Flying"],
 		"abilities": {
@@ -19312,7 +19312,7 @@
 		"total": 520
 	},
 	"Mow Rotom": {
-		"number": "0479",
+		"number": "#0479",
 		"name": "Mow Rotom",
 		"type": ["Electric", "Grass"],
 		"abilities": {
@@ -19329,7 +19329,7 @@
 		"total": 520
 	},
 	"Dialga Origin Forme": {
-		"number": "0483",
+		"number": "#0483",
 		"name": "Dialga Origin Forme",
 		"type": ["Steel", "Dragon"],
 		"abilities": {
@@ -19346,7 +19346,7 @@
 		"total": 680
 	},
 	"Palkia Origin Forme": {
-		"number": "0484",
+		"number": "#0484",
 		"name": "Palkia Origin Forme",
 		"type": ["Water", "Dragon"],
 		"abilities": {
@@ -19363,7 +19363,7 @@
 		"total": 680
 	},
 	"Giratina Origin Forme": {
-		"number": "0487",
+		"number": "#0487",
 		"name": "Giratina Origin Forme",
 		"type": ["Ghost", "Dragon"],
 		"abilities": {
@@ -19380,7 +19380,7 @@
 		"total": 680
 	},
 	"Shaymin Sky Forme": {
-		"number": "0492",
+		"number": "#0492",
 		"name": "Shaymin Sky Forme",
 		"type": ["Grass", "Flying"],
 		"abilities": {
@@ -19397,7 +19397,7 @@
 		"total": 600
 	},
 	"Hisuian Samurott": {
-		"number": "0503",
+		"number": "#0503",
 		"name": "Hisuian Samurott",
 		"type": ["Water", "Dark"],
 		"abilities": {
@@ -19414,7 +19414,7 @@
 		"total": 528
 	},
 	"Hisuian Lilligant": {
-		"number": "0549",
+		"number": "#0549",
 		"name": "Hisuian Lilligant",
 		"type": ["Grass", "Fighting"],
 		"abilities": {
@@ -19431,7 +19431,7 @@
 		"total": 480
 	},
 	"Basculin Blue Striped Form": {
-		"number": "0550",
+		"number": "#0550",
 		"name": "Basculin Blue Striped Form",
 		"type": ["Water"],
 		"abilities": {
@@ -19448,7 +19448,7 @@
 		"total": 460
 	},
 	"Basculin White Striped Form": {
-		"number": "0550",
+		"number": "#0550",
 		"name": "Basculin White Striped Form",
 		"type": ["Water"],
 		"abilities": {
@@ -19465,7 +19465,7 @@
 		"total": 460
 	},
 	"Galarian Darumaka": {
-		"number": "0554",
+		"number": "#0554",
 		"name": "Galarian Darumaka",
 		"type": ["Ice"],
 		"abilities": {
@@ -19482,7 +19482,7 @@
 		"total": 315
 	},
 	"Darmanitan Zen Mode": {
-		"number": "0555",
+		"number": "#0555",
 		"name": "Darmanitan Zen Mode",
 		"type": ["Fire", "Psychic"],
 		"abilities": {
@@ -19499,7 +19499,7 @@
 		"total": 540
 	},
 	"Galarian Darmanitan": {
-		"number": "0555",
+		"number": "#0555",
 		"name": "Galarian Darmanitan",
 		"type": ["Ice"],
 		"abilities": {
@@ -19516,7 +19516,7 @@
 		"total": 480
 	},
 	"Galarian Darmanitan Zen Mode": {
-		"number": "0555",
+		"number": "#0555",
 		"name": "Galarian Darmanitan Zen Mode",
 		"type": ["Ice", "Fire"],
 		"abilities": {
@@ -19533,7 +19533,7 @@
 		"total": 540
 	},
 	"Galarian Yamask": {
-		"number": "0562",
+		"number": "#0562",
 		"name": "Galarian Yamask",
 		"type": ["Ground", "Ghost"],
 		"abilities": {
@@ -19550,7 +19550,7 @@
 		"total": 303
 	},
 	"Hisuian Zorua": {
-		"number": "0570",
+		"number": "#0570",
 		"name": "Hisuian Zorua",
 		"type": ["Normal", "Ghost"],
 		"abilities": {
@@ -19567,7 +19567,7 @@
 		"total": 330
 	},
 	"Hisuian Zoroark": {
-		"number": "0571",
+		"number": "#0571",
 		"name": "Hisuian Zoroark",
 		"type": ["Normal", "Ghost"],
 		"abilities": {
@@ -19584,7 +19584,7 @@
 		"total": 510
 	},
 	"Deerling Summer Form": {
-		"number": "0585",
+		"number": "#0585",
 		"name": "Deerling Summer Form",
 		"type": ["Normal", "Grass"],
 		"abilities": {
@@ -19601,7 +19601,7 @@
 		"total": 335
 	},
 	"Deerling Autumn Form": {
-		"number": "0585",
+		"number": "#0585",
 		"name": "Deerling Autumn Form",
 		"type": ["Normal", "Grass"],
 		"abilities": {
@@ -19618,7 +19618,7 @@
 		"total": 335
 	},
 	"Deerling Winter Form": {
-		"number": "0585",
+		"number": "#0585",
 		"name": "Deerling Winter Form",
 		"type": ["Normal", "Grass"],
 		"abilities": {
@@ -19635,7 +19635,7 @@
 		"total": 335
 	},
 	"Sawsbuck Summer Form": {
-		"number": "0586",
+		"number": "#0586",
 		"name": "Sawsbuck Summer Form",
 		"type": ["Normal", "Grass"],
 		"abilities": {
@@ -19652,7 +19652,7 @@
 		"total": 475
 	},
 	"Sawsbuck Autumn Form": {
-		"number": "0586",
+		"number": "#0586",
 		"name": "Sawsbuck Autumn Form",
 		"type": ["Normal", "Grass"],
 		"abilities": {
@@ -19669,7 +19669,7 @@
 		"total": 475
 	},
 	"Sawsbuck Winter Form": {
-		"number": "0586",
+		"number": "#0586",
 		"name": "Sawsbuck Winter Form",
 		"type": ["Normal", "Grass"],
 		"abilities": {
@@ -19686,7 +19686,7 @@
 		"total": 475
 	},
 	"Galarian Stunfisk": {
-		"number": "0618",
+		"number": "#0618",
 		"name": "Galarian Stunfisk",
 		"type": ["Ground", "Steel"],
 		"abilities": {
@@ -19703,7 +19703,7 @@
 		"total": 471
 	},
 	"Hisuian Braviary": {
-		"number": "0628",
+		"number": "#0628",
 		"name": "Hisuian Braviary",
 		"type": ["Psychic", "Flying"],
 		"abilities": {
@@ -19720,7 +19720,7 @@
 		"total": 510
 	},
 	"Tornadus Therian Forme": {
-		"number": "0641",
+		"number": "#0641",
 		"name": "Tornadus Therian Forme",
 		"type": ["Flying"],
 		"abilities": {
@@ -19737,7 +19737,7 @@
 		"total": 580
 	},
 	"Thundurus Therian Forme": {
-		"number": "0642",
+		"number": "#0642",
 		"name": "Thundurus Therian Forme",
 		"type": ["Electric", "Flying"],
 		"abilities": {
@@ -19754,7 +19754,7 @@
 		"total": 580
 	},
 	"Landorus Therian Forme": {
-		"number": "0645",
+		"number": "#0645",
 		"name": "Landorus Therian Forme",
 		"type": ["Ground", "Flying"],
 		"abilities": {
@@ -19771,7 +19771,7 @@
 		"total": 600
 	},
 	"White Kyurem": {
-		"number": "0646",
+		"number": "#0646",
 		"name": "White Kyurem",
 		"type": ["Dragon", "Ice"],
 		"abilities": {
@@ -19788,7 +19788,7 @@
 		"total": 700
 	},
 	"Black Kyurem": {
-		"number": "0646",
+		"number": "#0646",
 		"name": "Black Kyurem",
 		"type": ["Dragon", "Ice"],
 		"abilities": {
@@ -19805,7 +19805,7 @@
 		"total": 700
 	},
 	"Keldeo Resolute Form": {
-		"number": "0647",
+		"number": "#0647",
 		"name": "Keldeo Resolute Form",
 		"type": ["Water", "Fighting"],
 		"abilities": {
@@ -19822,7 +19822,7 @@
 		"total": 580
 	},
 	"Meloetta Pirouette Forme": {
-		"number": "0648",
+		"number": "#0648",
 		"name": "Meloetta Pirouette Forme",
 		"type": ["Normal", "Fighting"],
 		"abilities": {
@@ -19856,7 +19856,7 @@
 		"total": 466
 	},
 	"Aegislash Blade Forme": {
-		"number": "0681",
+		"number": "#0681",
 		"name": "Aegislash Blade Forme",
 		"type": ["Steel", "Ghost"],
 		"abilities": {
@@ -19873,7 +19873,7 @@
 		"total": 500
 	},
 	"Hisuian Sliggoo": {
-		"number": "0705",
+		"number": "#0705",
 		"name": "Hisuian Sliggoo",
 		"type": ["Steel", "Dragon"],
 		"abilities": {
@@ -19890,7 +19890,7 @@
 		"total": 452
 	},
 	"Hisuian Goodra": {
-		"number": "0706",
+		"number": "#0706",
 		"name": "Hisuian Goodra",
 		"type": ["Steel", "Dragon"],
 		"abilities": {
@@ -19907,7 +19907,7 @@
 		"total": 600
 	},
 	"Hisuian Avalugg": {
-		"number": "0713",
+		"number": "#0713",
 		"name": "Hisuian Avalugg",
 		"type": ["Ice", "Rock"],
 		"abilities": {
@@ -19958,7 +19958,7 @@
 		"total": 600
 	},
 	"Zygarde Complete Forme": {
-		"number": "0718",
+		"number": "#0718",
 		"name": "Zygarde Complete Forme",
 		"type": ["Dragon", "Ground"],
 		"abilities": {
@@ -19975,7 +19975,7 @@
 		"total": 708
 	},
 	"Hoopa Unbound": {
-		"number": "0720",
+		"number": "#0720",
 		"name": "Hoopa Unbound",
 		"type": ["Psychic", "Dark"],
 		"abilities": {
@@ -19992,7 +19992,7 @@
 		"total": 680
 	},
 	"Hisuian Decidueye": {
-		"number": "0724",
+		"number": "#0724",
 		"name": "Hisuian Decidueye",
 		"type": ["Grass", "Fighting"],
 		"abilities": {
@@ -20009,7 +20009,7 @@
 		"total": 530
 	},
 	"Oricorio Pom Pom Style": {
-		"number": "0741",
+		"number": "#0741",
 		"name": "Oricorio Pom Pom Style",
 		"type": ["Electric", "Flying"],
 		"abilities": {
@@ -20026,7 +20026,7 @@
 		"total": 476
 	},
 	"Oricorio Pa'u Style": {
-		"number": "0741",
+		"number": "#0741",
 		"name": "Oricorio Pa'u Style",
 		"type": ["Psychic", "Flying"],
 		"abilities": {
@@ -20043,7 +20043,7 @@
 		"total": 476
 	},
 	"Oricorio Sensu Style": {
-		"number": "0741",
+		"number": "#0741",
 		"name": "Oricorio Sensu Style",
 		"type": ["Ghost", "Flying"],
 		"abilities": {
@@ -20060,7 +20060,7 @@
 		"total": 476
 	},
 	"Lycanroc Midnight Form": {
-		"number": "0745",
+		"number": "#0745",
 		"name": "Lycanroc Midnight Form",
 		"type": ["Rock"],
 		"abilities": {
@@ -20077,7 +20077,7 @@
 		"total": 487
 	},
 	"Lycanroc Dusk Form": {
-		"number": "0745",
+		"number": "#0745",
 		"name": "Lycanroc Dusk Form",
 		"type": ["Rock"],
 		"abilities": {
@@ -20094,7 +20094,7 @@
 		"total": 487
 	},
 	"Wishiwashi School Form": {
-		"number": "0746",
+		"number": "#0746",
 		"name": "Wishiwashi School Form",
 		"type": ["Water"],
 		"abilities": {
@@ -20111,7 +20111,7 @@
 		"total": 620
 	},
 	"Minior Core Form": {
-		"number": "0774",
+		"number": "#0774",
 		"name": "Minior Core Form",
 		"type": ["Rock", "Flying"],
 		"abilities": {
@@ -20128,7 +20128,7 @@
 		"total": 500
 	},
 	"Dusk Mane Necrozma": {
-		"number": "0800",
+		"number": "#0800",
 		"name": "Dusk Mane Necrozma",
 		"type": ["Psychic", "Steel"],
 		"abilities": {
@@ -20145,7 +20145,7 @@
 		"total": 680
 	},
 	"Dawn Wings Necrozma": {
-		"number": "0800",
+		"number": "#0800",
 		"name": "Dawn Wings Necrozma",
 		"type": ["Psychic", "Ghost"],
 		"abilities": {
@@ -20162,7 +20162,7 @@
 		"total": 680
 	},
 	"Ultra Necrozma": {
-		"number": "0800",
+		"number": "#0800",
 		"name": "Ultra Necrozma",
 		"type": ["Psychic", "Dragon"],
 		"abilities": {
@@ -20179,7 +20179,7 @@
 		"total": 754
 	},
 	"Toxtricity Low Key Form": {
-		"number": "0849",
+		"number": "#0849",
 		"name": "Toxtricity Low Key Form",
 		"type": ["Electric", "Poison"],
 		"abilities": {
@@ -20196,7 +20196,7 @@
 		"total": 502
 	},
 	"Eiscue Noice Face": {
-		"number": "0875",
+		"number": "#0875",
 		"name": "Eiscue Noice Face",
 		"type": ["Ice"],
 		"abilities": {
@@ -20230,7 +20230,7 @@
 		"total": 475
 	},
 	"Morpeko Hangry Mode": {
-		"number": "0877",
+		"number": "#0877",
 		"name": "Morpeko Hangry Mode",
 		"type": ["Electric", "Dark"],
 		"abilities": {
@@ -20247,7 +20247,7 @@
 		"total": 436
 	},
 	"Zacian Crowned Sword": {
-		"number": "0888",
+		"number": "#0888",
 		"name": "Zacian Crowned Sword",
 		"type": ["Fairy", "Steel"],
 		"abilities": {
@@ -20264,7 +20264,7 @@
 		"total": 700
 	},
 	"Zamazenta Crowned Shield": {
-		"number": "0889",
+		"number": "#0889",
 		"name": "Zamazenta Crowned Shield",
 		"type": ["Fighting", "Steel"],
 		"abilities": {
@@ -20281,7 +20281,7 @@
 		"total": 700
 	},
 	"Urshifu Rapid Strike Style": {
-		"number": "0892",
+		"number": "#0892",
 		"name": "Urshifu Rapid Strike Style",
 		"type": ["Fighting", "Water"],
 		"abilities": {
@@ -20298,7 +20298,7 @@
 		"total": 550
 	},
 	"Calyrex Ice Rider": {
-		"number": "0898",
+		"number": "#0898",
 		"name": "Calyrex Ice Rider",
 		"type": ["Psychic", "Ice"],
 		"abilities": {
@@ -20315,7 +20315,7 @@
 		"total": 680
 	},
 	"Calyrex Shadow Rider": {
-		"number": "0898",
+		"number": "#0898",
 		"name": "Calyrex Shadow Rider",
 		"type": ["Psychic", "Ghost"],
 		"abilities": {
@@ -20332,7 +20332,7 @@
 		"total": 680
 	},
 	"Ursaluna Bloodmoon": {
-		"number": "0901",
+		"number": "#0901",
 		"name": "Ursaluna Bloodmoon",
 		"type": ["Ground", "Normal"],
 		"abilities": {
@@ -20366,7 +20366,7 @@
 		"total": 530
 	},
 	"Enamorus Therian Forme": {
-		"number": "0905",
+		"number": "#0905",
 		"name": "Enamorus Therian Forme",
 		"type": ["Fairy", "Flying"],
 		"abilities": {
@@ -20400,7 +20400,7 @@
 		"total": 489
 	},
 	"Maushold Family of Three": {
-		"number": "0925",
+		"number": "#0925",
 		"name": "Maushold Family of Three",
 		"type": ["Normal"],
 		"abilities": {
@@ -20417,7 +20417,7 @@
 		"total": 470
 	},
 	"Palafin Hero Form": {
-		"number": "0964",
+		"number": "#0964",
 		"name": "Palafin Hero Form",
 		"type": ["Water"],
 		"abilities": {
@@ -20434,7 +20434,7 @@
 		"total": 650
 	},
 	"Tatsugiri Droopy Form": {
-		"number": "0978",
+		"number": "#0978",
 		"name": "Tatsugiri Droopy Form",
 		"type": ["Dragon", "Water"],
 		"abilities": {
@@ -20451,7 +20451,7 @@
 		"total": 475
 	},
 	"Tatsugiri Stretchy Form": {
-		"number": "0978",
+		"number": "#0978",
 		"name": "Tatsugiri Stretchy Form",
 		"type": ["Dragon", "Water"],
 		"abilities": {
@@ -20468,7 +20468,7 @@
 		"total": 475
 	},
 	"Dudunsparce Three-Segment Form": {
-		"number": "0982",
+		"number": "#0982",
 		"name": "Dudunsparce Three-Segment Form",
 		"type": ["Normal"],
 		"abilities": {
@@ -20485,7 +20485,7 @@
 		"total": 520
 	},
 	"Gimmighoul Roaming Form": {
-		"number": "0999",
+		"number": "#0999",
 		"name": "Gimmighoul Roaming Form",
 		"type": ["Ghost"],
 		"abilities": {
@@ -20502,7 +20502,7 @@
 		"total": 300
 	},
 	"Ogerpon Wellspring Mask": {
-		"number": "1017",
+		"number": "#1017",
 		"name": "Ogerpon Wellspring Mask",
 		"type": ["Grass", "Water"],
 		"abilities": {
@@ -20519,7 +20519,7 @@
 		"total": 550
 	},
 	"Ogerpon Hearthflame Mask": {
-		"number": "1017",
+		"number": "#1017",
 		"name": "Ogerpon Hearthflame Mask",
 		"type": ["Grass", "Fire"],
 		"abilities": {
@@ -20536,7 +20536,7 @@
 		"total": 550
 	},
 	"Ogerpon Cornerstone Mask": {
-		"number": "1017",
+		"number": "#1017",
 		"name": "Ogerpon Cornerstone Mask",
 		"type": ["Grass", "Rock"],
 		"abilities": {
@@ -20553,7 +20553,7 @@
 		"total": 550
 	},
 	"Terapagos Terastal Form": {
-		"number": "1024",
+		"number": "#1024",
 		"name": "Terapagos Terastal Form",
 		"type": ["Normal"],
 		"abilities": {
@@ -20570,7 +20570,7 @@
 		"total": 600
 	},
 	"Terapagos Stellar Form": {
-		"number": "1024",
+		"number": "#1024",
 		"name": "Terapagos Stellar Form",
 		"type": ["Normal"],
 		"abilities": {
