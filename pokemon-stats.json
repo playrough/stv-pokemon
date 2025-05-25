@@ -12189,7 +12189,7 @@
 		"total": 680
 	},
 	"Zygarde": {
-		"number": "0718",
+		"number": "#0718",
 		"name": "Zygarde 10% Forme",
 		"type": ["Dragon", "Ground"],
 		"abilities": {
